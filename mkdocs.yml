@@ -1,1 +1,73 @@
-site_name: My Docs
+site_name: Pathway to Arabic Study Group
+site_description: "A reference site for the students of Pathway to Arabic website."
+site_url: "https://nqcm.github.io/pathway-to-arabic-study-group/"
+site_author: "Naveera Ashraf"
+
+copyright: "© All rights reserved - naveeraashraf.com"
+
+repo_name: "nqcm/pathway-to-arabic-study-group"
+repo_url: "https://github.com/nqcm/pathway-to-arabic-study-group"
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences
+  - tables
+  - toc:
+      title: On this page
+      toc_depth: 2
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nqcm/pathway-to-arabic-study-group
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/niqabicodermum
+    - icon: fontawesome/brands/linkedin
+      link: https://za.linkedin.com/in/naveera-ashraf
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/niqabi.coder.mum/
+
+nav:
+  - Home: index.md
+  # - Alphabetical Index: index/index.md
+  # - Sources: sources.md
+  # - Synonymy in Arabic language: synonymy.md
+
+theme:
+  name: material
+  annotation: material/plus-circle
+  font:
+    text: Noto Naskh Arabic
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: teal
+
+  logo: img/logo.png
+  favicon: img/logo.png
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - search.share
+
+  plugins:
+    - social
+    - search:
+      lang:
+        - eng
+        - ar
+
+extra_css:
+- stylesheets/extra.css
