@@ -16,7 +16,7 @@ The central message: imān gives a person an unshakeable inner foundation. Yusuf
 
 ## Context of Revelation
 
-Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [[aam-al-huzn]]. It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: surah_yusuf_session1.md)
+Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-huzn](aam-al-huzn.md). It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
 
 ### Why Revealed at This Time
 
@@ -24,7 +24,7 @@ Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [[aam-al
 2. **Foreshadowing Hijra** — Yusuf's journey from Canaan to Egypt prefigured the Prophet ﷺ's departure from Makkah and eventual triumph.
 3. **Banu Isra'il context** — After Hijra, the audience included Jews of Madinah. Yusuf's story begins the lineage of Banu Isra'il in Egypt that would culminate with Musa (AS).
 
-(source: surah_yusuf_session1.md)
+(source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
 
 ## Unique Narrative Structure
 
@@ -54,16 +54,16 @@ The Prophet ﷺ embodied both personalities: the proactive leader and the deeply
 
 ## Opening Letters
 
-Sūrah Yūsuf opens with the [[muqattaat]] **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [[types-of-al]]. (source: surah_yusuf_session3.md)
+Sūrah Yūsuf opens with the [muqattaat](muqattaat.md) **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [types-of-al](types-of-al.md). (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ## Related pages
 
-- [[aam-al-huzn]]
-- [[asbab-al-nuzul]]
-- [[qiraat]]
-- [[arabic-grammar-methodology]]
-- [[types-of-al]]
-- [[muqattaat]]
-- [[surah-yusuf-session1]]
-- [[surah-yusuf-session2]]
-- [[surah-yusuf-session3]]
+- [aam-al-huzn](aam-al-huzn.md)
+- [asbab-al-nuzul](asbab-al-nuzul.md)
+- [qiraat](qiraat.md)
+- [arabic-grammar-methodology](arabic-grammar-methodology.md)
+- [types-of-al](types-of-al.md)
+- [muqattaat](muqattaat.md)
+- [surah-yusuf-session1](surah_yusuf_session1.md)
+- [surah-yusuf-session2](surah_yusuf_session2.md)
+- [surah-yusuf-session3](surah_yusuf_session3.md)
