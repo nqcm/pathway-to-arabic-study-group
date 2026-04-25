@@ -40,6 +40,7 @@ extra:
 
 nav:
   - Home: index.md
+  - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
   # - Alphabetical Index: index/index.md
   # - Sources: sources.md
   # - Synonymy in Arabic language: synonymy.md
@@ -65,9 +66,9 @@ theme:
   plugins:
     - social
     - search:
-      lang:
-        - eng
-        - ar
+        lang:
+          - eng
+          - ar
 
 extra_css:
-- stylesheets/extra.css
+  - stylesheets/extra.css
