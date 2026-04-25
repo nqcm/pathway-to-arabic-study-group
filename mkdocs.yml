@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Pathway to Arabic Study Group
 site_description: "A reference site for the students of Pathway to Arabic website."
 site_url: "https://nqcm.github.io/pathway-to-arabic-study-group/"
@@ -15,12 +16,6 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
   - pymdownx.superfences
   - tables
   - toc:
@@ -41,9 +36,6 @@ extra:
 nav:
   - Home: index.md
   - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
-  # - Alphabetical Index: index/index.md
-  # - Sources: sources.md
-  # - Synonymy in Arabic language: synonymy.md
 
 theme:
   name: material
