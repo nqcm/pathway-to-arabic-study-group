@@ -36,16 +36,18 @@ extra:
 nav:
   - Home: index.md
   - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
+  - Topics: topics/index.md
 
 theme:
   name: material
-  annotation: material/plus-circle
   font:
     text: Noto Naskh Arabic
+  icon:
+    annotation: material/plus-circle
   palette:
-    - scheme: slate
-      primary: teal
-      accent: teal
+    scheme: slate
+    primary: teal
+    accent: teal
 
   logo: img/logo.png
   favicon: img/logo.png
@@ -55,12 +57,12 @@ theme:
     - navigation.tracking
     - search.share
 
-  plugins:
-    - social
-    - search:
-        lang:
-          - eng
-          - ar
+plugins:
+  - social
+  - search:
+      lang:
+        - eng
+        - ar
 
 extra_css:
   - stylesheets/extra.css
