@@ -46,8 +46,8 @@ theme:
     annotation: material/plus-circle
   palette:
     scheme: slate
-    primary: teal
-    accent: teal
+    primary: indigo
+    accent: indigo
 
   logo: img/logo.png
   favicon: img/logo.png
