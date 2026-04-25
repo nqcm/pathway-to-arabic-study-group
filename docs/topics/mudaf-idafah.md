@@ -2,10 +2,6 @@
 
 **Summary**: The Arabic possessive/genitive construction linking mudāf to mudāf ilayh; covers the two options when multiple mudāfs share one mudāf ilayh, and dropping the nūn of the dual.
 
-**Sources**: raw/surah_yusuf_session1.md
-
-**Last updated**: 2026-04-25
-
 ---
 
 ## Basics
@@ -33,7 +29,7 @@ Omit the mudāf ilayh from the first position and state it only after the second
 
 > **كِتَابُ وَقَلَمُ مُحَمَّدٍ** — The book and pen of Muhammad
 
-Both are grammatically correct. The choice belongs to **balāghah** (rhetoric), not grammar. Dr. Abd al-Raheem chose Option 2 in his book title for rhythmic reasons. (source: surah_yusuf_session1.md)
+Both are grammatically correct. The choice belongs to **balāghah** (rhetoric), not grammar. Dr. Abd al-Raheem chose Option 2 in his book title for rhythmic reasons. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
 
 ### Condition for Option 2
 
@@ -41,7 +37,7 @@ Both are grammatically correct. The choice belongs to **balāghah** (rhetoric), 
 
 > Both mudāfs must point to the *same* mudāf ilayh. If the two mudāfs belong to different possessors, the omission is not permitted.
 
-Evidence for this construction comes from Jāhilī (pre-Islamic) poetry by Farazdaq and others. In Arabic grammar, permissibility of a construction is established through Jāhilī poetry. See [[arabic-grammar-methodology]]. (source: surah_yusuf_session1.md)
+Evidence for this construction comes from Jāhilī (pre-Islamic) poetry by Farazdaq and others. In Arabic grammar, permissibility of a construction is established through Jāhilī poetry. See [arabic-grammar-methodology](arabic-grammar-methodology.md). (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
 
 ---
 
@@ -51,7 +47,7 @@ When a **dual** noun becomes a mudāf, its nūn is dropped:
 
 > **ذِرَاعَانِ** (two forearms) → **ذِرَاعَا الأَسَد** (the two forearms of the lion)
 
-The nūn is the dual marker in the unrestricted form; once the noun is bound to a mudāf ilayh, it is dropped. (source: surah_yusuf_session1.md)
+The nūn is the dual marker in the unrestricted form; once the noun is bound to a mudāf ilayh, it is dropped. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
 
 The word ذِرَاع (forearm) also appears in Surah al-Kahf (18:18) — the dog at the cave entrance stretching its forearms.
 
@@ -59,6 +55,6 @@ The word ذِرَاع (forearm) also appears in Surah al-Kahf (18:18) — the do
 
 ## Related pages
 
-- [[arabic-grammar-methodology]]
-- [[mafool-mutlaq]]
-- [[surah-yusuf-session1]]
+- [arabic-grammar-methodology](arabic-grammar-methodology.md)
+- [mafool-mutlaq](mafool-mutlaq.md)
+- [surah-yusuf-session1](surah-yusuf-session1.md)

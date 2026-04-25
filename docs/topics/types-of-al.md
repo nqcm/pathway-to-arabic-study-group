@@ -2,10 +2,6 @@
 
 **Summary**: The Arabic definite article ال has three fundamentally different types, only one of which actually makes a noun definite.
 
-**Sources**: raw/surah_yusuf_session3.md
-
-**Last updated**: 2026-04-25
-
 ---
 
 ## Overview
@@ -31,7 +27,7 @@ The referent has already appeared earlier in the speech.
 **Quranic example (Sūrah An-Nūr, the Light Verse):**
 > "…a niche in which there is **a lamp**. **The lamp** is enclosed in **a glass**. **The glass** is like a pearly star…"
 
-Each subsequent reference (the lamp, the glass) uses ال because it points back to what was already introduced. (source: surah_yusuf_session3.md)
+Each subsequent reference (the lamp, the glass) uses ال because it points back to what was already introduced. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ### b) الحضورية (Al-Hudūriyyah) — Reference to Something Physically Present
 
@@ -39,7 +35,7 @@ The referent is in front of you at the moment of speaking.
 
 **Example:** "Give me **the book**" — said while pointing to a book right in front of you.
 
-**Grammatical note:** A word like _mushīran_ (pointing/gesturing) in such a sentence is **mansūb** because it functions as a _hāl_ (state/circumstance) of the speaker. (source: surah_yusuf_session3.md)
+**Grammatical note:** A word like _mushīran_ (pointing/gesturing) in such a sentence is **mansūb** because it functions as a _hāl_ (state/circumstance) of the speaker. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ### c) الذهنية (Al-Dhihniyyah) — Mental/Contextual Reference
 
@@ -50,7 +46,7 @@ The referent has **not been mentioned** and is **not physically present**, but i
 **Quranic example — Sūrah Yūsuf, Āyah 1:**
 > "These are the āyāt of **the Book** (_al-Kitāb_), the clear Book."
 
-"The Book" is a mental reference — not previously named in this passage, not physically present, but universally understood to mean the Quran. The teacher notes the same principle likely applies to _al-samāwāt_ (the heavens) and _al-arḍ_ (the earth) elsewhere in the Quran. (source: surah_yusuf_session3.md)
+"The Book" is a mental reference — not previously named in this passage, not physically present, but universally understood to mean the Quran. The teacher notes the same principle likely applies to _al-samāwāt_ (the heavens) and _al-arḍ_ (the earth) elsewhere in the Quran. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ---
 
@@ -58,7 +54,7 @@ The referent has **not been mentioned** and is **not physically present**, but i
 
 This ال refers to an **entire genus or category** — not a specific individual. Importantly, it does **not** make the noun definite; it just refers to the whole type.
 
-**Etymology of _jins_:** Related to the Latin *genus* (used in scientific taxonomy for kingdoms, families, species, etc.). (source: surah_yusuf_session3.md)
+**Etymology of _jins_:** Related to the Latin *genus* (used in scientific taxonomy for kingdoms, families, species, etc.). (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 **Example:** _Al-insān_ (الإنسان) — not a specific person, but **humankind in general**.
 
@@ -78,7 +74,7 @@ Used for statements that are **generally true but may have exceptions**.
 **English parallel:** "Men are stronger than women." — Generally true, not absolutely true of every individual.
 
 **Quranic example:**
-> "**Men** are the caretakers/maintainers of women." — Scholars differ on whether this is _istighrāqiyyah_ (a divine decree, no exceptions) or _badaliyyah_ (a general truth). The teacher notes: *"You will find lots of differences of opinion when it comes to categorising nouns into these two sub-categories. Don't feel worried if you can't always tell them apart."* (source: surah_yusuf_session3.md)
+> "**Men** are the caretakers/maintainers of women." — Scholars differ on whether this is _istighrāqiyyah_ (a divine decree, no exceptions) or _badaliyyah_ (a general truth). The teacher notes: *"You will find lots of differences of opinion when it comes to categorising nouns into these two sub-categories. Don't feel worried if you can't always tell them apart."* (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ---
 
@@ -88,7 +84,7 @@ _Zā'id_ means extra or redundant. **Critical rule:**
 
 > **Al-zā'idah is only grammatically extra — never extra in meaning.**
 
-If you remove it, the sentence remains grammatically correct. But rhetorically it always adds something — this is where _balāgha_ (rhetoric) begins where grammar ends. Grammar says both forms are valid; _balāgha_ explains *why* one was chosen. (source: surah_yusuf_session3.md)
+If you remove it, the sentence remains grammatically correct. But rhetorically it always adds something — this is where _balāgha_ (rhetoric) begins where grammar ends. Grammar says both forms are valid; _balāgha_ explains *why* one was chosen. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 **Quranic example — Sūrah Qāf:**
 > _"Hal min mazīd?"_ — "Are there any more?" (Jahannam asked this on the Day of Judgement)
@@ -105,14 +101,14 @@ The _min_ here is _zā'id_ grammatically — remove it and the sentence is still
 When _ʿAbbās_ (originally an adjective) is used again descriptively rather than as a proper name, ال is placed in front: **Al-ʿAbbās** — "the frowner." This ال is **zā'idah** — it does not make the noun definite.
 
 A related form from the same root: _ʿabūs_ (عبوس), pattern _fuʿūl_ — something that *causes* frowning (a terrifying day/thing).
-> "Indeed, we fear from our Lord a Day that is **frowning and distressful** (_ʿabūsan_)." — Sūrah Al-Insān, Āyah 10 (source: surah_yusuf_session3.md)
+> "Indeed, we fear from our Lord a Day that is **frowning and distressful** (_ʿabūsan_)." — Sūrah Al-Insān, Āyah 10 (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
 ---
 
 ## Related pages
 
-- [[surah-yusuf-session3]]
-- [[mudaf-idafah]]
-- [[demonstrative-pronouns]]
-- [[mubeen]]
-- [[ayah]]
+- [surah-yusuf-session3](surah-yusuf-session3.md)
+- [mudaf-idafah](mudaf-idafah.md)
+- [demonstrative-pronouns](demonstrative-pronouns.md)
+- [mubeen](mubeen.md)
+- [ayah](ayah.md)

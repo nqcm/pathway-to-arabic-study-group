@@ -1,11 +1,6 @@
-# Arabic Numbers Grammar (المعدود)
+# Arabic Numbers Grammar
 
 **Summary**: Rules governing the form and case of the counted noun (maʿdūd) in Arabic, which varies by number range.
-
-**Sources**: raw/surah_yusuf_session3.md
-
-**Last updated**: 2026-04-25
-
 ---
 
 ## Overview
@@ -31,19 +26,19 @@ In Arabic, the noun being counted — called the **maʿdūd** (المعدود) �
 For numbers 11 through 99 (excluding round tens), the maʿdūd is:
 
 - **Singular** in form (not plural)
-- **Mansūb (accusative)** — functioning as a **tamyīz** (تمييز), a specification or distinguisher
+- **Mansūb (accusative)** — functioning as a **tamyīz** (تمييز)
 
 **Example from the session:**
 
 > _Tisʿun wa ʿishrūna sūratan_ — "29 sūrahs"
 
-Here _sūratan_ is singular and mansūb. It appears in the discussion of how many sūrahs contain [[muqattaat]]. (source: surah_yusuf_session3.md)
+Here _sūratan_ is singular and mansūb. It appears in the discussion of how many sūrahs contain [Muqattaat](muqattaat.md).
 
 ---
 
-## What is Tamyīz?
+## Tamyīz Note
 
-A **tamyīz** (تمييز) is a noun that disambiguates or specifies what is being counted or measured. It answers the question "of what?" The tamyīz is always mansūb (accusative) and always singular when used with numbers in the 11–99 range.
+The full explanation of tamyīz has been moved to [Tamyiz](tamyiz.md).
 
 ---
 

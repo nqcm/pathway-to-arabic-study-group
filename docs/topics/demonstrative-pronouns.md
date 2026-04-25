@@ -1,16 +1,11 @@
 # Demonstrative Pronouns — Ism al-Ishārah
 
 **Summary**: Arabic demonstrative pronouns vary by gender, distance, and addressee; تِلْكَ is broken into three structural components: pointer, distance marker, and addressee marker.
-
-**Sources**: raw/surah_yusuf_session2.md
-
-**Last updated**: 2026-04-25
-
 ---
 
 ## Structure of تِلْكَ
 
-**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: surah_yusuf_session2.md)
+**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
 
 | Part | Element | Function |
 |---|---|---|
@@ -27,11 +22,11 @@
 | تِلْكُمْ | addressing a group |
 | تِيكَ | without lām al-buʿd (shorter distance) |
 
-*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: surah_yusuf_session2.md)
+*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
 
 ## Resolving the Two Sukūns in تِلْكَ
 
-When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: surah_yusuf_session2.md)
+When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
 
 When lām does not enter, **تِيكَ** remains as is.
 
@@ -44,6 +39,6 @@ The masculine pair follows the same logic:
 
 ## Related pages
 
-- [[mafool-mutlaq]]
-- [[arabic-grammar-methodology]]
-- [[surah-yusuf-session2]]
+- [Mafool Mutlaq](mafool-mutlaq.md)
+- [Arabic Grammar Methodology](arabic-grammar-methodology.md)
+- [Surah Yusuf Session 2](surah-yusuf-session2.md)

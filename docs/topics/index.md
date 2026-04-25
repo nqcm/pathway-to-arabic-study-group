@@ -24,6 +24,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
 - [Idhafa](mudaf-idafah.md)
 - [Mafool Mutlaq](mafool-mutlaq.md)
+- [Tamyiz](tamyiz.md)
 - [Types of Al](types-of-al.md)
 
 ## Methodology
