@@ -30,6 +30,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Bal Particle](bal-particle.md)
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
 - [Ḍamīr al-Faṣl](dameer-al-fasl.md)
+- [الحَال — The Circumstantial Clause](hal-circumstantial.md)
 - [اِفْتَعَلَ — Form VIII Verb Pattern](iftaala-pattern.md)
 - [Idhafa](mudaf-idafah.md)
 - [Innama](innama.md)
@@ -37,8 +38,12 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Jawab al-Shart](jawab-al-shart.md)
 - [لَا النَّاهِيَة — The Prohibitive Lā](la-nahiya.md)
 - [Lamma](lamma.md)
+- [مَفعُول لَأجلِه — Object of Reason](mafool-lahu.md)
 - [Mafool Mutlaq](mafool-mutlaq.md)
+- [ممنوع من الصرف — Diptotes](mamnu-min-alsarf.md)
 - [الماصدر والمضاف إليه — Maṣdar's Muḍāf: Fāʿil or Mafʿūl bih?](masdar-mudaf.md)
+- [المَصدَر المِيمِي — The Mīmī Maṣdar](masdar-mimi.md)
+- [المُضَاعَف — Doubled (Geminate) Verbs](mudaaf-doubled-verbs.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
 - [Tamyiz](tamyiz.md)
@@ -48,6 +53,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 ## Methodology
 - [Arabic Grammar Methodology](arabic-grammar-methodology.md)
+- [غَرِيب القُرآن — Unusual Words of the Quran](gharib-al-quran.md)
 
 ## Vocabulary and Morphology
 

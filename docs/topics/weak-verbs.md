@@ -68,6 +68,22 @@ Many Quranic verbs are weak verbs. The ability to correctly identify:
 
 ---
 
+## Miṯāl Wāwī — The Wāw-to-Tāʾ Transformation
+
+In **miṯāl wāwī** verbs (initial-wāw verbs), the initial wāw can transform into a **tāʾ** in certain derived forms — not only in Form VIII but also in some base-form derivatives. This produces unexpected spelling patterns:
+
+| Derived Word | From Root | Notes |
+|---|---|---|
+| **تَقِيّ** (taqī = pious person) | و-ق-ي (waqā) | Ism fāʿil should be وَاقٍ but becomes تَقِيّ via wāw→tāʾ |
+| **تُرَاث** (turāth = inherited wealth) | و-ر-ث (wariṯa) | Wāw became tāʾ; "as if born into the family" |
+| **تُخمَة** (tukhma = indigestion) | و-خ-م (wakhama) | Wāw became tāʾ |
+| **تَقوَى** (taqwā = piety) | و-ق-ي | Wāw (1st radical) became tāʾ in the maṣdar |
+
+The pattern: whenever a miṯāl wāwī's initial wāw undergoes substitution to tāʾ, even outside of Form VIII, the resulting word may carry this tāʾ as a permanent feature.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Introduction to three types of weak verbs; nāqiṣ verb explained via the example **يَدْعُو** (d-ʿ-w); connection to alif al-fāriqah.
+- Surah Al-Hujuraat Session 4: Miṯāl wāwī — wāw-to-tāʾ transformation in base-form derivatives (تَقوَى، تُرَاث، تُخمَة); derivation of تَقِيّ from وَقَى.

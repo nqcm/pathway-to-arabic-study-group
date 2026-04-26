@@ -42,6 +42,44 @@ A related phenomenon: some maṣdars shifted in common usage to name the thing, 
 
 (source: [Surah Yusuf Session 2](surah_yusuf_session2.md))
 
+## Two Schools of Arabic Grammar: Kūfī and Baṣrī
+
+Classical Arabic grammar developed two major schools:
+
+| School | City of Origin | Status |
+|---|---|---|
+| **Baṣrī** (البَصرِيّ) | Basra | Predominant in modern teaching; almost all standard grammar books follow this school |
+| **Kūfī** (الكُوفِيّ) | Kufa | Studied at advanced levels; uses different terminology in some areas |
+
+The most common textbooks used in Islamic education worldwide (Gulf curriculum, madrasas, modern Arabic programs) follow the Baṣrī school.
+
+!!! example "Terminology Difference: ḥurūf al-jarr vs ḥurūf al-khafd"
+    - **Baṣrī**: preposition letters = **حُرُوف الجَرّ** (ḥurūf al-jarr)
+    - **Kūfī**: preposition letters = **حُرُوف الخَفض** (ḥurūf al-khafd)
+    
+    The Kūfī name comes from **خَفَضَ** (to lower) — because these letters *lower* the vowel of the following noun (kasra is the lowest vowel). This is related to the verb **غَضَّ** which also means to lower/subdue.
+
+Advanced Arabic students study both schools to understand the full landscape of grammatical disagreement and to read classical iʿrāb texts that may follow either tradition.
+
+---
+
+## The Bridge Analogy — How Understanding Deepens
+
+A neuroscience-based analogy for language learning: understanding builds like a bridge between two points. The first time you encounter a concept, a single rope spans the gap — flimsy, easy to fall from. Each revision adds more rope. Over many passes, the ropes become a thick, strong bridge.
+
+**Implications for Arabic study:**
+
+- Something that does not "click" on first hearing will often become clear on the third or fourth exposure
+- Do not only attend classes — *revisit* the material actively
+- Apply each grammar concept to different Quranic āyāt independently
+- Cross-check your analysis against iʿrāb books to verify understanding
+
+This is also why Quran memorization focuses increasingly on **revision** rather than new memorization as the ḥifẓ grows: forgetting undoes the bridge.
+
+*Source: Surah Al-Hujuraat Session 4*
+
+---
+
 ## Related pages
 
 - [Mudaf-Idafah](mudaf-idafah.md)
