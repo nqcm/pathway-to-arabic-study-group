@@ -97,6 +97,50 @@ Calling with a **common noun** (not a specific name, not a muḍāf) — the tan
 
 ---
 
+## The يَا أَيُّهَا Construction — Full Analysis
+
+### Three Parts of أَيُّهَا
+
+| Part | Arabic | Role |
+|---|---|---|
+| **يَا** | يَا | Ḥarf al-nidāʾ — the calling particle |
+| **أَيُّ** | أَيّ | Ism mubham — the **actual munādā**, mabnī bid-ḍamma (ḍamma on the yāʾ) |
+| **هَا** | هَا | Ḥarf al-tanbīh — particle of attention |
+
+!!! note "Rule: يَا + أَيُّ"
+    When **يَا** precedes **أَيُّ**, the ism mubham is always **mabnī bid-ḍamma** — the ḍamma is fixed on the **yāʾ** and does not change regardless of position in the sentence.
+
+### The Feminine Form
+
+| Masculine | Feminine |
+|---|---|
+| **يَا أَيُّهَا** | **يَا أَيَّتُهَا** |
+
+In the feminine form, the ḍamma shifts to the **tāʾ** of **أَيَّة**.
+
+### الَّذِينَ is a Badal — Not the Munādā
+
+When **يَا أَيُّهَا** is used, the noun that follows (e.g., **الَّذِينَ**, **الْمُسْلِمُونَ**) is **not** the munādā. It is a **badal** (grammatical substitute) for **أَيُّ**.
+
+!!! summary "Iʿrāb of يَا أَيُّهَا الَّذِينَ آمَنُوا"
+    | Word | Grammatical Role |
+    |---|---|
+    | **يَا** | Ḥarf al-nidāʾ |
+    | **أَيُّ** | Munādā — mabnī bid-ḍamma |
+    | **هَا** | Ḥarf al-tanbīh |
+    | **الَّذِينَ** | Badal for **أَيُّ** — follows its iʿrāb |
+    | **آمَنُوا** | Ṣilat al-mawṣūl (the relative clause of **الَّذِينَ**) |
+
+In Quranic iʿrāb references, **أَيُّ** is always listed as the munādā and **الَّذِينَ** as its badal.
+
+### هَا as a Particle of Attention in Demonstratives
+
+The same **هَا** appears in **هَٰذَا** (= **هَا** + **ذَا**). When pointing out someone being sought:
+- **هَاهُوَ** (*here he is!*) — **هَا** + **هُوَ**
+- **هَاهِيَ** (*here she is!*) — **هَا** + **هِيَ**
+
+---
+
 ## Related Pages
 
 - [Mudāf Iḍāfah](mudaf-idafah.md)

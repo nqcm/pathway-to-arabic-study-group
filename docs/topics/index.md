@@ -6,6 +6,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 ## Context and History
 
 - [Aam al-Huzn](aam-al-huzn.md)
+- [Compilation of the Quran](quran-compilation.md)
 
 ## Recitations
 
@@ -19,16 +20,21 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Muqattaat](muqattaat.md)
 - [Ijaz al-Quran](ijaz-al-quran.md)
 - [Jawab al-Qasam](jawab-al-qasam.md)
+- [Quranic Orthography — The Rasm al-Uthmānī](quranic-orthography.md)
 
 ## Grammar
 
+- [Alif al-Fāriqah — The Distinguishing Alif](alif-al-fariqah.md)
 - [Arabic Numbers](arabic-numbers.md)
+- [البَدَل — The Grammatical Substitute](badal.md)
 - [Bal Particle](bal-particle.md)
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
 - [Ḍamīr al-Faṣl](dameer-al-fasl.md)
 - [Idhafa](mudaf-idafah.md)
 - [Innama](innama.md)
+- [اسم الموصول — Relative Pronouns](ism-mawsool.md)
 - [Jawab al-Shart](jawab-al-shart.md)
+- [لَا النَّاهِيَة — The Prohibitive Lā](la-nahiya.md)
 - [Lamma](lamma.md)
 - [Mafool Mutlaq](mafool-mutlaq.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
@@ -36,6 +42,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Tamyiz](tamyiz.md)
 - [Types of Al](types-of-al.md)
 - [Verb Dakhala — Preposition Rules](verb-dakhala.md)
+- [الأفعال المعتلة — Weak Verbs](weak-verbs.md)
 
 ## Methodology
 - [Arabic Grammar Methodology](arabic-grammar-methodology.md)
