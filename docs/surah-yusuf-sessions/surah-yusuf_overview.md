@@ -2,10 +2,6 @@
 
 **Summary**: The only surah in the Quran where a prophet's complete story is told chronologically in one surah; its central theme is hope and trust in Allah.
 
-**Sources**: raw/surah_yusuf_session1.md, raw/surah_yusuf_session2.md, raw/surah_yusuf_session3.md
-
-**Last updated**: 2026-04-25
-
 ---
 
 ## Theme

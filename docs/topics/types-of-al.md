@@ -37,7 +37,9 @@ The referent is in front of you at the moment of speaking.
 
 **Grammatical note:** A word like _mushīran_ (pointing/gesturing) in such a sentence is **mansūb** because it functions as a _hāl_ (state/circumstance) of the speaker. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
 
-### c) الذهنية (Al-Dhihniyyah) — Mental/Contextual Reference
+### c) الذهنية / العلمية / السياقية (Al-Dhihniyyah / Al-ʿIlmiyyah / Al-Siyāqiyyah) — Mental/Contextual Reference
+
+Also called **Al-ʿIlmiyyah** (knowledge-based) and **Al-Siyāqiyyah** (context-based) in other sources — all three names refer to the same sub-type.
 
 The referent has **not been mentioned** and is **not physically present**, but is understood from shared context.
 
@@ -47,6 +49,11 @@ The referent has **not been mentioned** and is **not physically present**, but i
 > "These are the āyāt of **the Book** (_al-Kitāb_), the clear Book."
 
 "The Book" is a mental reference — not previously named in this passage, not physically present, but universally understood to mean the Quran. The teacher notes the same principle likely applies to _al-samāwāt_ (the heavens) and _al-arḍ_ (the earth) elsewhere in the Quran. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+
+**Quranic example — Sūrah Al-Hujuraat, Āyah 14:**
+> **قَالَتِ الأَعْرَابُ آمَنَّا** — *"The Bedouins said: 'We have believed.'"*
+
+The **الـ** in **الأَعْرَابُ** is Al-Siyāqiyyah — referring specifically to the Bedouins of **Banū Asad**, who came to Madinah in the 9th year of Hijrah claiming faith. The context of that time made it clear exactly who was meant, with no prior introduction needed. (source: [session-16.md](../surah-alhujuraat-sessions/session-16.md))
 
 ---
 
@@ -108,6 +115,7 @@ A related form from the same root: _ʿabūs_ (عبوس), pattern _fuʿūl_ — s
 ## Related pages
 
 - [surah-yusuf-session3](surah-yusuf-session3.md)
+- [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
 - [mudaf-idafah](mudaf-idafah.md)
 - [demonstrative-pronouns](demonstrative-pronouns.md)
 - [mubeen](mubeen.md)

@@ -34,8 +34,9 @@ extra:
       link: https://www.instagram.com/niqabi.coder.mum/
 
 nav:
-  - Home: index.md
+  - About: index.md
   - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
+  - Surah Al-Hujuraat Sessions: surah-alhujuraat-sessions/index.md
   - Topics: topics/index.md
 
 theme:

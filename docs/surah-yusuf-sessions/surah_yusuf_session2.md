@@ -1,7 +1,5 @@
 # Surah Yusuf Study Session 2
 
-Source: https://www.youtube.com/watch?v=fh7bzaKk4cs
-
 ---
 
 ## Overview
