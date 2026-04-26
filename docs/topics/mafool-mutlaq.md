@@ -46,9 +46,49 @@ This is a key rhetorical device in the Quran. (source: [surah_yusuf_session2.md]
 
 ---
 
+---
+
+### From Session 3 — Surah Al-Hujuraat
+
+#### Two Key Identifiers
+
+1. Always **manṣūb**
+2. It is the **maṣdar of the same verb** — not any other maṣdar
+
+These two features together distinguish the mafʿūl muṭlaq from a mafʿūl bih.
+
+#### The Dropped Verb — Standalone Mafʿūl Muṭlaq
+
+It is very common for the verb to be **dropped** because it is understood from context, leaving only the mafʿūl muṭlaq standing alone:
+
+!!! example "شُكْرًا (Shukran)"
+    Full construction: **أَشْكُرُكَ شُكْرًا** — *I thank you a thanking.*
+    
+    In practice: **شُكْرًا** — the verb **أَشْكُرُ** is dropped. **شُكْرًا** is the mafʿūl muṭlaq (manṣūb, from **شَكَرَ**). This is also more eloquent — conciseness is a feature of good Arabic style.
+
+| Expression | Hidden Verb | Analysis |
+|---|---|---|
+| **شُكْرًا** | أَشْكُرُ | I thank (you) — a thanking |
+| **عَفْوًا** | أَعْفُو | I pardon — a pardoning |
+| **صَبْرًا** | أَصْبِرُ | Be patient — a patience |
+
+#### Application in Sūrat Al-Ḥujurāt 49:2
+
+In the āyah:
+> **وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُم لِبَعْضٍ**
+
+The phrase **كَجَهْرِ بَعْضِكُم** is a jarr-majrūr phrase that must attach to something. The solution: a **dropped mafʿūl muṭlaq** (جَهْرًا) is understood before it, and **كَجَهْرِ بَعْضِكُم** is its ṣifah (adjective):
+
+> Full grammatical form: **لَا تَجْهَرُوا ... [جَهْرًا] كَجَهْرِ بَعْضِكُم لِبَعْضٍ**
+>
+> *"Do not speak loudly to him [a loudness] like the loudness of some of you to one another."*
+
+---
+
 ## Related pages
 
 - [demonstrative-pronouns](demonstrative-pronouns.md)
 - [mudaf-idafah](mudaf-idafah.md)
 - [arabic-grammar-methodology](arabic-grammar-methodology.md)
-- [surah-yusuf-session2](surah-yusuf-session2.md)
+- [Maṣdar and its Muḍāf](masdar-mudaf.md)
+- [Surah Al-Hujuraat Session 3](../surah-alhujuraat-sessions/session-3.md)

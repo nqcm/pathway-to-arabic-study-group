@@ -30,6 +30,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Bal Particle](bal-particle.md)
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
 - [Ḍamīr al-Faṣl](dameer-al-fasl.md)
+- [اِفْتَعَلَ — Form VIII Verb Pattern](iftaala-pattern.md)
 - [Idhafa](mudaf-idafah.md)
 - [Innama](innama.md)
 - [اسم الموصول — Relative Pronouns](ism-mawsool.md)
@@ -37,6 +38,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [لَا النَّاهِيَة — The Prohibitive Lā](la-nahiya.md)
 - [Lamma](lamma.md)
 - [Mafool Mutlaq](mafool-mutlaq.md)
+- [الماصدر والمضاف إليه — Maṣdar's Muḍāf: Fāʿil or Mafʿūl bih?](masdar-mudaf.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
 - [Tamyiz](tamyiz.md)
@@ -54,9 +56,11 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Fa'eel Pattern and the Yaf'ulu Family](fa-eel-pattern.md)
 - [Mann — Three Meanings](mann-verb.md)
 - [Mubeen](mubeen.md)
+- [نَبَأ vs خَبَر — Big News vs Ordinary Information](naba-khabar.md)
 - [Wird and Warada](wird-warada.md)
 
 ## Roots and Etymology
 
 - [Root ح-ج-ر (Ḥajara) — To Deny Access](root-hajara.md)
+- [Root ج-ه-ر (Jahara) — To Declare Openly](root-jahara.md)
 - [Root ك-ف-ر (Kafara) — Etymology Chain](root-kafara.md)
