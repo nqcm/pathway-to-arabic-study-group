@@ -26,6 +26,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 - [Alif al-Fāriqah — The Distinguishing Alif](alif-al-fariqah.md)
 - [Arabic Numbers](arabic-numbers.md)
+- [عَسَى — Hope and Fear Verb](asaa-verb.md)
 - [البَدَل — The Grammatical Substitute](badal.md)
 - [Bal Particle](bal-particle.md)
 - [الجُملَة الشَّرطِيَّة — Conditional Sentences](conditional-sentences.md)
@@ -54,6 +55,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [المُضَاعَف — Doubled (Geminate) Verbs](mudaaf-doubled-verbs.md)
 - [أحوال المضارع — The Three Moods of the Muḍāriʿ](mudari-moods.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
+- [نِعمَ و بِئسَ — Verbs of Praise and Blame](niama-bisa.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
 - [التَّضمِين — Double-Meaning Verbs](tadmeen.md)
 - [Tamyiz](tamyiz.md)
@@ -65,6 +67,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 ## Methodology
 - [Arabic Grammar Methodology](arabic-grammar-methodology.md)
 - [غَرِيب القُرآن — Unusual Words of the Quran](gharib-al-quran.md)
+- [الصَّرف والنَّحو — Morphology and Syntax](sarf-vs-nahw.md)
 
 ## Vocabulary and Morphology
 

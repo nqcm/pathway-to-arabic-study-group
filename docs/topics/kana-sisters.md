@@ -86,6 +86,15 @@ Arabic māḍī verbs are not restricted to past tense:
 
 ---
 
+---
+
+## عَسَى — A Special Sister
+
+**عَسَى** is a fiʿl jāmid (frozen — no muḍāriʿ, no amr) that takes ism + khabar like the kāna sisters, but with a unique constraint: **its khabar is ALWAYS a maṣdar muʾawwal (أَن + muḍāriʿ)**. See [عَسَى Verb](asaa-verb.md) for full treatment.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 9: Full treatment of kāna sisters; contrast with إِنَّ; timeless use with Allah; application in Āyah 6 (أَصبَحَ + نَادِمِين); multiple usages of māḍī verb.
+- Surah Al-Hujuraat Session 13: عَسَى introduced as a special case — nāqiṣ in both ṣarf and naḥw; tāmm vs nāqiṣ forms; khabar always maṣdar muʾawwal.
