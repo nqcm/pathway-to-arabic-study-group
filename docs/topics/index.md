@@ -43,6 +43,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Jawab al-Shart](jawab-al-shart.md)
 - [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](kana-sisters.md)
 - [لَا النَّاهِيَة — The Prohibitive Lā](la-nahiya.md)
+- [لَعَلَّ — The Particle of Hope and Fear](laalla.md)
 - [لَو — Unfulfilled Past Condition](law-particle.md)
 - [Lamma](lamma.md)
 - [مَفعُول لَأجلِه — Object of Reason](mafool-lahu.md)

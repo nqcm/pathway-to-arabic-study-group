@@ -83,7 +83,33 @@ The pattern: whenever a miṯāl wāwī's initial wāw undergoes substitution to
 
 ---
 
+## Ajwaf Verbs — Ism Fāʿil and Plural Pattern
+
+### Ism Fāʿil: Wāw/Yāʾ Converts to Hamza
+
+In **ajwaf** (hollow) verbs, when making the **ism fāʿil** on the pattern **فَاعِل**, the weak middle radical (wāw or yāʾ) converts to **hamza**:
+
+| Verb | Root | Ism Fāʿil | What Happened |
+|---|---|---|---|
+| **قَامَ** (to stand/carry out) | ق-و-م | **قَائِم** | middle wāw → hamza |
+| **زَارَ** (to visit) | ز-و-ر | **زَائِر** | middle wāw → hamza |
+| **سَارَ** (to travel) | س-و-ر | **سَائِر** | middle wāw → hamza |
+
+### Plural Pattern: Hamza Reverts to Original Radical
+
+When making the plural on the pattern **فَعَل** (faʿal), the hamza **reverts to the original wāw/yāʾ**:
+
+| Ism Fāʿil | Plural | Explanation |
+|---|---|---|
+| **قَائِم** | **قَوم** | hamza → original wāw (from قَامَ) |
+| **زَائِر** | **زُوَّار** | hamza → original wāw |
+
+This is why **قَوم** contains a wāw — it is the original middle radical of قَامَ returning in the plural.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Introduction to three types of weak verbs; nāqiṣ verb explained via the example **يَدْعُو** (d-ʿ-w); connection to alif al-fāriqah.
 - Surah Al-Hujuraat Session 4: Miṯāl wāwī — wāw-to-tāʾ transformation in base-form derivatives (تَقوَى، تُرَاث، تُخمَة); derivation of تَقِيّ from وَقَى.
+- Surah Al-Hujuraat Session 12: Ajwaf ism fāʿil — wāw/yāʾ converts to hamza; plural reversion pattern; demonstrated with قَائِم → قَوم.

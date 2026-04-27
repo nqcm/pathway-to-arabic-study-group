@@ -101,7 +101,55 @@ You said one thing by mistake and then replaced it with what you actually meant.
 
 ---
 
+---
+
+## From Session 12 — Extended Coverage
+
+### Mubdal Minhu Terminology
+
+The word being substituted FOR = **مُبدَل مِنه** (mubdal minhu). The substitute = **بَدَل**. These terms appear in classical iʿrāb books and are worth learning for reading advanced texts.
+
+### التَّوَابِع — Badal as a Following Element
+
+**بَدَل** is one of the **تَوَابِع** (tawābiʿ) — words that follow another in iʿrāb:
+- نَعت/صِفَة (adjective)
+- عَطف (conjunction partner)
+- تَوكِيد (emphasis)
+- **بَدَل** (substitute)
+
+All tawābiʿ follow their head word in marfūʿ/manṣūb/majrūr.
+
+### The Two Rules
+
+1. Badal follows the **iʿrāb** (case) of mubdal minhu — always
+2. Badal does NOT need to match the **definiteness/indefiniteness** (maʿrifa/nakira) — the two can differ
+
+### Four Structural Combinations
+
+| Form | What substitutes what |
+|---|---|
+| ism for ism | Word for word |
+| fiʿl for fiʿl | Verb for verb (يُضَاعَف substituting يَلقَ أَثَامًا) |
+| jumlah for jumlah | Sentence for sentence |
+| jumlah for mufrad | Sentence for single word (كَيفَ خُلِقَت for الإِبِل) |
+
+### More Quranic Examples of Badal Ishtimāl
+
+> **يَسأَلُونَكَ عَنِ الشَّهرِ الحَرَامِ قِتَالٍ فِيهِ** — fighting is the badal ishtimāl for the sacred month
+
+> **أَفَلَا يَنظُرُونَ إِلَى الإِبِلِ كَيفَ خُلِقَت** — "how it was created" (full sentence) is badal for "the camel" (single word) — jumlah for mufrad + badal ishtimāl
+
+> **لَا يَنهَاكُمُ اللَّهُ عَنِ الَّذِينَ... أَن تَبَرُّوهُم** — "treating them kindly" is badal ishtimāl for "those people"
+
+!!! tip "Identifying Badal Ishtimāl"
+    Mental test: can you insert "that is to say" between the mubdal minhu and the badal? If yes, it is likely badal ishtimāl. Also: this type is the most common in Quranic texts — and the most difficult to spot.
+
+Note: **بَدَل مُبَاين / غَلَط** (error correction) does not appear in the Quran — Allah does not make mistakes, and even when quoting others' speech in the Quran, this type has not been observed.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Badal introduced to explain why **الَّذِينَ** in **يَا أَيُّهَا الَّذِينَ آمَنُوا** is not the munādā but a badal for **أَيُّ**.
 - Surah Al-Hujuraat Session 11: All four types with detailed examples; Quranic example of badal ishtimāl (السَّاعَة / مُرسَاهَا); note on contested status of fourth type.
+- Surah Al-Hujuraat Session 12: Extended coverage — mubdal minhu terminology; tawābiʿ concept; two rules (iʿrāb follows, definiteness need not); four structural combinations; multiple Quranic examples of badal ishtimāl.
