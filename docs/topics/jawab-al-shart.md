@@ -47,8 +47,25 @@ This rule has significant implications for Quranic tafsīr. Misidentifying a ma�
 
 ---
 
+---
+
+### From Session 7 — Fāʾ Al-Jawāb
+
+Beyond the rule about precedence, the jawāb al-shart must be **preceded by فَاء** in certain situations. See [Conditional Sentences](conditional-sentences.md) for the full list of six conditions requiring fāʾ.
+
+Key point: when فَاء is added to the jawāb, **the muḍāriʿ verb after it is marfūʿ** — not majzūm, even if the adāt is jāzima.
+
+---
+
 ## Related pages
 
+- [Conditional Sentences — Full Overview](conditional-sentences.md)
 - [Jawab al-Qasam](jawab-al-qasam.md)
+- [لَو — Unfulfilled Past Condition](law-particle.md)
 - [Lamma](lamma.md)
 - [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
+
+## Session References
+
+- Surah Al-Hujuraat Session 16: Core rule — jawāb cannot precede shart; maḥdhūf jawāb analysis.
+- Surah Al-Hujuraat Session 7: Fāʾ al-jawāb conditions; effect of fāʾ on verb mood.
