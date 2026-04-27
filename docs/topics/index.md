@@ -36,6 +36,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [اِفْتَعَلَ — Form VIII Verb Pattern](iftaala-pattern.md)
 - [Idhafa](mudaf-idafah.md)
 - [Innama](innama.md)
+- [اسم التفضيل — Elative/Comparative Noun](ism-tafdhil.md)
 - [الاسم المقصور — Maqṣūr Nouns](ism-maqsur.md)
 - [اسم الموصول — Relative Pronouns](ism-mawsool.md)
 - [Jawab al-Shart](jawab-al-shart.md)
@@ -77,6 +78,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 ## Roots and Etymology
 
 - [Root ع-ق-ل (ʿAqala) — Intellect and Restraint](root-aqala.md)
+- [Root ب-غ-ي (Baghā) — To Wrong or To Seek](root-baga.md)
 - [Root ح-ج-ر (Ḥajara) — To Deny Access](root-hajara.md)
 - [Root ج-ه-ر (Jahara) — To Declare Openly](root-jahara.md)
 - [Root ج-ه-ل (Jahala) — Three Meanings](root-jahala.md)

@@ -41,8 +41,31 @@ Both elements are definite, yet no ḍamīr al-faṣl is inserted. The reason: *
 
 ---
 
+---
+
+### From Session 10 — Āyah 7 Application
+
+> **أُولَٰئِكَ هُمُ الرَّاشِدُون** (Al-Ḥujurāt 49:7)
+> *"Those are the ones who are truly guided."*
+
+Without **هُم**: **أُولَٰئِكَ الرَّاشِدُون** could be read as "those guided ones" (making الرَّاشِدُون a badal of أُولَٰئِك) rather than "those ARE the guided ones" (khabar = predicate). The ḍamīr al-faṣl **هُم** removes this ambiguity and signals definitively that الرَّاشِدُون is the khabar.
+
+!!! important "When Is It Needed?"
+    The ḍamīr al-faṣl is required (or strongly preferred) when:
+    - The **khabar is definite** (maʿrifa)
+    - The **mubtadaʾ is also definite**
+    
+    Without it, a definite khabar could be mistaken for a **badal** (grammatical substitute/appositive). The inserted pronoun signals: "what follows is the PREDICATE."
+
+---
+
 ## Related pages
 
 - [Innama](innama.md)
 - [Types of Al](types-of-al.md)
 - [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
+
+## Session References
+
+- Surah Al-Hujuraat Session 16: Core concept introduced.
+- Surah Al-Hujuraat Session 10: Applied to Āyah 7 (أُولَٰئِكَ هُمُ الرَّاشِدُون); conditions requiring ḍamīr al-faṣl.

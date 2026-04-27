@@ -1,0 +1,74 @@
+---
+title: اسم التفضيل — The Elative/Comparative Noun
+tags:
+  - arabic-grammar
+  - morphology
+  - surah-hujuraat
+---
+
+# اسم التفضيل — The Elative/Comparative Noun
+
+The **ism al-tafḍīl** (اسم التفضيل) expresses comparative or superlative meaning — "better/best," "bigger/biggest," "nearer/nearest." Unlike English which uses separate words for comparative ("better") and superlative ("best"), Arabic uses the same form for both, with meaning determined by context.
+
+---
+
+## Pattern
+
+| Gender | Pattern | Example |
+|---|---|---|
+| **Masculine** | **أَفعَل** | أَحسَن (better/best) |
+| **Feminine** | **فُعلَى** | حُسنَى (better/best [fem.]) |
+
+---
+
+## Common Pairs
+
+| Verb | Masculine Elative | Feminine Elative | Meaning |
+|---|---|---|---|
+| حَسُنَ (to be good) | **أَحسَن** | **حُسنَى** | better/best; more beautiful |
+| كَبُرَ (to be big) | **أَكبَر** | **كُبرَى** | bigger/biggest; greater |
+| صَغُرَ (to be small) | **أَصغَر** | **صُغرَى** | smaller/smallest |
+| دَنَا (to be near) | **أَدنَى** | **دُنيَا** | nearer/nearest; lesser |
+| كَثُرَ (to be many) | **أَكثَر** | **كُثرَى** | more/most |
+
+---
+
+## Etymology of دُنيَا — The Near Life
+
+**دَنَا / يَدنُو** = to draw near, to come close.
+
+The comparative: **أَدنَى** (masc.) = nearer, lesser; **دُنيَا** (fem.) = the nearer one.
+
+> **الحَيَاة الدُّنيَا** = *the near/present life* — the one that is close to us now
+
+Since **دُنيَا** = "the nearer one," it implies there is a *farther/later* one: **الآخِرَة** (from أَخَّرَ = to be later/behind). The very names of "this world" and "the hereafter" in Arabic encode the Quranic worldview: the present life is *closer but lesser*; the real, lasting life is ahead.
+
+!!! tip "Theological Insight in Vocabulary"
+    In English, "this world" is a neutral description. In Arabic, **الدُّنيَا** literally means "the lesser/nearer one" — the language itself keeps the believer's perspective calibrated toward what lies beyond.
+
+---
+
+## Ism Al-Tafḍīl as Diptote
+
+**أَفعَل** forms are **diptotes** (mamʿ min al-ṣarf) because they are on the pattern of a verb:
+
+- No tanwīn
+- When majrūr: take fataḥ (not kasra)
+
+> *مَرَرتُ بِرَجُلٍ أَفضَلَ مِنكَ* — the أَفضَل is majrūr but takes fataḥ
+
+---
+
+## Examples from the Quran
+
+| Āyah | Word | Meaning |
+|---|---|---|
+| **الحَيَاة الدُّنيَا** (Sūrah Al-Baqarah and many others) | الدُّنيَا | the near/present life |
+| **أَسنَى** | أَسنَى | the most splendid (feminine would be... no, this is already fem.) |
+| **الحُسنَى** (name for Jannah) | حُسنَى | the best/most beautiful |
+
+---
+
+## Session References
+
+- Surah Al-Hujuraat Session 10: Introduced in context of **دُنيَا** etymology; أَفعَل/فُعلَى pairs; theological significance of الحَيَاة الدُّنيَا as "the nearer life."

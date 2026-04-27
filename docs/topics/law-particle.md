@@ -133,3 +133,4 @@ For a fuller introduction to **لَو**, see **Madina Arabic Book 3, Chapter 12*
 - Surah Al-Hujuraat Session 5: Definition; three features; non-ʿāmil status; examples.
 - Surah Al-Hujuraat Session 6: Jawāb al-law and lām al-jawāb; affirmative vs negative jawāb; hypothetical use; law + maṣdar muʾawwal with supplied verb; applied to Āyāt 4-5.
 - Surah Al-Hujuraat Session 9: Why لَو is not listed among adawāt al-shart — two distinguishing features (unfulfilled/past vs pending/future).
+- Surah Al-Hujuraat Session 10: Al-Alfiyya couplet confirming that muḍāriʿ after لَو reverts to māḍī in meaning; example: لَو يَفِي كَفَى.
