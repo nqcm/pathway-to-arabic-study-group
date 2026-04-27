@@ -9,4 +9,5 @@ Welcome to the study notes for Surah Al-Hujuraat. Below you will find the links 
 - [Session 3](session-3.md)
 - [Session 4](session-4.md)
 - [Session 5](session-5.md)
+- [Session 6](session-6.md)
 - [Session 16](session-16.md)

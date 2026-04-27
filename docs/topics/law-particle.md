@@ -37,11 +37,45 @@ Root of اِمتِنَاع: **م-ن-ع** (manaʿa = to prevent, to withhold). Fo
 
 ---
 
+## Jawāb Al-Law — The Result Clause
+
+The result clause of a **لَو** sentence is called the **jawāb al-law** (جَواب اللَّو). There is a critical rule about the **لَام الجَواب** (lam of the answer):
+
+| Type of Jawāb | Lām Al-Jawāb | Example |
+|---|---|---|
+| **Affirmative** (the result would have happened) | **Attach لَـ** | *لَو اجتَهَدتَ **لَ**نَجَحتَ* |
+| **Negative** (the result would NOT have happened) | **No lām** | *لَو حَضَرتَ أَمسِ مَا شَكَوتُكَ* |
+
+!!! important "Lām Al-Jawāb Rule"
+    Affirmative jawāb → **attach لَـ** to the first word.  
+    Negative jawāb → **no لَـ**.
+    
+    Exception: It is *permissible* (but **rare/qalīl**) for an affirmative jawāb to appear without lām — found in some aḥādīth.
+
+## لَو for Hypothetical Scenarios
+
+**لَو** is also used for **hypothetical (muftraḍ)** situations — imagined or thought-experiment scenarios, not just historical events:
+
+> *لَو كُنتُ مَكَانَكَ مَا سَمَحتُ لَهُ* — "If I were you, I would not have allowed him."
+
+This is hypothetical (the speaker is obviously not "you") yet uses **لَو** because it is framed as an unfulfilled condition.
+
+**Hadith example**: *لَو كَانَ لِابنِ آدَمَ وَادِيَانِ مِن مَال لَابتَغَى ثَالِثًا* — "Had the son of Adam two valleys of gold, he would desire a third." This is a thought-experiment about human nature. Note: the jawāb here is affirmative but the lam is present (لَابتَغَى).
+
+## لَو Followed by Maṣdar Muʾawwal
+
+**لَو** normally requires a **verb** after it. But when followed by **أَنَّ** (and its clause — a maṣdar muʾawwal), a verb must be supplied mentally:
+
+> **وَلَو أَنَّهُم صَبَرُوا** (Al-Ḥujurāt 49:5) — supplied: *وَلَو [ثَبَتَ] أَنَّهُم صَبَرُوا*
+> "Had it come to pass that they exercised patience..."
+
+The supplied verb (**ثَبَتَ** or **حَصَلَ**) completes the grammatical analysis without changing the meaning.
+
 ## Structure
 
-> **لَو** + [condition in māḍī] + **لَـ** + [result in māḍī]
+> **لَو** + [condition in māḍī] + **لَـ** + [affirmative result in māḍī]
 
-The result clause is introduced by **لَام الجَواب** (the lam of the answer/result): a prefix lam attached to the first word of the result clause.
+The result clause is introduced by **لَام الجَواب**: a prefix lam attached to the first word when the result is affirmative.
 
 ---
 
@@ -67,7 +101,13 @@ The result clause is introduced by **لَام الجَواب** (the lam of the a
 
 ## Quranic Occurrence
 
-**لَو** occurs in Sūrat Al-Ḥujurāt Āyah 4-5 (to be studied in the next session).
+**لَو** in Sūrat Al-Ḥujurāt Āyah 4-5:
+
+> **وَلَو أَنَّهُم صَبَرُوا حَتَّى تَخرُجَ إِلَيهِم لَكَانَ خَيرًا لَّهُم**
+> *"And had they waited patiently until you came out to them, it would have been better for them."*
+
+- **لَو** + **أَنَّهُم صَبَرُوا** = law + maṣdar muʾawwal (verb ثَبَتَ supplied mentally)
+- **لَكَانَ خَيرًا لَّهُم** = jawāb al-law; affirmative → attached with **لَـ**
 
 ---
 
@@ -79,4 +119,5 @@ For a fuller introduction to **لَو**, see **Madina Arabic Book 3, Chapter 12*
 
 ## Session References
 
-- Surah Al-Hujuraat Session 5: Definition; three features; non-ʿāmil status; examples; announced as the topic for Āyah 4-5 in the next session.
+- Surah Al-Hujuraat Session 5: Definition; three features; non-ʿāmil status; examples.
+- Surah Al-Hujuraat Session 6: Jawāb al-law and lām al-jawāb; affirmative vs negative jawāb; hypothetical use; law + maṣdar muʾawwal with supplied verb; applied to Āyāt 4-5.

@@ -46,8 +46,10 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [الماصدر والمضاف إليه — Maṣdar's Muḍāf: Fāʿil or Mafʿūl bih?](masdar-mudaf.md)
 - [المَصدَر المِيمِي — The Mīmī Maṣdar](masdar-mimi.md)
 - [المُضَاعَف — Doubled (Geminate) Verbs](mudaaf-doubled-verbs.md)
+- [أحوال المضارع — The Three Moods of the Muḍāriʿ](mudari-moods.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
+- [التَّضمِين — Double-Meaning Verbs](tadmeen.md)
 - [Tamyiz](tamyiz.md)
 - [Types of Al](types-of-al.md)
 - [أبواب الفعل — The Six Verb Families](verb-babs.md)
@@ -70,6 +72,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 ## Roots and Etymology
 
+- [Root ع-ق-ل (ʿAqala) — Intellect and Restraint](root-aqala.md)
 - [Root ح-ج-ر (Ḥajara) — To Deny Access](root-hajara.md)
 - [Root ج-ه-ر (Jahara) — To Declare Openly](root-jahara.md)
 - [Root ك-ف-ر (Kafara) — Etymology Chain](root-kafara.md)
