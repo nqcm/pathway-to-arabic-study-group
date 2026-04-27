@@ -38,6 +38,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Innama](innama.md)
 - [اسم التفضيل — Elative/Comparative Noun](ism-tafdhil.md)
 - [الاسم المقصور — Maqṣūr Nouns](ism-maqsur.md)
+- [الاسم المنقوص — Deficient Nouns](ism-manqus.md)
 - [اسم الموصول — Relative Pronouns](ism-mawsool.md)
 - [Jawab al-Shart](jawab-al-shart.md)
 - [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](kana-sisters.md)

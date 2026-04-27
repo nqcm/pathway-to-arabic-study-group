@@ -36,8 +36,46 @@ _Kaffat_ (كَفَّتْ) means "it restrained/blocked." This مَا restrains �
 
 ---
 
+---
+
+### From Session 11 — Full Treatment
+
+#### إِنَّمَا vs إِنَّ — Syntactic Difference
+
+**إِنَّ** can ONLY be followed by a **jumlah ismiyya** (nominal sentence).
+
+**إِنَّمَا** can be followed by EITHER:
+- A **jumlah ismiyya**: *إِنَّمَا المُؤمِنُونَ إِخوَةٌ*
+- A **jumlah fiʿliyya** (verbal sentence): *إِنَّمَا يَأمُرُكُم بِالسُّوءِ*
+
+#### The Power of إِنَّمَا — Exclusive Restriction
+
+**إِنَّمَا** does not merely emphasize — it **exclusively restricts** the predicate to the stated subject. Everything else is implicitly **negated**:
+
+| Sentence | Meaning | What Is Negated |
+|---|---|---|
+| *هُوَ مُهَندِسٌ* | He is an engineer | (other things possible) |
+| *إِنَّهُ مُهَندِسٌ* | He is indeed an engineer (emphasis) | (doubt is removed) |
+| *إِنَّمَا هُوَ مُهَندِسٌ* | He is NOTHING BUT an engineer | All other qualities are negated in this context |
+
+#### Quranic Examples
+
+> *إِنَّمَا الأَعمَالُ بِالنِّيَّات* — "Actions are only by intentions." (Ḥadīth, Bukhārī)
+> Only intention determines the validity/acceptance of an action — nothing else.
+
+> *إِنَّمَا يَعمُرُ مَسَاجِدَ اللَّهِ مَن آمَنَ بِاللَّهِ...* — "Only those who believe in Allah... will truly maintain Allah's mosques." (Al-Tawbah 9:18)
+
+> *إِنَّمَا الصَّدَقَاتُ لِلفُقَرَاء...* — "Charity is ONLY for the poor..." (Al-Tawbah 9:60) — only the specified categories; no others.
+
+---
+
 ## Related pages
 
 - [Ḍamīr al-Faṣl](dameer-al-fasl.md)
 - [Islam and Iman](islam-iman.md)
 - [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
+
+## Session References
+
+- Surah Al-Hujuraat Session 16: Core concept of innama introduced.
+- Surah Al-Hujuraat Session 11: Full treatment of māʾ al-kāffa; إِنَّمَا vs إِنَّ syntactic difference (jumlah fiʿliyya permitted); exclusive restriction meaning; multiple Quranic examples.
