@@ -89,6 +89,17 @@ The result clause is introduced by **لَام الجَواب**: a prefix lam att
 
 ---
 
+## Why لَو Is Not Listed Among the Adawāt al-Shart
+
+All regular conditional particles (إِن، إِذَا، مَن، مَتَى، etc.) share the feature that the condition is **pending** — the outcome is unresolved, and the meaning is always **future-oriented**. لَو differs on both counts:
+
+| Feature | Regular Sharṭ | لَو |
+|---|---|---|
+| **Condition status** | Pending — may or may not happen | **Definitely unfulfilled** — settled, not pending |
+| **Time orientation** | Always future (even with māḍī verbs) | Always **past** — the moment has already passed |
+
+Because of these two differences, **لَو is classified as ḥarf imtinaʿ li-imtinaʿ** — not as ḥarf shart. The grammar rules surrounding it also differ: لَو's jawāb takes لَام; shart's jawāb takes فَاء (under specified conditions).
+
 ## Contrast with Other Conditional Particles
 
 | Particle | Time Reference | Fulfilled? | ʿĀmil? |
@@ -121,3 +132,4 @@ For a fuller introduction to **لَو**, see **Madina Arabic Book 3, Chapter 12*
 
 - Surah Al-Hujuraat Session 5: Definition; three features; non-ʿāmil status; examples.
 - Surah Al-Hujuraat Session 6: Jawāb al-law and lām al-jawāb; affirmative vs negative jawāb; hypothetical use; law + maṣdar muʾawwal with supplied verb; applied to Āyāt 4-5.
+- Surah Al-Hujuraat Session 9: Why لَو is not listed among adawāt al-shart — two distinguishing features (unfulfilled/past vs pending/future).
