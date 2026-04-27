@@ -74,6 +74,37 @@ The formula **يَا أَيُّهَا الَّذِينَ آمَنُوا** occurs
 
 ---
 
+---
+
+## Mabni Words and فِي مَحَلِّ (Fī Maḥall)
+
+Ism mawṣūl words (like **الَّذِي, الَّذِينَ**) are **mabni** — they never change their endings regardless of grammatical position. Because their form does not show case, we use the phrase **فِي مَحَلِّ** to state their grammatical position:
+
+- **فِي مَحَلِّ رَفع** = occupying a marfūʿ position (e.g. acting as mubtadaʾ or fāʿil)
+- **فِي مَحَلِّ نَصب** = occupying a manṣūb position (e.g. acting as ism inna or mafʿūl)
+- **فِي مَحَلِّ جَرّ** = occupying a majrūr position
+
+!!! example "In Āyah 3 — Sūrat Al-Ḥujurāt"
+    > **إِنَّ الَّذِينَ يَغُضُّونَ أَصوَاتَهُم**
+    
+    **الَّذِينَ** is the ism inna (subject of إِنَّ). As ism inna, a normal noun would be manṣūb. But **الَّذِينَ** is mabni — it never changes. We say: *fī maḥalli naṣb*.
+
+---
+
+## جُملَة لَا مَحَلَّ لَهَا — Sentences with No Iʿrāb Position
+
+Not every embedded clause has an iʿrāb position. The **ṣilat al-mawṣūl** (the relative clause following an ism mawṣūl) is the primary example:
+
+> **جُملَة لَا مَحَلَّ لَهَا مِنَ الإِعرَاب**
+> *"A sentence that has no iʿrāb standing"*
+
+The ṣilat al-mawṣūl cannot be described as being in maḥall rafʿ or naṣb because it does not occupy a slot that a single declinable word could fill. It only exists to define/describe the ism mawṣūl.
+
+Contrast with a **jumlah fī maḥall**: a clause that *does* substitute for a single word in the sentence (e.g. a verbal sentence acting as khabar — *fī maḥalli rafʿ*) has an iʿrāb position. The ṣilat al-mawṣūl does not.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Introduction to ism mawsool, silat al-mawsool, and the ʿāʾid — with worked examples from Sūrat Al-Ḥujurāt Āyah 1.
+- Surah Al-Hujuraat Session 5: Mabni words and fī maḥall analysis; jumlah lā maḥalla lahā — applied to iʿrāb of Āyah 3.

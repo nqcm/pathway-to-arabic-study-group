@@ -46,7 +46,34 @@ The pattern **فَعِيل** (like كَرِيم, بَصِير, سَمِيع) der
 
 ---
 
+## عَظِيم — Applied in Sūrat Al-Ḥujurāt
+
+> **وَأَجرٌ عَظِيم** (Al-Ḥujurāt 49:3) — *"and a great reward"*
+
+**عَظِيم** derives from **عَظُمَ / يَعظُمُ** (the u→u family, bāb karuma). It is on the فَعِيل pattern. This means:
+
+> *"A reward whose greatness does not diminish over time — it is perpetually, inherently great."*
+
+The grammatical pattern encodes a theological truth: the reward promised for the believers is not temporary greatness that fades. It is continuous and absolute.
+
+---
+
+## Sound Patterns Carrying Meaning
+
+Dr. Abdul Raheem observed that certain **sound patterns** carry meaning — both in Arabic and in English:
+
+**English example**: *flash, dash, bash, crash, smash* — the *-ash* sound pattern across these words carries a sense of *speed, sudden impact, or force*. The pattern contributes to meaning beyond the individual letters.
+
+**Arabic**: The فَعِيل pattern's long ī vowel creates a smooth, elongated sound — mirroring the idea of continuity. Compare the punchy sound of **ضَارِب** (a momentary hitter) with the extended **ضَرِيب**. Arabic has far more sound-meaning associations than English.
+
+---
+
 ## Related pages
 
 - [Ghayb](ghayb.md)
+- [Verb Families (أبواب)](verb-babs.md)
 - [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
+
+## Session References
+
+- Surah Al-Hujuraat Session 5: Full treatment of فَعُلَ/يَفعُلُ family; فَعِيل vs فَاعِل distinction; application to عَظِيم; sound patterns in Arabic and English.

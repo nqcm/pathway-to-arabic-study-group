@@ -49,9 +49,22 @@ When a word ends in an **alif that is NOT the third root letter** but was added 
 | **فَتَى** (fatā) | The alif IS the third radical (wāw in alif form) | Not a diptote |
 | **أَسنَى** | The alif IS the third radical | Not a diptote |
 
-### 2. Non-Arabic Female Names (and Feminine Proper Nouns)
+### 2. Non-Arabic Proper Names
 
-Names like **زَينَب، مَريَم، سُعَاد** are diptotes.
+Any name borrowed into Arabic from another language is a diptote — because foreign words are exempt from full Arabic declension:
+
+- **مُوسَى** (Mūsā) — Hebrew/Aramaic origin
+- **عِيسَى** (ʿĪsā) — likewise
+- This rule also applies to Arabic female names: **زَينَب، عَائِشَة، آمِنَة، فَاطِمَة**
+
+### 3. Nouns/Names on the Pattern of a Verb
+
+Any noun or name whose form matches the **pattern of an Arabic verb** is a diptote. Verbs have no case endings, and nouns shaped like verbs inherit this restriction:
+
+- **أَحمَد** — follows the pattern **أَفعَل** (the superlative/elative verb pattern)
+- Even though it is a proper name, its verb-like pattern makes it mamʿ min al-ṣarf
+- When marfūʿ: **أَحمَدُ** (no tanwīn)
+- When majrūr: **أَحمَدَ** (fataḥ replaces kasra)
 
 ---
 
@@ -105,3 +118,4 @@ Words like **فَتَى** (young man, root: ف-ت-و) end in alif, but here the 
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.
+- Surah Al-Hujuraat Session 5: Additional causes — non-Arabic names (مُوسَى) and verb-pattern nouns (أَحمَد); maqṣūr + diptote combination in iʿrāb exercises.
