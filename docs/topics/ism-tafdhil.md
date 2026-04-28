@@ -84,7 +84,58 @@ Both **خَير** and **شَرّ** still follow ism al-tafḍīl rules despite t
 
 ---
 
+---
+
+## The Four Scenarios of Usage
+
+Ism al-tafḍīl has four grammatical scenarios depending on whether it has أَل, whether it is a muḍāf, and whether the muḍāf ilayh is definite or indefinite:
+
+### Scenario 1: Not Muḍāf + Has أَل → Acts as Naʿt
+
+Corresponds to the mawṣūf in **gender, number, and case** (like any naʿt/adjective):
+
+> *الأَسمَاء الحُسنَى* — **الحُسنَى** corresponds: feminine because الأَسمَاء is feminine
+> *اليَدُ العُليَا* — **العُليَا** corresponds: feminine because اليَد is feminine
+
+### Scenario 2: Not Muḍāf + No أَل → Frozen Singular Masculine + مِن
+
+Always **singular masculine**, regardless of the referent. Always followed by **مِن** (explicit or implied):
+
+> *زَيَنبُ أَكبَرُ مِن عَائِشَةَ* — **أَكبَرُ** (not كُبرَى), even though Zaynab is female
+> *أَحمَدُ أَكبَرُ مِن عَلِيٍّ* — singular masculine always
+
+### Scenario 3: Muḍāf + Muḍāf Ilayh Is Nakira → Frozen Singular Masculine
+
+Even as a muḍāf, if the muḍāf ilayh is **indefinite (nakira)**, always **singular masculine**:
+
+> *بِلَالٌ أَحسَنُ طَالِبٍ* — "Bilal is the best student"
+> (Even if the subject were female or multiple: still **أَحسَنُ طَالِبٍ**)
+
+### Scenario 4: Muḍāf + Muḍāf Ilayh Is Maʿrifa → Two Choices
+
+When muḍāf to a **definite (maʿrifa)** noun: TWO VALID OPTIONS:
+1. Keep it singular masculine
+2. Correspond it to the muḍāf ilayh
+
+> *بِلَالٌ أَحسَنُ الطُّلَّابِ* — singular masculine (valid)
+> *بِلَالٌ أَحَاسِنُ الطُّلَّابِ* — plural, corresponding (also valid)
+
+!!! note "Maʿrifa = Al, pronoun, or proper name"
+    Pronouns are always definite. So **أَحَبُّكُم** (muḍāf to كُم) = Scenario 4.
+
+### Summary
+
+| Scenario | Rule |
+|---|---|
+| Not muḍāf + has أَل | Naʿt — corresponds |
+| Not muḍāf + no أَل | Frozen singular masc.; always with مِن |
+| Muḍāf to nakira | Frozen singular masculine |
+| Muḍāf to maʿrifa | Two choices |
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 10: Introduced in context of **دُنيَا** etymology; أَفعَل/فُعلَى pairs; theological significance of الحَيَاة الدُّنيَا as "the nearer life."
 - Surah Al-Hujuraat Session 14: خَير and شَرّ identified as shortened forms of أَخيَر and أَشَرّ; used comparatively in Āyah 11.
+- Surah Al-Hujuraat Session 15: Comprehensive four-scenario treatment; multiple Quranic examples; Ibn Mālik's Alfiyya couplets; applied to أَكرَم/أَتقَى in Āyah 13.

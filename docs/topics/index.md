@@ -38,6 +38,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [اِفْتَعَلَ — Form VIII Verb Pattern](iftaala-pattern.md)
 - [Idhafa](mudaf-idafah.md)
 - [Innama](innama.md)
+- [اسم الجِنس الجَمعِي — Collective Genus Noun](ism-jins-jamai.md)
 - [اسم التفضيل — Elative/Comparative Noun](ism-tafdhil.md)
 - [الاسم المقصور — Maqṣūr Nouns](ism-maqsur.md)
 - [الاسم المنقوص — Deficient Nouns](ism-manqus.md)
@@ -62,6 +63,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Tamyiz](tamyiz.md)
 - [Types of Al](types-of-al.md)
 - [أبواب الفعل — The Six Verb Families](verb-babs.md)
+- [جَعَلَ — Four Meanings](verb-jaala.md)
 - [Verb Dakhala — Preposition Rules](verb-dakhala.md)
 - [الأفعال المعتلة — Weak Verbs](weak-verbs.md)
 
