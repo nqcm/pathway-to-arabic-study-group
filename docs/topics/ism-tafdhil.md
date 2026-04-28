@@ -69,6 +69,22 @@ Since **دُنيَا** = "the nearer one," it implies there is a *farther/later*
 
 ---
 
+---
+
+## Shortened Elatives — خَير and شَرّ
+
+Some frequently used elatives have had their initial **أَ** dropped through common usage:
+
+| Original (Full) Form | Shortened Form | Meaning |
+|---|---|---|
+| **أَخيَر** | **خَير** | better / best |
+| **أَشَرّ** | **شَرّ** | worse / worst |
+
+Both **خَير** and **شَرّ** still follow ism al-tafḍīl rules despite their shortened appearance. When used with **مِن**, the meaning is comparative; without **مِن**, it can be superlative or general.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 10: Introduced in context of **دُنيَا** etymology; أَفعَل/فُعلَى pairs; theological significance of الحَيَاة الدُّنيَا as "the nearer life."
+- Surah Al-Hujuraat Session 14: خَير and شَرّ identified as shortened forms of أَخيَر and أَشَرّ; used comparatively in Āyah 11.

@@ -61,6 +61,21 @@ Both are encountered in grammar books. The second analysis (mubtadaʾ + khabar s
 
 ---
 
+---
+
+## From Session 14 — Quranic Usage and Omission of مَخصُوص
+
+In Quranic usage, the مَخصُوص is almost always **omitted** because it is clear from context:
+
+> **نِعمَ أَجرُ العَامِلِين** — fāʿil is muḍāf; مَخصُوص (الجَنَّة) is omitted
+> **نِعمَ العَبدُ** (about Ayyūb AS) — no explicit مَخصُوص stated
+> **بِئسَ مَثوَى الظَّالِمِين** — fāʿil is muḍāf; مَخصُوص (النَّار) is omitted
+
+The textbook example *نِعمَ الرَّجُلُ زَيدٌ* (with explicit مَخصُوص) is a teaching tool. In actual Quranic usage, the مَخصُوص is nearly always implied by context.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 13: نِعمَ and بِئسَ introduced; structure; fāʿil condition (must have أَل or be muḍāf); two analyses of مَخصُوص (badal vs mubtadaʾ); application in Āyah 11.
+- Surah Al-Hujuraat Session 14: More Quranic examples; pattern of omitting مَخصُوص in the Quran.

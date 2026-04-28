@@ -31,6 +31,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Bal Particle](bal-particle.md)
 - [الجُملَة الشَّرطِيَّة — Conditional Sentences](conditional-sentences.md)
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
+- [كَاف الخِطَاب — Address Particle in Demonstratives](kaf-khitab.md)
 - [العَطف — Conjunction (Maʿṭūf)](atf-conjunction.md)
 - [Ḍamīr al-Faṣl](dameer-al-fasl.md)
 - [الحَال — The Circumstantial Clause](hal-circumstantial.md)
@@ -79,6 +80,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Mubeen](mubeen.md)
 - [نَبَأ vs خَبَر — Big News vs Ordinary Information](naba-khabar.md)
 - [Wird and Warada](wird-warada.md)
+- [تَابَ — To Repent; Two Prepositions; تَائِب vs تَوَّاب](verb-taba.md)
 
 ## Roots and Etymology
 

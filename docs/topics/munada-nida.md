@@ -141,7 +141,35 @@ The same **هَا** appears in **هَٰذَا** (= **هَا** + **ذَا**). Whe
 
 ---
 
+---
+
+## From Session 14 — يَا + يَاء المُتَكَلِّم (Five Constructions)
+
+When a noun preceded by **يَا** has **يَاء المُتَكَلِّم** (the "my" possessive suffix), five constructions are possible:
+
+Using **يَا رَبِّ** (O my Lord) as the example:
+
+| # | Form | Notes |
+|---|---|---|
+| 1 | **يَا رَبِّي** | يَاء المُتَكَلِّم remains with fataḥ |
+| 2 | **يَا رَبِّ** | يَاء dropped; kasra remains — most common in Quran |
+| 3 | **يَا رَبَّ** | يَاء dropped; fataḥ replaces kasra |
+| 4 | **يَا رَبَّاه** | يَاء replaced with هَاء |
+| 5 | **يَا رَبَّا** | يَاء replaced with bare alif |
+
+!!! important "The Kasra Is Your Clue"
+    When you see **يَا قَومِ** (with a kasra, without explicit yāʾ), the **kasra reveals that يَاء المُتَكَلِّم was dropped**. Compare: **يَا قَومُ** = "O people!" vs **يَا قَومِ** = "O my people!"
+
+This applies to all nouns, not just **ربّ**.
+
+---
+
 ## Related Pages
 
 - [Mudāf Iḍāfah](mudaf-idafah.md)
 - [Surah Al-Hujuraat Session 2](../surah-alhujuraat-sessions/session-2.md)
+
+## Session References
+
+- Session 2/3: Four rules of munādā introduced; يَا أَيُّهَا construction analyzed.
+- Session 14: Five constructions for يَاء المُتَكَلِّم after يَا النِّدَاء; kasra as the clue for dropped yāʾ.
