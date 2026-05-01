@@ -35,8 +35,9 @@ extra:
 
 nav:
   - About: index.md
-  - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
   - Surah Al-Hujuraat Sessions: surah-alhujuraat-sessions/index.md
+  - Surah An-Noor Sessions: surah-alnoor-sessions/index.md
+  - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
   - Topics: topics/index.md
 
 theme:
