@@ -1,21 +1,45 @@
 ---
-description: End-to-end pipeline for any study session: transcribe a YouTube video, format into MkDocs Material notes, save to the correct sessions folder, and create or update atomic topic notes. Works for any series (Surah Al-Hujuraat, Surah Yusuf, etc.).
-argument-hint: <youtube-url> <sessions-folder> <session-number> [title]
+description: End-to-end pipeline for any study session: transcribe a YouTube video, format into MkDocs Material notes, save to the correct sessions folder, and create or update atomic topic notes. Works for any series (Surah Al-Hujuraat, Surah Yusuf, etc.). Also supports processing an entire playlist one video at a time.
+argument-hint: <youtube-url-or-playlist-url> <sessions-folder> <session-number> [title]
 ---
 
 # Process Study Session
 
-You are running a full pipeline to process a YouTube study session video into structured study notes. The user has invoked this command with:
+You are running a full pipeline to process a YouTube study session video (or playlist) into structured study notes. The user has invoked this command with:
 
 ```
 $ARGUMENTS
 ```
 
 Parse the arguments:
-- **Token 1** — YouTube URL (required)
+- **Token 1** — YouTube URL or playlist URL (required). Detect playlist mode when the URL contains `list=` **and** does NOT contain `v=` (i.e. it is a pure playlist URL like `https://www.youtube.com/playlist?list=PLxxx`). A URL with both `v=` and `list=` is a single-video URL — process only that one video.
 - **Token 2** — Sessions folder name, e.g. `surah-alhujuraat-sessions` or `surah-yusuf-sessions` (required)
-- **Token 3** — Session number, e.g. `4` (required)
-- **Remaining tokens** — optional human-readable session title/subtitle, e.g. `"Story of Yusuf Part 3"`. If omitted, derive it from the transcript content after reading.
+- **Token 3** — Session number (required). For a playlist this is the **starting** session number; subsequent videos in the playlist are numbered N+1, N+2, etc.
+- **Remaining tokens** — optional human-readable session title/subtitle (single video only). If omitted, derive it from the transcript content after reading.
+
+---
+
+## Playlist Mode vs Single-Video Mode
+
+If the URL is a **playlist URL** (contains `list=` but not `v=`):
+
+1. Run the following command to extract the ordered list of video IDs **without downloading anything**:
+   ```
+   cd C:\Users\navee\Documents\projects\pytranscribe && pipenv run yt-dlp --flat-playlist --print id "PLAYLIST_URL"
+   ```
+   This prints one video ID per line. Collect them into an ordered list.
+
+2. For each video ID in order, run the **full single-video pipeline** (Steps 1–8 below), using session number = starting_N + index (0-based index).
+
+3. **Rate-limit between videos**: after completing all steps for one video and before starting the next, wait **30 seconds**. Use:
+   ```
+   python -c "import time; time.sleep(30)"
+   ```
+   Run this inside the pipenv environment so no extra install is needed.
+
+4. After finishing all videos, print a combined final report listing every file created or updated across all sessions.
+
+If the URL is a **single-video URL**, skip directly to Step 1 below and process just that one video.
 
 **Base paths** (fixed across all series):
 - Sessions root: `C:\Users\navee\OneDrive\Documents\prod-projects\study-notes\docs\`
@@ -54,44 +78,20 @@ And derive a **raw file title** for the transcript: `"{Series Display Name} Stud
 
 ---
 
-## Step 3 — Update the Transcription Script
+## Step 3 — Run the Transcription Script
 
-Edit `C:\Users\navee\Documents\projects\pytranscribe\fetch_transcript.py`.
-
-Update exactly these three variables and nothing else:
-- `VIDEO_ID` → extracted video ID
-- `OUTPUT_PATH` → `r"C:\Users\navee\OneDrive\Documents\prod-projects\study-notes\raw-md-files\{raw file title}.md"`
-- `TITLE` → `"{raw file title}"`
-
-Also create or overwrite `C:\Users\navee\Documents\projects\pytranscribe\current-session.md`:
-
-```markdown
-# Current Session
-
-- **Video ID**: {VIDEO_ID}
-- **Series**: {Series Display Name}
-- **Session**: {N}
-- **URL**: {full YouTube URL}
-- **Output**: raw-md-files/{raw file title}.md
+Run the script inside the pipenv environment, passing the video ID, output path, and title as arguments:
+```
+cd C:\Users\navee\Documents\projects\pytranscribe && pipenv run python fetch_transcript.py {VIDEO_ID} "C:\Users\navee\OneDrive\Documents\prod-projects\study-notes\raw-md-files\{raw file title}.md" "{raw file title}"
 ```
 
----
-
-## Step 4 — Run the Transcription Script
-
-Run the script inside the pipenv environment:
-```
-cd C:\Users\navee\Documents\projects\pytranscribe && pipenv run python fetch_transcript.py
-```
-
-Confirm the output file was created. If the fetch fails:
-- `TranscriptsDisabled` / `NoTranscriptFound` with a language restriction → retry without the `languages=` argument
+The script automatically retries without a language filter if the preferred languages are unavailable. Confirm the output file was created. If the fetch fails:
 - `TranscriptsDisabled` with no transcript at all → report to user and stop
 - Any other error → report the error message to the user and stop
 
 ---
 
-## Step 5 — Format the Transcript into Structured Notes
+## Step 4 — Format the Transcript into Structured Notes
 
 Read the raw transcript from `raw-md-files\{raw file title}.md`.
 
@@ -189,7 +189,7 @@ The main topics covered in this session are:
 
 ---
 
-## Step 6 — Save the Formatted Session File
+## Step 5 — Save the Formatted Session File
 
 Save the formatted content to:
 ```
@@ -198,7 +198,7 @@ Save the formatted content to:
 
 ---
 
-## Step 7 — Update the Sessions Index
+## Step 6 — Update the Sessions Index
 
 Read `{Sessions index}`.
 
@@ -211,7 +211,7 @@ Insert in ascending session-number order. If the entry already exists, leave it 
 
 ---
 
-## Step 8 — Create or Update Atomic Topic Notes
+## Step 7 — Create or Update Atomic Topic Notes
 
 Re-read the formatted session file. Identify every distinct **grammar rule, morphology pattern, vocabulary root, Quranic concept, or learning methodology** discussed.
 
@@ -260,7 +260,7 @@ Check the topics folder and index before creating — never duplicate an existin
 
 ---
 
-## Step 9 — Update the Topics Index
+## Step 8 — Update the Topics Index
 
 Read `docs/topics/index.md`.
 
@@ -281,7 +281,7 @@ Insert alphabetically within the section. Do not modify existing entries. If a t
 
 ## Final Report
 
-Output a brief summary when done:
+**Single-video mode** — output a brief summary when done:
 
 ```
 Done. Processed {Series Display Name} Session {N}: "{title}"
@@ -293,3 +293,24 @@ Files created/updated:
   UPD   docs/topics/{existing-topic}.md (repeat for each updated file)
   UPD   docs/topics/index.md
 ```
+
+**Playlist mode** — after all videos are done, output one consolidated report:
+
+```
+Done. Processed {total} sessions from playlist.
+
+{Series Display Name} Session {N}: "{title}"
+  NEW   docs/{sessions-folder}/session-{N}.md
+  ...
+
+{Series Display Name} Session {N+1}: "{title}"
+  NEW   docs/{sessions-folder}/session-{N+1}.md
+  ...
+
+Topics (all sessions):
+  NEW   docs/topics/{new-topic}.md
+  UPD   docs/topics/{existing-topic}.md
+  UPD   docs/topics/index.md
+```
+
+If any video in the playlist fails to transcribe, log the failure inline (`FAILED session-{N}: {reason}`) and continue to the next video rather than stopping the entire run.

@@ -115,7 +115,27 @@ Words like **فَتَى** (young man, root: ف-ت-و) end in alif, but here the 
 
 ---
 
+### 4. Broken Plural Patterns: Mafāʿil and Mafāʿīl
+
+Certain broken plural patterns are **inherently mamʿ min al-ṣarf** by virtue of their structure. The two most common are:
+
+| Pattern | Example | Meaning |
+|---|---|---|
+| **مَفَاعِل** (*mafāʿil*) | **مَسَاجِد** | Mosques |
+| **مَفَاعِيل** (*mafāʿīl*) | **مَفَاتِيح** | Keys |
+
+These patterns have **four syllables** with a long vowel near the end, which the Arabs treated as already "heavy" enough to bar the kasra. Rule: **after a preposition (majrūr), they take fatḥa**, not kasra:
+
+- **فِي مَسَاجِدَ** ✓ (fatḥa — not kasra)
+- ~~فِي مَسَاجِدِ~~ ✗
+
+!!! note "Common Mistake"
+    Students often write **فِي مَسَاجِدِ** with kasra because it looks like a regular plural. Remember: if the plural is on **mafāʿil/mafāʿīl**, it is diptote — use fatḥa in majrūr.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.
 - Surah Al-Hujuraat Session 5: Additional causes — non-Arabic names (مُوسَى) and verb-pattern nouns (أَحمَد); maqṣūr + diptote combination in iʿrāb exercises.
+- Surah An-Noor Session 2: Mafāʿil pattern correction — **مَسَاجِد** takes fatḥa in majrūr (فِي مَسَاجِدَ).

@@ -128,9 +128,34 @@ For a fuller introduction to **لَو**, see **Madina Arabic Book 3, Chapter 12*
 
 ---
 
+## لَوْلَا — Were It Not For
+
+**لَوْلَا** is a compound particle formed from **لَو + لَا**. It means "were it not for" or "had it not been for":
+
+| Structure | Example |
+|---|---|
+| **لَوْلَا** + marfūʿ noun | **لَوْلَا نُورُهُ** — Were it not for His light |
+| + result clause | **لَتَرَاكَمَتِ الظُّلُمَاتُ** — the darknesses would have piled up |
+
+!!! important "Lawlā Takes a Marfūʿ Noun (No Verb)"
+    After **لَوْلَا**, the noun comes directly without a verb and is marfūʿ. A hidden **مَوجُود** (exists/is present) is understood. The result clause follows with **لَـ** (lam of jawāb) if affirmative.
+
+---
+
+## Three Uses of لَو (Summary)
+
+| Use | Structure | Meaning |
+|---|---|---|
+| 1. Unfulfilled conditional | لَو + māḍī ... | "If X had happened [it didn't]..." |
+| 2. Wishing / lamenting | لَوْ + sentence (no jawāb) | "If only..." |
+| 3. **لَوْلَا** | لَوْلَا + marfūʿ noun | "Were it not for..." |
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 5: Definition; three features; non-ʿāmil status; examples.
 - Surah Al-Hujuraat Session 6: Jawāb al-law and lām al-jawāb; affirmative vs negative jawāb; hypothetical use; law + maṣdar muʾawwal with supplied verb; applied to Āyāt 4-5.
 - Surah Al-Hujuraat Session 9: Why لَو is not listed among adawāt al-shart — two distinguishing features (unfulfilled/past vs pending/future).
 - Surah Al-Hujuraat Session 10: Al-Alfiyya couplet confirming that muḍāriʿ after لَو reverts to māḍī in meaning; example: لَو يَفِي كَفَى.
+- Surah An-Noor Session 3: Three uses of لَو summarised; **لَوْلَا** introduced (Ayah 35) — "were it not for His light, the darknesses would have piled up."

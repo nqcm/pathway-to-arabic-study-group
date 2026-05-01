@@ -153,3 +153,4 @@ Note: **بَدَل مُبَاين / غَلَط** (error correction) does not app
 - Surah Al-Hujuraat Session 2: Badal introduced to explain why **الَّذِينَ** in **يَا أَيُّهَا الَّذِينَ آمَنُوا** is not the munādā but a badal for **أَيُّ**.
 - Surah Al-Hujuraat Session 11: All four types with detailed examples; Quranic example of badal ishtimāl (السَّاعَة / مُرسَاهَا); note on contested status of fourth type.
 - Surah Al-Hujuraat Session 12: Extended coverage — mubdal minhu terminology; tawābiʿ concept; two rules (iʿrāb follows, definiteness need not); four structural combinations; multiple Quranic examples of badal ishtimāl.
+- Surah An-Noor Session 6: **مِن جِبَالٍ فِيهَا** as badal ishtimāl for **مِنَ السَّمَاءِ** in Ayah 43 — the mountains of clouds are associated with (contained within) the sky, making this an associative substitution.

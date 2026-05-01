@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pipenv run *)"
+      "Bash(pipenv run *)",
+      "Bash(where yt-dlp *)",
+      "Bash(yt-dlp --version)",
+      "Bash(grep -E \"^d|\\\\.md$\")"
     ]
   }
 }

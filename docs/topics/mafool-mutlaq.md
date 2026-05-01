@@ -85,6 +85,22 @@ The phrase **كَجَهْرِ بَعْضِكُم** is a jarr-majrūr phrase that
 
 ---
 
+### From Session 4 — Surah An-Noor
+
+#### Emphasis vs. Quantity
+
+Two distinct uses of mafʿūl muṭlaq:
+
+| Use | Example | Notes |
+|---|---|---|
+| **Emphasis** | **ضَرَبَنِي ضَرْبًا** — "He really hit me" | Distinguishes from casual/accidental |
+| **Quantity/Number** | **سَجَدتُ سَجدَةً** — "I made one sajdah" | Specifies how many times |
+
+!!! note "Innama Does Not Always Signal Manṣūb"
+    The particle **إِنَّمَا** (= only/none but) cancels the effect of **إِنَّ**, making the following word **marfūʿ** (not manṣūb). In the poetic example *"old age is only for the one who crawls"*, the word after innama is marfūʿ.
+
+---
+
 ## Related pages
 
 - [demonstrative-pronouns](demonstrative-pronouns.md)
