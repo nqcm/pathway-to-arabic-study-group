@@ -1,6 +1,16 @@
 # Surah Yusuf — Study Session 1
 
-> **Type:** Overview & Introduction **Book:** Al-Mu'in fī Lughat wa Tafsīr Sūrat Yūsuf (Dr. Abd al-Raheem) **Focus:** Surah overview, context of revelation, the name Yusuf, grammar of mudāf iḍāfah
+---
+
+## Overview
+
+The main topics covered in this session are:
+
+- Surah overview and introduction
+- Context of revelation and the Year of Grief ('Ām al-Ḥuzn)
+- Parallels between Yusuf (AS) and the Prophet ﷺ
+- The name Yusuf: etymology and pronunciations
+- Grammar: mudāf iḍāfah
 
 ---
 

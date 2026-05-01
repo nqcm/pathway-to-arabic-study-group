@@ -4,7 +4,13 @@
 
 ## Overview
 
-This session picks up from Session 2, which ended with a grammatical analysis of the first āyah. The teacher begins with a recap of the different types of **ال (al)**, as covered previously in the study of _Selections of the Glorious Quran_, before moving into the book's explanatory notes on Sūrah Yūsuf Āyah 1.
+The main topics covered in this session are:
+
+- Recap of the different types of ال (Al)
+- ال العهدية (Al-ʿAhdiyyah): The Al of Reference (Dhikriyyah, Hudūriyyah, Dhihniyyah)
+- ال الجنسية (Al-Jinsiyyah): The Al of Genus (Istighrāqiyyah, Badaliyyah)
+- ال الزائدة (Al-Zā'idah): The Extra/Redundant Al
+- Continuation of Āyah 1 explanatory notes
 
 ---
 

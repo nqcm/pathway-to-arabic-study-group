@@ -4,9 +4,13 @@
 
 ## Overview
 
-This session begins the study of Surah Yusuf using Dr. Abdul Rahim's book, studying one ayah at a time. The book differs from previous ones in that it covers one ayah per session and includes exercises after every few ayat — do not skip the exercises.
+The main topics covered in this session are:
 
-Surah Yusuf is the longest surah studied so far in this Arabic study group.
+- Introduction to the Ayah-by-Ayah study using Dr. Abdul Rahim's book
+- Deep analysis of Ayah 1 (تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ)
+- Vocabulary: root letters and derivatives representing signs and clarification
+- Grammar: Nā'ib 'an al-Mafʿūl al-Muṭlaq (كَثِيرًا)
+- Grammar: Demonstrative pronoun structure (تِلْكَ)
 
 ---
 
