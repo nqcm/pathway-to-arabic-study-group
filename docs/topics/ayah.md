@@ -36,6 +36,30 @@ This disagreement is normal. Arabic grammar rules were reverse-engineered from l
 
 *Homework assigned in class:* look up the root of آيَة in an Arabic dictionary (Bahis app) and compare with these two positions. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
 
+---
+
+## سُورَة (Sūrah) — The City Wall
+
+**سُورَة** (with *sīn*) = the wall built around a city — the fortifying enclosure. A sūrah is a "wall" grouping and protecting a collection of related āyāt, separating them from the rest of the Quran.
+
+!!! note "Distinguish from صُورَة"
+    - **سُورَة** (sīn) = chapter of the Quran; plural **سُوَر**
+    - **صُورَة** (ṣād) = picture/image; plural **صُوَر**
+    Same plural pattern, completely different words.
+
+---
+
+## Who Divided the Quran into Āyāt and Surahs?
+
+The divisions were set by **waḥy** — not by the Ṣaḥābah. Both the groupings within a Sūrah and the boundaries between āyāt were revealed. There is deliberate wisdom in every division — why one sentence ends an āyah here and another spans two āyāt there. Classical tafsīr books discuss this extensively.
+
+---
+
+## Session References
+
+- Surah Yusuf Session 2: Root letters of āyah; plurals; definition; multi-āyah sentences.
+- Selections from the Glorious Quran Session 9: Āyah vs verse (sūrah = city wall; āyah = sign); wahi as the source of divisions; Āyat al-Kursī as 10 sentences in one āyah.
+
 ## Related pages
 
 - [Arabic Grammar Methodology](arabic-grammar-methodology.md)

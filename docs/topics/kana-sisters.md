@@ -37,7 +37,7 @@ tags:
 | **أَمسَى** | became in the evening | Similar |
 | **أَضحَى** | became in the forenoon | |
 | **بَاتَ** | spent the night (in a state) | |
-| **لَيسَ** | is not | Fiʿl jāmid — no muḍāriʿ or amr |
+| **لَيسَ** | is not | Fiʿl jāmid — no muḍāriʿ or amr; khabar may take زَائِدَة بَاء |
 
 ---
 
@@ -94,7 +94,21 @@ Arabic māḍī verbs are not restricted to past tense:
 
 ---
 
+## لَيسَ — Khabar With Zāʾidah Bāʾ
+
+The khabar of **لَيسَ** may optionally take a **بَاء زَائِدَة** (extra bāʾ that does not change meaning). When it does, the khabar becomes **majrūr** instead of manṣūb:
+
+| Without bāʾ | With bāʾ | Meaning |
+|---|---|---|
+| لَيسَ زَيدٌ مَيِّتاً | لَيسَ زَيدٌ **بِمَيِّتٍ** | Zayd is not dead |
+
+!!! note "Why use bāʾ?"
+    The bāʾ adds emphasis and is a stylistic option. The meaning remains identical; the case of the khabar changes from naṣb to jarr.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 9: Full treatment of kāna sisters; contrast with إِنَّ; timeless use with Allah; application in Āyah 6 (أَصبَحَ + نَادِمِين); multiple usages of māḍī verb.
 - Surah Al-Hujuraat Session 13: عَسَى introduced as a special case — nāqiṣ in both ṣarf and naḥw; tāmm vs nāqiṣ forms; khabar always maṣdar muʾawwal.
+- Selections from the Glorious Quran Session 20: لَيسَ khabar with زَائِدَة بَاء demonstrated with a line of Arabic poetry (لَيسَ مَن مَاتَ بِمَيِّتٍ).

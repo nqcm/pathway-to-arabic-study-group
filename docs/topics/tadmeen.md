@@ -48,6 +48,27 @@ The wife of the minister called Yūsuf (AS) to come out before the women who had
 
 ---
 
+## Example: سَكَنَ + إِلَى (Sūrat al-Rūm 30:21)
+
+**Normal usage**: **سَكَنَ** (to find rest, become still) takes no preposition — or takes **فِي**:
+> *سَكَنَ فِي البَيتِ* — He settled in the house.
+
+**Taḍmīn in Āyah 21**:
+> **لِتَسكُنُوا إِلَيهَا** — *"so that you may find rest in them"*
+
+**سَكَنَ** here takes **إِلَى** — a preposition it does not normally govern. The implied verb: **مَالَ إِلَى** (to incline toward). The combined meaning: "to incline toward and find rest in them." The physical turning/inclining (مَالَ) is embedded in the concept of finding rest (سَكَنَ).
+
+---
+
+## Example: رَأَى + إِلَى (Sūrat al-Baqarah 2:258)
+
+**Normal usage**: **رَأَى** (to see) takes no preposition.
+
+**Taḍmīn**: When **رَأَى** appears with **إِلَى**, it incorporates the meaning of **نَظَرَ إِلَى** (to observe closely, to contemplate). The combined meaning: "to see and contemplate [closely]." The preposition **إِلَى** comes from the embedded نَظَرَ.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 6: Introduced in analysis of **حَتَّى تَخرُجَ إِلَيهِم** (Āyah 4); cross-referenced with Sūrah Yūsuf; instructor noted the formal grammar term was not recalled but the concept was demonstrated.
+- Selections from the Glorious Quran Session 21: سَكَنَ + إِلَى (incorporates مَالَ إِلَى); رَأَى + إِلَى (incorporates نَظَرَ إِلَى).

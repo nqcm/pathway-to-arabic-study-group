@@ -5,9 +5,9 @@ tags:
   - arabic-grammar
   - surah-alnoor
   - tafseer
-  - particles
-  - verbs-of-heart
-  - morphology
+  - conditional-sentences
+  - min-zaida
+  - jaal-verb
 ---
 
 # Surah An-Noor — Study Session 10
@@ -18,153 +18,142 @@ tags:
 
 The main topics covered in this session are:
 
-- Grammar: **Five types of man** — conditional, interrogative, relative, and two advanced types
-- Grammar: **Omission of ḥarf al-jarr** (isqāt al-ḥarf) — majrūr becomes manṣūb; Basrī vs. Kūfī schools
-- Grammar: **Bā' and its 14 meanings** — a survey of the most common meanings
-- Grammar: **Ẓanna and its sisters (verbs of the heart)** — ḥasiba, wajada; taking 2 mafʿūl bihi
-- Grammar: **Wajada** — two distinct uses (find physically vs. find/consider)
-- Grammar: **Form II nāqiṣ maṣdar pattern** — extra taʾ marbūṭa when third radical is weak/hamza
-- Grammar: **Maṣdar used as ism mafʿūl** — the maṣdar can take on the meaning of the thing produced
-- Vocabulary: **Quranic words for deeds that yield no benefit** — seven distinct metaphors
-- Context: The second parable (Ayah 39 — mirage/sarāb) and its deeper spiritual meaning
+- Deep iʿrāb analysis of Ayah 40 — a grammatically complex verse
+- Grammar: **Idhā** as both adātu al-shart AND ẓarf (adverb of time)
+- Grammar: **Mabnī** (indeclinable) nouns — "in the place of" a case
+- Grammar: **Jamʿ al-Jamʿ** (plural of plural) — with examples **yadun/aydin/ayādin**
+- Grammar: **Four meanings of jaʿala** revisited in context of this Ayah
+- Grammar: **Man as adātu shart + mubtadā'** — three opinions on the khabar
+- Grammar: **Fā' jawābu al-shart** — two conditions for when jawāb takes fā'
+- Grammar: **Mīn al-Zāʾida (extra min)** — two conditions for its use; "in place of" its original case
 
 ---
 
-## 1. Five Types of Man
+## 1. Idhā — Dual Function
 
-| Type | Arabic Name | Use | Example |
+**إِذَا** (idhā) in Ayah 40 has two simultaneous grammatical roles:
+
+1. **Adātu al-shart (instrument of conditional)** — it introduces the conditional clause, though it does NOT make any verb majzūm (unlike **إِن**)
+2. **Ẓarf (adverb of time)** — it tells you *when* the action happens: "at the time of taking out the hand"
+
+!!! important "Idhā Is Non-Jazim"
+    Unlike **إِن** (which makes the shart and jawāb majzūm), **إِذَا** has no grammatical effect on the verbs — they remain in their normal iʿrāb. The conditional meaning comes from context and structure, not from jazm.
+
+As a **ẓarf**, idhā is **mabnī** (indeclinable — its ending never changes). Mabnī words cannot be manṣūb in the usual sense; instead, we say they are **فِي مَحَلِّ النَّصب** (in the place of manṣūb) because a ẓarf is typically in the manṣūb position.
+
+---
+
+## 2. Mabnī Nouns — "In the Place of" a Case
+
+**مَبنِي** (mabnī) = a word whose ending is fixed and never changes (unlike muʿrab words which decline through ḍamma/fatḥa/kasra):
+
+!!! important "Analyzing Mabnī Words"
+    When a mabnī word occupies a grammatical position that would normally require manṣūb (or marfūʿ, or majrūr), we say:
+    - "It is mabnī, and it is **فِي مَحَلِّ النَّصب**" — in the place of manṣūb
+    
+    Examples: pronouns (**هُوَ**, **هِيَ**), demonstratives (**هَذَا**), certain ẓurūf (**إِذَا**, **أَمسِ**).
+
+---
+
+## 3. Jamʿ al-Jamʿ — Plural of a Plural
+
+Arabic permits a **plural to have its own plural** (Jamʿ al-Jamʿ — جَمع الجَمع). Most of the time the two plurals are synonymous; occasionally the Jamʿ al-Jamʿ acquires a different meaning:
+
+| Singular | Plural | Jamʿ al-Jamʿ | Notes |
 |---|---|---|---|
-| 1 | **مَن الشَّرطِيَّة** | Conditional instrument (jazim) | **مَن يَعمَل سُوءًا يُجزَ بِهِ** |
-| 2 | **مَن الاستِفهَامِيَّة** | Interrogative (only for intelligent beings) | **مَن جَاءَ؟** — Who came? |
-| 3 | **مَن المَوصُولَة** | Relative pronoun (who) — needs ʿāʾid | **الَّذِي جَاءَ** or **مَن جَاءَ** |
-| 4–5 | **مَن النَّكِرَة** (two sub-types) | Advanced; less common | Covered in higher-level grammar |
+| **يَد** (hand) | **أَيدٍ** (hands) | **أَيَادٍ** | Jamʿ al-Jamʿ = **favours/blessings** (not just hands) |
+| **بَيت** (house) | **بُيُوت** (houses) | **بُيُوتَات** | Jamʿ al-Jamʿ = **respectable families** |
+| **سِوَار** (bracelet) | **أَسوِرَة** (bracelets) | **أَسَاوِر** | Same meaning |
+| **مَكَان** (place) | **أَمكِنَة** (places) | **أَمَاكِن** | Same meaning |
 
-!!! important "Man vs. Mā"
-    **مَن** = for intelligent beings (humans, jinn, angels). **مَا** = for non-intelligent things. BUT in taghlib or for rhetorical effect (e.g. referring to Allah with **مَا**), the rules can be inverted — a sign of balāgha.
-
----
-
-## 2. Omission of Ḥarf al-Jarr — Isqāṭ al-Ḥarf
-
-**إسقاط الحرف** (isqāṭ al-ḥarf) — when a preposition is omitted from a sentence, the noun that was majrūr becomes **manṣūb** (to "remember" that a preposition was once there):
-
-> Original: **اختارَ مُوسَى مِن قَومِهِ سَبعِينَ رَجُلًا** — Musa chose from his people 70 men.
-> Without مِن: **مِن قَومِهِ** → **قَومَهُ** (manṣūb, because the preposition was dropped)
-
-!!! note "Basrī vs. Kūfī Schools"
-    This grammatical concept is described differently by the two major Arabic grammar schools:
-    - **Basrī school** (البصريون): calls the dropped preposition **نَزعُ الخَافِض** ("removing the lowerer")
-    - **Kūfī school** (الكوفيون): calls it **إسقاط الحرف** ("dropping the particle")
-    Both describe the same phenomenon — terminology only differs. Most classical grammar books follow the Basrī school.
+!!! note "Why Ayādin Means Favours"
+    When you give generously with your hand extended, repeatedly offering — the image of giving hands accumulated over time naturally carried the meaning of *favours*. A beautiful example of semantic shift through the plural of plural.
 
 ---
 
-## 3. Bā' — Selected Meanings (from 14 Total)
+## 4. Four Meanings of Jaʿala — Applied in Ayah 40
 
-| # | Name | Meaning | Example |
-|---|---|---|---|
-| 1 | **استِعَانَة** | Instrument/means | **كَتَبتُ بِالقَلَمِ** — I wrote with a pen |
-| 2 | **تَعدِيَة** | Makes intransitive verb transitive | **ذَهَبَ بِأُمِّي** — He took my mother (away with him) |
-| 3 | **تَبعِيض** | Some of | **امسَحُوا بِرُؤُوسِكُم** — Wipe part of your heads |
-| 4 | **مُصَاحَبَة** | With, companionship | **خَرَجتُ بِهِ** — I went out with him |
-| 5 | **ظَرفِيَّة** | Time or place (like fī) | **وَاللَّهُ نَصَرَكُم بِبَدر** — at Badr |
-| 6 | **سَبَبِيَّة** | Cause, reason for | **بِمَا كَسَبَت أَيدِيكُم** — because of what your hands earned |
-| 7 | **بِمَعنى فِي** | In (like fī) | **كَسَرَابٍ بِقِيعَة** — like a mirage in a plain |
+**جَعَلَ** has four distinct grammatical uses:
 
-!!! note "Bā' in Ayah 39"
-    **بِقِيعَة** — the bā' here has the meaning of **فِي** (in): "like a mirage **in** a plain/field."
-
----
-
-## 4. Ẓanna and Its Sisters — Verbs of the Heart
-
-**أَفعَال القُلُوب** (verbs of the heart/mind) denote mental acts and take **two mafʿūl bihi** (originally mubtadāʾ and khabar):
-
-| Verb | Root | Meaning | Two Mafʿūl |
-|---|---|---|---|
-| **ظَنَّ** | ظ-ن-ن | To think, suppose | ✓ |
-| **حَسِبَ** | ح-س-ب | To consider, assume | ✓ |
-| **وَجَدَ** (sense 2) | و-ج-د | To find [X to be Y] | ✓ |
-| **عَلِمَ** | ع-ل-م | To know (mental) | ✓ |
-
-!!! important "Wajada — Two Distinct Uses"
-    1. **To find physically (lost and found)** → takes **1 mafʿūl bihi**  
-       **وَجَدتُ كِتَابِي** — I found my book (it was lost)  
-    2. **To find/consider (= ẓanna)** → takes **2 mafʿūl bihi**  
-       **وَجَدَ الكِتَابَ مُفِيدًا** — He found the book useful  
-    In Ayah 39: **وَوَجَدَ اللَّهَ عِندَهُ** — has been analysed both ways by grammarians; meaning is effectively the same.
-
----
-
-## 5. Form II Nāqiṣ/Hamza — Maṣdar Pattern Change
-
-For Form II verbs, the normal maṣdar pattern is **تَفعِيل** (e.g. **تَعلِيم** from **عَلَّمَ**). BUT when the **third radical is weak (wāw/yāʾ) or hamza**, the maṣdar takes an extra **تَاء مَربُوطَة**:
-
-| Verb | Third Radical | Maṣdar |
+| Use | Takes | Example |
 |---|---|---|
-| **عَلَّمَ** | م (strong) | **تَعلِيم** |
-| **رَبَّى** | و/ي (weak) | **تَربِيَة** |
-| **وَفَّى** | ي (weak) | **تَوفِيَة** |
-| **هَنَّأَ** | ء (hamza) | **تَهنِئَة** |
+| 1. To create (= خَلَقَ) | 1 mafʿūl bihi | **جَعَلَ الظُّلُمَاتِ وَالنُّور** — He created the darknesses and the light |
+| 2. To make X into Y | 2 mafʿūl bihi | **جَعَلَ الشَّمسَ سِرَاجًا** — He made the sun a lamp |
+| 3. To think/assume (= ظَنَّ) | 2 mafʿūl bihi | **جَعَلُوا المَلَائِكَةَ إِنَاثًا** — They considered the angels to be females |
+| 4. To begin/start | Ism + khabar (kāna-sister) | **جَعَلَ حَامِدٌ يَضرِبُنِي** — Hamid started beating me |
 
-!!! important "Extra Tāʾ Marbūṭa Rule"
-    Form II verbs whose **third root letter is weak or hamza** → maṣdar ends in **ـِيَة** (not ـِيل). Memorise these as they are extremely common (tawbiyah, tawfiyah, tahniah, tarbiyah, etc.).
+!!! important "Jaʿala in Ayah 40"
+    **فَمَن لَّم يَجعَلِ اللَّهُ لَهُ نُورًا** — "For whoever Allah has not created a light" — **جَعَلَ** here = to create (meaning 1), taking only one mafʿūl bihi (**نُورًا**).
 
 ---
 
-## 6. Maṣdar Used as Ism Mafʿūl
+## 5. Man as Adātu Shart + Mubtadā' — Three Opinions on the Khabar
 
-In some words, the **maṣdar** can take on the meaning of the **ism mafʿūl** (the thing produced by the action):
+When **مَن** (a conditional particle) also functions as the **mubtadā'**, grammarians differ on where the **khabar** is:
 
-| Maṣdar | Primary Meaning | Used as Ism Mafʿūl |
+| Opinion | Khabar |
+|---|---|
+| 1st | The **sharṭ** (conditional) clause |
+| 2nd | The **jawābu al-shart** |
+| 3rd (preferred by Dr. ʿAbdurraḥīm) | Both sharṭ + jawāb together |
+
+The third view treats the entire conditional construction as a compound predicate for **مَن**.
+
+---
+
+## 6. Fā' of Jawābu al-Shart — Two Conditions
+
+The jawābu al-shart takes a **فَ** (fā') at its beginning under these conditions:
+
+1. The jawāb is a **negative sentence** (has mā, lā, lam, etc.)
+2. The jawāb is a **jumlah ismiyyah** (nominal sentence)
+
+!!! example "Fā' from Ayah 40"
+    **فَمَا لَهُ مِن نُّور** — the jawāb takes **فَ** because it is both a negative sentence (مَا) AND a jumlah ismiyyah. Both conditions are met simultaneously.
+
+---
+
+## 7. Mīn al-Zāʾida — The Extra Min
+
+**مِن الزَّائِدَة** (extra/redundant min) is a **مِن** that:
+- Makes the word following it **majrūr** in form  
+- But the word's **actual grammatical status** remains unchanged (it retains its "real" case — e.g. still marfūʿ as mubtadā')
+- Adds **emphasis** to the negation or restriction
+
+### Two Conditions for Using Mīn al-Zāʾida
+
+1. The sentence contains **negation (نَفي)**, **prohibition (نَهي)**, or **interrogation with هَل** (not أ)
+2. The noun following it is **indefinite (nakira)**
+
+| With Extra Min | Without Extra Min | Difference |
 |---|---|---|
-| **دَرس** | The act of studying | A lesson (= **مَدرُوس**) |
-| **حِسَاب** | The act of counting | The reckoning (= **مَحسُوب**) |
-| **أَكل** | The act of eating | Food (= **مَأكُول**) |
-| **خَلق** | The act of creating | The creation (= **مَخلُوق**) |
-| **لَفظ** | The act of utterance | A word/utterance (= **مَلفُوظ**) |
+| **مَا لَهُ مِن نُّور** | **مَا لَهُ نُورٌ** | Same meaning, but **with min** is more emphatic (no light whatsoever) |
+| **مَا غَابَ مِن أَحَد** | **مَا غَابَ أَحَدٌ** | Both = "nobody was absent" — with min is stronger |
+| **لَا تَكتُب مِن شَيء** | **لَا تَكتُب شَيئًا** | Both = "don't write anything" — with min is stronger |
+
+!!! important "Nūrun in the Sentence"
+    In **مَا لَهُ مِن نُّور**: the word **نُور** is majrūr because of the extra min — but its original grammatical position is that of a **mubtadā' (marfūʿ)**. We say: "it is majrūr in form (lafẓan) but marfūʿ in position (maḥallan)."
 
 ---
 
-## 7. Ḥattā — With a Following Sentence
+## 8. Darkness Plural, Light Singular
 
-**حَتَّى** (ḥattā) has multiple uses. In Ayah 39 it appears as **ḥattā ibtidāʾiyya** — a ḥattā that introduces a **following sentence** (not a noun):
-
-- Normal ḥattā: **حَتَّى الصَّبَاح** (until morning — noun after it)
-- **Ḥattā + sentence**: **حَتَّى إِذَا جَاءَهُ لَم يَجِدهُ شَيئًا** — "until when he came to it, he found nothing"
-
-The sentence after ḥattā ibtidāʾiyya is called **jumlah mubtadaʾa** — it is a fresh start without grammatical connection to what came before it.
-
----
-
-## 8. Quranic Words for Deeds That Yield No Benefit
-
-| Arabic | Meaning | Quran Reference |
-|---|---|---|
-| **سَرَاب** | Mirage — something that looks real but disappears | Surah An-Noor 39 |
-| **بَوَار** | Utter destruction, useless thing nobody wants | Surah Fāṭir |
-| **زَبَد** | Foam/scum on floodwater — floats then disappears | Surah Al-Raʿd 17 |
-| **غُثَاء** | Debris carried by floodwater | Surah Al-Muʾminūn |
-| **هَبَاء** | Fine dust particles visible only in a beam of light | Surah Al-Furqān |
-| **هَشِيم** | Trampled hay/broken crop remnants | Surah Al-Qamar |
-| **صَدَد** | Broken, discarded old things | — |
-| **جِذع** | Palm trunk after cutting — useless wood | Surah Ṭā Hā |
-
-!!! info "A Gallery of Worthlessness"
-    Allah uses different imagery throughout the Quran for deeds that are ultimately futile. The **sarāb** (mirage) is unique: it actively deceives — it appears to promise reward but delivers nothing. This is why it is used for the kāfir's deeds.
+!!! info "Quranic Pattern: Darknesses Plural, Light Singular"
+    In the Quran, **ظُلُمَات** (darknesses) always appears in the **plural** — because darkness can come from sin, ignorance, misguidance, shayṭān, one's own nafs — many sources.  
+    **نُور** (light) always appears in the **singular** — because the light of guidance has only one source: Allah's Book and His Prophet ﷺ.
 
 ---
 
 ## 9. Key Lessons
 
 !!! tip "Summary of Lessons"
-    1. **Man** has at least 5 types; man al-shartiyya is jazim (makes both verbs majzūm).
-    2. When a ḥarf al-jarr is dropped, the majrūr noun becomes manṣūb; Basrī vs. Kūfī schools name this differently.
-    3. **Bā'** has 14+ meanings; most common: instrument, taʿdiyya, tabʿīḍ, accompaniment, fī (place/time).
-    4. **Wajada** in the "consider/find" sense = ẓanna-sister, takes 2 mafʿūl bihi; in "find physically" sense = 1 mafʿūl bihi.
-    5. Form II nāqiṣ/hamza verbs → maṣdar ends in **ـِيَة** (e.g. tawfiyah, tarbiyah).
-    6. Some maṣdars double as ism mafʿūl in meaning (hisāb, dars, akl, khalq, lafẓ).
+    1. **Idhā** plays two roles simultaneously: adātu al-shart (non-jazim) AND ẓarf (manṣūb in position).
+    2. **Mabnī** words don't change form — state their position: "in the place of manṣūb."
+    3. **Jamʿ al-Jamʿ** is common in Arabic; sometimes acquires a new meaning (ayādin = favours).
+    4. **Mīn al-zāʾida** makes the noun majrūr in form but its real case is unchanged; requires negation/prohibition/hal + indefinite noun.
+    5. **Fā' jawābu al-shart** appears when the jawāb is a negative sentence or a jumlah ismiyyah.
 
 ---
 
-*Next session will continue with Ayah 39 (full iʿrāb) and begin Ayah 40.*
+*Next session continues with Ayah 41.*
+

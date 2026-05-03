@@ -190,3 +190,4 @@ The teacher demonstrates the **Hans Wehr Arabic-English Dictionary** (available 
 ---
 
 *This session focused on vocabulary and deep tafseer of Ayah 40; grammar iʿrāb of the shart construction (idhā) to be covered next session.*
+

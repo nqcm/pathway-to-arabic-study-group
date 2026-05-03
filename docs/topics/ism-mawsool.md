@@ -104,7 +104,37 @@ Contrast with a **jumlah fī maḥall**: a clause that *does* substitute for a s
 
 ---
 
+## Ṣilah as Shibh-Jūmlah — The Implied ʿĀʾid
+
+When the ṣilat al-mawṣūl is a **shibh-jūmlah** (a prepositional phrase or ẓarf rather than a full sentence), there is no visible pronoun to serve as the ʿāʾid. The solution: the shibh-jūmlah always implies an omitted verb (**يَستَقِرُّ / يَكُونُ**), and the **fāʿil** of that omitted verb is the ʿāʾid.
+
+> **لَهُ مَا فِي السَّمَاوَاتِ** — **مَا** = ism mawṣūl; **فِي السَّمَاوَاتِ** = ṣilah (shibh-jūmlah)
+> Reconstruct as: **مَا يَستَقِرُّ فِي السَّمَاوَاتِ** — the hidden فاعل is the ʿāʾid
+
+---
+
+## ʿĀʾid Omission Rules
+
+| Role of ʿāʾid | Rule |
+|---|---|
+| **Fāʿil** | Cannot be omitted — the sentence needs its subject |
+| **Mafʿūl bih** | Can be omitted — the sentence remains complete without the object pronoun |
+
+When omitted, iʿrāb states: *"The ʿāʾid is the pronoun X in [verb], which has been omitted (maḥdhūf)."*
+
+---
+
+## Ism Mawṣūl as Bridge for Definite Nouns
+
+Since an embedded jūmlah is always **nakira**, it can only serve as naʿt for a nakira noun. To attach a sentence as naʿt to a **definite** noun, the ism mawṣūl is used as a bridge:
+
+> ❌ **جَاءَ الطِّفلُ يَبكِي** — ḥāl (not naʿt — sentence after maʿrifa)
+> ✅ **جَاءَ الطِّفلُ الَّذِي يَبكِي** — naʿt via ism mawṣūl
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Introduction to ism mawsool, silat al-mawsool, and the ʿāʾid — with worked examples from Sūrat Al-Ḥujurāt Āyah 1.
 - Surah Al-Hujuraat Session 5: Mabni words and fī maḥall analysis; jumlah lā maḥalla lahā — applied to iʿrāb of Āyah 3.
+- Selections from the Glorious Quran Session 4: ʿĀʾid omission rules (fāʿil vs mafʿūl bih); ism mawṣūl as bridge for sentence-naʿt on definite nouns; iʿrāb of Āyah 7 of al-Fātiḥah.

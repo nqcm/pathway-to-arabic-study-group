@@ -101,6 +101,36 @@ Two distinct uses of mafʿūl muṭlaq:
 
 ---
 
+---
+
+### From Session 14 — Selections from the Glorious Quran
+
+#### Four Uses (Complete List)
+
+| Use | Example | Purpose |
+|---|---|---|
+| **Emphasis** | **ضَرَبتُهُ ضَرباً** | "I really hit him" |
+| **Number/quantity** | **سَجَدتُ سَجدَةً** | One prostration (how many times) |
+| **Type of action** | **مَاتَ مَوتَ الشَّهِيدِ** | Death of a martyr (what kind of death) |
+| **Substitute for the verb** | **شُكراً** | Verb dropped; maṣdar stands alone |
+
+#### Eight Deputies of the Maṣdar
+
+| # | Deputy | Example |
+|---|---|---|
+| 1 | **Partials** (كُلّ، بَعض، نِصف) | **عَرَفتُهُ كُلَّ المَعرِفَة** |
+| 2 | **Numbers** (with tamyīz rules) | **اِجلِدُوهُم ثَمَانِينَ جَلدَة** |
+| 3 | **Naʿt/adjective** (maṣdar dropped) | **مَاتَ مَيِّتاً شَرِيفاً** |
+| 4 | **Ism maṣdar** | **كَلَّمتُهُ كَلَاماً** |
+| 5 | **Maṣdar muʾawwal** (أَن/مَا) | **أُحِبُّ أَن تَقُومَ** |
+| 6 | **Ismu ishārah** (كَذَلِكَ، هَذَا) | **كَذَلِكَ يُبَيِّنُ اللهُ** |
+| 7 | **Pronoun** referring to implied maṣdar | **اِجتَهَدتُ لَا يَجتَهِدُ مِثلَهُ** |
+| 8 | **Synonym** | **عِشتُ حَيَاةً** |
+
+Session reference: Selections from the Glorious Quran Session 14b.
+
+---
+
 ## Related pages
 
 - [demonstrative-pronouns](demonstrative-pronouns.md)

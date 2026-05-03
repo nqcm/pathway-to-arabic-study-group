@@ -11,12 +11,13 @@ Arabic has two types of **لَا** used with the muḍāriʿ verb. They look ide
 
 ---
 
-## Two Types of Lā
+## Types of Lā
 
-| Type | Name | Effect on Verb | Meaning | Example |
+| Type | Name | Effect | Meaning | Example |
 |---|---|---|---|---|
-| **لَا نَاهِيَة** | Prohibitive | Majzūm (jazm) | "Don't do X" | **لَا تَشْرَبْ** — Don't drink |
-| **لَا نَافِيَة** | Negating | No change (marfūʿ) | "X is not happening" | **لَا يَشْرَبُ** — He is not drinking |
+| **لَا نَاهِيَة** | Prohibitive | Verb → majzūm | "Don't do X" | **لَا تَشْرَبْ** — Don't drink |
+| **لَا نَافِيَة** (with verb) | Negating | No change (marfūʿ) | "X is not happening" | **لَا يَشْرَبُ** — He is not drinking |
+| **لَا النافية للجنس** | Absolute genus-negation | Noun → manṣūb (no tanwīn) | "There is absolutely no…" | **لَا طَاقَةَ لَنَا** — There is absolutely no power for us |
 
 !!! important "The Grammatical Signal"
     **لَا نَاهِيَة** causes the verb to go into **jazm** (apocopate). If the verb after لَا is majzūm, it is prohibitive. If it remains marfūʿ, it is negating.
@@ -75,6 +76,28 @@ The group-of-women form (**نُون النِّسْوَة**) is **mabnī** — it
 
 ---
 
+---
+
+## لا النافية للجنس — Absolute Negation of Genus
+
+A third, distinct use of lā: **لا النافية للجنس** negates the existence of an entire genus — the strongest form of negation with nouns.
+
+**Pattern:** لَا + noun (manṣūb, no tanwīn) + rest of sentence
+
+> **لَا طَاقَةَ لَنَا اليَومَ** — *"There is absolutely no power for us today."* (Al-Baqarah 2:249)
+
+The noun after this lā behaves like the **ism inna** — manṣūb, no tanwīn. 
+
+| Negation | Arabic | Force |
+|---|---|---|
+| **لَستُ طَبِيباً** | Ordinary negation | "I am not a doctor" |
+| **لَا طَبِيبَ هُنَا** | Lā nafiyah lil-jins | "There is **absolutely no** doctor here" (the concept denied universally) |
+
+Add "absolutely" or "whatsoever" in English to approximate the force.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Detailed analysis of **لَا تُقَدِّمُوا** from Āyah 1 — lā nāhiya vs lā nāfiyah, jazm effect, nūn niswah exception.
+- Selections from the Glorious Quran Session 7: Lā nafiyah lil-jins introduced from **لَا طَاقَةَ لَنَا** (Al-Baqarah 2:249); comparison with ordinary negation.

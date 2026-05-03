@@ -60,6 +60,18 @@ Both **مَنَام** and **مَغفِرَة** appear in the Quran.
 
 ---
 
+---
+
+## رَحمة vs مَرحَمة
+
+- **رَحمة** = mercy / kindness (the action itself)
+- **مَرحَمة** = a broader concept — includes acts done *out of* mercy even when they don't look merciful (e.g. disciplining a child lovingly)
+
+The parent cuddling a baby shows **رَحمة**. The parent imposing a punishment on a teenager out of love and concern also expresses **مَرحَمة** — the deeper mercy behind an apparently harsh act.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Introduction to maṣdar mīmī; comparison of مَغفِرَة vs غُفرَان and مَنَام vs نَوم; practical guidance on interchangeability.
+- Selections from the Glorious Quran Session 1: رَحمة vs مَرحَمة with the parenting analogy; connection to the Basmala and Allāh's names.

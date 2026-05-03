@@ -112,6 +112,33 @@ A related form from the same root: _ʿabūs_ (عبوس), pattern _fuʿūl_ — s
 
 ---
 
+## Al Ismiyah (الاسمية) — The Relative-Pronoun Al
+
+Very rare. In this usage Al functions as a **relative pronoun** meaning "the one who does X" — similar to **مَن / مَا**. It can appear before *ism fāʿil* or *ism mafʿūl*:
+
+- **الكَاتِب** → "the one who writes" (not merely "the writer" definitively)
+- **المَكتُوب** → "the one/thing that is written"
+
+Occurrence in the Quran is disputed (possibly Sūrat al-Ḥadīd). Extremely rare. Context and language exposure are the only reliable guides for distinguishing it from referential Al.
+
+---
+
+## Alternative Terminology
+
+The second sub-type of Al-Jinsiyah has two names in different books:
+- **البدلية (Al-Badaliyyah)** — some sources
+- **لبيان الحقيقة (Li-Bayān al-Ḥaqīqah)** — Dr. Abdurraḥīm's usage in Selections from the Glorious Quran
+
+Both refer to the same concept: a general factual statement that may have exceptions.
+
+---
+
+## Session References
+
+- Surah Yusuf Session 3: Foundational introduction; dhikriyah example from the Light Verse; contextual Al in al-Baqarah.
+- Surah Al-Hujuraat Session 16: Al-siyāqiyyah example from الأعراب in Āyah 14.
+- Selections from the Glorious Quran Session 2: Etymology of Al; sun/moon letters; Al-ismiyah; examples from Sūrat Yūsuf (wolf) and al-Nisāʾ (man created weak); the Al in الحمد as istighrāqiyah.
+
 ## Related pages
 
 - [surah-yusuf-session3](surah-yusuf-session3.md)

@@ -39,9 +39,27 @@ Both لَمَّا and لَوْلَا can have omitted response clauses. See [Jaw
 
 ---
 
-## Related pages
+---
 
-- [Islam and Iman](islam-iman.md)
-- [Verb Dakhala](verb-dakhala.md)
-- [Jawab al-Shart](jawab-al-shart.md)
-- [Surah Al-Hujuraat Session 16](../surah-alhujuraat-sessions/session-16.md)
+## Second Type: لَمَّا الحِيْنِيَّة — "When / As Soon As"
+
+This is an entirely different lammā — a **temporal adverb** meaning "when" or "as soon as." It does **not** cause jazm.
+
+| Feature | لَمَّا الجازمة | لَمَّا الحينية |
+|---|---|---|
+| Grammatical effect | Jazm on muḍāriʿ | None |
+| Meaning | "not yet" | "when / as soon as" |
+| Verb tense | Muḍāriʿ (majzūm) | Usually māḍī |
+
+> **لَمَّا سَمِعتُ الأَذَانَ ذَهَبتُ إلَى المَسجِد** — *"When I heard the adhān I went to the mosque."*
+
+**How to identify which type:**
+- Verb after it is **majzūm** → lammā jazimah (not yet)
+- Verb is **māḍī** or **marfūʿ muḍāriʿ** → lammā ḥīniyyah (when)
+
+---
+
+## Session References
+
+- Surah Al-Hujuraat Session 16: لَمَّا الجازمة with the example from Āyah 14.
+- Selections from the Glorious Quran Session 7: Both types contrasted; the two-sukūn rule applied; Quranic examples of each.

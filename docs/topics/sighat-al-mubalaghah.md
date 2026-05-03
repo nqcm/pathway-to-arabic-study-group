@@ -81,6 +81,21 @@ Languages are organic: they evolved naturally first; rules were extracted later.
 
 ---
 
+## Time-Independent Qualities — Why Fāʿil Is Avoided
+
+For qualities that are **not time-bound** (either you have them permanently or you don't), the active participle **فاعِل** is rarely used. The **فَعِيل** pattern (a mubālaghah form) is preferred instead because it expresses a permanent state:
+
+| Pattern | Example | Implication |
+|---|---|---|
+| فاعِل | رَاحِم | Occasionally merciful (implies it comes and goes) |
+| فَعِيل | رَحِيم | Permanently / inherently merciful |
+| فَعلان | غَضبَان | Momentarily in a state (anger comes and goes) |
+
+Other examples of time-independent qualities: *karuma* (nobility — either you are noble or you aren't), *mariḍa* (illness — beyond the person's control). For these, the **فَعِيل** or **فَعِل** pattern is standard.
+
+---
+
 ## Session References
 
 - Surah An-Noor Session 4: Full introduction — five qiyāsī patterns with examples; samāʿī patterns; Allah's names; application to **دَبَّاب** and **دَبَّابَة** (tank); qiyāsī vs. samāʿī distinction.
+- Selections from the Glorious Quran Session 1: al-Raḥmān vs. al-Raḥīm in Bismillāh; time-independent adjectives and why رَاحِم is not used for Allāh; faʿlān pattern for momentary excess.

@@ -108,8 +108,35 @@ This is why **قَوم** contains a wāw — it is the original middle radical o
 
 ---
 
+## Ajwaf Verbs — Mutaḥarrik Pronouns and the Dropping of the Weak Letter
+
+When conjugating an ajwaf verb and the pronoun suffix becomes **mutaḥarrik** (carries a ḥarakah), the third radical takes a **sukūn**. This causes **iltiqāʾ al-sākinayn** (two sukūns meeting) because the middle weak letter (alif/wāw/yāʾ) is already sākin — so the weak letter is **dropped**.
+
+After dropping, the first radical's vowel changes:
+
+| Dropped weak letter | First radical vowel | Example |
+|---|---|---|
+| **wāw** | → ḍamma | قَالَ → **قُلنَا** (from ق-و-ل) |
+| **yāʾ** | → kasra | نَامَ → **نِمنَا** (from ن-و-م, bāb: yanam) |
+
+### مَات — Two Bābs, Two Mutaḥarrik Forms
+
+**مَات** (to die, root م-و-ت) belongs to two bābs:
+
+| Bāb | Muḍāriʿ | Mutaḥarrik form |
+|---|---|---|
+| Bāb au | يَمُوتُ | **مُتُّم** (ḍamma on mīm — wāw dropped) |
+| Bāb ai | يَمَاتُ | **مِتُّم** (kasra on mīm) |
+
+Both **مُتُّم** and **مِتُّم** occur in the Quran. In the muḍāriʿ, only **يَمُوتُ** is used in the Quran (never يَمَاتُ).
+
+The **mītā / mayyit** ism fāʿil follows the same weak-letter pattern — see [مُتَوَارَة](mutawara.md) for related form pairs.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Introduction to three types of weak verbs; nāqiṣ verb explained via the example **يَدْعُو** (d-ʿ-w); connection to alif al-fāriqah.
 - Surah Al-Hujuraat Session 4: Miṯāl wāwī — wāw-to-tāʾ transformation in base-form derivatives (تَقوَى، تُرَاث، تُخمَة); derivation of تَقِيّ from وَقَى.
 - Surah Al-Hujuraat Session 12: Ajwaf ism fāʿil — wāw/yāʾ converts to hamza; plural reversion pattern; demonstrated with قَائِم → قَوم.
+- Selections from the Glorious Quran Session 20: Ajwaf mutaḥarrik pronoun rule — weak letter drops; first radical takes ḍamma (wāw dropped) or kasra (yāʾ dropped); demonstrated with مَات in two bābs.

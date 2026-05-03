@@ -17,15 +17,17 @@ The sessions cover Quranic Arabic grammar, morphology, vocabulary, and tafseer �
 
 ---
 
+## Study Series
+
+- [Selections from the Glorious Quran](selection-sessions/index.md) — Sessions 1–21 covering selected Quranic passages; grammar, tafseer, and vocabulary from Sūrat al-Fātiḥah through Sūrat al-Rūm
+- [Surah Al-Hujuraat](surah-alhujuraat-sessions/index.md) — Full sūrah study
+- [Topics Reference](topics/index.md) — Atomic topic notes on grammar, morphology, and vocabulary
+
+---
+
 ## A Note on How These Notes Are Made
 
 These notes are AI-generated from session recordings and YouTube videos, then reviewed for accuracy. They are intended as a study aid and revision reference for students of the group.
 
 While every effort is made to preserve the content faithfully, always refer back to the original session recordings for the full context of any discussion.
 
----
-
-## Sessions
-
-- [Surah Yusuf Sessions](surah-yusuf-sessions/index.md)
-- [Surah Al-Hujuraat Sessions](surah-alhujuraat-sessions/index.md)

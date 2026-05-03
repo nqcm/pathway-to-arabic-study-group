@@ -139,3 +139,4 @@ When muḍāf to a **definite (maʿrifa)** noun: TWO VALID OPTIONS:
 - Surah Al-Hujuraat Session 10: Introduced in context of **دُنيَا** etymology; أَفعَل/فُعلَى pairs; theological significance of الحَيَاة الدُّنيَا as "the nearer life."
 - Surah Al-Hujuraat Session 14: خَير and شَرّ identified as shortened forms of أَخيَر and أَشَرّ; used comparatively in Āyah 11.
 - Surah Al-Hujuraat Session 15: Comprehensive four-scenario treatment; multiple Quranic examples; Ibn Mālik's Alfiyya couplets; applied to أَكرَم/أَتقَى in Āyah 13.
+- Selections from the Glorious Quran Session 12: Key rules reinforced — with **مِن** always masculine singular regardless of noun's gender; with **Al** agrees with noun in gender; without both can become superlative. Applied to Dunya (دُنيَا = feminine ism tafḍīl from دنا) and الصَّلَاة الوُسطَى.

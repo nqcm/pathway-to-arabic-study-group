@@ -5,10 +5,9 @@ tags:
   - arabic-grammar
   - surah-alnoor
   - tafseer
-  - manqus-nouns
-  - kaf-tashbih
-  - types-of-al
-  - orthography
+  - passive-voice
+  - atf
+  - vocabulary
 ---
 
 # Surah An-Noor — Study Session 16
@@ -19,131 +18,174 @@ tags:
 
 The main topics covered in this session are:
 
-- Quranic orthography: why muṣḥaf spellings differ; ruling on when to use them; accommodating multiple qirāʾāt
-- Grammar: **Manqūṣ nouns** — **أَرض/أَرَاضٍ**; three conditions when yaʾ returns
-- Grammar: **Sentence after indefinite noun = naʿt; sentence after definite noun = ḥāl**
-- Grammar: **Kāf al-Tashbīh** (the particle of comparison) — cannot be followed by a pronoun; use **مِثل** instead
-- Grammar: **Masābīḥ** on the **مَفَاعِيل** pattern = mamnu' min al-ṣarf (muntahā al-jumūʿ)
-- Grammar: **Three types of al** — taʿrīf, jinsiyya, ʿahdiyya; the anaphoric **al ʿahdiyya al-dhikrīyya**
-- Tafseer: **Mishkāt** — the niche; no window; human chest has same shape; protection of the lamp
+- Corrections to the previous session: **masājid** pattern, passive voice, and ʿaṭf grammar
+- Tafseer of Ayah 37: people undistracted by business from Allah's remembrance
+- Tafseer of Ayah 38: Allah's reward exceeds what the deeds deserve
+- Tafseer of Ayah 39: the deeds of the kuffar are like a mirage (**sarāb**)
+- The balance between **khawf** (fear) and **rajāʾ** (hope) — a spiritual lesson
+- Grammar: **mafāʿilu** pattern (plural) does not take kasra; ʿaṭf wāw; nāʾib al-fāʿil; nakis verb in manṣūb
 
 ---
 
-## 1. Quranic Orthography — Accommodation of Qirāʾāt
+## 1. Corrections to the Previous Session
 
-Why do muṣḥaf spellings sometimes differ from standard Arabic?
+### 1.1 Masājid — The Mafāʿilu Pattern
 
-1. **Scribal shortcuts** for frequently-used words (e.g. **هَذَا** often written without alif in ancient manuscripts)
-2. **Accommodation of multiple qirāʾāt** in a single spelling — e.g. **مَلِك/مَالِك** — the spelling without alif covers both readings:
-   - With alif khanjāriyya added later → **مَالِك** (one qirāʾa)
-   - Without the alif → **مَلِك** (another qirāʾa)
+The word **مَسَاجِد** (*masājid*) is on the broken plural pattern **مَفَاعِل / مَفَاعِيل** (*mafāʿil / mafāʿīl*).
 
-!!! important "Ruling on Muṣḥaf Spelling"
-    - Writing the **whole muṣḥaf or whole surah**: must follow the Uthmānic rasm exactly.
-    - Writing **a few āyāt** (for reference or practice): may use standard modern Arabic spellings.
+!!! important "Mafāʿil Pattern Does Not Take Kasra"
+    Broken plural patterns on **مَفَاعِل** and **مَفَاعِيل** behave like diptotes: they do **not** take a kasra for the genitive (majrūr) case. Instead, they take a fatḥa even in the genitive. So it is **فِي مَسَاجِدَ** (fatḥa, not kasra).
+
+### 1.2 Passive Voice — Nāʾib al-Fāʿil
+
+The verb in this passage is in the **passive voice (مَبنِي لِلمَجهُول)**. There is no explicit **فَاعِل** (doer), but there must be a **نَائِب الفَاعِل** (substitute subject) which takes the same marfūʿ position.
+
+!!! note "Passive Voice: No Fāʿil, Must Have Nāʾib al-Fāʿil"
+    Every passive verb must have a nāʾib al-fāʿil — the word that stands in place of the missing agent and takes the marfūʿ case. The nāʾib al-fāʿil here is **اسْمُهُ** or the associated noun.
+
+### 1.3 ʿAṭf Wāw — The Connected Verb Follows Its Anchor
+
+The verb **يُذْكَرَ** (manṣūb) appears here because it is connected by **wāw al-ʿaṭf** (the conjunction و) to a preceding manṣūb element:
+
+!!! important "ʿAṭf Wāw: Mirroring the I'rāb"
+    When **wāw** joins two words or verbs, the second element takes the **same grammatical case** as the first. If the anchor is manṣūb, the connected word is also manṣūb. Always trace the anchor to determine the case.
 
 ---
 
-## 2. Manqūṣ Nouns — Arḍ and Arāḍin
+## 2. Ayah 37 — Undistracted by Trade
 
-**أَرَاضٍ** (arāḍin) — the plural of **أَرض** — is a **manqūṣ** word (its original form is **أَرَاضِي** with a final yaʾ that drops).
+> *"[Such men] are not distracted by commerce or sale from the remembrance of Allah and performance of prayer and giving of zakāh."*
 
-### Three Conditions for Yaʾ to Return
+**رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَن ذِكْرِ اللَّهِ**
 
-| Condition | Result | Example |
+These are men whom *no* commercial activity can preoccupy enough to pull them away from:
+1. **ذِكْرُ اللَّهِ** — remembrance of Allah
+2. **إِقَامُ الصَّلَاةِ** — establishing prayer
+3. **إِيتَاءُ الزَّكَاةِ** — discharging zakāh
+
+!!! note "Form X: Istihqāq"
+    **إِيتَاء** is the maṣdar of Form IV (أَتَى/يُؤتِي). **يُؤتِي** takes **two mafʿūl bihs**: (1) the person given to (مَن يُؤتَى), (2) what is given (مَا يُؤتَى). Here both the zakat and the recipient are implied.
+
+### Vocabulary
+
+| Arabic | Root | Meaning |
 |---|---|---|
-| 1. The word has **ال** | Yaʾ returns (with sukūn) | **الأَرَاضِي** |
-| 2. The word is **manṣūb** | Yaʾ returns (with fatḥa) | **أَرَاضِيَ** |
-| 3. The word is **muḍāf** | Yaʾ returns (with sukūn; muḍāf ilayh follows) | **أَرَاضِي مَكَّةَ** |
-
-In marfūʿ and majrūr without al: **أَرَاضٍ** — the yaʾ is dropped; kasra + tanwīn on the preceding letter.
-
----
-
-## 3. Sentence After Indefinite vs. Definite Noun
-
-!!! important "Key Rule"
-    - **Indefinite noun + following sentence** = the sentence is a **naʿt (adjective clause)** for that noun
-    - **Definite noun + following sentence** = the sentence is a **ḥāl (circumstantial clause)** for that noun
-
-Applied in Ayah 35:
-- **مِشكَاةٍ** (indefinite) + **فِيهَا مِصبَاحٌ** (sentence) → the sentence is a **naʿt** for **مِشكَاةٍ**
+| **تُلهِي** | ل-ه-و | To distract, to preoccupy |
+| **تِجَارَة** | ت-ج-ر | Commerce, trade |
+| **بَيْع** | ب-ي-ع | Sale |
+| **إِقَامَة** | ق-و-م | Establishing (prayer) |
+| **إِيتَاء** | أ-ت-و | Giving (zakāh) |
 
 ---
 
-## 4. Kāf Al-Tashbīh — Particle of Comparison
+## 3. Ayah 38 — Reward Without Reckoning
 
-**كَ** (kāf al-tashbīh) means "like/as" — it introduces a comparison:
+> *"That Allah may reward them [according to] the best of what they did and increase them from His bounty. And Allah provides for whom He wills without account."*
 
-> **مَثَلُهُ كَمِشكَاةٍ** — "His example is like a niche"
+### 3.1 Grammar: Lāmu al-Taʿlīl
 
-!!! important "Kāf Cannot Take a Pronoun"
-    Unlike most prepositions (which can take either a noun or a pronoun), **كَ** cannot be followed directly by a pronoun. To compare with a pronoun, the word **مِثل** must be inserted:
+The sentence opens with **لِيَجْزِيَهُمُ اللَّهُ** — the **lām** here is the **lām al-taʿlīl** (lām of purpose/reason), making what follows a purpose clause. The muḍāriʿ after it is manṣūb.
 
-    | Correct | Incorrect |
-    |---|---|
-    | **أَنَا كَمِثلِكَ** | ~~أَنَا كَكَ~~ |
-    | "I am like you" | (invalid) |
+### 3.2 The Nakis Verb in Manṣūb
 
-    **لَيسَ كَمِثلِهِ شَيءٌ** (Surah Al-Shūrā 42:11) — "There is nothing like unto Him." — The **مِثل** is necessary because a pronoun follows.
+**يَجْزِيَ** comes from **جَزَى** (a nāqiṣ verb — weak final letter و/ي). When a nāqiṣ verb becomes **manṣūb**, the weak letter (ya') returns:
 
----
+!!! important "Nāqiṣ Verb in Manṣūb: Yā' Returns"
+    Nāqiṣ verbs in the **marfūʿ** muḍāriʿ drop the yā' (e.g. **يَجزِي** → **يَجزِ** with ḍamma). But in the **manṣūb** and **majzūm** forms the yā' comes back: **يَجزِيَ** (fatḥa on yā'). This is a key morphological rule for weak verbs.
 
-## 5. Masābīḥ — Mumnu' Min al-Ṣarf (Muntahā al-Jumūʿ)
+### 3.3 Allah Gives Beyond Their Deeds
 
-**مَصَابِيح** is the plural of **مِصبَاح** (lamp). It is on the pattern **مَفَاعِيل** (*mafāʿīl*):
+Allah does not just give *equivalent* reward — He gives **from His bounty** (*min faḍlihi*), meaning the reward exceeds what the deeds themselves merited:
 
-!!! important "Muntahā al-Jumūʿ — The 'Highest' Plural Patterns"
-    Plural patterns on **مَفَاعِل** and **مَفَاعِيل** are called **مُنتَهى الجُمُوع** (the uttermost plurals) — they are **mamnu' min al-ṣarf** (diptote) because:
-    1. These patterns are already at the "maximum" syllabic weight for Arabic plurals
-    2. No further plural can be derived from them
-    
-    Result: in **majrūr**, they take **fatḥa** (not kasra); they never take tanwīn.
+> **وَيَزِيدَهُم مِّن فَضْلِهِ** — And He increases them from His bounty.
 
-!!! warning "Common Mistake"
-    Wrong answer: "Masābīḥu is mamnu' min al-ṣarf **because** it has no tanwīn."  
-    Correct answer: "Masābīḥu has no tanwīn **because** it is mamnu' min al-ṣarf (specifically because it is on the muntahā al-jumūʿ pattern)."  
-    The tanwīn absence is an **effect** of being mamnu', not the **cause**.
+**وَاللَّهُ يَرزُقُ مَن يَشَاءُ بِغَيرِ حِسَابٍ** — Allah provides for whom He wills without reckoning (without measure or limit).
 
 ---
 
-## 6. Three Types of Al
+## 4. Ayah 39 — The Kafir's Deeds Are a Mirage
 
-| Type | Arabic | Meaning | Example |
+> *"But those who disbelieved — their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allah there, and He will pay him in full his due. And Allah is swift in account."*
+
+### 4.1 Sarāb — The Mirage
+
+**سَرَاب** (*sarāb*) is the optical illusion seen on a flat, scorching plain at midday — the heat haze that looks like shimmering water. The kuffar's deeds resemble this mirage:
+
+!!! example "The Mirage Metaphor"
+    The kāfir performs acts that *look* beneficial to him (charity, generosity, family ties, freeing prisoners of war). He thinks these will avail him. But on the Day of Judgment, when he arrives expecting reward, he finds **لَمْ يَجِدْهُ شَيْئًا** — nothing. No water was ever there.
+
+### 4.2 Allah "Waiting" There
+
+**وَوَجَدَ اللَّهَ عِندَهُ** — *He finds Allah there (waiting for him).*
+
+!!! info "Lying in Wait (Bilāl Imagery)"
+    The image is of a **predator lying in wait** — the way a big cat flattens itself low to the ground, patiently waiting to intercept its prey. For Allah, this means: the reckoning is certain; there is no escape from His retribution. He is already "there" before the person arrives.
+
+### 4.3 Wafā — Full and Complete Payment
+
+**فَوَفَّاهُ حِسَابَهُ** — *He pays him his account in full.*
+
+!!! important "Root و-ف-ي: Complete Payment"
+    **وَفَّاهُ** (Form II) means to pay something **completely and in its entirety** — not partially, not approximately. Allah gives the kāfir exactly what his deeds merit, with nothing withheld and nothing over.
+
+### 4.4 Vocabulary
+
+| Arabic | Root | Form | Meaning |
 |---|---|---|---|
-| 1 | **أَل التَّعرِيف** | Makes a noun definite | **الكِتَاب** — the book |
-| 2 | **أَل الجِنسِيَّة** | Refers to the whole genus | **الإِنسَانُ خُلِقَ ضَعِيفًا** — Man [as a species] was created weak |
-| 3 | **أَل العَهدِيَّة** | Anaphoric — refers back to previously mentioned item | **رَأَيتُ رَجُلًا... الرَّجُلُ كَانَ...** — I saw a man... the man was... |
-
-!!! important "Al ʿAhdiyya Al-Dhikrīyya (Anaphoric Al)"
-    **أَل العَهدِيَّة الذِّكرِيَّة** — when something is mentioned first as indefinite and then referred to again with **أَل**, the second mention is now definite because it has already been introduced in the discourse.
-    
-    In Ayah 35: **مِصبَاحٌ** (indefinite, first mention) → **المِصبَاحُ** (definite, same lamp referred to again).
+| **سَرَاب** | س-ر-ب | Noun | Mirage, heat haze on flat ground |
+| **قِيعَة** | ق-و-ع | Noun | A flat, open plain |
+| **يَحسَبُهُ** | ح-س-ب | Form I | He thinks / supposes it |
+| **وَفَّاهُ** | و-ف-ي | Form II | He paid him fully / completely |
+| **حِسَاب** | ح-س-ب | Noun | Reckoning, account |
+| **سَرِيع** | س-ر-ع | Ism fāʿil | Swift |
 
 ---
 
-## 7. Mishkāt — The Niche
+## 5. Spiritual Lesson: Balancing Khawf and Rajāʾ
 
-**مِشكَاة** — a niche or hollow depression in a wall (not a shelf):
-- The lamp sits *inside* the wall, surrounded by stone on three sides
-- The surrounding walls protect the flame from wind — it cannot be blown out
-- The walls reflect light back, concentrating it
-- Less likely to be knocked over than a lamp on an exposed shelf
+The session discusses the turning of hearts between **hope (رَجَاء)** and **fear (خَوف)** on the Day of Judgment — and how believers must maintain this same balance now:
 
-!!! info "Tafseer Connection"
-    According to many mufassirūn, the mishkāt is compared to the **human chest** because the chest has a similar concave, protecting shape. The Iman/Quran burning inside it is protected by the chest cavity (ribcage/sternum) just as the lamp is protected by the niche.
+!!! tip "Abu Bakr's Statement on Khawf and Rajāʾ"
+    Abu Bakr al-Ṣiddīq (raḍiyallāhu ʿanhu) said:  
+    *"If I knew that every person on Earth would go to Jahannam and only one would enter Jannah, I would have enough hope in my Lord to hope that one person is me.  
+    And if I knew everyone would enter Jannah except one, I would have enough fear of my own deeds to fear that one person is me."*  
+    This is the perfect equilibrium a believer must maintain — neither the despair that leads to paralysis, nor the false comfort that enables sin.
+
+!!! warning "Too Much Fear → Despair"
+    Feeling that Allah will *never* forgive is itself a major sin (loss of hope in Allah's mercy is **qanut al-rahma**). It is not a sign of piety.
+
+!!! warning "Too Much Hope → Recklessness"
+    Excessive rajāʾ without amal leads to complacency in sin — "Allah is merciful, He'll forgive me" as a license to transgress.
+
+The believer is like a **bird with two wings**: both khawf and rajāʾ are needed for flight. Cut either wing and the bird falls.
 
 ---
 
-## 8. Key Lessons
+## 6. Vocabulary Summary
+
+| Arabic | Root | Pattern / Form | Meaning |
+|---|---|---|---|
+| **مَسَاجِد** | س-ج-د | Broken plural (mafāʿil) | Mosques |
+| **تُلهِي** | ل-ه-و | Form IV | To distract |
+| **إِيتَاء** | أ-ت-و | Form IV maṣdar | Giving (zakāh) |
+| **سَرَاب** | س-ر-ب | Noun | Mirage |
+| **وَفَّاهُ** | و-ف-ي | Form II | Paid fully |
+| **خَوف** | خ-و-ف | Noun | Fear |
+| **رَجَاء** | ر-ج-و | Noun | Hope |
+
+---
+
+## 7. Key Lessons from This Session
 
 !!! tip "Summary of Lessons"
-    1. Sentence after **indefinite noun** = naʿt; after **definite noun** = ḥāl.
-    2. **Kāf al-tashbīh** cannot take a pronoun directly — insert **مِثل** first.
-    3. **Masābīḥ** (mafāʿīl pattern) = mamnu' min al-ṣarf; take fatḥa in majrūr, no tanwīn. The pattern is the **cause**; the missing tanwīn is the **effect**.
-    4. **Al ʿahdiyya**: once a noun has been introduced as indefinite, subsequent reference uses al to show "that [same previously mentioned] thing."
-    5. Manqūṣ nouns' yaʾ returns in three scenarios: with al, when manṣūb, when muḍāf.
+    1. The **mafāʿil / mafāʿīl** broken plural pattern does not take kasra — it uses fatḥa even in the genitive case.
+    2. A passive verb always requires a **nāʾib al-fāʿil** (substitute subject) in the marfūʿ position.
+    3. When a nāqiṣ muḍāriʿ becomes manṣūb, the weak letter (yā') returns.
+    4. The kuffar's deeds — no matter how outwardly good — have no weight on the Day of Judgment because they lacked the foundation of faith.
+    5. Allah's payment on the Day of Judgment is *exact* (**wafā'**) — no soul will be wronged even by an atom's weight.
+    6. The believer must hold fear and hope in balance, like two wings of a bird.
 
 ---
 
-*Next session continues with the niche-glass-lamp analysis.*
+*The teacher mentions using the website "read.0.1" (likely Quran reading platform) to cross-check tafsir when uncertain about grammatical analysis.*
+

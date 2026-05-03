@@ -54,7 +54,7 @@ Derived paths:
 
 ---
 
-## Step 1 — Extract the Video ID
+## Step 1 — Extract the Video ID and Fetch the Video Title
 
 Parse the YouTube URL and extract the 11-character video ID. Handle all formats:
 - `https://www.youtube.com/watch?v=VIDEO_ID`
@@ -62,19 +62,39 @@ Parse the YouTube URL and extract the 11-character video ID. Handle all formats:
 - `https://www.youtube.com/embed/VIDEO_ID`
 - `https://www.youtube.com/shorts/VIDEO_ID`
 
+Then fetch the video title:
+```
+cd C:\Users\navee\Documents\projects\pytranscribe && pipenv run yt-dlp --get-title "https://www.youtube.com/watch?v={VIDEO_ID}"
+```
+
+Store the raw video title — it is used in Step 2 to derive the session number and session name.
+
 ---
 
 ## Step 2 — Determine Series Metadata
 
 Read `{Sessions folder}index.md`. From its H1 heading, extract the **series display name** (e.g. `"Surah Al-Hujuraat"`, `"Surah Yusuf"`).
 
-The **output filename** is always `session-{N}.md`.
+**Parse the session number and name from the video title** (the title fetched in Step 1). The Token 3 argument is only a fallback if no number can be found in the title.
+
+- Look for a session/part number pattern in the title, e.g. `Session 14`, `Session 14a`, `Part 3b`, `#7`, `Ep 5`, etc.
+- Extract the **base session number** (digits only, e.g. `14` from `Session 14a`).
+- Extract the **part letter** if present (e.g. `a` from `Session 14a`, `b` from `Part 3b`). If no letter is present, there is no part suffix.
+- Extract the **session subtitle** — the remaining descriptive text in the title after stripping the series name and session/part marker (e.g. `"Munada and its types"` from `"Surah Al-Hujuraat Session 14 — Munada and its types"`). Use this as the human-readable title for the note. If no subtitle is found, derive one from the transcript content after reading it in Step 4.
+- If the user also provided remaining title tokens (Token 4+), prefer those over the video-title-derived subtitle.
+
+**Multi-part sessions (e.g. Session 14a and Session 14b):**
+- Both parts share the same **base session number** (14).
+- The **output filename** is always `session-{base_number}.md` (e.g. `session-14.md`) — the part letter is **never** in the filename.
+- A part letter in the title signals that there may already be a file for this session (from an earlier part). Check whether `session-{base_number}.md` exists before writing.
+
+If no session number can be parsed from the title and no Token 3 was given, stop and ask the user for the session number.
 
 Derive a **short series tag** from the sessions folder name by stripping `-sessions` and converting to lowercase kebab, e.g.:
 - `surah-alhujuraat-sessions` → `surah-hujuraat`
 - `surah-yusuf-sessions` → `surah-yusuf`
 
-And derive a **raw file title** for the transcript: `"{Series Display Name} Study Session {N}"`, e.g. `"Surah Hujuraat Study Session 4"`.
+And derive a **raw file title** for the transcript: `"{Series Display Name} Study Session {N}{part}"`, e.g. `"Surah Hujuraat Study Session 14a"` (include the part letter so the raw file is unique per part).
 
 ---
 
@@ -191,10 +211,22 @@ The main topics covered in this session are:
 
 ## Step 5 — Save the Formatted Session File
 
-Save the formatted content to:
-```
-{Sessions folder}{output filename}
-```
+Check whether `{Sessions folder}{output filename}` already exists:
+
+- **File does not exist** — write the full formatted note as-is.
+- **File already exists** (multi-part scenario, e.g. processing Session 14b after 14a was saved):
+  - Read the existing file.
+  - Do **not** overwrite the frontmatter, H1 heading, or Overview section from the earlier part.
+  - Append the new part's content as additional numbered sections continuing from where the existing sections end (e.g. if the existing file has sections 1–4, the new part starts at section 5).
+  - Add a visible divider before the new part's sections:
+    ```markdown
+    ---
+
+    ## Part {part_letter} — {part subtitle if different}
+    ```
+  - Merge the vocabulary tables from both parts into a single combined **Vocabulary Summary** section at the end.
+  - Update the **Key Lessons** section to include lessons from both parts.
+  - Save the merged file, overwriting the existing one.
 
 ---
 
@@ -207,7 +239,7 @@ Add a new entry in the **Study Sessions** list:
 - [Session {N}]({output filename})
 ```
 
-Insert in ascending session-number order. If the entry already exists, leave it unchanged.
+Insert in ascending session-number order. If the entry already exists (which is expected when processing a later part of a multi-part session), leave it unchanged — do not add a duplicate.
 
 ---
 
@@ -275,7 +307,7 @@ For each **new** topic file, add an entry under the appropriate section:
 
 Format: `- [Display Name](filename.md)`
 
-Insert alphabetically within the section. Do not modify existing entries. If a topic does not fit any existing section, add a new section heading at a sensible location.
+**Alphabetical ordering (mandatory):** After inserting a new entry, re-read all entries in that section and sort them A–Z by the display name (the link text, not the filename). Rewrite the entire section list in sorted order. Apply this to every section that received a new entry. Do not modify entries in sections that did not change. If a topic does not fit any existing section, add a new section heading at a sensible location and apply the same alphabetical sorting to its entries.
 
 ---
 
