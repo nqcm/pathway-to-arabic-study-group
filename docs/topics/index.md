@@ -23,6 +23,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Islam and Iman](islam-iman.md)
 - [Jawab al-Qasam](jawab-al-qasam.md)
 - [Muqattaat](muqattaat.md)
+- [Oaths in the Quran — Introduction](qasam-introduction.md)
 - [Quranic Orthography — The Rasm al-Uthmānī](quranic-orthography.md)
 
 ## Grammar
@@ -44,6 +45,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [إِذَا الفُجَائِيَّة — The Surprise إِذَا](idha-fujaaiyya.md)
 - [ظَنَّ وأخواتها — Ẓanna: Verbs with Two Mafʿūl](zanna-sisters.md)
 - [همزة الوصل vs همزة القطع — The Two Types of Hamza](hamzatul-wasl.md)
+- [حُرُوف القَسَم — Particles of Oath](huruf-al-qasam.md)
 - [Idhafa](mudaf-idafah.md)
 - [إيّا — Detached Naṣb Pronouns](iyyaa-pronouns.md)
 - [جمع المذكر السالم — Sound Masculine Plural](jama-muzakar-salim.md)
@@ -61,6 +63,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](kana-sisters.md)
 - [الخَبَر المُقَدَّم — Fronted Predicate](khabar-mukadam.md)
 - [لَا النَّاهِيَة — The Prohibitive Lā](la-nahiya.md)
+- [لَئِن — The La-In Combination (Oath + Condition)](lain-combination.md)
 - [لَعَلَّ — The Particle of Hope and Fear](laalla.md)
 - [لَامُ المُزَعلَقَة — The Skidding Lam](lam-muzaalaqa.md)
 - [لَام التَّقوِيَة — The Lam of Strengthening](lam-taqwiyah.md)
@@ -78,6 +81,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [al-Munādā — Rules of Calling](munada-nida.md)
 - [نَائِب الفَاعِل — Substitute Subject (Passive Voice)](naib-al-fail.md)
 - [نِعمَ و بِئسَ — Verbs of Praise and Blame](niama-bisa.md)
+- [نُونُ التَّوكِيد — The Noon of Emphasis](nunu-sakhila.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
 - [قَد — The Particle of Certainty and Possibility](qad-particle.md)
 - [صِيغَةُ المُبَالَغَة — Intensive Active Participle](sighat-al-mubalaghah.md)

@@ -19,6 +19,7 @@ The sessions cover Quranic Arabic grammar, morphology, vocabulary, and tafseer �
 
 ## Study Series
 
+- [Oaths in Quran](oaths-in-quran-sessions/index.md) — 3-session workshop on the history, theology, and grammar of Quranic oaths
 - [Selections from the Glorious Quran](selection-sessions/index.md) — Sessions 1–21 covering selected Quranic passages; grammar, tafseer, and vocabulary from Sūrat al-Fātiḥah through Sūrat al-Rūm
 - [Surah Al-Hujuraat](surah-alhujuraat-sessions/index.md) — Full sūrah study
 - [Topics Reference](topics/index.md) — Atomic topic notes on grammar, morphology, and vocabulary
