@@ -49,7 +49,9 @@ Print the ordered list of transcript files that will be processed, then proceed.
 
 ## Per-Transcript Pipeline
 
-For **each transcript file** in the sorted list, run the following steps in order. After finishing all steps for one file, move to the next — do not batch across files.
+For **each transcript file** in the sorted list, run Steps 2–6 in order. After finishing all steps for one file, move to the next — do not batch across files.
+
+The sessions index and MkDocs navigation are **not** updated inside this loop. They are written once after all session files exist (see Post-Pipeline steps below).
 
 ### Step 2 — Parse Session Metadata from Filename
 
@@ -175,18 +177,7 @@ Check whether `{Sessions folder}session-{base_number}.md` already exists:
   - Update the **Key Lessons** section to include lessons from both parts.
   - Save, overwriting the existing file.
 
-### Step 5 — Update the Sessions Index
-
-Read `{Sessions index}`.
-
-Add a new entry in the **Study Sessions** list:
-```markdown
-- [Session {N}](session-{N}.md)
-```
-
-Insert in ascending session-number order. If the entry already exists, leave it unchanged — do not add a duplicate.
-
-### Step 6 — Create or Update Atomic Topic Notes
+### Step 5 — Create or Update Atomic Topic Notes
 
 Re-read the formatted session file. Identify every distinct **grammar rule, morphology pattern, vocabulary root, Quranic concept, or learning methodology** discussed.
 
@@ -233,11 +224,11 @@ Choose a kebab-case filename:
 
 Never duplicate an existing note.
 
-### Step 7 — Update the Topics Index
+### Step 6 — Update the Topics Index
 
 Read `docs/topics/index.md`.
 
-For each **new** topic file created in Step 6, add an entry under the appropriate section:
+For each **new** topic file created in Step 5, add an entry under the appropriate section:
 - `## Grammar`
 - `## Vocabulary and Morphology`
 - `## Roots and Etymology`
@@ -252,28 +243,71 @@ Format: `- [Display Name](filename.md)`
 
 ---
 
+## Post-Pipeline Steps
+
+Run these **once**, after every transcript in the sorted list has been processed through Steps 2–6.
+
+### Step 7 — Write the Sessions Index
+
+Read `{Sessions index}`.
+
+For every session file that was written or updated during this run, read its saved `session-{N}.md` file and extract the **Overview** bullet list (the items under `## Overview`). Condense them into a short comma-separated subtitle (drop filler words; keep Arabic terms and grammar names).
+
+Build the full **Study Sessions** list in ascending session-number order:
+
+```markdown
+- [Session {N}](session-{N}.md) — {subtitle derived from Overview bullets}
+```
+
+Rules:
+- Include **all** sessions that exist in the folder (not just the ones processed in this run) — read any pre-existing entries from the current index and keep them, updating the subtitle only if the session was rewritten in this run.
+- If an entry already exists and the session was **not** touched this run, copy its existing subtitle unchanged.
+- Do not open any raw transcript files at this step — all content comes from the saved `session-{N}.md` files.
+
+**About/intro paragraph:** If the sessions folder is newly created (the index had no Study Sessions list before this run), write a 2–4 sentence intro paragraph under the H1 before the `## Study Sessions` heading. Describe what the series is, what text is studied, and what skill it builds. Do not overwrite an existing intro paragraph.
+
+Save the updated `{Sessions index}`.
+
+### Step 8 — Update MkDocs Navigation
+
+Read `mkdocs.yml` at the project root (`C:\Users\navee\OneDrive\Documents\prod-projects\study-notes\mkdocs.yml`).
+
+Check whether the series already has an entry under the `nav:` key by looking for `{sessions-folder}` in any nav line.
+
+- **Already present** — leave `mkdocs.yml` unchanged.
+- **Not present** — insert a new nav entry immediately **before** the `- Topics:` line, preserving the two-space indent style:
+  ```yaml
+    - {Series Display Name} Sessions: {sessions-folder}/index.md
+  ```
+
+---
+
 ## Final Report
 
-After all transcripts have been processed, output a consolidated report:
+After Steps 7–8 complete, output a consolidated report:
 
 ```
 Done. Processed {total} sessions for {Series Display Name}.
 
-Session {N}: "{title}"
+Session {N}: "{subtitle}"
   NEW   docs/{sessions-folder}/session-{N}.md
-  UPD   docs/{sessions-folder}/index.md
 
-Session {N+1}: "{title}"
+Session {N+1}: "{subtitle}"
   UPD   docs/{sessions-folder}/session-{N+1}.md   ← part b merged
-  UPD   docs/{sessions-folder}/index.md
 
 ...
 
 SKIPPED  Session {X}: session file already existed
-...
 
 Topics (all sessions):
   NEW   docs/topics/{new-topic}.md
   UPD   docs/topics/{existing-topic}.md
   UPD   docs/topics/index.md
+
+Index:
+  UPD   docs/{sessions-folder}/index.md
+
+Navigation:
+  UPD   mkdocs.yml   ← added "{Series Display Name} Sessions"
+  (or SKIPPED mkdocs.yml — series already in nav)
 ```
