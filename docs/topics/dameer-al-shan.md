@@ -74,6 +74,24 @@ When a feminine pronoun **هَا** is used in the same way, it is called **ḍam
 
 ---
 
+## Applied in Sūrat al-Ikhlāṣ
+
+> **قُل هُوَ اللهُ أَحَد**
+
+Two scholarly interpretations of **هُوَ**:
+1. **Normal pronoun** — Allah is answering the question "who is your God?" using a pronoun. **اللهُ** = khabar; **أَحَدٌ** = naʿt.
+2. **ḍamīr al-shaʾn** — "Say: the fact is that Allah is One." Many classical mufassirūn (including Dr. ʿAbd al-Raḥīm) prefer this reading.
+
+## As the ISM of أَنَّ المُخَفَّفَة
+
+When **أَنَّ** is lightened to **أَن**, its ism is always **ḍamīr al-shaʾn** — and it is **always omitted** (its omission is obligatory). Understanding ḍamīr al-shaʾn is therefore essential for understanding أَن المُخَفَّفَة.
+
+> **أَشهَدُ أَن لَا إِلَهَ إِلَّا اللهُ**
+
+Here **أَن** is أَن المُخَفَّفَة; its ism (ḍamīr al-shaʾn = [هُوَ الشَّأنُ]) is omitted; the khabar is the sentence **لَا إِلَهَ إِلَّا اللهُ**.
+
 ## Session References
 
 - Selections from the Glorious Quran Session 16: Full introduction using Hūd 11:36 and Al-Ḥajj 22:46; English parallel (*"It is wrong..."*); distinction between masculine (shaʾn) and feminine (qiṣṣah) forms.
+- At the Well of Madyan Session 7: Deep-dive with English "it is wrong to say so" analogy; application to Sūrat al-Ikhlāṣ (two interpretations of هُوَ); connection to أَن المُخَفَّفَة.
+- At the Well of Madyan Session 8: Revision and examples from Sūrat Yūsuf and Sūrat al-Baqara; rules for أَن المُخَفَّفَة with verbal sentences (four separators required).

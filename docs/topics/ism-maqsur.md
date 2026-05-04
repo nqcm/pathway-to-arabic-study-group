@@ -76,3 +76,4 @@ Context (a third element, or common sense) normally resolves this. Skilled Arabi
 ## Session References
 
 - Surah Al-Hujuraat Session 5: Full iʿrāb exercises with maqṣūr nouns; ambiguity discussion; maqṣūr + diptote analysis with مُوسَى; applied to لِلتَّقوَى in Āyah 3.
+- Selected Ayaat of Surah al-Israa Session 2: Deep explanation of *why* alif cannot take a harakah (alif is a pure vowel); contrast between mabnī and maqṣūr; iʿrāb of مُوسَى and عِيسَى; applied to كِلَا with a noun muḍāf. Poetry of Imam al-Shāfiʿī used as practice.

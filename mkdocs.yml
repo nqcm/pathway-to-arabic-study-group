@@ -35,9 +35,13 @@ extra:
 
 nav:
   - About: index.md
+  - Selections from the Glorious Quran: selection-sessions/index.md
+  - Oaths in Quran: oaths-in-quran-sessions/index.md
   - Surah Al-Hujuraat Sessions: surah-alhujuraat-sessions/index.md
   - Surah An-Noor Sessions: surah-alnoor-sessions/index.md
+  - Surah Al-Israa Sessions: surah-alisraa-sessions/index.md
   - Surah Yusuf Sessions: surah-yusuf-sessions/index.md
+  - Surah Al-Qasas Sessions: surah-alqasas-sessions/index.md
   - Topics: topics/index.md
 
 theme:

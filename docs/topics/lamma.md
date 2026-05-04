@@ -63,3 +63,4 @@ This is an entirely different lammā — a **temporal adverb** meaning "when" or
 
 - Surah Al-Hujuraat Session 16: لَمَّا الجازمة with the example from Āyah 14.
 - Selections from the Glorious Quran Session 7: Both types contrasted; the two-sukūn rule applied; Quranic examples of each.
+- At the Well of Madyan Session 1: لَمَّا الحينية identified in Āyah 23 (*"when he arrived at the water of Madyan"*); اللَّمَّا الجازمة contrasted using Sūrat al-Ḥujurāt 49:14.

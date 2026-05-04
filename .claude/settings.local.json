@@ -4,7 +4,9 @@
       "Bash(pipenv run *)",
       "Bash(where yt-dlp *)",
       "Bash(yt-dlp --version)",
-      "Bash(grep -E \"^d|\\\\.md$\")"
+      "Bash(grep -E \"^d|\\\\.md$\")",
+      "PowerShell(Get-ChildItem \"c:\\\\Users\\\\navee\\\\OneDrive\\\\Documents\\\\prod-projects\\\\study-notes\\\\raw-md-files\" | Where-Object { $_.Name -match \"Israa|isra|Isra\" })",
+      "PowerShell(Rename-Item -Path \"c:\\\\Users\\\\navee\\\\OneDrive\\\\Documents\\\\prod-projects\\\\study-notes\\\\docs\\\\at-the-well-of-madyan-sessions\" -NewName \"surah-alqasas-sessions\")"
     ]
   }
 }
