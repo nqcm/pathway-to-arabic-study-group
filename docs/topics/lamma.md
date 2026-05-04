@@ -59,8 +59,31 @@ This is an entirely different lammā — a **temporal adverb** meaning "when" or
 
 ---
 
+---
+
+## لَمَّا الحِينِيَّة — The Five Forms of the Jawāb
+
+When لَمَّا الحينية is used (the temporal "when"), it binds two past events: the trigger clause and the result (jawāb). The jawāb has five valid forms:
+
+| Form | Description |
+|---|---|
+| 1 | **فِعل مَاضٍ مُثبَت** — affirmative past verb |
+| 2 | **فِعل مَاضٍ مَنفِي بِمَا** — past negated with مَا |
+| 3 | **فِعل مَاضٍ مَنفِي بِلَم** — past negated with لَم |
+| 4 | **جُملَة بِإِذَا الفُجَائِيَّة** — sentence beginning with the surprise إِذَا (*all of a sudden*) |
+| 5 | **جُملَة مَسبُوقَة بِالوَاو** — sentence preceded by the companion wāw |
+
+!!! example "Form 4 — Sūrat al-Aʿrāf"
+    **فَلَمَّا كَشَفنَا عَنهُمُ الرِّجزَ إِذَا هُم يَنكُثُون** — *when We lifted the punishment from them, all of a sudden they broke their word.*
+
+The optional particle **أَن** can appear after لَمَّا الحينية and the following verb; the Basrans call this **أَن الزائدة** because removing it does not change the grammar or meaning.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 16: لَمَّا الجازمة with the example from Āyah 14.
 - Selections from the Glorious Quran Session 7: Both types contrasted; the two-sukūn rule applied; Quranic examples of each.
 - At the Well of Madyan Session 1: لَمَّا الحينية identified in Āyah 23 (*"when he arrived at the water of Madyan"*); اللَّمَّا الجازمة contrasted using Sūrat al-Ḥujurāt 49:14.
+- Both These Lights Session 1: Introduction to لَمَّا الحينية in the migration hadith; five forms of the jawāb introduced.
+- Both These Lights Session 2: Full analysis of all five jawāb forms with Quranic examples.

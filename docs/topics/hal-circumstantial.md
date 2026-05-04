@@ -62,6 +62,33 @@ The process of identifying the ṣāḥib al-ḥāl parallels finding the **ʿā
 
 ---
 
+---
+
+## حَال سَبَبِي — Indirect Ḥāl
+
+The **حَال سَبَبِي** (causal/indirect ḥāl) describes not the ṣāḥibul-ḥāl directly but a noun *connected to it via a pronoun*.
+
+### Agreement Rules for حَال سَبَبِي
+
+| Feature | Rule |
+|---|---|
+| ʾIʿrāb | Manṣūb (always, like all ḥāl) |
+| Number | **Always singular** |
+| Gender | Agrees with **the noun it describes** (not the ṣāḥibul-ḥāl) |
+
+!!! example "Direct ḥāl vs. indirect ḥāl"
+    - **كَلَّمَ المُحَامِي زَيْنَبَ جَالِسَةً** — *The lawyer spoke to Zaynab while she was sitting* (direct: **جَالِسَة** describes Zaynab)
+    - **كَلَّمَ المُحَامِي زَيْنَبَ جَالِسًا أَبُوهَا** — *The lawyer spoke to Zaynab while her father was sitting* (indirect: **جَالِسًا** describes the father, connected to Zaynab via **هَا**)
+
+!!! example "Quranic — Sūrat Ṣād 38:49–50"
+    **جَنَّاتِ عَدنٍ مُفَتَّحَةً لَهُم الأَبوَابُ** — *Gardens of Eden, their doors thrown open* — **مُفَتَّحَةً** is a ḥāl sababī; it describes the doors, which are connected to the jannāt via pronoun.
+
+The contrast with Jahannam (Sūrat al-Zumar 39:71–73) is significant: Jahannam's doors *open* when prisoners arrive (door-opening is an event); Janna's doors are *already open* — the ongoing state of welcome.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Definition of ḥāl and ṣāḥib al-ḥāl; wāw al-ḥāl; application to 49:2.
+- Both These Lights Session 10: Introduction to حَال سَبَبِي in the context of نَعت سَبَبِي; the Quraysh envoys' gifts returned to them.
+- Both These Lights Session 11: Full treatment — rules, examples, Quranic ḥāl sababī in Sūrat Ṣād and al-Zumar.
