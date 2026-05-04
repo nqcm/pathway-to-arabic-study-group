@@ -19,15 +19,15 @@ The sessions cover Quranic Arabic grammar, morphology, vocabulary, and tafseer �
 
 ## Study Series
 
-- [Oaths in Quran](oaths-in-quran-sessions/index.md) — 3-session workshop on the history, theology, and grammar of Quranic oaths
-- [Selections from the Glorious Quran](selection-sessions/index.md) — Sessions 1–21 covering selected Quranic passages; grammar, tafseer, and vocabulary from Sūrat al-Fātiḥah through Sūrat al-Rūm
 - [Surah Al-Hujuraat](surah-alhujuraat-sessions/index.md) — Full sūrah study, Sessions 1–16
 - [Surah An-Noor](surah-alnoor-sessions/index.md) — Full sūrah study, Sessions 1–17
+- [Selections from the Glorious Quran](selection-sessions/index.md) — Sessions 1–21 covering selected Quranic passages; grammar, tafseer, and vocabulary from Sūrat al-Fātiḥah through Sūrat al-Rūm
+- [Oaths in Quran](oaths-in-quran-sessions/index.md) — 3-session workshop on the history, theology, and grammar of Quranic oaths
 - [Surah Al-Israa](surah-alisraa-sessions/index.md) — Selected āyāt of Sūrat al-Isrāʾ
-- [Surah Yusuf](surah-yusuf-sessions/index.md) — Full sūrah study
 - [Surah Al-Qasas](surah-alqasas-sessions/index.md) — Full sūrah study
 - [From Esfahaan to Madinah](from-esfahan-to-madina-sessions/index.md) — Arabic reading series on the hadith of Salmān al-Fārisī, Sessions 1–6
 - [Both These Lights](both-these-lights-sessions/index.md) — Arabic reading series on the hadith of Umm Salama about the first Hijra to Abyssinia, Sessions 1–12
+- [Surah Yusuf](surah-yusuf-sessions/index.md) — Full sūrah study
 - [Topics Reference](topics/index.md) — Atomic topic notes on grammar, morphology, and vocabulary
 
 ---
