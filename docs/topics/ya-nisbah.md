@@ -54,3 +54,4 @@ The **yāʾ that singularises an ism jins jamʿī** looks similar but has a diff
 ## Session References
 
 - Surah An-Noor Session 15: yāʾ al-nisbah introduced in context of **كَوكَبٌ دُرِّيٌّ**; kasra rule; Ibn Mālik's Alfiyya; distinction from the singularising yaʾ of ism jins jamʿī.
+- Surah Yusuf Session 4: **عَرَبِيًّا** in Āyah 2 — العَرَب + yāʾ al-nisbah; functions as naʿt for the jāmid ḥāl قُرآنًا (the mumahhid).

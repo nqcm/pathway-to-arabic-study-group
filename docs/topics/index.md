@@ -31,6 +31,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 ## Grammar
 
 - [Alif al-Fāriqah — The Distinguishing Alif](alif-al-fariqah.md)
+- [أَفعَال المُقَارَبَة والرَّجَاء والشُّروع — Verbs of Proximity, Hope, and Inception](afal-muqaraba.md)
 - [أَن — The Four Types](an-particle-types.md)
 - [الأسماء الخمسة — The Five Special Nouns](five-special-nouns.md)
 - [Arabic Numbers](arabic-numbers.md)
@@ -92,10 +93,12 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [أحوال المضارع — The Three Moods of the Muḍāriʿ](mudari-moods.md)
 - [al-Munādā — Rules of Calling](munada-nida.md)
 - [المُطَابَقَة — Agreement Between Mubtadaʾ/Khabar and Naʿt/Manʿūt](mutabaqa.md)
+- [النَّواسِخ — The Abrogating Agents](nawasikh.md)
 - [النَّعت السَّبَبِي — Indirect Adjective](nat-sababiyy.md)
 - [نَائِب الفَاعِل — Substitute Subject (Passive Voice)](naib-al-fail.md)
 - [نَائِب عن الظَّرف — Elements Deputizing for a Zarf](naib-al-zarf.md)
 - [نِعمَ و بِئسَ — Verbs of Praise and Blame](niama-bisa.md)
+- [نُون العَظَمَة — The Royal/Majestic "We"](nun-al-azamah.md)
 - [نُونُ التَّوكِيد — The Noon of Emphasis](nunu-sakhila.md)
 - [Phonetic Harmony — Assimilation and Iltiqāʾ al-Sākinayn](phonetic-harmony.md)
 - [قَد — The Particle of Certainty and Possibility](qad-particle.md)
@@ -130,6 +133,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Faʿlatun Pattern (فَعْلَة)](faala-pattern.md)
 - [فَاسِق — Three Levels of Disobedience](fasiq-levels.md)
 - [فُعلة Pattern — One Instance of an Action](fuala-pattern.md)
+- [غَفلَة — Heedlessness and Unawareness](ghaflah.md)
 - [الحمد، المدح، والثناء — Praise Words](hamd-vs-madh.md)
 - [Mann — Three Meanings](mann-verb.md)
 - [مَوَدَّة وَرَحمَة — Love and Mercy in Marriage](mawadda-rahma.md)
@@ -139,6 +143,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [التَّصغِير — Diminutives in Arabic](tasgheer.md)
 - [تَابَ — To Repent; Two Prepositions; تَائِب vs تَوَّاب](verb-taba.md)
 - [وَلَد vs. ابن — Biological Offspring vs. Relational "Son"](walad-vs-ibn.md)
+- [الوَحي — Waḥy (Divine Inspiration)](wahiy.md)
 - [Wird and Warada](wird-warada.md)
 
 ## Roots and Etymology

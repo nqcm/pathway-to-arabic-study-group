@@ -62,3 +62,4 @@ This refers to the Bedouin who called out to the Prophet ﷺ in a loud voice —
 ## Session References
 
 - Surah Al-Hujuraat Session 6: Root discussed in context of Āyah 4; Form VIII اِعتَقَلَ and its passive; modern derivative مُعتَقَل; connection to ح-ج-ر (intellect as restraint).
+- Surah Yusuf Session 4: Full Bedouin etymology of ʿiqāl (the camel hobble rope) told in context of لَعَلَّكُم تَعقِلُون (Āyah 2); intellect as *restraint* that prevents one from running off with one's impulses.

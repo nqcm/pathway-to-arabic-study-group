@@ -65,3 +65,4 @@ Example:
 ## Session References
 
 - Surah Al-Hujuraat Session 12: لَعَلَّ introduced in Āyah 10 iʿrāb; structure like إِنَّ; hope vs fear meaning; عَسَى as a related word.
+- Surah Yusuf Session 4: لَعَلَّكُم تَعقِلُون (Āyah 2) — hope meaning; connected to etymology of عَقل from Bedouin camel-rope culture.

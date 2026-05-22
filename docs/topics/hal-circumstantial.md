@@ -87,8 +87,29 @@ The contrast with Jahannam (Sūrat al-Zumar 39:71–73) is significant: Jahannam
 
 ---
 
+## الحَال المُمَهِّد — The Paving Ḥāl (Jāmid Ḥāl with Sifah)
+
+The ḥāl is most often a **mushtaq** (derived) word — ism fāʿil, ism mafʿūl, or ṣifah mushabbahah. However, the ḥāl may also be **jāmid** (non-derived in the grammatical sense — not one of those three patterns).
+
+**Rule:** When the ḥāl is jāmid, it **must** be followed by a **sifah / naʿt** (adjective).
+
+The jāmid ḥāl in this role is called **مُمَهِّد** (mumahhid) — from Form II of م-ه-د (*mahhada*, to pave the way / to smooth):
+
+> The mumahhid is "paving the way" for the adjective that follows it. The mumahhid itself is not the real message; it exists to make the adjective grammatically possible. The adjective (sifah) carries the intended meaning.
+
+!!! example "Sūrat Yūsuf 12:2"
+    > **إِنَّا أَنزَلنَاهُ قُرآنًا عَرَبِيًّا**
+    - **قُرآنًا** = ḥāl, jāmid (Quran is a maṣdar, not ism fāʿil/mafʿūl/ṣifah), therefore a mumahhid
+    - **عَرَبِيًّا** = the sifah that the mumahhid prepared for; the real meaning is "**in Arabic**"
+
+!!! example "Sūrat Maryam 19:17"
+    > **فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا**
+    - **بَشَرًا** = ḥāl, jāmid (a human — not a derived pattern), the mumahhid
+    - **سَوِيًّا** = the sifah; the real message is "a sound/healthy man," not merely "a human"
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Definition of ḥāl and ṣāḥib al-ḥāl; wāw al-ḥāl; application to 49:2.
 - Both These Lights Session 10: Introduction to حَال سَبَبِي in the context of نَعت سَبَبِي; the Quraysh envoys' gifts returned to them.
 - Both These Lights Session 11: Full treatment — rules, examples, Quranic ḥāl sababī in Sūrat Ṣād and al-Zumar.
+- Surah Yusuf Session 4: Mushtaq vs. jāmid ḥāl distinction; the mumahhid concept introduced from Ibn Mālik's Alfiyya (couplet 333); applied to قُرآنًا عَرَبِيًّا in Āyah 2 and بَشَرًا سَوِيًّا in Sūrat Maryam.

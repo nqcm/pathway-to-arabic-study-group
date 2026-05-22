@@ -50,3 +50,4 @@ In the same way:
 ## Session References
 
 - Selections from the Glorious Quran Session 21: نُزُول vs تَنزِيل introduced in context of Sūrat al-Rūm rain imagery; applied to Quran revelation (two-stage explanation).
+- Surah Yusuf Session 4: **أَنزَلنَاهُ** in Āyah 2 — Form IV (anzala) confirms all-at-once revelation; distinction from Form II (nazzala = gradual).

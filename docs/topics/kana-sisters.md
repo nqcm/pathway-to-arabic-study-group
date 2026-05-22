@@ -107,8 +107,13 @@ The khabar of **لَيسَ** may optionally take a **بَاء زَائِدَة**
 
 ---
 
+## Role as Nawāsikh
+
+The kāna sisters are one of the three categories of [[nawasikh]] — agents that enter upon a jumla ismiyyah and abrogate the original mubtadaʾ/khabar relationship. The other two categories are [[afal-muqaraba]] (Kāda and sisters) and [[zanna-sisters]] (Ẓanna and sisters). All three change the iʿrāb and add a dimension of meaning; the kāna sisters add a temporal or stative dimension while leaving the ism marfūʿ.
+
 ## Session References
 
 - Surah Al-Hujuraat Session 9: Full treatment of kāna sisters; contrast with إِنَّ; timeless use with Allah; application in Āyah 6 (أَصبَحَ + نَادِمِين); multiple usages of māḍī verb.
 - Surah Al-Hujuraat Session 13: عَسَى introduced as a special case — nāqiṣ in both ṣarf and naḥw; tāmm vs nāqiṣ forms; khabar always maṣdar muʾawwal.
 - Selections from the Glorious Quran Session 20: لَيسَ khabar with زَائِدَة بَاء demonstrated with a line of Arabic poetry (لَيسَ مَن مَاتَ بِمَيِّتٍ).
+- Surah Yusuf Session 4: Kāna sisters reframed within the nawāsikh framework; contrast with af'āl al-qulūb; use of **كُنتَ** with إنْ mukhaffafah in Āyah 3.
