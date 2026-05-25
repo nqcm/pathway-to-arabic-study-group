@@ -164,6 +164,35 @@ This applies to all nouns, not just **ربّ**.
 
 ---
 
+---
+
+## From Session 5 — يَا أَبَتِ: Replacing Yāʾ with Tāʾ
+
+A special nidāʾ form used with **أَب** and **أُمّ** (and their possessive "my" forms):
+
+When the munādā is **أَبِي** (my father) or **أُمِّي** (my mother), the yāʾ al-mutakallim may be replaced by a **tāʾ** in the vocative:
+
+| Base | Normal (possessive) | Nidāʾ with tāʾ | Meaning |
+|---|---|---|---|
+| **أَب** | **أَبِي** | **يَا أَبَتِ** / **يَا أَبَتَ** | O my father |
+| **أُمّ** | **أُمِّي** | **يَا أُمَّتِ** / **يَا أُمَّتَ** | O my mother |
+
+Both kasra (**يَا أَبَتِ**) and fataḥ (**يَا أَبَتَ**) on the tāʾ are permitted. Both appear in classical Arabic.
+
+!!! important "Condition: Nidāʾ Only"
+    The yāʾ → tāʾ substitution is **exclusively permitted in nidāʾ** (direct address). It cannot be used when referring to a parent in the third person.
+
+    - ✓ **يَا أَبَتِ، انظُر** — O my father, look! (direct address)
+    - ✗ **ذَهَبَ أَبَتِ** — cannot say this for "my father went" → must use **أَبِي**
+
+!!! example "Quranic Occurrence"
+    > **إِذ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيتُ أَحَدَ عَشَرَ كَوكَبًا**
+    > *When Yūsuf said to his father: "O my father, I saw eleven stars…"* (Surah Yusuf 12:4)
+
+Session reference: Surah Yusuf Session 5.
+
+---
+
 ## Related Pages
 
 - [Mudāf Iḍāfah](mudaf-idafah.md)
@@ -173,3 +202,4 @@ This applies to all nouns, not just **ربّ**.
 
 - Session 2/3: Four rules of munādā introduced; يَا أَيُّهَا construction analyzed.
 - Session 14: Five constructions for يَاء المُتَكَلِّم after يَا النِّدَاء; kasra as the clue for dropped yāʾ.
+- Surah Yusuf Session 5: يَا أَبَتِ — yāʾ → tāʾ substitution; condition of nidāʾ only; Quranic example.

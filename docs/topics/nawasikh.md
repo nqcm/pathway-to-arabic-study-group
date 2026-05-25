@@ -88,3 +88,4 @@ The grammatical term **نَسَخَ** shares its root with the theological conce
 ## Session References
 
 - Surah Yusuf Session 4: Full introduction to the nawāsikh framework; three categories defined and contrasted; examples from Sūrat al-Baqarah (permanent vs. temporary laʿnah).
+- Surah Yusuf Session 5: إِنْ المُخَفَّفَة revisited — لَام الفَارِقَة explained; four Quranic examples; condition that only nawāsikh verbs follow إِنْ. See [[in-mukhaffafah]].

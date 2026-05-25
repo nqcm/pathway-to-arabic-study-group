@@ -148,9 +148,33 @@ Note: **بَدَل مُبَاين / غَلَط** (error correction) does not app
 
 ---
 
+---
+
+## From Session 5 — إِذ as Badal Ishtimāl
+
+In Surah Yusuf Āyah 4, **إِذ** can be analysed as a **badal ishtimāl** for the word **قَصَص** (story) from Āyah 3:
+
+> **نَحنُ نَقُصُّ عَلَيكَ أَحسَنَ القَصَصِ** [...] **إِذ قَالَ يُوسُفُ لِأَبِيهِ**
+
+On this analysis, the "best of stories" (القَصَص) and "the moment when Yūsuf spoke to his father" (إِذ قَالَ) are associated — the إِذ clause is contained within the concept of the story. The *when* of the narration IS the substance of what the story is about.
+
+Quranic parallel — Sūrat Maryam:
+
+> **وَاذكُر فِي الكِتَابِ مَرِيمَ إِذِ انتَبَذَت مِن أَهلِهَا مَكَاناً شَرقِيًّا**
+> *And mention in the Book — Maryam — when she withdrew from her family to an eastern place.*
+
+Here **إِذِ انتَبَذَت** is a badal for **مَرِيمَ** — "mention Maryam" means "mention her withdrawing." The إِذ clause specifies the *substance* of what to mention.
+
+The alternative analysis for both examples: **إِذ** as a **mafʿūl fīh** (ẓarf, adverb of time) — grammatically the mudāf ilayh of the ẓarf. Both analyses are mentioned in classical tafsīr and give the same overall meaning.
+
+Session reference: Surah Yusuf Session 5.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Badal introduced to explain why **الَّذِينَ** in **يَا أَيُّهَا الَّذِينَ آمَنُوا** is not the munādā but a badal for **أَيُّ**.
 - Surah Al-Hujuraat Session 11: All four types with detailed examples; Quranic example of badal ishtimāl (السَّاعَة / مُرسَاهَا); note on contested status of fourth type.
 - Surah Al-Hujuraat Session 12: Extended coverage — mubdal minhu terminology; tawābiʿ concept; two rules (iʿrāb follows, definiteness need not); four structural combinations; multiple Quranic examples of badal ishtimāl.
 - Surah An-Noor Session 6: **مِن جِبَالٍ فِيهَا** as badal ishtimāl for **مِنَ السَّمَاءِ** in Ayah 43 — the mountains of clouds are associated with (contained within) the sky, making this an associative substitution.
+- Surah Yusuf Session 5: **إِذ** as badal ishtimāl for **قَصَص** in Āyah 4; parallel from Sūrat Maryam.

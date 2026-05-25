@@ -48,6 +48,38 @@ This is a key rhetorical device in the Quran. (source: [surah_yusuf_session2.md]
 
 ---
 
+### From Session 5 — Surah Yusuf
+
+#### Adjective Stepping Up as the Deputy
+
+The most sophisticated naib al-mafʿūl muṭlaq pattern occurs when an **adjective** completely replaces the maṣdar:
+
+1. Original: verb + maṣdar + adjective → **قَصَّ قَصَصاً أَحسَنَ**
+2. Contracted: adjective steps up → **قَصَّ أَحسَنَ القَصَصِ** (adjective is now manṣūb; maṣdar becomes muḍāf ilayh — majrūr)
+
+The structural shift: the **adjective** takes the manṣūb slot of the mafʿūl muṭlaq; the **actual maṣdar** is pushed aside and becomes a muḍāf ilayh of the adjective.
+
+!!! example "Three Worked Examples"
+    | Full form | Contracted (adjective as deputy) | Gloss |
+    |---|---|---|
+    | **فَهِمتُهُ فَهمًا تَامًّا** | **فَهِمتُهُ تَامَّ الفَهمِ** | I understood it with a completeness of understanding |
+    | **سُرِرتُ سُرُورًا شَدِيدًا** | **سُرِرتُ شَدِيدَ السُّرُورِ** | I was happy with an intensity of happiness |
+    | **شَفَاكَ اللهُ شِفَاءً كَامِلًا** | **شَفَاكَ اللهُ كَامِلَ الشِّفَاءِ** | May Allah give you a complete recovery |
+
+#### Application to Surah Yusuf Āyah 3
+
+> **نَحنُ نَقُصُّ عَلَيكَ أَحسَنَ القَصَصِ**
+
+**أَحسَنَ** is manṣūb. If **القَصَص** = the maṣdar of **قَصَّ** (narration):
+- **أَحسَنَ** = naib mafʿūl muṭlaq (the adjective-deputy)
+- **القَصَصِ** = muḍāf ilayh (the displaced maṣdar, now majrūr)
+
+If **القَصَص** = the content (stories themselves), then **أَحسَنَ القَصَصِ** = mafʿūl bih. Both readings are valid.
+
+Session reference: Surah Yusuf Session 5.
+
+---
+
 ### From Session 3 — Surah Al-Hujuraat
 
 #### Two Key Identifiers

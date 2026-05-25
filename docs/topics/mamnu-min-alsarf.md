@@ -134,8 +134,29 @@ These patterns have **four syllables** with a long vowel near the end, which the
 
 ---
 
+---
+
+### 5. Foreign Proper Name — Two Causes Combining
+
+When a word is both a **proper name** AND **non-Arabic (foreign) in origin**, both causes apply simultaneously — the word is mamʿ min al-ṣarf by a double reason.
+
+!!! example "يُوسُفُ"
+    - Cause 1: **Proper name** (اسم علم)
+    - Cause 2: **Non-Arabic origin** (عَجَمِيّ / عَجَمَة) — a Hebrew/Aramaic name
+
+    Result: **يُوسُفُ** never takes tanwīn and takes fataḥ in majrūr:
+    - Marfūʿ (fāʿil): **قَالَ يُوسُفُ** — Yūsuf said
+    - Majrūr (after preposition): **بِيُوسُفَ** — (fataḥ, not kasra)
+
+    Same rule applies to: **مُوسَى، عِيسَى، إِبرَاهِيم، إِسمَاعِيل، إِسحَاق** — all foreign names with diptote status.
+
+Session reference: Surah Yusuf Session 5.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.
 - Surah Al-Hujuraat Session 5: Additional causes — non-Arabic names (مُوسَى) and verb-pattern nouns (أَحمَد); maqṣūr + diptote combination in iʿrāb exercises.
 - Surah An-Noor Session 2: Mafāʿil pattern correction — **مَسَاجِد** takes fatḥa in majrūr (فِي مَسَاجِدَ).
+- Surah Yusuf Session 5: يُوسُفُ as example of double cause — proper name + non-Arabic origin.
