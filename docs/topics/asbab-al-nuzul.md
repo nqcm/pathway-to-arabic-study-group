@@ -8,7 +8,7 @@
 
 ## Why Context Matters
 
-Understanding context transforms how an āyah lands. The example given in class: (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+Understanding context transforms how an āyah lands. The example given in class: (source: [session-1.md](session-1.md))
 
 > Khubayb ibn ʿAdiy (RA) said: *"I would rather die than allow a thorn to prick the blessed body of the Prophet ﷺ."*
 
@@ -16,7 +16,7 @@ Read alone, this sounds like devotion. Read knowing he said it **while bound to 
 
 ## Asbāb al-Nuzūl vs. Tafsīr
 
-Technically, asbāb al-nuzūl (reasons of revelation) is a distinct discipline from tafsīr (Quranic exegesis). In practice, scholars treat it as essential background and include it in major tafsīr works. (source: [surah_yusuf_session1](surah_yusuf_session1.md))
+Technically, asbāb al-nuzūl (reasons of revelation) is a distinct discipline from tafsīr (Quranic exegesis). In practice, scholars treat it as essential background and include it in major tafsīr works. (source: [session-1](session-1.md))
 
 Reading āyāt without context still provides guidance — but context unlocks a deeper level of understanding.
 

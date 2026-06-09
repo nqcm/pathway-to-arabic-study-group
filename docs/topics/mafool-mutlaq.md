@@ -11,7 +11,7 @@
 1. **Emphasis** — reinforces the action: *سَجَدْتُ سُجُودًا* (I truly prostrated)
 2. **Specification** — limits the action: *سَجَدْتُ سَجْدَةً* (I made one sajda)
 
-(source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+(source: [session-2.md](session-2.md))
 
 ---
 
@@ -21,7 +21,7 @@ When a word *other than* the verb's own maṣdar performs the same function, it 
 
 Example: *سَجَدْتُ وَاحِدَةً* — وَاحِدَةً is not the maṣdar of سَجَدَ but deputizes for سَجْدَةً.
 
-**Example from Surah Yusuf, Ayah 1 study:** (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+**Example from Surah Yusuf, Ayah 1 study:** (source: [session-2.md](session-2.md))
 
 > *مَا يَأْتِيهِمْ ... إِلَّا كَانُوا ... كَثِيرًا*
 
@@ -36,13 +36,13 @@ Moving the mafʿūl (or its deputy) **before** the verb creates **restriction/em
 > *نَعْبُدُكَ* — We worship you (neutral)
 > *إِيَّاكَ نَعْبُدُ* — It is *only* you we worship (mafʿūl before verb = exclusivity)
 
-This is a key rhetorical device in the Quran. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+This is a key rhetorical device in the Quran. (source: [session-2.md](session-2.md))
 
 ---
 
 ## مَا الزَّائِدَة
 
-**مَا الزَّائِدَة** (redundant/extra مَا) is grammatically unnecessary but adds emphasis. The sentence is complete without it; its presence intensifies the meaning. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+**مَا الزَّائِدَة** (redundant/extra مَا) is grammatically unnecessary but adds emphasis. The sentence is complete without it; its presence intensifies the meaning. (source: [session-2.md](session-2.md))
 
 ---
 

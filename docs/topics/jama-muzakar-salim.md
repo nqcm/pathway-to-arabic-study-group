@@ -65,6 +65,41 @@ This is because the nūn in the SMP serves a function similar to tanwīn (markin
 
 ---
 
+## When Is It NOT Used — The Restrictive Conditions (from a Tafsīr Footnote)
+
+A footnote in the tafsīr of Sūrah Yūsuf laid out the conditions more rigorously: **only two categories of اسم may take جمع المذكر السالم** — proper names of men, and adjectives meeting specific criteria. Every other noun defaults to a broken plural.
+
+### Proper Names — Conditions
+
+- Must be the **name of a man** — a human male, never an object or a female (e.g. **زَيْد → زَيْدُونَ**).
+- Names ending in **ة** (e.g. **طَلْحَة**) are disputed:
+
+!!! note "Baṣrī vs. Kūfī Disagreement — see [[arabic-grammar-schools]]"
+    - **Baṣrī school**: not permissible to form a جمع مذكر سالم from such names at all.
+    - **Kūfī school**: permissible — but the **ة is dropped first**, giving **طَلْحُونَ** (not طَلْحَتُونَ).
+
+### Adjectives — Conditions
+
+1. Must **take ة** in the feminine (masculine/feminine distinguished by ة — i.e. it must be مُؤَنَّث-able)
+2. Must **not** be on the pattern **أَفْعَل / فَعْلَاء** (e.g. **أَحْمَر / حَمْرَاء**) — these patterns have their own dedicated plurals
+3. Must **not** be a word used **identically for both genders** (مُشْتَرَك بَين المُذَكَّر والمُؤَنَّث)
+
+!!! example "Why حَائِض, صَبُور, and جَرِيح Are Excluded"
+    - **حَائِض** (a menstruating woman) — used only for females; the masculine/feminine contrast جمع مذكر سالم relies on simply doesn't exist for it.
+    - **صَبُور** (patient) and **جَرِيح** (wounded) — used identically for both genders (**عَبدٌ صَبُورٌ** / **اِمْرَأَةٌ صَبُورٌ**, no extra ة) — so there is no ة-based contrast to build a sound plural on.
+
+!!! important "مُسْلِم — A Clean Example That Satisfies Every Condition"
+    **مُسْلِم** is free of all exclusionary conditions: takes ة in the feminine (**مُسْلِمَة**), is not on the أَفْعَل/فَعْلَاء pattern, and is not shared identically between genders. Hence the regular **مُسلِمُونَ / مُسلِمِينَ**.
+
+!!! question "Open Question — عَلَّامَة (Homework)"
+    A student asked whether **عَلَّامَة** (an exaggerated/intensive form of **عَالِم** — "a great scholar") is excluded for the same reason as صَبُور/جَرِيح (used for both genders). The teacher had not read this directly but suspected it might be the case, and set it as homework for the group — an open thread to revisit.
+
+### هُمْ and جمع المذكر السالم Are Reserved for the Sentient
+
+Beyond morphology, there is a *semantic* restriction worth noting: both **جمع المذكر السالم** and the masculine plural pronoun **هُمْ** are characteristically reserved for **عُقَلَاء** — sentient, rational beings (jinn, angels, humans). When the Qurʾān uses them for inanimate things — e.g. **رَأَيْتُهُمْ لِي سَاجِدِينَ** (Yūsuf 12:4), where **هُمْ** and **سَاجِدِينَ** refer to the stars, sun and moon — it is *raising their status*, attributing to them an act ordinarily only performed by rational beings. This is **not** poetic personification (which has its own distinct grammatical rules in Arabic and is, by nature, imaginative) — the Qurʾān is describing something real. See [[broken-plural-pronoun]] and [[taghlib]] for related pronoun-agreement phenomena.
+
+---
+
 ## Comparison: Sound Plural vs Broken Plural
 
 | Sound Masculine Plural (جمع مذكر سالم) | Broken Plural (جمع مكسر) |
@@ -79,3 +114,4 @@ This is because the nūn in the SMP serves a function similar to tanwīn (markin
 ## Session References
 
 - Selections from the Glorious Quran Session 3: Full explanation with examples from Sūrat al-Fātiḥah vocabulary (ʿĀlam, Ahl, Arḍ, Sanah, Miʾah, Lughah); jāmid vs mushtaqq distinction; exceptions as samāʿī.
+- Surah Yusuf Session 6: Tafsīr-footnote conditions for forming جمع مذكر سالم — proper names (male, Baṣrī/Kūfī dispute on names ending in ة) and adjectives (must take ة, must not be on أَفْعَل/فَعْلَاء, must not be shared between genders); مُسْلِم as the clean example; عَلَّامَة left as an open question; the semantic restriction of هُمْ/جمع مذكر سالم to sentient beings, applied to رَأَيْتُهُمْ لِي سَاجِدِينَ (Āyah 4).

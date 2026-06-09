@@ -41,6 +41,19 @@ Early Arabic writing was done on stone slates and bark — conditions that encou
 
 ---
 
+## The Extra Alif After Fatḥah (for Pausing — وَقْف)
+
+Whenever a word ends in a **fatḥah** (especially **tanwīn fatḥ**) and the recitation **stops** there (وَقْف), Quranic orthography typically writes an **extra alif** after the letter.
+
+!!! note "Silent Until You Pause"
+    This alif is **not pronounced** in continuous recitation (وَصْل) — it only "activates" as an elongation cue when the reciter **stops** on the word. Words ending in **kasrah** or **ḍammah** do **not** receive this extra alif, because there is no need to elongate with an alif sound when pausing on those vowels: *"if you stop here, you will just say [the word as-is] — there is no need for the extra [alif]."*
+
+The teacher illustrated this by comparing two places in the muṣḥaf — one word ending in fatḥah (where the silent alif appears) and another ending in kasrah/ḍammah (where it is absent) — confirming this is a consistent feature of how the Qurʾān is written to guide recitation.
+
+Session reference: Surah Yusuf Session 6 — observed while analysing the formation of **كِيدُوا** (the وَاو receives an alif after it per this convention) and contrasting fatḥah- vs. kasrah/ḍammah-ending words in the muṣḥaf.
+
+---
+
 ## Connection to Tajweed
 
 Many tajweed markings visible above/below letters in the muṣḥaf (e.g., the elongation sign for *madd*) are **later additions** by scholars to assist with correct recitation. The original Uthmānic script had no *tashkīl* (vowel marks) at all.

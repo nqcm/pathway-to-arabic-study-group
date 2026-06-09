@@ -73,7 +73,14 @@ Context (a third element, or common sense) normally resolves this. Skilled Arabi
 
 ---
 
+## رُؤْيَا — Another Maqṣūr + Diptote Noun
+
+**رُؤْيَا** (dream/vision, Yūsuf 12:5) ends in alif maqṣūrah and is also a diptote — exactly like **مُوسَى**. Its case markers are entirely **مُقَدَّر**: it looks the same (**رُؤْيَا**) whether marfūʿ, manṣūb, or majrūr. The teacher emphasised the *underlying reason* once more: alif is a **وَبلَة** (a pure vowel-elongation, not a consonant) and therefore cannot carry **any** ḥarakah — "you cannot put a ḥarakah on top of a ḥarakah." Grammatically, **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** *is* manṣūb (mafʿūl bih of تَقْصُصْ) — the fataḥ is simply muqaddar, hidden beneath the alif. See [[mamnu-min-alsarf]] for the fuller diptote analysis.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 5: Full iʿrāb exercises with maqṣūr nouns; ambiguity discussion; maqṣūr + diptote analysis with مُوسَى; applied to لِلتَّقوَى in Āyah 3.
+- Surah Yusuf Session 6: **رُؤْيَا** analysed as a maqṣūr + diptote noun (alif maqṣūrah hides all case markers); comparison with مُوسَى and زَينَب; applied to **لَا تَقْصُصْ رُؤْيَاكَ** (Āyah 5).
 - Selected Ayaat of Surah al-Israa Session 2: Deep explanation of *why* alif cannot take a harakah (alif is a pure vowel); contrast between mabnī and maqṣūr; iʿrāb of مُوسَى and عِيسَى; applied to كِلَا with a noun muḍāf. Poetry of Imam al-Shāfiʿī used as practice.

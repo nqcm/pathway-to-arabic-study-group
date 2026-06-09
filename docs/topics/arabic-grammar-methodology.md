@@ -6,7 +6,7 @@
 
 ## Grammar as Reverse Engineering
 
-Arabic grammar was **extracted from** the Quran and existing Arabic usage — the language came first, the rules were codified later. This process was initiated (or significantly advanced) by **Abu al-Aswad al-Duʾalī** during the time of ʿAlī ibn Abī Ṭālib (RA). (source: [Surah Yusuf Session 1](surah_yusuf_session1.md))
+Arabic grammar was **extracted from** the Quran and existing Arabic usage — the language came first, the rules were codified later. This process was initiated (or significantly advanced) by **Abu al-Aswad al-Duʾalī** during the time of ʿAlī ibn Abī Ṭālib (RA). (source: [Surah Yusuf Session 1](session-1.md))
 
 The same principle applies across Arabic sciences:
 
@@ -16,15 +16,15 @@ The same principle applies across Arabic sciences:
 
 ## Why Scholarly Disagreements Exist
 
-Because rules were reverse-engineered from real usage, scholars sometimes disagreed on the underlying principle. Tracing origins through phonological change is genuinely ambiguous. See [Ayah](ayah.md) for an example: Sibawayhi and al-Farrāʾ disagree on the root letters of آيَة — both were working from the same evidence, reaching different conclusions. (source: [Surah Yusuf Session 2](surah_yusuf_session2.md))
+Because rules were reverse-engineered from real usage, scholars sometimes disagreed on the underlying principle. Tracing origins through phonological change is genuinely ambiguous. See [Ayah](ayah.md) for an example: Sibawayhi and al-Farrāʾ disagree on the root letters of آيَة — both were working from the same evidence, reaching different conclusions. (source: [Surah Yusuf Session 2](session-2.md))
 
 ## The Quran Cannot Be Grammatically Faulted
 
-Since Arabic grammar was derived *from* the Quran, the Quran cannot violate it. Any apparent "irregularity" is evidence that the rule was not correctly identified — not that the Quran erred. (source: [Surah Yusuf Session 1](surah_yusuf_session1.md))
+Since Arabic grammar was derived *from* the Quran, the Quran cannot violate it. Any apparent "irregularity" is evidence that the rule was not correctly identified — not that the Quran erred. (source: [Surah Yusuf Session 1](session-1.md))
 
 ## Jāhilī Poetry as Linguistic Authority
 
-To establish that a grammatical construction is **permissible**, Arabic grammarians cite **Jāhilī (pre-Islamic) poetry** — the benchmark for uninfluenced Classical Arabic. (source: [Surah Yusuf Session 1](surah_yusuf_session1.md))
+To establish that a grammatical construction is **permissible**, Arabic grammarians cite **Jāhilī (pre-Islamic) poetry** — the benchmark for uninfluenced Classical Arabic. (source: [Surah Yusuf Session 1](session-1.md))
 
 Example: the rule permitting multiple mudāfs to share one mudāf ilayh (see [Mudaf-Idafah](mudaf-idafah.md)) was established via Farazdaq and other Jāhilī poets. This is why studying ancient Arabic poetry is essential for developing linguistic intuition.
 
@@ -40,7 +40,7 @@ A related phenomenon: some maṣdars shifted in common usage to name the thing, 
 | أَكْل (act of eating) | the meal |
 | دَرْس (act of teaching) | the lesson |
 
-(source: [Surah Yusuf Session 2](surah_yusuf_session2.md))
+(source: [Surah Yusuf Session 2](session-2.md))
 
 ## Two Schools of Arabic Grammar: Kūfī and Baṣrī
 

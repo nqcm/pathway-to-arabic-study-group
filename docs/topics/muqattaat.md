@@ -6,7 +6,7 @@
 
 ## What Are They?
 
-The **Muqattaʿāt** (المقطعات) — also called **Hurūf Muqattaʿah** (حروف مقطعة) or **Hurūf al-Awā'il** (حروف الأوائل) — are the isolated letters appearing at the beginnings of certain sūrahs. Examples: الم (Alif-Lām-Mīm), يس (Yā-Sīn), ق (Qāf), الر (Alif-Lām-Rā). (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+The **Muqattaʿāt** (المقطعات) — also called **Hurūf Muqattaʿah** (حروف مقطعة) or **Hurūf al-Awā'il** (حروف الأوائل) — are the isolated letters appearing at the beginnings of certain sūrahs. Examples: الم (Alif-Lām-Mīm), يس (Yā-Sīn), ق (Qāf), الر (Alif-Lām-Rā). (source: [session-3.md](session-3.md))
 
 ---
 
@@ -20,7 +20,7 @@ The **Muqattaʿāt** (المقطعات) — also called **Hurūf Muqattaʿah** (
 1. **Intensification or repetition** of the action
 2. **Making a verb transitive** — e.g. _ʿalima_ (to know) → _ʿallama_ (to teach / make someone know)
 
-Later in Sūrah Yūsuf, the wife of the ʿAzīz _ghallaqat al-abwāb_ (closed the doors) uses Form II — not because she slammed one door intensely, but because she closed **all** the doors one by one: repetition across multiple objects. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+Later in Sūrah Yūsuf, the wife of the ʿAzīz _ghallaqat al-abwāb_ (closed the doors) uses Form II — not because she slammed one door intensely, but because she closed **all** the doors one by one: repetition across multiple objects. (source: [session-3.md](session-3.md))
 
 ---
 
@@ -28,7 +28,7 @@ Later in Sūrah Yūsuf, the wife of the ʿAzīz _ghallaqat al-abwāb_ (closed th
 
 There are **28 letters** in the Arabic alphabet. Exactly **half — 14 letters** — appear as Muqattaʿāt across the Quran.
 
-**Notable observation:** Where there are pairs of similar letters (dotted and undotted), **only the undotted versions** appear as Muqattaʿāt. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+**Notable observation:** Where there are pairs of similar letters (dotted and undotted), **only the undotted versions** appear as Muqattaʿāt. (source: [session-3.md](session-3.md))
 
 These 14 letters have been collected by classical scholars into a memorisation phrase (a tool for memorisation, not a meaningful sentence).
 
@@ -48,7 +48,7 @@ The Muqattaʿāt appear in **29 sūrahs**. For the grammar of saying "29 sūrahs
 | Four letters (4) | المص، المر | 2 sūrahs |
 | Five letters (5) | كهيعص، حمعسق | 1 sūrah each |
 
-**Al-Ḥawāmīm (الحواميم):** The sūrahs beginning with _Ḥā-Mīm_ (حم) are collectively known by this name. (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+**Al-Ḥawāmīm (الحواميم):** The sūrahs beginning with _Ḥā-Mīm_ (حم) are collectively known by this name. (source: [session-3.md](session-3.md))
 
 ---
 
@@ -66,7 +66,7 @@ The Muqattaʿāt appear in **29 sūrahs**. For the grammar of saying "29 sūrahs
    - Example: الر (Alif-Lām-Rā) in Sūrahs Yūnus, Hūd, Yūsuf, Ibrāhīm, Al-Ḥijr
    - This exception covers **6 sūrahs**
 
-(source: surah_yusuf_session3.md)
+(source: session-3.md)
 
 ---
 

@@ -68,7 +68,20 @@ The wife of the minister called Yūsuf (AS) to come out before the women who had
 
 ---
 
+## Example: كَادَ + لَام (Sūrah Yūsuf 12:5)
+
+**Normal usage**: **كَادَ** (to plot/scheme) is inherently transitive — it can take its object **directly**, with no preposition:
+> *كَادَهُ* — He plotted against him
+
+**Taḍmīn in Yūsuf 12:5**:
+> **فَيَكِيدُوا لَكَ كَيْدًا** — *"…lest they devise against you a plan"*
+
+Here **كَادَ** takes its object through **لَام** rather than directly — an unusual construction that signals the verb is "fortified" with the implied meaning of **كَايَدَ** (Form III — to conspire/connive against). The combined sense: *"they will not merely plot — they will plot, conspire, and connive against you."* The implied second verb enriches the single expression with a doubled meaning, and the indefinite **كَيْدًا** (tanwīn) adds further emphasis ("a great plot").
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 6: Introduced in analysis of **حَتَّى تَخرُجَ إِلَيهِم** (Āyah 4); cross-referenced with Sūrah Yūsuf; instructor noted the formal grammar term was not recalled but the concept was demonstrated.
 - Selections from the Glorious Quran Session 21: سَكَنَ + إِلَى (incorporates مَالَ إِلَى); رَأَى + إِلَى (incorporates نَظَرَ إِلَى).
+- Surah Yusuf Session 6: كَادَ + لَام in **فَيَكِيدُوا لَكَ كَيْدًا** (Āyah 5) — the لَام signals the implied second verb كَايَدَ, doubling the richness of the meaning.

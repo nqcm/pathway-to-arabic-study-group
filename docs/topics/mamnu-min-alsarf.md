@@ -154,6 +154,21 @@ Session reference: Surah Yusuf Session 5.
 
 ---
 
+### 6. Alif Maqṣūrah Ending — Why the Diptote "Disappears" From View
+
+A word ending in **alif maqṣūrah** (ـَى or ـَا) is a diptote whose case markers can never actually be *seen* — because **alif is not a consonant; it is a وَبلَة (a pure vowel-elongation, a "wobble")**. Unlike **وَاو** and **يَاء** — which double as both consonants and long vowels, and so can carry a ḥarakah (a fataḥ on a wāw is read "wa") — alif carries **no sound of its own** and cannot bear **any** ḥarakah on top of it (you cannot place a ḥarakah on a ḥarakah).
+
+!!! example "زَينَب vs. مُوسَى vs. رُؤْيَا"
+    - **زَينَب** — diptote, but ends in a regular consonant, so the case markers **show**: زَينَبُ / زَينَبَ / زَينَبَ
+    - **مُوسَى** — diptote AND ends in alif maqṣūrah, so the markers **never show**: مُوسَى looks identical in marfūʿ, manṣūb, majrūr
+    - **رُؤْيَا** (Yūsuf 12:5) — same situation as مُوسَى: it *is* grammatically a diptote (manṣūb/majrūr would be fataḥ), but the alif hides this completely
+
+    *"If you peel back that layer and look inside, مُوسَى is not actually marfūʿ-looking — it's just that nothing shows because of this alif."*
+
+Session reference: Surah Yusuf Session 6 — applied to **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** (Āyah 5); cross-referenced with [[ism-maqsur]].
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.

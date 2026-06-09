@@ -23,6 +23,9 @@ markdown_extensions:
       toc_depth: 2
 
 extra:
+  analytics:
+    provider: google
+    property: G-717RXP4FE8
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/nqcm/pathway-to-arabic-study-group

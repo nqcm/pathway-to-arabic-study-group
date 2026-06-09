@@ -10,18 +10,36 @@ A **tamyiz** (تمييز) is a noun that removes ambiguity by specifying the mea
 
 ---
 
-## Tamyiz in Numbers (11-99)
+## Two Fixed Properties
 
-For numbers 11 through 99 (excluding round tens), the counted noun appears as tamyiz and follows this pattern:
+A tamyīz is **always**:
 
-- **Singular** in form
-- **Mansub (accusative)** in case
+- **Singular** (مُفرَد) — never plural in form
+- **Manṣūb** (نَكِرَة مَنصُوبَة) — an indefinite noun in the accusative
 
-Example:
+It can occur after numbers, but also after comparatives and other constructions where ambiguity needs resolving — e.g. *"I am bigger than you"* is ambiguous until a tamyīz specifies *in what way* ("in age," "in height," etc.).
 
-> _Tis'un wa 'ishruna suratan_ - "29 surahs"
+---
 
-Here _suratan_ is the tamyiz: singular and mansub.
+## Tamyiz Across All Number Ranges (Complete — Surah Yusuf Session 6)
+
+The *form of the tamyīz word itself* is always singular and manṣūb — but what counts as the **maʿdūd's** plurality and case **shifts by number range**:
+
+| Number Range | Maʿdūd Form | Maʿdūd Case | Example |
+|---|---|---|---|
+| **1–2** | No separate tamyīz — the number is a صِفَة describing the maʿdūd | — | **كِتَابٌ وَاحِدٌ** |
+| **3–10** | Plural | Majrūr | **سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ** — seven nights and eight days |
+| **11–19** (compound numbers) | Singular | Manṣūb | **أَحَدَ عَشَرَ كَوكَبًا** — eleven heavenly bodies |
+| **20–90 (العُقُود)** | Singular | Manṣūb | **تِسْعَةً وَتِسعِينَ نَعجَةً** — ninety-nine ewes |
+| **100, 1000** | Singular | Majrūr | **مِائَةَ شَاةٍ** — a hundred ewes |
+
+!!! important "99 Ewes — A Subtle Trap"
+    In **تِسْعَةً وَتِسعِينَ نَعجَةً**, **نَعجَةً** is manṣūb because it is tamyīz of **تِسعِينَ** (the tens/ʿuqūd part) — *not* of **تِسْعَةً** (which alone, per the 3–10 rule, would call for a plural majrūr tamyīz). When units and tens are joined by **وَ**, the **tens** govern the tamyīz.
+
+!!! example "Singular Tamyīz, Plural English Translation"
+    > **اثْنَا عَشَرَ شَهْرًا** — *"twelve months"* — **شَهْرًا** is singular in Arabic though the English gloss uses a plural; this is the regular behaviour for compound numbers 11–19.
+
+For 1 and 2, see [Arabic Numbers](arabic-numbers.md) — the number itself functions as an adjective (صِفَة) describing the counted noun, with no separate tamyīz word required.
 
 ---
 

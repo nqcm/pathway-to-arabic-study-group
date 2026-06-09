@@ -9,7 +9,7 @@
 - **Sayyidah Khadijah (RA)** — his wife and first supporter
 - **Abu Talib** — his uncle and protector
 
-The siege of Shiʿb Abi Talib (three years of economic boycott and exile) had ended shortly before, adding to this period of accumulated hardship. (source: [Surah Yusuf Session 1](surah_yusuf_session1.md))
+The siege of Shiʿb Abi Talib (three years of economic boycott and exile) had ended shortly before, adding to this period of accumulated hardship. (source: [Surah Yusuf Session 1](session-1.md))
 
 It was during this period that [Surah Yusuf](surah-yusuf_overview.md) was revealed — a direct message of consolation and hope, mirroring the Prophet ﷺ's situation through the story of Yusuf (AS). The surah was also a foreshadowing of Hijra: just as Yusuf left his homeland and ultimately prevailed, the Prophet ﷺ would leave Makkah and return triumphant.
 

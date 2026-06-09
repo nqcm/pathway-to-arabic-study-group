@@ -6,13 +6,13 @@
 
 ## Theme
 
-One-word summary: **hope and trust in Allah**. Yusuf (AS) and Ya'qūb (AS) maintained complete reliance on Allah through kidnapping, false accusation, imprisonment, and grief. Ya'qūb (AS) repeatedly tells his sons never to despair of Allah's mercy. (source: surah_yusuf_session1.md)
+One-word summary: **hope and trust in Allah**. Yusuf (AS) and Ya'qūb (AS) maintained complete reliance on Allah through kidnapping, false accusation, imprisonment, and grief. Ya'qūb (AS) repeatedly tells his sons never to despair of Allah's mercy. (source: session-1.md)
 
-The central message: imān gives a person an unshakeable inner foundation. Yusuf (AS) emerged from years of imprisonment not broken, but confident — going straight to the king and asking to be put in charge of the treasuries (12:55). ʿUmar ibn al-Khaṭṭāb (RA) used to recite Surah Yusuf in Fajr and ʿIshāʾ and weep, especially at: *"I complain of my sadness and grief only to Allah."* (12:86). (source: surah_yusuf_session1.md)
+The central message: imān gives a person an unshakeable inner foundation. Yusuf (AS) emerged from years of imprisonment not broken, but confident — going straight to the king and asking to be put in charge of the treasuries (12:55). ʿUmar ibn al-Khaṭṭāb (RA) used to recite Surah Yusuf in Fajr and ʿIshāʾ and weep, especially at: *"I complain of my sadness and grief only to Allah."* (12:86). (source: session-1.md)
 
 ## Context of Revelation
 
-Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-huzn](aam-al-huzn.md). It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-huzn](aam-al-huzn.md). It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: [session-1.md](session-1.md))
 
 ### Why Revealed at This Time
 
@@ -20,11 +20,11 @@ Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-
 2. **Foreshadowing Hijra** — Yusuf's journey from Canaan to Egypt prefigured the Prophet ﷺ's departure from Makkah and eventual triumph.
 3. **Banu Isra'il context** — After Hijra, the audience included Jews of Madinah. Yusuf's story begins the lineage of Banu Isra'il in Egypt that would culminate with Musa (AS).
 
-(source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+(source: [session-1.md](session-1.md))
 
 ## Unique Narrative Structure
 
-Surah Yusuf is the **only surah** in the Quran where a prophet's story is told in complete chronological order within a single surah. The closest parallel is Musa (AS) across Surah Taha and Surah al-Qasas. Yusuf (AS) marks the **beginning** of Banu Isra'il's life in Egypt; Musa (AS) marks the **end**. (source: surah_yusuf_session1.md)
+Surah Yusuf is the **only surah** in the Quran where a prophet's story is told in complete chronological order within a single surah. The closest parallel is Musa (AS) across Surah Taha and Surah al-Qasas. Yusuf (AS) marks the **beginning** of Banu Isra'il's life in Egypt; Musa (AS) marks the **end**. (source: session-1.md)
 
 ## Two Personalities in One Surah
 
@@ -34,7 +34,7 @@ Surah Yusuf is the **only surah** in the Quran where a prophet's story is told i
 | Unbroken by prison or slander | Has lost his sight through weeping |
 | Approaches the king with total confidence | Yet his trust in Allah never wavers |
 
-The Prophet ﷺ embodied both personalities: the proactive leader and the deeply trusting heart. (source: surah_yusuf_session1.md)
+The Prophet ﷺ embodied both personalities: the proactive leader and the deeply trusting heart. (source: session-1.md)
 
 ## Parallels Between Yusuf (AS) and the Prophet ﷺ
 
@@ -46,11 +46,11 @@ The Prophet ﷺ embodied both personalities: the proactive leader and the deeply
 | Said: "No blame on you today — may Allah forgive you" (12:92) | Quoted this exact ayah at the Conquest of Makkah |
 | Complained to Allah of his sorrow | Said similar words after Ta'if, shoe filled with blood |
 
-(source: surah_yusuf_session1.md)
+(source: session-1.md)
 
 ## Opening Letters
 
-Sūrah Yūsuf opens with the [muqattaat](muqattaat.md) **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [types-of-al](types-of-al.md). (source: [surah_yusuf_session3.md](surah_yusuf_session3.md))
+Sūrah Yūsuf opens with the [muqattaat](muqattaat.md) **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [types-of-al](types-of-al.md). (source: [session-3.md](session-3.md))
 
 ## Related pages
 
@@ -60,6 +60,6 @@ Sūrah Yūsuf opens with the [muqattaat](muqattaat.md) **الر** (Alif-Lām-Rā
 - [arabic-grammar-methodology](arabic-grammar-methodology.md)
 - [types-of-al](types-of-al.md)
 - [muqattaat](muqattaat.md)
-- [surah-yusuf-session1](surah_yusuf_session1.md)
-- [surah-yusuf-session2](surah_yusuf_session2.md)
-- [surah-yusuf-session3](surah_yusuf_session3.md)
+- [surah-yusuf-session1](session-1.md)
+- [surah-yusuf-session2](session-2.md)
+- [surah-yusuf-session3](session-3.md)

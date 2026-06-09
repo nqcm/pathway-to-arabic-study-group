@@ -100,4 +100,5 @@ Add "absolutely" or "whatsoever" in English to approximate the force.
 ## Session References
 
 - Surah Al-Hujuraat Session 2: Detailed analysis of **لَا تُقَدِّمُوا** from Āyah 1 — lā nāhiya vs lā nāfiyah, jazm effect, nūn niswah exception.
+- Surah Yusuf Session 6: **لَا تَقْصُصْ** (Yūsuf 12:5, Yaʿqūb's words to Yūsuf) — لَا النَّاهِيَة + تَقْصُصْ in مَجْزُوم (sukūn marker); Yaʿqūb gently instructs his son not to relate the dream to his brothers.
 - Selections from the Glorious Quran Session 7: Lā nafiyah lil-jins introduced from **لَا طَاقَةَ لَنَا** (Al-Baqarah 2:249); comparison with ordinary negation.

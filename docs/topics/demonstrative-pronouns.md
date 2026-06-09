@@ -5,7 +5,7 @@
 
 ## Structure of تِلْكَ
 
-**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: [session-2.md](session-2.md))
 
 | Part | Element | Function |
 |---|---|---|
@@ -22,11 +22,11 @@
 | تِلْكُمْ | addressing a group |
 | تِيكَ | without lām al-buʿd (shorter distance) |
 
-*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: [session-2.md](session-2.md))
 
 ## Resolving the Two Sukūns in تِلْكَ
 
-When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: [surah_yusuf_session2.md](surah_yusuf_session2.md))
+When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: [session-2.md](session-2.md))
 
 When lām does not enter, **تِيكَ** remains as is.
 

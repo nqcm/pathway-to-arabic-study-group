@@ -6,7 +6,7 @@
 
 ## What Are the Qirā'āt?
 
-The **qirā'āt** (قِرَاءَات, singular: قِرَاءَة) are the established, transmitted ways of reciting the Quran. They differ in pronunciation, vowelization, and occasionally in wording — all tracing back through reliable chains of transmission to the Prophet ﷺ. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+The **qirā'āt** (قِرَاءَات, singular: قِرَاءَة) are the established, transmitted ways of reciting the Quran. They differ in pronunciation, vowelization, and occasionally in wording — all tracing back through reliable chains of transmission to the Prophet ﷺ. (source: [session-1.md](session-1.md))
 
 ## Yusuf's Name Across Recitations
 
@@ -15,7 +15,7 @@ The name يُوسُف is pronounced differently across the qirā'āt:
 - Most recitations: **يُوسُف** (with wāw)
 - Qirā'ah of **Hishām ibn ʿAmmār** (a Shāmī/Levantine recitation): **يُؤسُف** (with hamzah)
 
-This reflects the fact that Yusuf is a Hebrew name that entered Arabic and adapted phonetically, producing six possible pronunciations based on variation in the middle letter. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+This reflects the fact that Yusuf is a Hebrew name that entered Arabic and adapted phonetically, producing six possible pronunciations based on variation in the middle letter. (source: [session-1.md](session-1.md))
 
 ## Regional Distribution
 
@@ -28,7 +28,7 @@ This reflects the fact that Yusuf is a Hebrew name that entered Arabic and adapt
 
 ## Why Ḥafṣ ʿan ʿĀṣim Is the Global Standard
 
-When the Ottoman caliphate established the first Islamic printing press in Istanbul, the **Ḥafṣ** recitation was the locally dominant one. It was therefore the recitation printed and distributed across the Muslim world — making it the de facto standard by historical accident. (source: [surah_yusuf_session1.md](surah_yusuf_session1.md))
+When the Ottoman caliphate established the first Islamic printing press in Istanbul, the **Ḥafṣ** recitation was the locally dominant one. It was therefore the recitation printed and distributed across the Muslim world — making it the de facto standard by historical accident. (source: [session-1.md](session-1.md))
 
 This is a case where geography of a printing press shaped global religious practice.
 

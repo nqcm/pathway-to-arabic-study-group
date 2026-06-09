@@ -9,15 +9,26 @@ In Arabic, the noun being counted — called the **maʿdūd** (المعدود) �
 
 ---
 
-## Rules by Number Range
+## Rules by Number Range — Complete Picture (as of Surah Yusuf Session 6)
 
-| Number Range | Maʿdūd Form |
-|---|---|
-| 1–2 | Their own rules |
-| 3–9 | Plural, opposite gender to the number |
-| Multiples of 10 (10, 20, 30…) | Their own rules |
-| **11–99 (excluding multiples of 10)** | **Singular, mansūb (accusative) — tamyīz** |
-| 100, 1000+ | Their own rules |
+| Number Range | Tamyīz Form | Tamyīz Case | Example |
+|---|---|---|---|
+| **1–2** | No separate tamyīz — number itself is a صِفَة describing the maʿdūd | — | **كِتَابٌ وَاحِدٌ**, **كِتَابَانِ (اثْنَانِ)** |
+| **3–10** | Plural | Majrūr | **سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ** |
+| **11–19** (compound, mabnī) | Singular | Manṣūb | **أَحَدَ عَشَرَ كَوكَبًا** (Yūsuf 12:4) |
+| **20–90 (الْعُقُود)** | Singular | Manṣūb | **تِسْعَةً وَتِسعِينَ نَعجَةً** |
+| **100 (مِئَة), 1000 (أَلْف)** | Singular | Majrūr | **مِائَةَ شَاةٍ** |
+
+!!! important "99 — Why نَعجَةً Is Manṣūb, Not Majrūr"
+    In **تِسْعَةً وَتِسعِينَ نَعجَةً** (99 ewes), **نَعجَةً** is manṣūb because it is the tamyīz of **تِسعِينَ** — the ʿuqūd (tens) component of the compound — **not** because of **تِسْعَةً** (the units digit, which alone would call for a *plural majrūr* tamyīz per the 3–10 rule). When units and tens are joined by **وَ**, the tamyīz takes its cue from the **tens** part.
+
+!!! note "أَلْفَاظ العُقُود — A Special Name for the Tens"
+    The multiples of ten (عِشْرُون، ثَلَاثُون، …) follow the **جَمع** pattern and carry a special collective name: **أَلْفَاظ العُقُود**. There is a story behind why they are called this — left for a future session.
+
+!!! example "Singular Tamyīz Despite an English Plural Translation"
+    > **إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا** — *"the number of months with Allah is twelve months"*
+
+    **شَهْرًا** is singular even though the English translation says "months" — because it follows a compound number (11–19 family).
 
 ---
 
