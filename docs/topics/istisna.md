@@ -103,9 +103,15 @@ The mustasna minhu is **absent** (understood from context). Analyze as if **إل
 > **فَمَن شَرِبَ مِنهُ فَلَيسَ مِنِّي ... إلَّا مَنِ اغتَرَفَ غُرفَةً بِيَدِه**
 > *(Al-Baqarah 2:249)* — Tāmm mūjab; **مَن** = manṣūb.
 
+!!! example "Tāmm Munqaṭiʿ — Ibrāhīm and the Idols"
+    > **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ** *(Al-Shuʿarāʾ 26:77)* — Ibrāhīm (عَلَيهِ السَّلَام), of the idols he debated with his people about: *"Indeed, they are enemies to me, except the Lord of the worlds."*
+
+    Allah is not an idol — He does not belong to the group **عَدُوّ** at all, so this is **مُنقَطِع**, exactly like **وَصَلَ الضُّيُوفُ إلَّا أَمتِعَتَهُم** above. A literal English rendering ("they are my enemies, except the Lord of the worlds") sounds confusing precisely because English has no real equivalent of this construction — see [[aduww-enemy]] for a comparison of five published translations that each resolve the awkwardness differently.
+
 ---
 
 ## Session References
 
 - Selections from the Glorious Quran Session 6: Full introduction — terminology, taxonomy chart, all four cases with examples; applied to Tālūt passage; reminder that grammar is a tool requiring application.
 - Selections from the Glorious Quran Session 6b: Continuation with more examples and exercises.
+- Surah Yusuf Session 7: Tāmm munqaṭiʿ identified in إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ; five-translation comparison illustrating why literal English renderings of منقطع exceptions feel awkward.

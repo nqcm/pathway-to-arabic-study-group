@@ -193,13 +193,33 @@ Session reference: Surah Yusuf Session 5.
 
 ---
 
+---
+
+## From Surah Yusuf Session 7 — يَا بُنَيَّ: Munādā + Muḍāf to يَاء المُتَكَلِّم
+
+**بُنَيَّ** (the diminutive of اِبْن, see [[tasgheer]]) is simultaneously a munādā (called with يَا) **and** a muḍāf to **يَاء المُتَكَلِّم** ("my"). For this combination, the grammarians record several permissible final forms — the teacher cited the classical reference, a couplet from the **أَلْفِيَّة (Alfiyyah)** of Ibn Mālik:
+
+| # | Form | What Happens |
+|---|---|---|
+| 1 | **بُنَيِّ** | يَاء kept, with kasra |
+| 2 | **بُنَيَّ** | يَاء kept, with fataḥ — the form used in Yūsuf 12:5 |
+| 3 | **بُنَيْ** | يَاء dropped; sukūn remains |
+| 4 | **بُنَيَّا** | يَاء dropped; compensated with alif |
+
+!!! note "Not Every Word Takes All Five Forms"
+    For a word like **بُنَيّ**, going beyond these forms risks piling up too many يَاءs and أَلِفs at once — *"I have never come across [a further form] in بُنَيا; I stand subject to correction."* This is the same five-form family already documented above (§ "From Session 14") using **رَبِّ**, and in [[tasgheer]] — Sūrat Yūsuf supplies a fresh, more morphologically intricate test case because بُنَيّ is *also* a diminutive.
+
+---
+
 ## Related Pages
 
 - [Mudāf Iḍāfah](mudaf-idafah.md)
 - [Surah Al-Hujuraat Session 2](../surah-alhujuraat-sessions/session-2.md)
+- [[tasgheer]]
 
 ## Session References
 
 - Session 2/3: Four rules of munādā introduced; يَا أَيُّهَا construction analyzed.
 - Session 14: Five constructions for يَاء المُتَكَلِّم after يَا النِّدَاء; kasra as the clue for dropped yāʾ.
 - Surah Yusuf Session 5: يَا أَبَتِ — yāʾ → tāʾ substitution; condition of nidāʾ only; Quranic example.
+- Surah Yusuf Session 7: يَا بُنَيَّ as munādā + muḍāf to يَاء المُتَكَلِّم; four-of-five forms applied to a diminutive; Alfiyyah couplet cited.

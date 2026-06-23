@@ -75,6 +75,27 @@ The idghām in muda'af verbs follows the same phonological rule (iltiqāʾ al-s�
 
 ---
 
+## From Surah Yusuf Session 7 — Further Examples in the Mudāriʿ Majzūm
+
+!!! note "Which Form Is More Common in Practice?"
+    Beyond "both forms are equally correct," the teacher added a usage note: breaking the idghām and reverting to the **default/original** form is, in practice, the **more common** choice in everyday usage — even though grammar permits either.
+
+The amr/jussive of several more geminate verbs appeared in sequence while studying Mūsā's duʿāʾ in Sūrat Ṭāhā and elsewhere:
+
+| Root | Verse | Form Shown | Meaning |
+|---|---|---|---|
+| ح-ل-ل | **وَاحْلُلْ عُقدَةً مِّن لِّسَانِي** (Ṭāhā 20:27) | broken idghām (اِحلُل) | "untie the knot from my tongue" — Mūsā's duʿāʾ for eloquence |
+| ش-د-د | **اشدُد بِهِ أَزرِي** (Ṭāhā 20:31) | broken idghām (اشدُد) | "reinforce my strength through him [Hārūn]" |
+| م-س-س | **وَلَم يَمسَسنِي بَشَرٌ** (Maryam 19:20) | broken idghām, jazm via لَم | "no man has touched me" — Maryam's protest |
+| م-س-س | **وَإِن يَمسَسكَ اللَّهُ بِضُرٍّ** (al-Anʿām 6:17) | broken idghām, jazm via إِن (conditional) | "if Allah were to touch you with harm" |
+| ض-ل-ل | **وَمَن يُضلِلِ اللَّهُ فَمَا لَهُ مِن هَادٍ** (recurring refrain) | broken idghām, jazm via مَن (conditional) | "whomever Allah sends astray, there is no guide for him" |
+| ش-ق-ق | **وَمَن يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ العِقَاب** | idghām kept (Form III) | "whoever opposes Allah — Allah is severe in punishment" |
+
+These extend the original غَضَّ/حَلَّ pair with a fuller run of Quranic jussive examples, all confirming the same two-option rule: keep the idghām with a compensating fataḥah, or break it back to the unmerged original. See also the wider semantic range of the root ح-ل-ل (untying, dissolving, releasing, and even Allah's wrath "settling": **فَيَحِلَّ عَلَيكُم غَضَبِي**, Ṭāhā 20:81) in the Surah Yusuf Session 7 notes.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 4: Definition and classification of muda'af; two amer forms demonstrated with غَضَّ and حَلَّ; application in 49:3 (يَغُضُّونَ).
+- Surah Yusuf Session 7: Usage note that breaking the idghām is more common in practice; further Quranic jussive examples (احلل، اشدد، يمسس، يضلل، يشاقّ) drawn from Mūsā's duʿāʾ in Ṭāhā and elsewhere.

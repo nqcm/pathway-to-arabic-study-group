@@ -63,6 +63,27 @@ Here **عَدُوٌّ** (singular form) refers to multiple idols — and **هُ�
 
 ---
 
+## عَدُوّ vs. Ordinary حَذف المَوصُوف
+
+عَدُوّ began life as an adjective for a dropped noun (**شَخْص**, "a person") — the same basic mechanism seen in Quranic constructions like **النَّازِعَات** and **العَادِيَات**, where a صِفَة stands in for an unstated noun (see [[hadhf-al-mawsuf]]). The difference is one of *degree*: in النَّازِعَات/العَادِيَات, readers still consciously recover the missing noun (angels/winds; horses) from context or hadith. With عَدُوّ, frequency of use has gone further — speakers no longer track any "missing" noun at all; عَدُوّ has fully migrated into being read as a plain noun (see §1 above, "From Adjective to Pure Noun").
+
+---
+
+## الاِستِثنَاء المُنقَطِع in إِلَّا رَبَّ العَالَمِينَ
+
+A closer look at Ibrāhīm's **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ** shows it is an **اِستِثنَاء مُنقَطِع** (disconnected exception, see [[istisna]]): Allah does not belong to the group "idols" at all, so He is not being excluded *from* that group the way **حَامِد** is excluded from "students" in an ordinary exception. This is why English translations of the āyah diverge so widely — a literal *"they are my enemies, except the Lord of the worlds"* reads oddly in English, which lacks this construction. Five translations compared in Session 7:
+
+| Translator | Rendering |
+|---|---|
+| Muṣṭafā Khaṭṭāb | *"They are all enemies to me, except the Lord of all worlds."* |
+| Muftī Taqī ʿUsmānī | *"They are all an enemy to me, except the Lord of the worlds."* |
+| Ṣaḥīḥ International | *"Indeed, they are enemies to me, except the Lord of the worlds."* (footnote: the people worshiped idols in addition to Allah) |
+| Abdul Haleem | *"They are my enemies — all except the Lord of the Worlds."* |
+| Hilali & Khan | *"Verily, they are enemies to me, save the Lord of the ʿĀlamīn."* |
+
+---
+
 ## Session References
 
 - Surah Yusuf Session 6: Full discussion of عَدُوّ as the antonym of وَلِيّ — origin as an adjective, the proverb العَدَاوَةُ تَظهَرُ, the exceptional feminine عَدُوَّة (mirroring وَلِيَّة), and its use as a plural; encountered in Āyah 5: إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُّبِينٌ.
+- Surah Yusuf Session 7: Distinguished from ordinary حَذف المَوصُوف (النَّازِعَات/العَادِيَات); إِلَّا رَبَّ العَالَمِينَ identified as اِستِثنَاء مُنقَطِع; five-translation comparison.

@@ -62,6 +62,25 @@ The most common form in the Quran is **يَا رَبِّ** (yāʾ dropped, kasra
 
 ---
 
+## From Surah Yusuf Session 7 — The Root Letters Behind بُنَيَّ
+
+> **قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ** (Yūsuf 12:5)
+
+Revisiting **بُنَيَّ** (used here for endearment — لِلتَّحَبُّب, exactly as in the Hūd 11:42 example above), a student asked why the word contains *two* يَاءs.
+
+!!! note "One Opinion — Root ب-ن-و, With a Compensating Hamzah"
+    One scholarly opinion holds the root of **اِبْن** is **ب-ن-و** (compare [[walad-vs-ibn]], where **اِبْن** is traced to **بَنَى**, "to build" — the son as the father's "building"). On this view:
+
+    - **اِبْن**'s pattern is **فِعل**: فَاء = ب, عَين = ن, لَام = the (dropped) wāw.
+    - The root-final wāw is normally dropped from **اِبْن**, and a **هَمزَة** is added at the front to compensate — the same kind of compensation seen elsewhere when a weak letter drops out.
+    - Derived words like **بُنُوَّة** (sonship) still show this wāw surfacing — evidence for the root.
+    - When the diminutive pattern **فُعَيْل** is applied, the root-final wāw turns into a **يَاء** (fuʿayl favours yāʾ in that slot) — giving **بُنَيّ**. The *second* يَاء — which becomes a doubled **يّ** with shaddah in **بُنَيَّ** — is the possessive **يَاء المُتَكَلِّم** ("my"), merging with the diminutive's own يَاء.
+
+    Offered as one scholarly opinion, not a settled consensus — *"I stand subject to correction."*
+
+---
+
 ## Session References
 
 - Selections from the Glorious Quran Session 18: Introduced through يَا بُنَيَّ (Hūd 11:42); three uses of diminutive; five forms for vocative with yamāt-kalam.
+- Surah Yusuf Session 7: Root-letter analysis of بُنَيَّ (اِبْن from ب-ن-و, compensating hamzah, the two يَاءs); see also [[munada-nida]] for the five vocative forms applied specifically to بُنَيَّ as a muḍāf.

@@ -65,3 +65,4 @@ Mabnī words are those whose form is fixed regardless of grammatical position. I
 ## Session References
 
 - Selected Ayaat of Surah al-Israa Session 2: أُفّ identified as ism al-fiʿl; mabnī nature explained; comparison to Urdu **اُف** and **آمِین** as parallels.
+- Surah Yusuf Session 7: آمِين، أُفّ، صَهْ cited as examples of implied (not explicit) command, used to show why they cannot license [[faa-sababiyya]]'s manṣūb effect on a following muḍāriʿ.

@@ -47,6 +47,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Demonstrative Pronouns](demonstrative-pronouns.md)
 - [الحَال — The Circumstantial Clause](hal-circumstantial.md)
 - [حَتَّى — Three Grammatical Types](hatta-particle.md)
+- [حَذف المَوصُوف — Dropping the Qualified Noun](hadhf-al-mawsuf.md)
 - [الاستثناء — Exception in Arabic](istisna.md)
 - [إِذ — Temporal Ẓarf for the Past](idh-zarfiyya.md)
 - [إِذَا الفُجَائِيَّة — The Surprise إِذَا](idha-fujaaiyya.md)
@@ -130,6 +131,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 ## Vocabulary and Morphology
 
+- [الأَضدَاد — Words With Two Opposite Meanings](addad-contranyms.md)
 - [عَدُوّ — Enemy (From Adjective to Pure Noun)](aduww-enemy.md)
 - [عالَم — The World (fāʿal pattern)](alam-world.md)
 - [Ayah](ayah.md)
@@ -158,6 +160,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Root ب-غ-ي (Baghā) — To Wrong or To Seek](root-baga.md)
 - [Root ب-ش-ر (Bashara) — Skin and Humanity](root-bashar.md)
 - [Root ح-ج-ر (Ḥajara) — To Deny Access](root-hajara.md)
+- [Root هـ-و-ن (Hawuna) — Insignificance and Humiliation](root-hawana.md)
 - [Root ج-ه-ل (Jahala) — Three Meanings](root-jahala.md)
 - [Root ج-ه-ر (Jahara) — To Declare Openly](root-jahara.md)
 - [Root ك-ف-ر (Kafara) — Etymology Chain](root-kafara.md)
