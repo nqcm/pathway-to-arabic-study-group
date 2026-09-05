@@ -74,6 +74,24 @@ Do not confuse these two categories:
 
 ---
 
+## From Surah Yusuf Session 8 — مُجْتَبٍ
+
+The ism fāʿil of **اِجْتَبَى** (Form VIII, root ج-ب-ي) is **مُجْتَبٍ** — a textbook ismul manqūṣ, since the last root letter is a **يَاء**.
+
+!!! note "The Rule Stated More Broadly"
+    The condition is that the **last root letter is a wāw *or* a yāʾ**. The underlying form is **مُجْتَبِيٌ** — yāʾ carrying **تَنوِين الضَّمّ**. The yāʾ is dropped, and the tanwīn that sat on it **transfers back** to the preceding letter, which carries a kasrah — producing the characteristic **double kasrah**, **مُجْتَبٍ**.
+
+!!! warning "A Double Kasrah Is Not Evidence of Jarr"
+    The teacher was emphatic on this point: seeing **ـٍ** on **مُجْتَبٍ** does **not** mean the word is **مَجرُور**. It is **مَنقُوص**. The ending is a *phonetic* consequence of the dropped yāʾ, not a case marker — and these are **phonetic rules, not grammatical ones**.
+
+!!! tip "Iʿrāb Requires a Sentence"
+    A related reminder raised in the same discussion: a word standing alone has **no iʿrāb** at all. Iʿrāb only exists within a structure, because it reflects a word's **function** in a sentence. **مُجْتَبٍ** in isolation is just a word; only in **اللهُ مُجْتَبٍ** does it acquire a case.
+
+The three yāʾ-returning conditions were restated with the standard example **قَاضٍ**: **القَاضِي** (with ال), **قَاضِي مَكَّة** (muḍāf), **رَأَيْتُ قَاضِيًا** (manṣūb) — the manṣūb case being different because the yāʾ has no phonetic difficulty carrying a **فَتْحَة**; the problem was only ever with **ضَمَّة** and **كَسْرَة**.
+
+---
+
 ## Session References
 
 - Surah Al-Hujuraat Session 11: Detailed explanation of ismul manqūṣ; three cases when yāʾ returns; contrasted with ismul maqṣūr; example with بَاغٍ / البَاغِي.
+- Surah Yusuf Session 8: **مُجْتَبٍ** (ism fāʿil of اِجْتَبَى) worked through; the tanwīn-transfer mechanism; warning that a double kasrah does not mean majrūr; the reminder that iʿrāb exists only within a sentence.

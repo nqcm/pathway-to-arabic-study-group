@@ -120,6 +120,52 @@ Sometimes the full qasam construct (waw/ba/ta/verb) is omitted and only the jawa
 
 ---
 
+## Reading Case 2 Backwards — لَقَدْ Signals an Omitted Oath
+
+*From Surah Yusuf Session 9.*
+
+The Case 2 rule works in both directions, and the reverse direction is the more useful one when **reading**:
+
+!!! important "Wherever You See لَقَدْ, There Is a قَسَم"
+    **لَقَدْ** marks a **جَوَاب القَسَم** — and if a sentence begins as a jawāb al-qasam, the oath is **implied even when its words are absent**. The **قَسَم** is **مَحذُوف** (omitted), not explicit.
+
+    **How to reconstruct it:** wherever **لَقَدْ** appears this way in the Quran, understand before it an oath in which **Allah swears by Himself — by His might and His majesty**. English translations usually mark this with a bracketed *"[I swear]"* or *"[by My might and majesty]"*, precisely because the oath is implied rather than present.
+
+!!! tip "Composing vs. Reading"
+    When **composing**, you check the conditions and then add **لَـ + قَدْ**. When **reading**, you see **لَقَدْ** and immediately know an **omitted oath** stands before it.
+
+### The Overlooked Condition — مُتَصَرِّف
+
+Case 2 requires the past-tense verb to be **مُتَصَرِّف** (fully conjugating), not **جَامِد** (frozen).
+
+!!! note "Why This Is a نَحو Point, Not a صَرف Point"
+    Grammarians say the **فِعل مَاضٍ** is always **مَبنِي** — but that is the **morphological** statement. Syntactically there is a further division: some past-tense verbs are **جَامِد** — they have **no muḍāriʿ and no amr**. **لَيْسَ** and **عَسَى** are the classic cases (compare the **نِعمَ / بِئسَ** exception already noted above).
+
+    **كَانَ** is not like that — **كَانَ / يَكُونُ / كُنْ** runs through the tenses. It is **مُتَصَرِّف**, so the rule applies to it in full. Had the sentence begun with **لَيْسَ** or **عَسَى**, it would not.
+
+### Worked Example — Sūrat Yūsuf 12:7
+
+> **لَّقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِّلسَّائِلِينَ**
+
+| Test | Result |
+|---|---|
+| Is the jawāb a **جُملَة فِعلِيَّة**? | Yes |
+| Does it begin with a **فِعل مَاضٍ**? | Yes — **كَانَ** |
+| Is it **مُتَصَرِّف**? | Yes — **كَانَ / يَكُونُ** |
+| Is it **مُثبَت**? | Yes — no negation |
+
+→ **لَـ + قَدْ** are obligatory, and the oath itself is omitted.
+
+!!! info "What Is Being Sworn To"
+    Read this way, the āyah says: *Allah swears by His might and majesty that in Yūsuf and his brothers there are* **signs — answers —** *for those who seek them.* Given that Sūrat Yūsuf is a story of emotions mastered and emotions surrendered to, that is an enormous claim: this sūrah will answer a great many of your questions.
+
+!!! example "With the Oath Explicit"
+    > **وَاللَّهِ لَقَدْ حَفِظْتُ القُرْآنَ كُلَّهُ** — the qasam is stated (**وَ** + the name of Allah), and the jawāb still takes **لَـ + قَدْ**.
+
+    Compare **تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا** (Yūsuf 12:91) above, where the instrument of oath is the **تَاء**.
+
+---
+
 ## Jawab al-Qasam in the La-In Construction
 
 In the combination **لَئِن (la-in)** — which appears 60+ times in the Quran — the lam marks an implicit kasam before the shart. The jawab follows qasam rules (not shart rules), so **no fa** appears where shart would normally demand one, and the appropriate emphasis markers (inna/lam/nunu) appear instead.

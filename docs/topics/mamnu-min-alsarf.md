@@ -169,8 +169,46 @@ Session reference: Surah Yusuf Session 6 — applied to **رُؤْيَاكَ** i
 
 ---
 
+### 7. The Two Escapes — When a Diptote Takes a Kasrah Anyway
+
+From Surah Yusuf Session 8. A **مَمْنُوع مِن الصَّرْف** noun is normally **majrūr with a fatḥah** — but there are exactly **two** conditions under which it reverts to a **كَسْرَة**, becoming in effect triptote again:
+
+| # | Condition |
+|---|---|
+| 1 | It is a **مُضَاف** |
+| 2 | It carries **ال** |
+
+!!! example "Ibn Mālik's Alfiyyah — the Rule and Its Exception in One Couplet"
+    > **وَجُرَّ بِالفَتْحَةِ مَا لَا يَنْصَرِفْ** ⁂ **مَا لَمْ يُضَفْ أَوْ يَكُ بَعْدَ أَلْ رَدِفْ**
+    >
+    > *"And put into jarr with the fatḥah that which does not fully decline — so long as it is not made a muḍāf, or does not follow behind* **ال**."
+
+    Working through the couplet's own grammar: **جُرَّ** is **مَجهُول**, and its **نَائِب الفَاعِل** is **مَا** — a **مَا مَوْصُولَة**, *that which*. **رَدِفْ** is a verb whose **فَاعِل** is the diptote noun itself.
+
+    Note the **poetic licence**: **أَلْ** is written out with an added alif purely to serve the metre.
+
+!!! info "رَدِفَ — To Ride Behind"
+    **رَدِفَ** means to ride behind someone — on the **same** mount, sharing the saddle, or on the animal immediately following. A **رَدِيف** is that second rider. The word appears often in ḥadīth: **مُعَاذ بن جَبَل** رضي الله عنه relates that he was **رِدْف النَّبِيِّ ﷺ** before receiving the well-known naṣīḥah; it also appears in the narration of **الفَضْل بن عَبَّاس** during Ḥajj.
+
+!!! example "Both Escapes in Action"
+    - **مَدَارِس** — pattern **مَفَاعِل**, therefore diptote — but as a **مُضَاف** it takes a kasrah.
+    - **فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ** — **مَوَاقِع** is on **مَفَاعِل** and diptote, yet takes a **كَسْرَة** because it is the muḍāf of **النُّجُوم**.
+
+    This is the same phenomenon already noted for **مَسَاجِد** (which takes fatḥa in **فِي مَسَاجِدَ** precisely *because* it is neither muḍāf nor carrying ال). See [[jam-muntaha-al-jumu]].
+
+### 8. إِبْرَاهِيم as a بَدَل That Is Also a Diptote
+
+> **وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ** (Yūsuf 12:6)
+
+- **إِبْرَاهِيم** is a **بَدَل** from **أَبَوَيْكَ** — it names the two fathers explicitly (see [[badal]]).
+- A **بَدَل** follows the iʿrāb of its **مُبْدَل مِنْه**. **أَبَوَيْ** comes after **عَلَىٰ**, so it is **مَجرُور** — and therefore so is **إِبْرَاهِيم**.
+- Yet it shows a **فَتْحَة**, because it is **مَمْنُوع مِن الصَّرْف** — and it is diptote because it is a **non-Arab (عَجَمِي) proper name**, the same double cause already noted for **يُوسُفُ**.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: The two conditions under which a diptote takes a kasrah (muḍāf, ال), with the Alfiyyah couplet **وَجُرَّ بِالفَتْحَةِ مَا لَا يَنْصَرِفْ**; **رَدِيف**; **مَوَاقِع النُّجُوم** and **مَدَارِس**; **إِبْرَاهِيم** as a majrūr badal showing fatḥah.
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.
 - Surah Al-Hujuraat Session 5: Additional causes — non-Arabic names (مُوسَى) and verb-pattern nouns (أَحمَد); maqṣūr + diptote combination in iʿrāb exercises.
 - Surah An-Noor Session 2: Mafāʿil pattern correction — **مَسَاجِد** takes fatḥa in majrūr (فِي مَسَاجِدَ).

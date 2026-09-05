@@ -75,6 +75,27 @@ Compare:
 
 ---
 
+---
+
+## When إيّا Is *Required* — The Pronoun-Stacking Rule
+
+From Surah Yusuf Session 8. Verbs that take **two objects** can have both objects as pronouns. Whether those pronouns may be attached to the verb depends on **person**:
+
+| Case | Allowed? | Example |
+|---|---|---|
+| The two attached pronouns are from **different persons** | ✅ They may be **stacked** on the verb | **أَعْطَيْتُكَهُ** — *I gave it to you* (**كَ** 2nd person + **هُ** 3rd person) |
+| The two attached pronouns are from the **same person** | ❌ Stacking is forbidden | Must bring in the detached form: **إِيَّاهُ** |
+
+!!! important "Why the Detached Form Is Needed"
+    **هُ** in its manṣūb and majrūr forms is **مُتَّصِل** — an attached pronoun that *must* cling to something. It has no way of standing free. To have it standing on its own you need **إِيَّاهُ**.
+
+This is the same mechanism at work in **إِيَّاكَ نَعْبُدُ**: had the order been **نَعْبُدُكَ**, the **كَ** would simply attach to the verb. But the object is brought **before** the verb, where an attached pronoun cannot stand alone — hence **إِيَّا**.
+
+The two scholarly views above were restated in the same discussion, with the teacher's conclusion that **either way it serves the same purpose**.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: The pronoun-stacking rule — same-person vs. different-person attached pronouns — as the structural reason إيّا exists; **أَعْطَيْتُكَهُ**; restatement of the two views on what إيّا is.
 - Selections from the Glorious Quran Session 3: Full introduction of إيّا; two scholarly opinions; application to إيّاكَ نَعبُدُ; fronting the mafʿūl bih for exclusive emphasis vs the rule that fāʿil cannot precede the verb.

@@ -132,7 +132,21 @@ Temporary but qualitative states — not active actions:
 
 ---
 
+## From Surah Yusuf Session 8 — حَكِيم
+
+**حَكِيم** in **إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ** (Yūsuf 12:6) is glossed in Arabic as **صَاحِبُ الحِكْمَة** — *the possessor of wisdom*.
+
+Asked what kind of word it is, the class confirmed it is **not** an **اِسْم فَاعِل** but a **صِفَة مُشَبَّهَة** — the pattern denoting a **settled, permanent** quality rather than an act in progress. This is the **ثُبُوت vs. حُدُوث** distinction applied to a Divine Name.
+
+!!! note "A Phrase, Not a Sentence"
+    A small but useful aside from the same discussion: **صَاحِبُ الحِكْمَة** is **not a جُمْلَة**. It is a **مُضَاف + مُضَاف إِلَيْه** construction — a phrase. Arabic definitions are frequently given in this form, and reading them as sentences leads to confusion.
+
+Note that **فَعِيل** can serve as both a ṣifah mushabbahah and a **صِيغَة مُبَالَغَة**; **عَلِيم** and **حَكِيم** were treated under both headings in this session. See [[sighat-al-mubalaghah]].
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: **حَكِيم** identified as a ṣifah mushabbahah rather than an ism fāʿil, on the Arabic gloss **صَاحِبُ الحِكْمَة**; the reminder that a muḍāf construction is a phrase, not a sentence.
 - Selected Ayaat of Surah al-Israa Session 2: First difference (thubūt vs. ḥudūth) introduced; كَرِيم established as ṣifat mushabbaha from كَرُمَ يَكرُمُ.
 - Selected Ayaat of Surah al-Israa Session 3: Differences 2–5 added; أَفعَل and فَعلَان patterns; ṣifat mushabbaha with genitive construction (مضاف إليه); applied to لِسَانِ المُؤمِنِ and سَرِيعُ الحِسَابِ examples.

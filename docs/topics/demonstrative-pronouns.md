@@ -37,6 +37,37 @@ The masculine pair follows the same logic:
 - **ذَاكَ** — near/moderate distance (no lām al-buʿd)
 - **ذَلِكَ** — greater distance (with lām al-buʿd)
 
+## From Surah Yusuf Session 8 — ذَٰلِكَ in Detail
+
+The masculine form was taken apart the same way as **تِلْكَ**:
+
+| Piece | Name | Function |
+|---|---|---|
+| **ذَا** | The demonstrative proper | *this* |
+| **لَ** | **لَام البُعْد** | marks distance |
+| **كَ** | **كَاف الخِطَاب** | addresses the listener |
+
+!!! example "How Far Is Far?"
+    A **star** is **ذَٰلِكَ** — maximum distance, so the **لَام البُعْد** is present. A **tree you can see down the road** is **ذَاكَ** — the lām drops away.
+
+### The كَاف Agrees with the Addressee, Not the Referent
+
+| Form | Addressee |
+|---|---|
+| **ذَٰلِكَ** | one male |
+| **ذَٰلِكُمْ** | a group |
+| **ذَٰلِكُنَّ** | a group of females (uncommon) |
+
+!!! example "ذَٰلِكُمْ أَزْكَىٰ لَكُمْ — Sūrat al-Baqarah"
+    > **ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ**
+
+    The context: divorced women who have completed their ʿiddah and wish to remarry their former husbands — a first or second divorce that both parties have come to regret. Allah instructs their guardians not to prevent them.
+
+!!! important "Plural كَاف ≠ Plural Referent"
+    Only **one** thing is being pointed at in that āyah. **ذَٰلِكَ** becoming **ذَٰلِكُمْ** means the **people addressed** are now more than one — not that the referent has become plural. Pointing at several things requires **أُولَٰئِكَ**.
+
+For the use of **كَذَٰلِكَ** as a deputy for the absolute object, see [[mafool-mutlaq]].
+
 ## Related pages
 
 - [Mafool Mutlaq](mafool-mutlaq.md)

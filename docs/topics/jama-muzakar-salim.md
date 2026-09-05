@@ -111,7 +111,27 @@ Beyond morphology, there is a *semantic* restriction worth noting: both **جمع
 
 ---
 
+## The Case Sign Is a Letter, Not a Ḥarakah
+
+*From Surah Yusuf Session 9, on **وَلَا الضَّالِّينَ** in al-Fātiḥah.*
+
+**الضَّالِّينَ** is the sound masculine plural of **الضَّالّ**. A student, seeing the **فَتْحَة** on the final nūn, hesitated over its case.
+
+!!! important "The Sign Is the Letter"
+    | Case | Sign |
+    |---|---|
+    | Marfūʿ | **وَاو** |
+    | Manṣūb | **يَاء** |
+    | Majrūr | **يَاء** |
+
+    **الضَّالِّينَ** is **مَجرُور** — as a **مَعطُوف** following **المَغْضُوبِ عَلَيْهِمْ** — and its sign of jarr is the **يَاء**. The fatḥah sitting on the nūn is **not** the case marker at all.
+
+    Note that **يَاء** serves for *both* manṣūb and majrūr, so the letter alone does not distinguish those two; only the word's function does.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 9: The case signs restated on **الضَّالِّينَ** (al-Fātiḥah) — the يَاء, not the visible fatḥah on the nūn, is the sign of jarr.
 - Selections from the Glorious Quran Session 3: Full explanation with examples from Sūrat al-Fātiḥah vocabulary (ʿĀlam, Ahl, Arḍ, Sanah, Miʾah, Lughah); jāmid vs mushtaqq distinction; exceptions as samāʿī.
 - Surah Yusuf Session 6: Tafsīr-footnote conditions for forming جمع مذكر سالم — proper names (male, Baṣrī/Kūfī dispute on names ending in ة) and adjectives (must take ة, must not be on أَفْعَل/فَعْلَاء, must not be shared between genders); مُسْلِم as the clean example; عَلَّامَة left as an open question; the semantic restriction of هُمْ/جمع مذكر سالم to sentient beings, applied to رَأَيْتُهُمْ لِي سَاجِدِينَ (Āyah 4).

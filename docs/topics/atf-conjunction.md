@@ -65,6 +65,22 @@ This distinction is noted in Ibn Mālik's *Al-Alfiyya*: فَاء denotes tartīb
 
 ---
 
+## عَطْف النَّسَق — The Technical Name
+
+*From Surah Yusuf Session 9.*
+
+The ordinary conjunction described above — the one formed with **وَاو** and the other **حُرُوف العَطْف** — has a technical name: **عَطْف النَّسَق**.
+
+> **جَاءَ أَحْمَدُ وَعُمَرُ**
+
+**أَحْمَدُ** is the **مَعطُوف عَلَيه**; **عُمَرُ** is the **مَعطُوف**, following it in **iʿrāb**. That following is precisely what makes it one of the **تَوَابِع** (appositives) — alongside **البَدَل**، **النَّعت**، and **التَّوكِيد** (see [[badal]]).
+
+!!! note "There Is a Second Kind of عَطْف"
+    **عَطْف البَيَان** — *explanatory apposition* — is the other kind, and it uses no conjunction particle at all. It looks almost identical to **البَدَل**, and telling the two apart takes two specific rules. See [[atf-bayan]].
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 9: The familiar conjunction named **عَطْف النَّسَق** and placed within the **تَوَابِع**, as the entry point to **عَطْف البَيَان**.
 - Surah Al-Hujuraat Session 9: Introduced in iʿrāb of Āyah 6; فَتُصبِحُوا inheriting manṣūb from فَتُصِيبُوا via ʿaṭf; فَاء vs ثُمَّ distinction with reference to Al-Alfiyya.

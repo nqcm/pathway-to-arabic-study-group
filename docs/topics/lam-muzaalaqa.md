@@ -48,6 +48,26 @@ The lam **always attaches to whatever element comes after the ism of inna**:
 
 ---
 
+## From Surah Yusuf Session 9 — Two Lāms in One Āyah
+
+> **إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ** (12:8)
+
+### لَفِي — the Muzaḥlaqah
+
+The **لَام** in **لَفِي** is the classic **لَام المُزَحلَقَة**: it belongs at the head of the sentence, and **إِنَّ** pushes it forward onto the khabar (here a jārr-majrūr, **فِي ضَلَالٍ مُبِينٍ**).
+
+### لَيُوسُفُ — لَام الاِبتِدَاء, Not a Preposition
+
+!!! warning "An Easy and Consequential Misreading"
+    A student read **لَيُوسُفُ** as *"[they said]* **to** *Yūsuf"* — taking the **لَام** as the preposition **لِ**.
+
+    It is not. It is **لَام الاِبتِدَاء** — the same emphatic lām that becomes the muzaḥlaqah when **إِنَّ** displaces it. The meaning is **"indeed Yūsuf…"**, and **يُوسُفُ** is the **مُبتَدَأ** of the brothers' statement, not the person addressed. They are speaking **among themselves**, not to him.
+
+    The two lāms are also distinguishable by their effect on the following word: **لَام الاِبتِدَاء** leaves **يُوسُفُ** marfūʿ, whereas the preposition would have made it majrūr.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 9: **لَفِي** as muzaḥlaqah and **لَيُوسُفُ** as لَام الاِبتِدَاء in Āyah 8; why misreading the latter as a preposition changes who is being addressed.
 - Surah An-Noor Session 5: Three levels of emphasis; the name "muzaʿlaqa" explained; rules for where the lam attaches; examples including khabar-first and ḍamīr al-faṣl scenarios.

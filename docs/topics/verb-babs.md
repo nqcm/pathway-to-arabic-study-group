@@ -67,6 +67,38 @@ The **u → u** family (bāb karuma) is **unique in meaning** among the six. It 
 
 ---
 
+## Reading Derived Forms Off Form I — Two Worked Sets
+
+From Surah Yusuf Session 8, on **وَيُعَلِّمُكَ** and **وَيُتِمُّ نِعْمَتَهُ** (Yūsuf 12:6):
+
+### عَلِمَ → عَلَّمَ → تَعَلَّمَ
+
+| Form | Verb | Meaning |
+|---|---|---|
+| I | **عَلِمَ** | To know |
+| II | **عَلَّمَ** | To teach |
+| V | **تَعَلَّمَ** | To learn |
+
+!!! note "How Arabic Itself Defines 'To Teach'"
+    The Arabic gloss for **عَلَّمَ** is **جَعَلَهُ يَتَعَلَّمُهُ** — *to make him learn it*. Teaching is defined as **causing learning** — which is exactly the relationship between Form II (causative) and Form V (reflexive/acquisitive) of one root. The form chart is not a list to memorise; it encodes the semantics.
+
+### تَمَّ → أَتَمَّ
+
+| Form | Verb | Meaning |
+|---|---|---|
+| I | **تَمَّ** | **To be** complete (in itself) |
+| IV | **أَتَمَّ** | **To complete** something else |
+
+!!! warning "An Easy Slip"
+    The teacher first glossed **تَمَّ** as "to complete" and immediately corrected herself. **تَمَّ** means *to become complete* — the completion happens **to** the subject (Arabic gloss: **كَمُلَ**). It is **أَتَمَّ**, Form IV, that means *someone else completed it*.
+
+    Both appear in the āyah: **يُتِمُّ نِعْمَتَهُ** (*He completes His favour*) and **كَمَا أَتَمَّهَا** (*just as He completed it*) — Form IV throughout, because the completing is Allah's act upon something else.
+
+Compare Form X, which adds the meaning of **seeking**: **اِسْتَغْفَرَ** = *to seek forgiveness*, **اِسْتَخَارَ** = *to seek goodness*. See [[istikhara]].
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: **عَلِمَ / عَلَّمَ / تَعَلَّمَ** and **تَمَّ / أَتَمَّ** worked out from Form I; the Arabic definition of teaching as **جَعَلَهُ يَتَعَلَّمُهُ**; Form X as *seeking*.
 - Surah Al-Hujuraat Session 5: Introduction to all six families; special semantic property of فَعُلَ/يَفعُلُ; ism fāʿil as فَعِيل; application to عَظِيم in Āyah 3.

@@ -55,9 +55,26 @@ The divisions were set by **waḥy** — not by the Ṣaḥābah. Both the group
 
 ---
 
+## آيَة — A Sign That Outlasts the Sand
+
+*From Surah Yusuf Session 9, on **لَّقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِّلسَّائِلِينَ** (12:7).*
+
+Arabic characteristically moves from the **physical** to the **abstract** — the concrete sense comes first, and the abstract meaning grows out of it. **آيَة** is a case in point.
+
+!!! info "Navigational Signs in the Desert"
+    In a green landscape a traveller navigates by big trees, rivers, lakes, meadows, mountains. In the **desert** there is almost none of that — and worse, the **sand dunes shift and move**. Telling someone *"turn left at that rock"* is useless if the rock is buried by next month.
+
+    So the things that could actually serve as **آيَات** were the ones that **stand the test of time**: mountains, and very large rocks. An **آيَة** was, precisely, a navigational sign that the harsh elements and the shifting sands could not erase.
+
+!!! tip "Why the Choice of Word Matters"
+    Allah chose **آيَة** for the verses of the Quran. On this etymology, that says something: these are signs **not affected by the passage of time**, signs that do not get buried as circumstances shift. The navigational marker that outlasts the desert is exactly the image.
+
+---
+
 ## Session References
 
 - Surah Yusuf Session 2: Root letters of āyah; plurals; definition; multi-āyah sentences.
+- Surah Yusuf Session 9: The desert-navigation etymology — signs that survive the shifting dunes — and what it implies about the Quran's own āyāt.
 - Selections from the Glorious Quran Session 9: Āyah vs verse (sūrah = city wall; āyah = sign); wahi as the source of divisions; Āyat al-Kursī as 10 sentences in one āyah.
 
 ## Related pages

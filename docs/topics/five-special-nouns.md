@@ -60,6 +60,22 @@ The five-noun declension only applies when the meem is **dropped**.
 
 ---
 
+## From Surah Yusuf Session 9 — أَبِينَا and أَبَانَا
+
+**Sūrat Yūsuf 12:8** shows two of the three states of **أَب** in a single āyah:
+
+> **إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ**
+
+| Occurrence | Governor | Case | Form |
+|---|---|---|---|
+| **أَبِينَا** | after **إِلَىٰ** | مَجرُور | **يَاء** |
+| **أَبَانَا** | **اِسْم إِنَّ** | مَنصُوب | **أَلِف** |
+
+(The marfūʿ form would be **أَبُونَا**.) The same āyah also opens with **وَأَخُوهُ** — **أَخ**, another of the five, marfūʿ with a **وَاو**, and singular: *his* brother, Binyāmīn, not "brothers."
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 9: **أَبِينَا** (majrūr after إِلَىٰ) and **أَبَانَا** (ism inna) in Āyah 8, with **أَخُوهُ** marfūʿ alongside them.
 - From Esfahaan to Madinah Session 1: five special nouns introduced; فَم and its two forms; dual example with ابن عباس

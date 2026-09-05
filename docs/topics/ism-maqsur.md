@@ -79,8 +79,25 @@ Context (a third element, or common sense) normally resolves this. Skilled Arabi
 
 ---
 
+## Why the Alif Is *Written* — the Waqf Rule
+
+From Surah Yusuf Session 8, working on **مُجْتَبًى** (the ism mafʿūl of **اِجْتَبَى**):
+
+The final letter is an **أَلِف مَقصُورَة** — a "shortened" alif. In continuous speech the word is read **مُجْتَبَنْ**, but when you **stop** on it you read it with the alif — **مُجْتَبَا**. That is precisely *why* it is written with an alif in the first place.
+
+!!! note "A General Quranic Spelling Convention"
+    This is not specific to maqṣūr nouns. Throughout the Quran, words ending in **فَتْحَة + تَنوِين** are written with a final alif to remind the reciter how to pronounce them at a pause. The spelling encodes the sound of the **waqf**, not the grammar.
+
+When **ال** is added, the tanwīn drops and the word becomes definite — **المُجْتَبَى**, **المُصْطَفَى**. Note the contrast with the ismul manqūṣ ([[ism-manqus]]): in **المُجْتَبِي** the yāʾ *returns* with ال, whereas in **المُجْتَبَى** the alif simply stays and the yāʾ remains omitted — because a yāʾ has trouble with a **فَتْحَة** here.
+
+!!! important "Phonetics, Not Grammar"
+    The teacher stressed that all of this — dropped yāʾs, transferred tanwīn, alif maqṣūrah spelling — belongs to **phonetics**. Arabic writing follows Arabic sound.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: **مُجْتَبًى / المُجْتَبَى** and **المُصْطَفَى**; why alif maqṣūrah is written with an alif (the waqf pronunciation); contrast with the manqūṣ **مُجْتَبٍ**; the insistence that these are phonetic rather than grammatical rules.
 - Surah Al-Hujuraat Session 5: Full iʿrāb exercises with maqṣūr nouns; ambiguity discussion; maqṣūr + diptote analysis with مُوسَى; applied to لِلتَّقوَى in Āyah 3.
 - Surah Yusuf Session 6: **رُؤْيَا** analysed as a maqṣūr + diptote noun (alif maqṣūrah hides all case markers); comparison with مُوسَى and زَينَب; applied to **لَا تَقْصُصْ رُؤْيَاكَ** (Āyah 5).
 - Selected Ayaat of Surah al-Israa Session 2: Deep explanation of *why* alif cannot take a harakah (alif is a pure vowel); contrast between mabnī and maqṣūr; iʿrāb of مُوسَى and عِيسَى; applied to كِلَا with a noun muḍāf. Poetry of Imam al-Shāfiʿī used as practice.

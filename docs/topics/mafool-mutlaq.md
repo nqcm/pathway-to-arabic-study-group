@@ -163,6 +163,39 @@ Session reference: Selections from the Glorious Quran Session 14b.
 
 ---
 
+---
+
+### From Session 8 — Surah Yusuf
+
+#### كَذَٰلِكَ as a Deputy — Worked in Full
+
+Deputy #6 in the list above (*ism al-ishārah*) received a full worked treatment on **Sūrat Yūsuf 12:6**:
+
+> **وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ**
+
+**The internal structure:** **كَ** is a **حَرْف جَرّ** and **ذَٰلِكَ** is **مَجرُور** by it.
+
+!!! warning "The عَلَامَة Is مَحَلًّا, Not a Kasrah"
+    A student offered "the kasrah" as the sign of jarr. But **ذَٰلِكَ** is a demonstrative — it is **مَبْنِي** and never changes its ending. The correct statement is **مَجرُور مَحَلًّا** — *majrūr in position*. For **مَبْنِي** words iʿrāb is always **مَحَلًّا**, because no visible sign can appear on them. (Contrast a fully declinable noun: **مَجرُور وَعَلَامَةُ جَرِّهِ الكَسْرَة**.)
+
+**The external function:** although **كَذَٰلِكَ** is internally a **جَارّ وَمَجرُور**, the phrase as a whole sits in the position of a **مَفْعُول مُطْلَق** — **مَنصُوب عَلَى المَفْعُولِيَّة المُطْلَقَة**.
+
+!!! example "The Replacement Test"
+    > **يَجْتَبِيكَ رَبُّكَ اِجْتِبَاءً مِثْلَ ذَٰلِكَ الاِجْتِبَاء**
+    >
+    > *"Your Lord will choose you with a choosing like that choosing."*
+
+    **كَذَٰلِكَ** stands in for **اِجْتِبَاءً مِثْلَ ذَٰلِكَ** — the maṣdar is dropped and its describer takes its place, which is exactly what makes it a **نَائِب عَن المَفْعُول المُطْلَق**.
+
+!!! tip "The Transferable Lesson"
+    A phrase's **internal structure** and its **role in the sentence** are two separate questions. A jārr-majrūr can occupy a manṣūb slot. This is the point that "takes a little while getting used to."
+
+*Homework set:* find further Quranic examples of **كَذَٰلِكَ** functioning as a mafʿūl muṭlaq and dissect each one the same way.
+
+Session reference: Surah Yusuf Session 8.
+
+---
+
 ## Related pages
 
 - [demonstrative-pronouns](demonstrative-pronouns.md)

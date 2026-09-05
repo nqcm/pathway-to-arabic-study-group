@@ -101,6 +101,21 @@ Arabic grammar was reverse-engineered from natural usage. Where a rule was found
 
 ---
 
+## From Surah Yusuf Session 9 — اِسْأَلُوا After وَ and فَ
+
+The imperative of **سَأَلَ** is **اِسْأَلُوا**, opening with a **hamzat al-waṣl**. When **وَاو** or **فَاء** precedes, the waṣl hamzah is not pronounced:
+
+!!! example "Two Quranic Instances"
+    > **وَاسْأَلُوا اللَّهَ مِن فَضْلِهِ ۚ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا** (al-Nisāʾ)
+    >
+    > **وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ** (al-Naḥl)
+
+!!! note "A Separate Phenomenon in the Same Verb"
+    Do not confuse this with the **سَلْ** form, which arises from a different route entirely — **تَسْهِيل الهَمزَة** (easing the hamzah into an alif) producing **سَالَ / يَسَالُ**, whose imperative loses its alif to the meeting of two sukūns. See [[verb-saala]] and [[phonetic-harmony]].
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 9: **وَاسْأَلُوا** and **فَاسْأَلُوا** as instances of the waṣl hamzah dropping after a preceding particle; distinguished from the **سَلْ** form.
 - Selections from the Glorious Quran Session 1: Full explanation with Bismillāh as the anchor example; the ten samāʿī nouns; qiyāsī occurrence in verb forms; the special writing rule for Bismillāh.

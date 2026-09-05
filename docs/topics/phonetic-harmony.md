@@ -82,6 +82,29 @@ This rule appears when a majzūm verb (with sukūn on its last letter) is follow
 
 ---
 
+## Two Sukūns Meeting — سَلْ
+
+*From Surah Yusuf Session 9.*
+
+**سَأَلَ** has a second form, **سَالَ**, produced by **تَسْهِيل الهَمزَة** — easing the hamzah into an alif. This is a purely phonetic change, but it propagates through everything derived from the verb.
+
+Building the imperative from **يَسَالُ**: take **تَسَالُ**, drop the muḍāriʿ prefix, and put a **sukūn** on the last letter. That leaves the **alif** also carrying a sukūn — **two sukūns meeting**.
+
+!!! important "The Resolution"
+    The alif is **dropped**, giving **سَلْ**.
+
+    > **سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ** (al-Baqarah)
+
+Keeping the original hamzah instead gives **يَسْأَلُ → اِسْأَلْ**. Both imperatives are valid, and both appear in the Quran — one verb, two forms, purely because of a phonetic easing upstream. See [[verb-saala]].
+
+---
+
+## Session References
+
+- Surah Yusuf Session 9: **تَسْهِيل الهَمزَة** in **سَأَلَ / سَالَ**; the two-sukūn resolution producing **سَلْ**; how a phonetic change propagates into derived forms.
+
+---
+
 ## Related Pages
 
 - [Faʿlatun Pattern](faala-pattern.md)

@@ -171,8 +171,79 @@ Session reference: Surah Yusuf Session 5.
 
 ---
 
+---
+
+### From Session 9 — Surah Yusuf
+
+#### البَدَل Within the Family of التَّوَابِع
+
+**البَدَل** belongs to a family called **التَّوَابِع** — in English, **appositives** or **grammatical followers**. A **تَابِع** follows its **مَتبُوع** in **iʿrāb**, and depending on the type, in other respects too.
+
+| The four تَوَابِع |
+|---|
+| **البَدَل** — the substitute |
+| **النَّعت / الصِّفَة** — the adjective |
+| **التَّوكِيد** — the emphasiser |
+| **المَعطُوف** — the conjoined element |
+
+!!! note "How Closely Do They Follow?"
+    The **نَعت** follows its manʿūt in *everything* — number, gender, definiteness, iʿrāb. The others follow in **iʿrāb** but not necessarily in the rest. "A tābiʿ follows in everything" is a useful first approximation, not a precise rule.
+
+!!! example "The Basic Illustration"
+    > **قَرَأْتُ هَذَا الكِتَابَ**
+
+    **تُ** is the fāʿil; **هَذَا** is the **مَفعُول بِه**, and since it is **مَبنِي** it is **مَنصُوب مَحَلًّا**; **الكِتَابَ** is the **بَدَل**, manṣūb, following **هَذَا**.
+
+    Compare **جَاءَ أَحْمَدُ وَعُمَرُ** — **عُمَرُ** is the **مَعطُوف**, following **أَحْمَد** in being marfūʿ.
+
+#### The بَدَل تَفْصِيل Variant
+
+A sub-case of **بَدَل بَعض مِن كُلّ**: listing the parts after mentioning a **total number**. Here **no linking pronoun is required**.
+
+> **الدَّهْرُ يَوْمَانِ: يَوْمٌ لَكَ وَيَوْمٌ عَلَيْكَ**
+>
+> *"Time is two days: a day for you and a day against you."*
+
+A proverb. **يَوْمَانِ** is the whole; each **يَوْم** is a part of those two days.
+
+#### بَدَل الغَلَط / الإِضْرَاب
+
+The fourth type, restated: correcting a **slip of the tongue** — you said one word by mistake, then supply the one you meant.
+
+#### A Further Example of بَدَل اِشْتِمَال
+
+> **نَسْأَلُ المُدِيرَ عَنِ الاِمْتِحَانِ مَتَى يَكُونُ** — *"Let us ask the principal about the exam — when it will be."*
+
+**مَتَى يَكُونُ** is a **بَدَل اِشْتِمَال** from **الاِمْتِحَان**: the **timing** is connected to the exam but is neither a physical part of it nor the exam itself. Compare **أَعْجَبَنِي الشَّاعِرُ إِنْشَادُهُ** and **أَعْجَبَنِي الكِتَابُ أُسْلُوبُهُ**.
+
+#### Distinguishing بَدَل from عَطْف البَيَان
+
+The whole recap above was staged in order to introduce **عَطْف البَيَان**, which looks nearly identical. The two distinguishing rules — the second element must be **clearer or better known**, and the speaker's **concern** must lie with the **first** element — are set out in [[atf-bayan]], along with the worked case of **أُسْدَ خَفِيَّةٍ**, which resolves as **بَدَل** rather than bayān.
+
+Session reference: Surah Yusuf Session 9.
+
+---
+
+### From Session 8 — Surah Yusuf
+
+#### إِبْرَاهِيمَ وَإِسْحَاقَ as a بَدَل
+
+> **كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ** (Yūsuf 12:6)
+
+**إِبْرَاهِيم** is a **بَدَل** from **أَبَوَيْكَ** — it names the "two fathers" explicitly.
+
+Applying the first rule (the badal takes the iʿrāb of its **مُبْدَل مِنْه**): **أَبَوَيْ** follows the preposition **عَلَىٰ**, so it is **مَجرُور**, and therefore **إِبْرَاهِيم** is **مَجرُور** too.
+
+!!! note "Why It Shows a Fatḥah Anyway"
+    **إِبْرَاهِيم** is majrūr yet carries a **فَتْحَة**, because it is **مَمْنُوع مِن الصَّرْف** — a diptote, on the double cause of being a **proper name** that is **non-Arab (عَجَمِي)**. The badal rule and the diptote rule are operating together, and only one of them is visible. See [[mamnu-min-alsarf]].
+
+Session reference: Surah Yusuf Session 8.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: **إِبْرَاهِيمَ وَإِسْحَاقَ** as a badal for **أَبَوَيْكَ**; majrūr by the badal rule but showing fatḥah because it is a diptote.
 - Surah Al-Hujuraat Session 2: Badal introduced to explain why **الَّذِينَ** in **يَا أَيُّهَا الَّذِينَ آمَنُوا** is not the munādā but a badal for **أَيُّ**.
 - Surah Al-Hujuraat Session 11: All four types with detailed examples; Quranic example of badal ishtimāl (السَّاعَة / مُرسَاهَا); note on contested status of fourth type.
 - Surah Al-Hujuraat Session 12: Extended coverage — mubdal minhu terminology; tawābiʿ concept; two rules (iʿrāb follows, definiteness need not); four structural combinations; multiple Quranic examples of badal ishtimāl.

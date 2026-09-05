@@ -95,7 +95,48 @@ Other examples of time-independent qualities: *karuma* (nobility — either you 
 
 ---
 
+## From Surah Yusuf Session 8 — Revisited on عَلِيمٌ حَكِيم
+
+The closing of **Sūrat Yūsuf 12:6** — **إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ** — brought the class back to the five patterns.
+
+!!! important "What مُبَالَغَة Actually Means"
+    Not simply *one who does X* — that is the **اِسْم فَاعِل** — but **one who does X a great deal, over and over again**.
+
+    From **غَفَرَ** (*to forgive*): **غَافِر** is the ism fāʿil, *one who forgives*. **غَفَّار** is the intensive — *one who forgives again and again and again*.
+
+### The Three Common Patterns
+
+| Pattern | Examples discussed |
+|---|---|
+| **فَعَّال** | **غَفَّار**, **وَهَّاب**, **خَلَّاق** |
+| **فَعُول** | **شَكُور**, **غَفُور**, **وَدُود** |
+| **فَعِيل** | **عَلِيم**, **حَكِيم** |
+
+Of the five patterns, these three occur very commonly — in the Quran generally and in the Names of Allah particularly. The remaining two are much rarer; the teacher could not name a Divine Name on one of them and invited the class to look. She also noted that one of the rarer forms is a **noun**, not an ism fāʿil.
+
+### Why فَعَّال Became the Pattern of Professions
+
+!!! example "حَلَّاق and خَبَّاز"
+    **حَلَقَ** = *to cut hair*; **حَالِق** is the ordinary ism fāʿil, *one cutting hair*. But **حَلَّاق** is **a barber** — the profession. Likewise **خَبَّاز**, *a baker*.
+
+    This is still hyperbole underneath: **a barber cuts hair all day long**. The professional *is* the one who does the action over and over. No other mubālaghah pattern is used for professions in this way — though that does not stop **فَعَّال** from being used for ordinary hyperbole too.
+
+### Names Reserved for Allah
+
+**غَفَّار** and **شَكُور** are Names of Allah and **may not be given to anyone else**.
+
+!!! info "شُكْر Reverses Direction"
+    **شُكْر** from a servant means **being grateful** to Allah. **شَكُور** attributed to Allah does **not** mean gratitude — it means **being gracious**: that He accepts our deeds and grants us **جَزَاء** for them.
+
+!!! question "وَهَّاب vs. وَدُود — A Student's Correction"
+    Asked about **وَهَّاب**, the teacher initially glossed it as "loving"; a student corrected her, and she accepted the correction. **وَهَّاب** is *the Bestower*, from **وَهَبَ** — *to give as a gift*. The word she had in mind was **وَدُود** (pattern **فَعُول**) — *the Most Loving*, from **وُدّ**:
+
+    > **إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا** (Maryam)
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 8: Revision of the five patterns on **عَلِيمٌ حَكِيم**; why **فَعَّال** became the pattern of professions (**حَلَّاق**, **خَبَّاز**); **شَكُور** meaning graciousness when attributed to Allah; **وَهَّاب** vs. **وَدُود**.
 - Surah An-Noor Session 4: Full introduction — five qiyāsī patterns with examples; samāʿī patterns; Allah's names; application to **دَبَّاب** and **دَبَّابَة** (tank); qiyāsī vs. samāʿī distinction.
 - Selections from the Glorious Quran Session 1: al-Raḥmān vs. al-Raḥīm in Bismillāh; time-independent adjectives and why رَاحِم is not used for Allāh; faʿlān pattern for momentary excess.
