@@ -89,6 +89,12 @@ Mithal verbs also behave irregularly in Form I:
 
 ---
 
+### From Surah Yusuf Session 10 — اِنْتَقَلَ: Form VIII, Not Form VII
+
+**اِنْتَقَلَ / يَنْتَقِلُ / اِنْتِقَال** (*to transfer, move*) looks like Form VII (**اِنْفَعَلَ**), but its root is **ن-ق-ل** — so the **تَ** is the infixed tāʾ of **Form VIII (اِفْتَعَلَ)**. Only if the root were **ت-ق-ل** could it be Form VII. (In Urdu, **اِنتِقال** is used for someone passing away.)
+
+---
+
 ## Examples from the Quran
 
 - **اِتَّقَى** — occurs hundreds of times in the Quran (taqwā root)
@@ -99,4 +105,5 @@ Mithal verbs also behave irregularly in Form I:
 
 ## Session References
 
+- Surah Yusuf Session 10: اِنْتَقَلَ identified as Form VIII (root ن-ق-ل), not Form VII.
 - Surah Al-Hujuraat Session 3: Form VIII formation reviewed; mithal verbs (wāw first radical) explained with transformation chain; waritha/mīrāth discussed as additional example.

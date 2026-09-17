@@ -8,7 +8,7 @@
 
 ## Why Context Matters
 
-Understanding context transforms how an āyah lands. The example given in class: (source: [session-1.md](session-1.md))
+Understanding context transforms how an āyah lands. The example given in class: (source: [Surah Yusuf Session 1](../surah-yusuf-sessions/session-1.md))
 
 > Khubayb ibn ʿAdiy (RA) said: *"I would rather die than allow a thorn to prick the blessed body of the Prophet ﷺ."*
 
@@ -16,15 +16,15 @@ Read alone, this sounds like devotion. Read knowing he said it **while bound to 
 
 ## Asbāb al-Nuzūl vs. Tafsīr
 
-Technically, asbāb al-nuzūl (reasons of revelation) is a distinct discipline from tafsīr (Quranic exegesis). In practice, scholars treat it as essential background and include it in major tafsīr works. (source: [session-1](session-1.md))
+Technically, asbāb al-nuzūl (reasons of revelation) is a distinct discipline from tafsīr (Quranic exegesis). In practice, scholars treat it as essential background and include it in major tafsīr works. (source: [session-1](../surah-yusuf-sessions/session-1.md))
 
 Reading āyāt without context still provides guidance — but context unlocks a deeper level of understanding.
 
 ## Application to Surah Yusuf
 
-[Surah Yusuf](surah-yusuf.md) was revealed during [Aam al-Huzn](aam-al-huzn.md), the Prophet ﷺ's year of devastating personal loss. Knowing this reveals the surah as direct divine consolation — not merely a historical narrative.
+[Surah Yusuf](../surah-yusuf-sessions/surah-yusuf_overview.md) was revealed during [Aam al-Huzn](aam-al-huzn.md), the Prophet ﷺ's year of devastating personal loss. Knowing this reveals the surah as direct divine consolation — not merely a historical narrative.
 
 ## Related pages
 
-- [Surah Yusuf](surah-yusuf.md)
+- [Surah Yusuf](../surah-yusuf-sessions/surah-yusuf_overview.md)
 - [Aam al-Huzn](aam-al-huzn.md)

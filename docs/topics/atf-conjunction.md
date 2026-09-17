@@ -73,10 +73,10 @@ The ordinary conjunction described above — the one formed with **وَاو** an
 
 > **جَاءَ أَحْمَدُ وَعُمَرُ**
 
-**أَحْمَدُ** is the **مَعطُوف عَلَيه**; **عُمَرُ** is the **مَعطُوف**, following it in **iʿrāb**. That following is precisely what makes it one of the **تَوَابِع** (appositives) — alongside **البَدَل**، **النَّعت**، and **التَّوكِيد** (see [[badal]]).
+**أَحْمَدُ** is the **مَعطُوف عَلَيه**; **عُمَرُ** is the **مَعطُوف**, following it in **iʿrāb**. That following is precisely what makes it one of the **تَوَابِع** (appositives) — alongside **البَدَل**، **النَّعت**، and **التَّوكِيد** (see [البَدَل — The Grammatical Substitute](badal.md)).
 
 !!! note "There Is a Second Kind of عَطْف"
-    **عَطْف البَيَان** — *explanatory apposition* — is the other kind, and it uses no conjunction particle at all. It looks almost identical to **البَدَل**, and telling the two apart takes two specific rules. See [[atf-bayan]].
+    **عَطْف البَيَان** — *explanatory apposition* — is the other kind, and it uses no conjunction particle at all. It looks almost identical to **البَدَل**, and telling the two apart takes two specific rules. See [عَطْف البَيَان — Explanatory Apposition](atf-bayan.md).
 
 ---
 

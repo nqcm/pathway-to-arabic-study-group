@@ -56,7 +56,7 @@ The phrase **تَأْوِيل الأَحَادِيث** is the subject of a range
 !!! important "Why the Majority Reading Prevails"
     Most mufassirūn combine the first reading with the phrase's larger sense: *Allah will choose you for prophethood and teach you from this special knowledge — the interpretation of dreams.* The sūrah's own narrative confirms it: Yūsuf عليه السلام later interprets the dreams of his fellow prisoners and then the dream of the king. Just as every prophet was given a particular gift as his speciality, this was the speciality of Yūsuf عليه السلام.
 
-Note also the **مِن** in **مِن تَأْوِيلِ الْأَحَادِيثِ** — it is **تَبعِيضِيَّة**, *some of*; see [[min-tabidiyya]]. And on the word **أَحَادِيث** itself, see [[root-hadatha]].
+Note also the **مِن** in **مِن تَأْوِيلِ الْأَحَادِيثِ** — it is **تَبعِيضِيَّة**, *some of*; see [مِن التَّبعِيضِيَّة — The Partitive مِن](min-tabidiyya.md). And on the word **أَحَادِيث** itself, see [حَدَثَ — Event, Newness, and Speech](root-hadatha.md).
 
 ---
 

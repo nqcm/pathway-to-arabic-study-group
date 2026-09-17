@@ -48,7 +48,7 @@ Words on the pattern **فَعُول** used as adjectives (like **صَبُور**,
 > **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ**
 > *Ibrāhīm (عَلَيهِ السَّلَام), of the idols: "Indeed, they are enemies to me, except the Lord of the worlds."*
 
-Here **عَدُوٌّ** (singular form) refers to multiple idols — and **هُمْ** (the rational-being pronoun) is used for these inanimate objects because they are being *treated* as deities (see [[broken-plural-pronoun]] and the discussion of راised status in [[jama-muzakar-salim]]).
+Here **عَدُوٌّ** (singular form) refers to multiple idols — and **هُمْ** (the rational-being pronoun) is used for these inanimate objects because they are being *treated* as deities (see [Broken Plural + Feminine Singular Pronoun](broken-plural-pronoun.md) and the discussion of راised status in [جمع المذكر السالم — Sound Masculine Plural](jama-muzakar-salim.md)).
 
 > **هُمُ العَدُوُّ فَاحْذَرْهُمْ** — *"They are the enemies, so beware of them."*
 
@@ -65,13 +65,13 @@ Here **عَدُوٌّ** (singular form) refers to multiple idols — and **هُ�
 
 ## عَدُوّ vs. Ordinary حَذف المَوصُوف
 
-عَدُوّ began life as an adjective for a dropped noun (**شَخْص**, "a person") — the same basic mechanism seen in Quranic constructions like **النَّازِعَات** and **العَادِيَات**, where a صِفَة stands in for an unstated noun (see [[hadhf-al-mawsuf]]). The difference is one of *degree*: in النَّازِعَات/العَادِيَات, readers still consciously recover the missing noun (angels/winds; horses) from context or hadith. With عَدُوّ, frequency of use has gone further — speakers no longer track any "missing" noun at all; عَدُوّ has fully migrated into being read as a plain noun (see §1 above, "From Adjective to Pure Noun").
+عَدُوّ began life as an adjective for a dropped noun (**شَخْص**, "a person") — the same basic mechanism seen in Quranic constructions like **النَّازِعَات** and **العَادِيَات**, where a صِفَة stands in for an unstated noun (see [حَذف المَوصُوف — Dropping the Qualified Noun](hadhf-al-mawsuf.md)). The difference is one of *degree*: in النَّازِعَات/العَادِيَات, readers still consciously recover the missing noun (angels/winds; horses) from context or hadith. With عَدُوّ, frequency of use has gone further — speakers no longer track any "missing" noun at all; عَدُوّ has fully migrated into being read as a plain noun (see §1 above, "From Adjective to Pure Noun").
 
 ---
 
 ## الاِستِثنَاء المُنقَطِع in إِلَّا رَبَّ العَالَمِينَ
 
-A closer look at Ibrāhīm's **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ** shows it is an **اِستِثنَاء مُنقَطِع** (disconnected exception, see [[istisna]]): Allah does not belong to the group "idols" at all, so He is not being excluded *from* that group the way **حَامِد** is excluded from "students" in an ordinary exception. This is why English translations of the āyah diverge so widely — a literal *"they are my enemies, except the Lord of the worlds"* reads oddly in English, which lacks this construction. Five translations compared in Session 7:
+A closer look at Ibrāhīm's **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ** shows it is an **اِستِثنَاء مُنقَطِع** (disconnected exception, see [الاستثناء — Exception in Arabic](istisna.md)): Allah does not belong to the group "idols" at all, so He is not being excluded *from* that group the way **حَامِد** is excluded from "students" in an ordinary exception. This is why English translations of the āyah diverge so widely — a literal *"they are my enemies, except the Lord of the worlds"* reads oddly in English, which lacks this construction. Five translations compared in Session 7:
 
 | Translator | Rendering |
 |---|---|

@@ -91,8 +91,8 @@ The full explanation of tamyīz has been moved to [Tamyiz](tamyiz.md).
 
 ## Related pages
 
-- [[surah-yusuf-session3]]
-- [[muqattaat]]
-- [[mudaf-idafah]]
-- [[mafool-mutlaq]]
-- [[tamyiz]]
+- [Surah Yusuf Session 3](../surah-yusuf-sessions/session-3.md)
+- [Al-Muqattaʿāt (المقطعات)](muqattaat.md)
+- [Mudāf Iḍāfah — Genitive Construction](mudaf-idafah.md)
+- [Mafʿūl Muṭlaq — Absolute Object](mafool-mutlaq.md)
+- [Tamyiz](tamyiz.md)

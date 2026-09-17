@@ -11,7 +11,7 @@
 1. **Emphasis** — reinforces the action: *سَجَدْتُ سُجُودًا* (I truly prostrated)
 2. **Specification** — limits the action: *سَجَدْتُ سَجْدَةً* (I made one sajda)
 
-(source: [session-2.md](session-2.md))
+(source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ---
 
@@ -21,7 +21,7 @@ When a word *other than* the verb's own maṣdar performs the same function, it 
 
 Example: *سَجَدْتُ وَاحِدَةً* — وَاحِدَةً is not the maṣdar of سَجَدَ but deputizes for سَجْدَةً.
 
-**Example from Surah Yusuf, Ayah 1 study:** (source: [session-2.md](session-2.md))
+**Example from Surah Yusuf, Ayah 1 study:** (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 > *مَا يَأْتِيهِمْ ... إِلَّا كَانُوا ... كَثِيرًا*
 
@@ -36,13 +36,13 @@ Moving the mafʿūl (or its deputy) **before** the verb creates **restriction/em
 > *نَعْبُدُكَ* — We worship you (neutral)
 > *إِيَّاكَ نَعْبُدُ* — It is *only* you we worship (mafʿūl before verb = exclusivity)
 
-This is a key rhetorical device in the Quran. (source: [session-2.md](session-2.md))
+This is a key rhetorical device in the Quran. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ---
 
 ## مَا الزَّائِدَة
 
-**مَا الزَّائِدَة** (redundant/extra مَا) is grammatically unnecessary but adds emphasis. The sentence is complete without it; its presence intensifies the meaning. (source: [session-2.md](session-2.md))
+**مَا الزَّائِدَة** (redundant/extra مَا) is grammatically unnecessary but adds emphasis. The sentence is complete without it; its presence intensifies the meaning. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ---
 
@@ -196,6 +196,16 @@ Session reference: Surah Yusuf Session 8.
 
 ---
 
+### From Session 10 — Surah Yusuf: A Form I Maṣdar with a Form IV Verb
+
+> **وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا** (al-Fajr 20)
+
+**تُحِبُّونَ** is **Form IV** (ḍammah on the prefix), yet the mafʿūl muṭlaq is **حُبًّا** — the maṣdar of **Form I**. The Form IV maṣdar **إِحْبَاب** is almost never used, so **حُبّ** fills the slot. See [حَبَّ / أَحَبَّ](verb-ahabba.md).
+
+Session reference: Surah Yusuf Session 10.
+
+---
+
 ## Related pages
 
 - [demonstrative-pronouns](demonstrative-pronouns.md)
@@ -203,3 +213,7 @@ Session reference: Surah Yusuf Session 8.
 - [arabic-grammar-methodology](arabic-grammar-methodology.md)
 - [Maṣdar and its Muḍāf](masdar-mudaf.md)
 - [Surah Al-Hujuraat Session 3](../surah-alhujuraat-sessions/session-3.md)
+
+## Session References
+
+- Surah Yusuf Session 10: حُبًّا (Form I maṣdar) as mafʿūl muṭlaq of تُحِبُّونَ (Form IV) in al-Fajr 20.

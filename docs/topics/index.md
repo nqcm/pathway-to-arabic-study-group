@@ -7,6 +7,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 - [Aam al-Huzn](aam-al-huzn.md)
 - [Compilation of the Quran](quran-compilation.md)
+- [Ḥadīth Citation Terminology](hadith-terminology.md)
 
 ## Recitations
 
@@ -64,6 +65,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [جَمْع مُنْتَهَى الجُمُوع — The Utmost Plural](jam-muntaha-al-jumu.md)
 - [الجملة المُعتَرِضَة — Embedded Sentences (Naʿt/Ḥāl Rule)](jumla-embedded.md)
 - [اِفْتَعَلَ — Form VIII Verb Pattern](iftaala-pattern.md)
+- [إِخَالُ — The Banū Asad Kasrah](ikhalu-banu-asad.md)
 - [Innama](innama.md)
 - [اسم المصدر — The Nominal Maṣdar](ism-al-masdar.md)
 - [اسم الجِنس الجَمعِي — Collective Genus Noun](ism-jins-jamai.md)
@@ -146,13 +148,17 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [فَاسِق — Three Levels of Disobedience](fasiq-levels.md)
 - [فُعلة Pattern — One Instance of an Action](fuala-pattern.md)
 - [غَفلَة — Heedlessness and Unawareness](ghaflah.md)
+- [حَبَّ / أَحَبَّ — To Love](verb-ahabba.md)
 - [الحمد، المدح، والثناء — Praise Words](hamd-vs-madh.md)
 - [إِخْوَة vs إِخْوَان — Blood Brothers vs. Brotherhood](ikhwa-vs-ikhwan.md)
+- [يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ — The Idiom of an Empty Face](khuluww-al-wajh.md)
+- [لَهْو vs لَعِب — Two Kinds of Frivolity](lahw-vs-laib.md)
 - [Mann — Three Meanings](mann-verb.md)
 - [مَوَدَّة وَرَحمَة — Love and Mercy in Marriage](mawadda-rahma.md)
 - [Mubeen](mubeen.md)
 - [نَبَأ vs خَبَر — Big News vs Ordinary Information](naba-khabar.md)
 - [نُزُول vs تَنزِيل — All at Once vs Gradual Revelation](nuzul-vs-tanzil.md)
+- [قَوْم — Originally a Group of Men](qawm.md)
 - [رَأَى / أَرَى — To See / To Show](verb-raaa.md)
 - [سَأَلَ — Three Constructions of Asking](verb-saala.md)
 - [تَابَ — To Repent; Two Prepositions; تَائِب vs تَوَّاب](verb-taba.md)
@@ -167,6 +173,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 
 - [Root ع-ق-ل (ʿAqala) — Intellect and Restraint](root-aqala.md)
 - [Root ب-غ-ي (Baghā) — To Wrong or To Seek](root-baga.md)
+- [Root ب-ل-ي / ب-ل-و (Balā) — Wearing Out and Testing](root-bala.md)
 - [Root ب-ش-ر (Bashara) — Skin and Humanity](root-bashar.md)
 - [Root ض-ل-ل (Ḍalla) — Straying and Not Returning](root-dalla.md)
 - [Root ح-د-ث (Ḥadatha) — Event, Newness, and Speech](root-hadatha.md)

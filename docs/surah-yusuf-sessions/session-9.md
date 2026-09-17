@@ -342,7 +342,7 @@ Both forms occur in the Quran.
 | **سَالَ** | **يَسَالُ** | **تَسَالُ** → drop the prefix, sukūn on the last letter → **سَالْ** | **سَلْ** |
 
 !!! question "Why Does the Alif Drop in سَلْ?"
-    Working it out with the class: giving the last letter a **sukūn** leaves the **alif** also carrying a sukūn — **two sukūns meeting**. The resolution is to **drop the alif**, giving **سَلْ**. (See [[phonetic-harmony]].)
+    Working it out with the class: giving the last letter a **sukūn** leaves the **alif** also carrying a sukūn — **two sukūns meeting**. The resolution is to **drop the alif**, giving **سَلْ**. (See [Phonetic Harmony — Assimilation, Dissimilation, and Iltiqāʾ al-Sākinayn](../topics/phonetic-harmony.md).)
 
 !!! example "سَلْ in the Quran — سُورَة البَقَرَة"
     > **سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ اللَّهِ مِن بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ**
@@ -361,7 +361,7 @@ Both forms occur in the Quran.
     >
     > **وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ** (al-Naḥl)
 
-    The underlying imperative is **اِسْأَلُوا**; when the **وَاو** or **فَاء** comes before it, the **hamzat al-waṣl** is not pronounced and we read **وَاسْأَلُوا** / **فَاسْأَلُوا**. See [[hamzatul-wasl]].
+    The underlying imperative is **اِسْأَلُوا**; when the **وَاو** or **فَاء** comes before it, the **hamzat al-waṣl** is not pronounced and we read **وَاسْأَلُوا** / **فَاسْأَلُوا**. See [همزة الوصل vs همزة القطع — The Two Types of Hamza](../topics/hamzatul-wasl.md).
 
     The second āyah also carries its own content: the messengers sent before were always **men**, and men to whom **waḥy** was given — *"so ask the people of the reminder if you do not know."*
 
@@ -443,7 +443,7 @@ Run the checklist on **لَقَدْ كَانَ**:
 Analysing **كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ**, the class first identified **آيَاتٌ** as the **فَاعِل** — and the teacher let it stand for a moment before catching it.
 
 !!! warning "كَانَ Has No فَاعِل"
-    **كَانَ** is one of the **نَوَاسِخ**. It does not take a **فَاعِل** and a **مَفعُول** — it takes an **اِسْم كَانَ** (marfūʿ) and a **خَبَر كَانَ** (manṣūb). The teacher pointed out that nobody had called her out on it: *"how come nobody called me out that kāna cannot have a fāʿil?"* See [[kana-sisters]].
+    **كَانَ** is one of the **نَوَاسِخ**. It does not take a **فَاعِل** and a **مَفعُول** — it takes an **اِسْم كَانَ** (marfūʿ) and a **خَبَر كَانَ** (manṣūb). The teacher pointed out that nobody had called her out on it: *"how come nobody called me out that kāna cannot have a fāʿil?"* See [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](../topics/kana-sisters.md).
 
 **The analysis:**
 
@@ -455,10 +455,10 @@ Analysing **كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَات
 | **لِلسَّائِلِينَ** | Left open — see below |
 
 !!! question "What Is لِلسَّائِلِينَ?"
-    Two analyses were floated: a **second khabar**, or a **مُتَعَلِّق** attaching to **آيَات** (i.e. functioning as its ṣifah). The teacher chose to leave it, for now, as *"khabar one and khabar two"* since that is easier to parse — and undertook to check how other grammarians have parsed it and discuss it on the group. See [[mutaaliq-attachment]] and [[khabar-mukadam]].
+    Two analyses were floated: a **second khabar**, or a **مُتَعَلِّق** attaching to **آيَات** (i.e. functioning as its ṣifah). The teacher chose to leave it, for now, as *"khabar one and khabar two"* since that is easier to parse — and undertook to check how other grammarians have parsed it and discuss it on the group. See [المُتَعَلِّق — Prepositional Phrase Attachment](../topics/mutaaliq-attachment.md) and [الخَبَر المُقَدَّم — Fronted Predicate](../topics/khabar-mukadam.md).
 
 !!! note "يُوسُفَ"
-    **يُوسُفَ** follows **فِي** and is therefore **مَجرُور** — but shows a **فَتْحَة**, being **مَمنُوع مِن الصَّرف** (a non-Arab proper name). See [[mamnu-min-alsarf]].
+    **يُوسُفَ** follows **فِي** and is therefore **مَجرُور** — but shows a **فَتْحَة**, being **مَمنُوع مِن الصَّرف** (a non-Arab proper name). See [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](../topics/mamnu-min-alsarf.md).
 
 ---
 
@@ -542,7 +542,7 @@ Not "brothers." **أَخُوهُ** is singular — his **one** brother, Binyām�
 | Manṣūb | **أَبَانَا** |
 | Majrūr | **أَبِينَا** |
 
-After **إِلَىٰ** it is **مَجرُور**, hence **أَبِينَا**. And in **إِنَّ أَبَانَا** it is the **اِسْم إِنَّ**, hence **مَنصُوب** — **أَبَانَا**. See [[five-special-nouns]].
+After **إِلَىٰ** it is **مَجرُور**, hence **أَبِينَا**. And in **إِنَّ أَبَانَا** it is the **اِسْم إِنَّ**, hence **مَنصُوب** — **أَبَانَا**. See [الأسماء الخمسة — The Five Special Nouns](../topics/five-special-nouns.md).
 
 ### 11.4 مِنَّا — "Than Us," Not "From Us"
 
@@ -573,7 +573,7 @@ After **إِلَىٰ** it is **مَجرُور**, hence **أَبِينَا**. And
 ### 13.1 لَفِي — the Slippery Lām
 
 !!! note "إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ"
-    The **لَام** in **لَفِي** is the **لَام المُزَحلَقَة** — the *"slippery lām."* It belongs at the head of the sentence with **إِنَّ**, but is **pushed forward** onto the khabar. See [[lam-muzaalaqa]].
+    The **لَام** in **لَفِي** is the **لَام المُزَحلَقَة** — the *"slippery lām."* It belongs at the head of the sentence with **إِنَّ**, but is **pushed forward** onto the khabar. See [لَامُ المُزَعلَقَة — The Skidding Lam of Emphasis](../topics/lam-muzaalaqa.md).
 
 ### 13.2 The Verb ضَلَّ
 
@@ -601,7 +601,7 @@ After **إِلَىٰ** it is **مَجرُور**, hence **أَبِينَا**. And
     | Manṣūb | **يَاء** |
     | Majrūr | **يَاء** |
 
-    So **الضَّالِّينَ** is **مَجرُور** (as a **مَعطُوف** following **المَغْضُوبِ عَلَيْهِمْ**), and its sign is the **يَاء** — the fatḥah sitting on the nūn is not the case marker at all. See [[jama-muzakar-salim]].
+    So **الضَّالِّينَ** is **مَجرُور** (as a **مَعطُوف** following **المَغْضُوبِ عَلَيْهِمْ**), and its sign is the **يَاء** — the fatḥah sitting on the nūn is not the case marker at all. See [جمع المذكر السالم — Sound Masculine Plural](../topics/jama-muzakar-salim.md).
 
 ### 13.3 What Did the Brothers Actually Mean?
 

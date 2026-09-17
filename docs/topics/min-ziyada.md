@@ -55,7 +55,7 @@ The terminology "extra" (**زائدة**) is purely grammatical — it never mean
 
 ## Not to Be Confused With مِن التَّبعِيضِيَّة
 
-**مِن الزَّائِدَة** is syntactically removable and carries emphasis. It is a different creature from **مِن التَّبعِيضِيَّة** — the partitive مِن, which means **بَعْض** ("some of") and genuinely changes the meaning of the sentence. See [[min-tabidiyya]].
+**مِن الزَّائِدَة** is syntactically removable and carries emphasis. It is a different creature from **مِن التَّبعِيضِيَّة** — the partitive مِن, which means **بَعْض** ("some of") and genuinely changes the meaning of the sentence. See [مِن التَّبعِيضِيَّة — The Partitive مِن](min-tabidiyya.md).
 
 ---
 

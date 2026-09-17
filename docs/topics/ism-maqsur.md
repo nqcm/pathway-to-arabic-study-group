@@ -75,7 +75,7 @@ Context (a third element, or common sense) normally resolves this. Skilled Arabi
 
 ## رُؤْيَا — Another Maqṣūr + Diptote Noun
 
-**رُؤْيَا** (dream/vision, Yūsuf 12:5) ends in alif maqṣūrah and is also a diptote — exactly like **مُوسَى**. Its case markers are entirely **مُقَدَّر**: it looks the same (**رُؤْيَا**) whether marfūʿ, manṣūb, or majrūr. The teacher emphasised the *underlying reason* once more: alif is a **وَبلَة** (a pure vowel-elongation, not a consonant) and therefore cannot carry **any** ḥarakah — "you cannot put a ḥarakah on top of a ḥarakah." Grammatically, **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** *is* manṣūb (mafʿūl bih of تَقْصُصْ) — the fataḥ is simply muqaddar, hidden beneath the alif. See [[mamnu-min-alsarf]] for the fuller diptote analysis.
+**رُؤْيَا** (dream/vision, Yūsuf 12:5) ends in alif maqṣūrah and is also a diptote — exactly like **مُوسَى**. Its case markers are entirely **مُقَدَّر**: it looks the same (**رُؤْيَا**) whether marfūʿ, manṣūb, or majrūr. The teacher emphasised the *underlying reason* once more: alif is a **وَبلَة** (a pure vowel-elongation, not a consonant) and therefore cannot carry **any** ḥarakah — "you cannot put a ḥarakah on top of a ḥarakah." Grammatically, **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** *is* manṣūb (mafʿūl bih of تَقْصُصْ) — the fataḥ is simply muqaddar, hidden beneath the alif. See [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](mamnu-min-alsarf.md) for the fuller diptote analysis.
 
 ---
 
@@ -88,7 +88,7 @@ The final letter is an **أَلِف مَقصُورَة** — a "shortened" alif.
 !!! note "A General Quranic Spelling Convention"
     This is not specific to maqṣūr nouns. Throughout the Quran, words ending in **فَتْحَة + تَنوِين** are written with a final alif to remind the reciter how to pronounce them at a pause. The spelling encodes the sound of the **waqf**, not the grammar.
 
-When **ال** is added, the tanwīn drops and the word becomes definite — **المُجْتَبَى**, **المُصْطَفَى**. Note the contrast with the ismul manqūṣ ([[ism-manqus]]): in **المُجْتَبِي** the yāʾ *returns* with ال, whereas in **المُجْتَبَى** the alif simply stays and the yāʾ remains omitted — because a yāʾ has trouble with a **فَتْحَة** here.
+When **ال** is added, the tanwīn drops and the word becomes definite — **المُجْتَبَى**, **المُصْطَفَى**. Note the contrast with the ismul manqūṣ ([الاسم المنقوص — The Deficient Noun](ism-manqus.md)): in **المُجْتَبِي** the yāʾ *returns* with ال, whereas in **المُجْتَبَى** the alif simply stays and the yāʾ remains omitted — because a yāʾ has trouble with a **فَتْحَة** here.
 
 !!! important "Phonetics, Not Grammar"
     The teacher stressed that all of this — dropped yāʾs, transferred tanwīn, alif maqṣūrah spelling — belongs to **phonetics**. Arabic writing follows Arabic sound.

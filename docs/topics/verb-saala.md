@@ -12,7 +12,7 @@ tags:
 **سَأَلَ / يَسْأَلُ**, maṣdar **سُؤَال**, root **س-أ-ل**. Which of its three constructions is in play — and therefore which of its meanings — is signalled entirely by what follows the verb.
 
 !!! note "Maṣdar or Ism Maṣdar?"
-    Whether **سُؤَال** is a **مَصدَر** or an **اِسم مَصدَر** was left open in class — a fair uncertainty rather than a settled point. See [[ism-al-masdar]].
+    Whether **سُؤَال** is a **مَصدَر** or an **اِسم مَصدَر** was left open in class — a fair uncertainty rather than a settled point. See [اسم المصدر — The Nominal Maṣdar](ism-al-masdar.md).
 
 ---
 
@@ -35,7 +35,7 @@ tags:
     >
     > *"I asked the principal to give me permission to travel."* (**أَذِنَ** = to permit.)
 
-    See [[masdar-muawwal]].
+    See [المصدر المؤوَّل — The Constructed Masdar](masdar-muawwal.md).
 
 !!! example "سُورَة طه"
     > **وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا ۖ لَا نَسْأَلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَالْعَاقِبَةُ لِلتَّقْوَىٰ**
@@ -53,7 +53,7 @@ With **عَنْ** the meaning shifts from *wanting something from someone* to **
 > *"Let us ask the principal about the exam — when it will be."*
 
 !!! question "The Grammar of مَتَى يَكُونُ"
-    **مَتَى يَكُونُ** is a **بَدَل اِشْتِمَال** from **الاِمْتِحَان**: we are asking about the **timing**, which is connected to the exam but is neither a physical part of it nor the exam itself. See [[badal]].
+    **مَتَى يَكُونُ** is a **بَدَل اِشْتِمَال** from **الاِمْتِحَان**: we are asking about the **timing**, which is connected to the exam but is neither a physical part of it nor the exam itself. See [البَدَل — The Grammatical Substitute](badal.md).
 
 !!! example "سُورَة المَائِدَة — a Weighty Āyah"
     > **يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ عَفَا اللَّهُ عَنْهَا ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ**
@@ -94,7 +94,7 @@ Both forms occur in the Quran.
 | **سَالَ** | **يَسَالُ** | **تَسَالُ** → drop the prefix; sukūn on the last letter | **سَلْ** |
 
 !!! question "Why the Alif Drops in سَلْ"
-    Putting a sukūn on the last letter leaves the **alif** also carrying a sukūn — **two sukūns meeting**. The resolution is to drop the alif, giving **سَلْ**. See [[phonetic-harmony]].
+    Putting a sukūn on the last letter leaves the **alif** also carrying a sukūn — **two sukūns meeting**. The resolution is to drop the alif, giving **سَلْ**. See [Phonetic Harmony — Assimilation, Dissimilation, and Iltiqāʾ al-Sākinayn](phonetic-harmony.md).
 
 !!! example "سَلْ — سُورَة البَقَرَة"
     > **سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ اللَّهِ مِن بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ**
@@ -111,7 +111,7 @@ Both forms occur in the Quran.
     >
     > **وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ** (al-Naḥl)
 
-    The imperative is **اِسْأَلُوا**; when **وَاو** or **فَاء** precedes, the **hamzat al-waṣl** is not pronounced. See [[hamzatul-wasl]].
+    The imperative is **اِسْأَلُوا**; when **وَاو** or **فَاء** precedes, the **hamzat al-waṣl** is not pronounced. See [همزة الوصل vs همزة القطع — The Two Types of Hamza](hamzatul-wasl.md).
 
 ---
 

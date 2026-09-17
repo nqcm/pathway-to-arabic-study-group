@@ -54,7 +54,7 @@ An ordinary action verb (*fiʿl tāmm*) almost never appears after **إِنْ ا
 
 Arabic has a **separate إِن of negation** (إِن النَّافِيَة) meaning "not." Since the two look identical in writing, a **lām** is introduced whenever **إِنْ المُخَفَّفَة** is used — this is called **لَام الفَارِقَة** (lām al-fāriqah) — the lam that separates/distinguishes.
 
-See dedicated note: [[lam-al-fariqah]]
+See dedicated note: [لَام الفَارِقَة — The Distinguishing Lam](lam-al-fariqah.md)
 
 ---
 
@@ -111,10 +111,10 @@ The lam may be dropped when the speaker's intention is so clear from context tha
 
 ## Related Pages
 
-- [[nawasikh]] — master framework including إِنَّ and sisters
-- [[lam-al-fariqah]] — dedicated note on the distinguishing lam
-- [[kana-sisters]] — the most common verbs that follow إِنْ المُخَفَّفَة
-- [[masdar-muawwal]] — related use of مَا in clause nominalisation
+- [النَّواسِخ — The Abrogating Agents](nawasikh.md) — master framework including إِنَّ and sisters
+- [لَام الفَارِقَة — The Distinguishing Lam](lam-al-fariqah.md) — dedicated note on the distinguishing lam
+- [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](kana-sisters.md) — the most common verbs that follow إِنْ المُخَفَّفَة
+- [المصدر المؤوَّل — The Constructed Masdar](masdar-muawwal.md) — related use of مَا in clause nominalisation
 
 ## Session References
 

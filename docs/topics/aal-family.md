@@ -40,12 +40,12 @@ The same āyah continues **عَلَىٰ أَبَوَيْكَ مِن قَبْلُ
 
 - The independent dual is **أَبَوَانِ**;
 - In the manṣūb/majrūr state it is **أَبَوَيْنِ**;
-- As a **مُضَاف** (to **كَ**) the **نُون** drops → **أَبَوَيْ + كَ = أَبَوَيْكَ**. See [[mudaf-idafah]].
+- As a **مُضَاف** (to **كَ**) the **نُون** drops → **أَبَوَيْ + كَ = أَبَوَيْكَ**. See [Mudāf Iḍāfah — Genitive Construction](mudaf-idafah.md).
 
 !!! important "Not Father and Grandfather"
     The āyah names them: **إِبْرَاهِيم** and **إِسْحَاق**. Relative to Yūsuf عليه السلام these are his **grandfather** (Isḥāq) and **great-grandfather** (Ibrāhīm). Arabic uses **أَب** freely for ancestors up the line, not only for the immediate father.
 
-For the iʿrāb of **إِبْرَاهِيمَ** as a majrūr **بَدَل** carrying a fatḥah, see [[mamnu-min-alsarf]] and [[badal]].
+For the iʿrāb of **إِبْرَاهِيمَ** as a majrūr **بَدَل** carrying a fatḥah, see [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](mamnu-min-alsarf.md) and [البَدَل — The Grammatical Substitute](badal.md).
 
 ---
 

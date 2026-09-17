@@ -101,9 +101,9 @@ This is the same **رَأَى** but used for an internal judgment rather than ph
 
 ## Related Pages
 
-- [[weak-verbs]] — category of verbs with a root letter ʿillah
-- [[zanna-sisters]] — af'āl al-qulūb context for رَأَى with two mafʿūl
-- [[phonetic-harmony]] — yāʾ/wāw → hamzah transformations
+- [الأفعال المعتلة — Weak (Irregular) Verbs](weak-verbs.md) — category of verbs with a root letter ʿillah
+- [ظَنَّ وأخواتها — Ẓanna and Verbs with Two Mafʿūl](zanna-sisters.md) — af'āl al-qulūb context for رَأَى with two mafʿūl
+- [Phonetic Harmony — Assimilation, Dissimilation, and Iltiqāʾ al-Sākinayn](phonetic-harmony.md) — yāʾ/wāw → hamzah transformations
 
 ## Session References
 

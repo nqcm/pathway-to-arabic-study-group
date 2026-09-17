@@ -42,7 +42,7 @@ The five types of **طَلَب** that qualify:
 ## Quranic Examples
 
 !!! example "After negation — Sūrat Fāṭir (35:36)"
-    **لَا يُقضَى عَلَيهِم فَيَمُوتُوا وَلَا يُخَفَّفُ عَنهُم مِّن عَذَابِهَا** — *"It is not decreed for them that they should die, nor is the punishment ever lightened for them."* — **يَمُوتُوا** is manṣūb (the plural nūn is dropped — the tell-tale sign). Their suffering in **نَارُ جَهَنَّمَ** does not even grant the relief of death. (**جَهَنَّمَ**, a feminine proper name/diptote — see [[mamnu-min-alsarf]] — takes fatḥah instead of kasrah as muḍāf ilayh.)
+    **لَا يُقضَى عَلَيهِم فَيَمُوتُوا وَلَا يُخَفَّفُ عَنهُم مِّن عَذَابِهَا** — *"It is not decreed for them that they should die, nor is the punishment ever lightened for them."* — **يَمُوتُوا** is manṣūb (the plural nūn is dropped — the tell-tale sign). Their suffering in **نَارُ جَهَنَّمَ** does not even grant the relief of death. (**جَهَنَّمَ**, a feminine proper name/diptote — see [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](mamnu-min-alsarf.md) — takes fatḥah instead of kasrah as muḍāf ilayh.)
 
 !!! example "After amar — Sūrat al-Baqara (2:186)"
     **فَليَستَجِيبُوا لِي وَليُؤمِنُوا بِي** — command, followed by result.
@@ -54,7 +54,7 @@ The five types of **طَلَب** that qualify:
 The طَلَب licensing فَاء السَّبَبِيَّة must be an **explicit** request/command — not merely something *understood* to carry that force.
 
 !!! example "اسم الفِعل Has the Force of a Command — But Isn't One"
-    Words like **آمِين**, **أُفّ**, and **صَهْ** (see [[ism-al-fil]]) carry the *meaning* of a command but are grammatically **اسم**, not **فِعل**. Because the command is only implied rather than spoken as an explicit verb-form, a sentence beginning with such a word cannot license فَاء السَّبَبِيَّة's manṣūb effect on what follows.
+    Words like **آمِين**, **أُفّ**, and **صَهْ** (see [اسم الفِعل — Noun with the Force of a Verb](ism-al-fil.md)) carry the *meaning* of a command but are grammatically **اسم**, not **فِعل**. Because the command is only implied rather than spoken as an explicit verb-form, a sentence beginning with such a word cannot license فَاء السَّبَبِيَّة's manṣūb effect on what follows.
 
 !!! example "An Indicative Sentence That Functions as a Command — al-Ṣaff 61:11"
     > **تُؤمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَموَالِكُم وَأَنفُسِكُم**
@@ -78,7 +78,7 @@ The طَلَب licensing فَاء السَّبَبِيَّة must be an **explic
 !!! note "تَحضِيض — The Same Particle for Encouragement *and* Regret"
     > **وَلَولَا أَخَّرتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ** (al-Munāfiqūn 63:10) — a dying person's regret: *"If only You had reprieved me for a little while, then I would have given charity!"*
 
-    This use of **لَولَا** is a طَلَب particle expressing regret over a missed past action — distinct from the counterfactual **لَوْلَا** (mubtadaʾ + omitted khabar) documented in [[lola]], despite identical spelling. The same particle family can pivot toward *encouragement* of a still-possible future action (*"Work hard, so that you may succeed"*) depending on context.
+    This use of **لَولَا** is a طَلَب particle expressing regret over a missed past action — distinct from the counterfactual **لَوْلَا** (mubtadaʾ + omitted khabar) documented in [لَوْلَا — Counterfactual "But For"](lola.md), despite identical spelling. The same particle family can pivot toward *encouragement* of a still-possible future action (*"Work hard, so that you may succeed"*) depending on context.
 
 ---
 

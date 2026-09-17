@@ -81,7 +81,7 @@ Even with no time to pray the two rakʿahs, the istikhāra is not lost:
 
 ## Related
 
-The session reached istikhāra by way of **اِجْتَبَى**, *to choose* — see [[root-jabaa]]. Istikhāra is the servant's side of the same idea: asking the One who chooses to choose.
+The session reached istikhāra by way of **اِجْتَبَى**, *to choose* — see [اِجْتَبَى — Choosing and Selection](root-jabaa.md). Istikhāra is the servant's side of the same idea: asking the One who chooses to choose.
 
 ---
 

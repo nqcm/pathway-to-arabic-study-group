@@ -94,7 +94,7 @@ From Surah Yusuf Session 8, on **وَيُعَلِّمُكَ** and **وَيُتِ
 
     Both appear in the āyah: **يُتِمُّ نِعْمَتَهُ** (*He completes His favour*) and **كَمَا أَتَمَّهَا** (*just as He completed it*) — Form IV throughout, because the completing is Allah's act upon something else.
 
-Compare Form X, which adds the meaning of **seeking**: **اِسْتَغْفَرَ** = *to seek forgiveness*, **اِسْتَخَارَ** = *to seek goodness*. See [[istikhara]].
+Compare Form X, which adds the meaning of **seeking**: **اِسْتَغْفَرَ** = *to seek forgiveness*, **اِسْتَخَارَ** = *to seek goodness*. See [اِسْتِخَارَة — Seeking Goodness from Allah](istikhara.md).
 
 ---
 

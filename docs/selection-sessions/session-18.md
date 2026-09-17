@@ -157,7 +157,7 @@ If the indefinite mubtadaʾ has a **naʿt (adjective)**, it may remain at the st
 
 ## 8. نَبَأ vs خَبَر — Important News vs Ordinary News
 
-(See dedicated topic: [نَبَأ vs خَبَر](naba-khabar.md))
+(See dedicated topic: [نَبَأ vs خَبَر](../topics/naba-khabar.md))
 
 | Word | Meaning |
 |---|---|

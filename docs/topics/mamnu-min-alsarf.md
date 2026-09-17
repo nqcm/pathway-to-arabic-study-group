@@ -165,7 +165,7 @@ A word ending in **alif maqṣūrah** (ـَى or ـَا) is a diptote whose case
 
     *"If you peel back that layer and look inside, مُوسَى is not actually marfūʿ-looking — it's just that nothing shows because of this alif."*
 
-Session reference: Surah Yusuf Session 6 — applied to **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** (Āyah 5); cross-referenced with [[ism-maqsur]].
+Session reference: Surah Yusuf Session 6 — applied to **رُؤْيَاكَ** in **لَا تَقْصُصْ رُؤْيَاكَ** (Āyah 5); cross-referenced with [الاسم المقصور — The Maqṣūr Noun](ism-maqsur.md).
 
 ---
 
@@ -194,20 +194,28 @@ From Surah Yusuf Session 8. A **مَمْنُوع مِن الصَّرْف** noun 
     - **مَدَارِس** — pattern **مَفَاعِل**, therefore diptote — but as a **مُضَاف** it takes a kasrah.
     - **فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ** — **مَوَاقِع** is on **مَفَاعِل** and diptote, yet takes a **كَسْرَة** because it is the muḍāf of **النُّجُوم**.
 
-    This is the same phenomenon already noted for **مَسَاجِد** (which takes fatḥa in **فِي مَسَاجِدَ** precisely *because* it is neither muḍāf nor carrying ال). See [[jam-muntaha-al-jumu]].
+    This is the same phenomenon already noted for **مَسَاجِد** (which takes fatḥa in **فِي مَسَاجِدَ** precisely *because* it is neither muḍāf nor carrying ال). See [جَمْع مُنْتَهَى الجُمُوع — The Utmost Plural](jam-muntaha-al-jumu.md).
 
 ### 8. إِبْرَاهِيم as a بَدَل That Is Also a Diptote
 
 > **وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ** (Yūsuf 12:6)
 
-- **إِبْرَاهِيم** is a **بَدَل** from **أَبَوَيْكَ** — it names the two fathers explicitly (see [[badal]]).
+- **إِبْرَاهِيم** is a **بَدَل** from **أَبَوَيْكَ** — it names the two fathers explicitly (see [البَدَل — The Grammatical Substitute](badal.md)).
 - A **بَدَل** follows the iʿrāb of its **مُبْدَل مِنْه**. **أَبَوَيْ** comes after **عَلَىٰ**, so it is **مَجرُور** — and therefore so is **إِبْرَاهِيم**.
 - Yet it shows a **فَتْحَة**, because it is **مَمْنُوع مِن الصَّرْف** — and it is diptote because it is a **non-Arab (عَجَمِي) proper name**, the same double cause already noted for **يُوسُفُ**.
 
 ---
 
+### 9. قَتْلَى — أَلِف التَّأنِيث المَقصُورَة (Surah Yusuf Session 11)
+
+**قَتْلَى**, the plural of **قَتِيل** on the pattern **فَعْلَى**, is a diptote. Grammar books usually tell you **why** something is a diptote; here the reason is the **short feminine alif** (**أَلِف التَّأنِيث المَقصُورَة**) — that single cause is enough.
+
+!!! note "Secondary Signs — a Clarification"
+    In Session 11 the idea of **secondary signs of iʿrāb** came up. In a diptote the secondary sign is the **fatḥah standing in for jarr**; the **kasrah standing in for naṣb** belongs to the sound feminine plural (**مُسْلِمَاتٍ**).
+
 ## Session References
 
+- Surah Yusuf Session 11: قَتْلَى as a diptote because of أَلِف التَّأنِيث المَقصُورَة; clarification on secondary signs.
 - Surah Yusuf Session 8: The two conditions under which a diptote takes a kasrah (muḍāf, ال), with the Alfiyyah couplet **وَجُرَّ بِالفَتْحَةِ مَا لَا يَنْصَرِفْ**; **رَدِيف**; **مَوَاقِع النُّجُوم** and **مَدَارِس**; **إِبْرَاهِيم** as a majrūr badal showing fatḥah.
 - Surah Al-Hujuraat Session 4: Full treatment of diptotes; contrast between additional vs radical alif; detailed analysis of تَقوَى grammar; examples with female names.
 - Surah Al-Hujuraat Session 5: Additional causes — non-Arabic names (مُوسَى) and verb-pattern nouns (أَحمَد); maqṣūr + diptote combination in iʿrāb exercises.

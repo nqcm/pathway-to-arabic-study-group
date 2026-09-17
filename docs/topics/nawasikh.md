@@ -39,7 +39,7 @@ Called *nāqiṣah* (deficient) because they take ism + khabar rather than fāʿ
 > - ism-kāna: **بِلَالٌ** (marfūʿ)
 > - khabar-kāna: **مَرِيضًا** (manṣūb)
 
-See [[kana-sisters]] for full list and examples.
+See [كَانَ وَأَخَوَاتُهَا — Kāna and Her Sisters](kana-sisters.md) for full list and examples.
 
 ---
 
@@ -53,7 +53,7 @@ Also nāqiṣ; separated by some grammarians because of additional specific rule
 | **Rajāʾ** (hope) | One hopes it will happen | عَسَى |
 | **Shurūʿ** (inception) | Began to happen | أَخَذَ |
 
-See [[afal-muqaraba]] for full treatment.
+See [أَفعَال المُقَارَبَة والرَّجَاء والشُّروع — Verbs of Proximity, Hope, and Inception](afal-muqaraba.md) for full treatment.
 
 ---
 
@@ -68,7 +68,7 @@ Called *af'āl al-qulūb* (verbs of the heart) because they express inner percep
 
 Also called **أَفعَال اليَقِين والرُّجحَان** (verbs of certainty and preponderance).
 
-See [[zanna-sisters]] for full list and examples.
+See [ظَنَّ وأخواتها — Ẓanna and Verbs with Two Mafʿūl](zanna-sisters.md) for full list and examples.
 
 ---
 
@@ -88,4 +88,4 @@ The grammatical term **نَسَخَ** shares its root with the theological conce
 ## Session References
 
 - Surah Yusuf Session 4: Full introduction to the nawāsikh framework; three categories defined and contrasted; examples from Sūrat al-Baqarah (permanent vs. temporary laʿnah).
-- Surah Yusuf Session 5: إِنْ المُخَفَّفَة revisited — لَام الفَارِقَة explained; four Quranic examples; condition that only nawāsikh verbs follow إِنْ. See [[in-mukhaffafah]].
+- Surah Yusuf Session 5: إِنْ المُخَفَّفَة revisited — لَام الفَارِقَة explained; four Quranic examples; condition that only nawāsikh verbs follow إِنْ. See [إِنْ المُخَفَّفَة — The Lightened Form of Inna](in-mukhaffafah.md).

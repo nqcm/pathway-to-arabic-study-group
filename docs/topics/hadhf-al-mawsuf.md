@@ -15,7 +15,7 @@ An adjective (**صِفَة**) normally describes a noun (**مَوصُوف**) sta
 
 > **رِجَالٌ صَادِقُون** → drop **رِجَال** → **صَادِقُون** (still means "truthful *men*")
 
-Once the مَوصُوف is dropped, the صِفَة is read on its own, but everyone still mentally tracks that something has been omitted — this is different from a صِفَة that has fully *become* a noun in its own right (compare [[aduww-enemy]], where frequency of use has erased any sense that something was dropped at all).
+Once the مَوصُوف is dropped, the صِفَة is read on its own, but everyone still mentally tracks that something has been omitted — this is different from a صِفَة that has fully *become* a noun in its own right (compare [عَدُوّ — Enemy (From Adjective to Pure Noun)](aduww-enemy.md), where frequency of use has erased any sense that something was dropped at all).
 
 ---
 
@@ -38,17 +38,25 @@ Once the مَوصُوف is dropped, the صِفَة is read on its own, but every
 
 !!! important "حَذف المَوصُوف vs. Full Lexicalisation"
     - **النَّازِعَات / العَادِيَات**: the dropped mawsuf is still *consciously* recovered — readers actively supply "angels" or "horses."
-    - **عَدُوّ**: originally an adjective for **شَخْص** ("a hostile person"), but through sheer frequency of use it has stopped being read as "adjective + dropped noun" at all — speakers now treat **عَدُوّ** itself as a plain noun (اسم خَالِص). See [[aduww-enemy]].
+    - **عَدُوّ**: originally an adjective for **شَخْص** ("a hostile person"), but through sheer frequency of use it has stopped being read as "adjective + dropped noun" at all — speakers now treat **عَدُوّ** itself as a plain noun (اسم خَالِص). See [عَدُوّ — Enemy (From Adjective to Pure Noun)](aduww-enemy.md).
 
     The underlying mechanism — a صِفَة filling a noun's grammatical slot — is the same in both cases; only the *degree to which the missing noun is still felt* differs.
 
 ---
 
+## From Surah Yusuf Session 11 — قَتِيل and the تَاء
+
+!!! important "Adjective Without تَاء; Noun With It"
+    **قَتِيل** (*one who has been killed*) is used for a man **and** a woman **without** a tāʾ while it is an adjective with its **mawṣūf** mentioned. Once the **mawṣūf is dropped**, it becomes a **noun** and can take the **ة**: **القَتِيلَة** — carrying more the sense of *the dead body* (as in *the killed one was taken to hospital*). To say *the murdered woman*, mention the mawṣūf.
+
+    Plural: **قَتْلَى** — a diptote, because of **أَلِف التَّأنِيث المَقصُورَة**.
+
 ## Session References
 
+- Surah Yusuf Session 11: قَتِيل without tāʾ as an adjective; القَتِيلَة once the mawṣūf is dropped; plural قَتْلَى.
 - Surah Yusuf Session 7: Introduced while distinguishing عَدُوّ's full lexicalisation from ordinary حَذف المَوصُوف; examples النَّازِعَات and العَادِيَات/جِيَاد; note on the family of sūrahs sharing this opening device.
 
 ## Related Pages
 
-- [[aduww-enemy]]
-- [[istisna]]
+- [عَدُوّ — Enemy (From Adjective to Pure Noun)](aduww-enemy.md)
+- [الاستثناء — Exception in Arabic](istisna.md)

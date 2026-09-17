@@ -69,7 +69,7 @@ The most common form in the Quran is **يَا رَبِّ** (yāʾ dropped, kasra
 Revisiting **بُنَيَّ** (used here for endearment — لِلتَّحَبُّب, exactly as in the Hūd 11:42 example above), a student asked why the word contains *two* يَاءs.
 
 !!! note "One Opinion — Root ب-ن-و, With a Compensating Hamzah"
-    One scholarly opinion holds the root of **اِبْن** is **ب-ن-و** (compare [[walad-vs-ibn]], where **اِبْن** is traced to **بَنَى**, "to build" — the son as the father's "building"). On this view:
+    One scholarly opinion holds the root of **اِبْن** is **ب-ن-و** (compare [وَلَد vs. ابن — Biological Offspring vs. Relational "Son"](walad-vs-ibn.md), where **اِبْن** is traced to **بَنَى**, "to build" — the son as the father's "building"). On this view:
 
     - **اِبْن**'s pattern is **فِعل**: فَاء = ب, عَين = ن, لَام = the (dropped) wāw.
     - The root-final wāw is normally dropped from **اِبْن**, and a **هَمزَة** is added at the front to compensate — the same kind of compensation seen elsewhere when a weak letter drops out.
@@ -83,4 +83,4 @@ Revisiting **بُنَيَّ** (used here for endearment — لِلتَّحَبُ
 ## Session References
 
 - Selections from the Glorious Quran Session 18: Introduced through يَا بُنَيَّ (Hūd 11:42); three uses of diminutive; five forms for vocative with yamāt-kalam.
-- Surah Yusuf Session 7: Root-letter analysis of بُنَيَّ (اِبْن from ب-ن-و, compensating hamzah, the two يَاءs); see also [[munada-nida]] for the five vocative forms applied specifically to بُنَيَّ as a muḍāf.
+- Surah Yusuf Session 7: Root-letter analysis of بُنَيَّ (اِبْن from ب-ن-و, compensating hamzah, the two يَاءs); see also [المُنَادَى — The One Being Called (Rules of Nidāʾ)](munada-nida.md) for the five vocative forms applied specifically to بُنَيَّ as a muḍāf.

@@ -68,15 +68,15 @@ Analysis:
 ## A Different لَولَا — تَحضِيض (Encouragement/Regret), Not Counterfactual
 
 !!! note "Same Spelling, Different Grammar"
-    **لَولَا** also appears as a طَلَب particle (closer to تَحضِيض — exhortation, or regret over a missed action) governing a منصوب مضارع via [[faa-sababiyya]] — a completely different construction from the counterfactual لَولَا documented above.
+    **لَولَا** also appears as a طَلَب particle (closer to تَحضِيض — exhortation, or regret over a missed action) governing a منصوب مضارع via [فَاء السَّبَبِيَّة — The Causal Fāʾ](faa-sababiyya.md) — a completely different construction from the counterfactual لَولَا documented above.
 
     > **وَلَولَا أَخَّرتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ** (al-Munāfiqūn 63:10) — a dying person's regret: *"If only You had reprieved me for a little while, then I would have given charity!"*
 
-    Here there is no mubtadaʾ/khabar structure at all — لَولَا instead functions like **لَيتَ** or **هَلَّا**, expressing a wish, and the فَ + منصوب مضارع that follows marks the (unrealised) consequence. See [[faa-sababiyya]] for the fuller five-type طَلَب taxonomy this belongs to.
+    Here there is no mubtadaʾ/khabar structure at all — لَولَا instead functions like **لَيتَ** or **هَلَّا**, expressing a wish, and the فَ + منصوب مضارع that follows marks the (unrealised) consequence. See [فَاء السَّبَبِيَّة — The Causal Fāʾ](faa-sababiyya.md) for the fuller five-type طَلَب taxonomy this belongs to.
 
 ---
 
 ## Session References
 
 - Selections from the Glorious Quran Session 8: Full introduction; structure and examples; applied to دَفعُ اللهِ النَّاسَ (Al-Baqarah 2:251); comparison with لَو.
-- Surah Yusuf Session 7: Distinguished the counterfactual لَولَا above from a طَلَب/تَحضِيض use of لَولَا (al-Munāfiqūn 63:10) that instead feeds [[faa-sababiyya]].
+- Surah Yusuf Session 7: Distinguished the counterfactual لَولَا above from a طَلَب/تَحضِيض use of لَولَا (al-Munāfiqūn 63:10) that instead feeds [فَاء السَّبَبِيَّة — The Causal Fāʾ](faa-sababiyya.md).
