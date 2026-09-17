@@ -134,8 +134,51 @@ When muḍāf to a **definite (maʿrifa)** noun: TWO VALID OPTIONS:
 
 ---
 
+## From Surah Yusuf Session 11 — أَحَبُّ, Ibn Mālik, and the Ḥadīth
+
+### أَحَبُّ — A Doubled Root
+
+**أَحَبُّ** (*more beloved*) is **أَفْعَل** from **ح-ب-ب**; because the root is **مُضَاعَف**, the two identical letters assimilate: **أَحْبَبُ → أَحَبُّ**.
+
+### إِلَى and مِن
+
+- **إِلَى** — the person **to whom** someone is beloved
+- **مِن** — the **comparison**; when **مِن** follows, it is **comparative**
+
+| Example | Degree |
+|---|---|
+| **أَبِي حَبِيبٌ إِلَيَّ، وَأُمِّي أَحَبُّ إِلَيَّ مِنْهُ** | Comparative (**مِن** present) |
+| **أَحَبُّ النَّاسِ إِلَيْنَا رَسُولُ اللَّهِ ﷺ** | Superlative (no **مِن**) |
+| **لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ** | Comparative |
+
+### More Examples of the Scenarios
+
+- **No ال, no iḍāfah:** **أَحْمَدُ وَإِخْوَتُهُ أَطْوَلُ مِنْ ...** — plural subject, still **أَطْوَل**; likewise for females.
+- **Muḍāf to an indefinite:** **القَاهِرَةُ أَكْبَرُ مَدِينَةٍ فِي العَالَمِ الإِسْلَامِيِّ** — **القَاهِرَة** is feminine, yet **أَكْبَر**.
+- **With ال:** **جَاءَ ابْنِيَ الأَكْبَرُ** — a naʿt, so full agreement; for a daughter, **الكُبْرَى**.
+- **Muḍāf to a definite — both options in one ḥadīth:**
+
+> **إِنَّ مِنْ أَحَبِّكُمْ إِلَيَّ وَأَقْرَبِكُمْ مِنِّي مَجْلِسًا يَوْمَ الْقِيَامَةِ أَحَاسِنَكُمْ أَخْلَاقًا**
+>
+> *"Among the most beloved of you to me and the nearest of you to me in sitting on the Day of Resurrection are the best of you in character."*
+
+**أَحَبِّكُمْ** and **أَقْرَبِكُمْ** stay **singular masculine**; **أَحَاسِنَكُمْ** is **plural** — all muḍāf to the definite **كُمْ**. **مَجْلِسًا** and **أَخْلَاقًا** are **tamyīz** (not ḥāl): they specify *in what* the superiority lies. See [Tamyiz](tamyiz.md).
+
+### Ibn Mālik's Lines
+
+> **وَأَفْعَلَ التَّفْضِيلِ صِلْهُ أَبَدَا** ⁂ **تَقْدِيرًا اوْ لَفْظًا بِمِنْ إِنْ جُرِّدَا**
+>
+> **وَإِنْ لِمَنْكُورٍ يُضَفْ أَوْ جُرِّدَا** ⁂ **أُلْزِمَ تَذْكِيرًا وَأَنْ يُوَحَّدَا**
+>
+> **وَتِلْوُ أَلْ طِبْقٌ وَمَا لِمَعْرِفَهْ** ⁂ **أُضِيفَ ذُو وَجْهَيْنِ عَنْ ذِي مَعْرِفَهْ**
+
+1. Standing alone, it is always joined with **مِن** — stated or implied.
+2. Muḍāf to an **indefinite**, or alone → **masculine and singular**.
+3. After **ال** → **agreement** (**طِبْق**); muḍāf to a **definite** → **two faces**, per the people of knowledge.
+
 ## Session References
 
+- Surah Yusuf Session 11: أَحَبُّ with إِلَى and مِن; ḥadīth أَحَبِّكُمْ … أَحَاسِنَكُمْ showing both options when muḍāf to a definite; القَاهِرَةُ أَكْبَرُ مَدِينَةٍ; Ibn Mālik's three lines on agreement.
 - Surah Al-Hujuraat Session 10: Introduced in context of **دُنيَا** etymology; أَفعَل/فُعلَى pairs; theological significance of الحَيَاة الدُّنيَا as "the nearer life."
 - Surah Al-Hujuraat Session 14: خَير and شَرّ identified as shortened forms of أَخيَر and أَشَرّ; used comparatively in Āyah 11.
 - Surah Al-Hujuraat Session 15: Comprehensive four-scenario treatment; multiple Quranic examples; Ibn Mālik's Alfiyya couplets; applied to أَكرَم/أَتقَى in Āyah 13.

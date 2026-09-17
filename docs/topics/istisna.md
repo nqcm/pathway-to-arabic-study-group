@@ -106,7 +106,7 @@ The mustasna minhu is **absent** (understood from context). Analyze as if **إل
 !!! example "Tāmm Munqaṭiʿ — Ibrāhīm and the Idols"
     > **إِنَّهُمْ لِي عَدُوٌّ إِلَّا رَبَّ العَالَمِينَ** *(Al-Shuʿarāʾ 26:77)* — Ibrāhīm (عَلَيهِ السَّلَام), of the idols he debated with his people about: *"Indeed, they are enemies to me, except the Lord of the worlds."*
 
-    Allah is not an idol — He does not belong to the group **عَدُوّ** at all, so this is **مُنقَطِع**, exactly like **وَصَلَ الضُّيُوفُ إلَّا أَمتِعَتَهُم** above. A literal English rendering ("they are my enemies, except the Lord of the worlds") sounds confusing precisely because English has no real equivalent of this construction — see [[aduww-enemy]] for a comparison of five published translations that each resolve the awkwardness differently.
+    Allah is not an idol — He does not belong to the group **عَدُوّ** at all, so this is **مُنقَطِع**, exactly like **وَصَلَ الضُّيُوفُ إلَّا أَمتِعَتَهُم** above. A literal English rendering ("they are my enemies, except the Lord of the worlds") sounds confusing precisely because English has no real equivalent of this construction — see [عَدُوّ — Enemy (From Adjective to Pure Noun)](aduww-enemy.md) for a comparison of five published translations that each resolve the awkwardness differently.
 
 ---
 

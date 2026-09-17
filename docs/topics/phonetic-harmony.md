@@ -95,7 +95,7 @@ Building the imperative from **يَسَالُ**: take **تَسَالُ**, drop t
 
     > **سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ** (al-Baqarah)
 
-Keeping the original hamzah instead gives **يَسْأَلُ → اِسْأَلْ**. Both imperatives are valid, and both appear in the Quran — one verb, two forms, purely because of a phonetic easing upstream. See [[verb-saala]].
+Keeping the original hamzah instead gives **يَسْأَلُ → اِسْأَلْ**. Both imperatives are valid, and both appear in the Quran — one verb, two forms, purely because of a phonetic easing upstream. See [سَأَلَ — Three Constructions of Asking](verb-saala.md).
 
 ---
 

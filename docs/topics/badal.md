@@ -218,7 +218,7 @@ The fourth type, restated: correcting a **slip of the tongue** — you said one 
 
 #### Distinguishing بَدَل from عَطْف البَيَان
 
-The whole recap above was staged in order to introduce **عَطْف البَيَان**, which looks nearly identical. The two distinguishing rules — the second element must be **clearer or better known**, and the speaker's **concern** must lie with the **first** element — are set out in [[atf-bayan]], along with the worked case of **أُسْدَ خَفِيَّةٍ**, which resolves as **بَدَل** rather than bayān.
+The whole recap above was staged in order to introduce **عَطْف البَيَان**, which looks nearly identical. The two distinguishing rules — the second element must be **clearer or better known**, and the speaker's **concern** must lie with the **first** element — are set out in [عَطْف البَيَان — Explanatory Apposition](atf-bayan.md), along with the worked case of **أُسْدَ خَفِيَّةٍ**, which resolves as **بَدَل** rather than bayān.
 
 Session reference: Surah Yusuf Session 9.
 
@@ -235,14 +235,30 @@ Session reference: Surah Yusuf Session 9.
 Applying the first rule (the badal takes the iʿrāb of its **مُبْدَل مِنْه**): **أَبَوَيْ** follows the preposition **عَلَىٰ**, so it is **مَجرُور**, and therefore **إِبْرَاهِيم** is **مَجرُور** too.
 
 !!! note "Why It Shows a Fatḥah Anyway"
-    **إِبْرَاهِيم** is majrūr yet carries a **فَتْحَة**, because it is **مَمْنُوع مِن الصَّرْف** — a diptote, on the double cause of being a **proper name** that is **non-Arab (عَجَمِي)**. The badal rule and the diptote rule are operating together, and only one of them is visible. See [[mamnu-min-alsarf]].
+    **إِبْرَاهِيم** is majrūr yet carries a **فَتْحَة**, because it is **مَمْنُوع مِن الصَّرْف** — a diptote, on the double cause of being a **proper name** that is **non-Arab (عَجَمِي)**. The badal rule and the diptote rule are operating together, and only one of them is visible. See [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](mamnu-min-alsarf.md).
 
 Session reference: Surah Yusuf Session 8.
 
 ---
 
+### From Session 10 — Surah Yusuf: The Repeated ʿĀmil
+
+!!! important "Badal Is Two Sentences Under the Hood"
+    In a badal the **ʿāmil is implicitly repeated**: **جَاءَنِي أَخُوكَ بِلَالٌ** ≈ **جَاءَنِي أَخُوكَ** + **جَاءَنِي بِلَالٌ**. Each element gets the effect of the ʿāmil **on its own terms**.
+
+!!! tip "Litmus Test"
+    Remove each element in turn; both resulting sentences must remain correct in grammar and meaning. If one breaks, the construction cannot be badal — it is **عَطْف البَيَان**, which does *not* repeat the ʿāmil and follows its matbūʿ blindly. See [عَطْف البَيَان](atf-bayan.md).
+
+!!! note "بَدَل كُلّ مِن كُلّ and عَطْف البَيَان"
+    Every ʿaṭf al-bayān can be analysed as **بَدَل كُلّ مِن كُلّ** about 95% of the time — but not every badal can be ʿaṭf al-bayān.
+
+Session reference: Surah Yusuf Session 10.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 10: The ʿāmil is implicitly repeated in badal; remove-one-element litmus test; interchangeability with ʿaṭf al-bayān.
 - Surah Yusuf Session 8: **إِبْرَاهِيمَ وَإِسْحَاقَ** as a badal for **أَبَوَيْكَ**; majrūr by the badal rule but showing fatḥah because it is a diptote.
 - Surah Al-Hujuraat Session 2: Badal introduced to explain why **الَّذِينَ** in **يَا أَيُّهَا الَّذِينَ آمَنُوا** is not the munādā but a badal for **أَيُّ**.
 - Surah Al-Hujuraat Session 11: All four types with detailed examples; Quranic example of badal ishtimāl (السَّاعَة / مُرسَاهَا); note on contested status of fourth type.

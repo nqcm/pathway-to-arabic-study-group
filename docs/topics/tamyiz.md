@@ -43,8 +43,26 @@ For 1 and 2, see [Arabic Numbers](arabic-numbers.md) — the number itself funct
 
 ---
 
+## From Surah Yusuf Session 11 — Tamyīz After اِسم التَّفضِيل
+
+!!! important "Better — In What?"
+    *You are better than me* leaves open **in what**. The tamyīz after **اِسم التَّفضِيل** specifies it.
+
+    > **إِنَّ مِنْ أَحَبِّكُمْ إِلَيَّ وَأَقْرَبِكُمْ مِنِّي مَجْلِسًا يَوْمَ الْقِيَامَةِ أَحَاسِنَكُمْ أَخْلَاقًا**
+
+    **مَجْلِسًا** — nearest *in sitting*; **أَخْلَاقًا** — best *in character*. Both are **tamyīz**.
+
+!!! warning "Not Ḥāl"
+    The teacher first labelled **مَجْلِسًا** a ḥāl, then corrected herself: after the ism al-tafḍīl it is **tamyīz**. The meaning is similar, but the analysis is different. See [Ism al-Tafdhil](ism-tafdhil.md).
+
+---
+
 ## Related Pages
 
 - [Arabic Numbers](arabic-numbers.md)
 - [Muqattaat](muqattaat.md)
-- [Surah Yusuf Session 3](surah-yusuf-session3.md)
+- [Surah Yusuf Session 3](../surah-yusuf-sessions/session-3.md)
+
+## Session References
+
+- Surah Yusuf Session 11: Tamyīz after ism al-tafḍīl — مَجْلِسًا and أَخْلَاقًا in the ḥadīth أَحَاسِنَكُمْ أَخْلَاقًا; the teacher's ḥāl → tamyīz correction.

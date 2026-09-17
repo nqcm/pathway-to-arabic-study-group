@@ -115,11 +115,11 @@ Two visitors came to Dāwūd (عَلَيهِ السَّلَام) with a dispute:
 The pronoun **هُمْ** ("them" — masculine plural, used for rational/sentient beings) refers back to the eleven **كَوَاكِب**, the sun, and the moon — all inanimate, non-human entities.
 
 !!! important "The Expected Form vs. the Actual Form"
-    For non-human / inanimate plurals, Arabic normally uses the **feminine singular** pronoun (e.g., **هِيَ / هَا**) — as in the well-known principle covered in [[broken-plural-pronoun]]. Grammatically, we would have expected something like:
+    For non-human / inanimate plurals, Arabic normally uses the **feminine singular** pronoun (e.g., **هِيَ / هَا**) — as in the well-known principle covered in [Broken Plural + Feminine Singular Pronoun](../topics/broken-plural-pronoun.md). Grammatically, we would have expected something like:
 
     > *رَأَيتُهَا سَاجِدَةً لِي* — "I saw them [fem. sing.] prostrating to me"
 
-    Instead, Allah uses **هُمْ** — and **سَاجِدِينَ** (a جمع مذكر سالم — also restricted to sentient beings, see [[jama-muzakar-salim]]).
+    Instead, Allah uses **هُمْ** — and **سَاجِدِينَ** (a جمع مذكر سالم — also restricted to sentient beings, see [جمع المذكر السالم — Sound Masculine Plural](../topics/jama-muzakar-salim.md)).
 
 ### 3.2 جَمع المُذَكَّر السَّالِم and هُمْ — Reserved for the Sentient
 
@@ -193,7 +193,7 @@ This is the grammatical foundation for understanding how Yūsuf's dream — and 
 
 ## 6. Footnote: Conditions for جمع المذكر السالم
 
-A footnote in the tafsīr text laid out the **precise conditions** for when a noun may legitimately take **جمع المذكر السالم** (the sound masculine plural — see [[jama-muzakar-salim]]). The key point: **you cannot make it from every kind of noun** — a **broken plural** (جمع مكسر) is the default for most nouns; only two restricted categories of اسم may take a sound masculine plural:
+A footnote in the tafsīr text laid out the **precise conditions** for when a noun may legitimately take **جمع المذكر السالم** (the sound masculine plural — see [جمع المذكر السالم — Sound Masculine Plural](../topics/jama-muzakar-salim.md)). The key point: **you cannot make it from every kind of noun** — a **broken plural** (جمع مكسر) is the default for most nouns; only two restricted categories of اسم may take a sound masculine plural:
 
 ### 6.1 Category One — Proper Names (أَسْمَاء الأَعْلَام)
 
@@ -206,7 +206,7 @@ Conditions:
 
 A complication arises with names ending in **ة** (tāʾ marbūṭah), e.g. **طَلْحَة**:
 
-!!! note "Baṣrī vs. Kūfī Disagreement — see [[arabic-grammar-schools]]"
+!!! note "Baṣrī vs. Kūfī Disagreement — see [The Basri and Kufi Schools of Arabic Grammar](../topics/arabic-grammar-schools.md)"
     - **Baṣrī school**: it is **not permissible** to form a جمع مذكر سالم from such names at all.
     - **Kūfī school**: it **is permissible** — but the **ة is dropped** from the end of the name first (so **طَلْحَة → طَلْحُونَ**, not **طَلْحَتُونَ**).
 
@@ -245,13 +245,13 @@ A student offered a translation, which the teacher gently refined — for exampl
 
 ### 7.1 لَا تَقْصُصْ — لَا النَّاهِيَة
 
-**لَا تَقْصُصْ** = **لَا النَّاهِيَة** (the prohibitive lā — see [[la-nahiya]]) + **تَقْصُصْ**, the مُضَارِع of **قَصَّ** in the **مَجْزُوم** form (the jussive marker here is سُكُون). Yaʿqūb (عَلَيهِ السَّلَام) is gently but firmly instructing his beloved son: *do not* narrate this dream to your brothers.
+**لَا تَقْصُصْ** = **لَا النَّاهِيَة** (the prohibitive lā — see [لَا النَّاهِيَة — The Prohibitive Lā](../topics/la-nahiya.md)) + **تَقْصُصْ**, the مُضَارِع of **قَصَّ** in the **مَجْزُوم** form (the jussive marker here is سُكُون). Yaʿqūb (عَلَيهِ السَّلَام) is gently but firmly instructing his beloved son: *do not* narrate this dream to your brothers.
 
 ---
 
 ## 8. رُؤْيَا — A Diptote Ending in Alif Maqṣūrah
 
-**رُؤْيَا** (dream/vision) is a **diptote** (مَمنُوع مِن الصَّرف) — it does **not decline** with the usual case markers, because it ends in an **أَلِف تَأنِيث مَقصُورة** (alif maqṣūrah of feminisation). See [[mamnu-min-alsarf]] and [[ism-maqsur]].
+**رُؤْيَا** (dream/vision) is a **diptote** (مَمنُوع مِن الصَّرف) — it does **not decline** with the usual case markers, because it ends in an **أَلِف تَأنِيث مَقصُورة** (alif maqṣūrah of feminisation). See [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](../topics/mamnu-min-alsarf.md) and [الاسم المقصور — The Maqṣūr Noun](../topics/ism-maqsur.md).
 
 ### 8.1 Why the Alif "Hides" the Iʿrāb
 
@@ -274,7 +274,7 @@ The same logic applies fully to **رُؤْيَا**: ending in alif maqṣūrah, 
 
 ## 9. Quranic Orthography — The Extra Alif After Fatḥah
 
-A short but useful orthographic note: in the *rasm* of the Qurʾān (see [[quranic-orthography]]), whenever a word ends in a **fatḥah** (especially **tanwīn fatḥ**) and the reading **stops** there (وَقْف), an **extra alif** is typically written after it.
+A short but useful orthographic note: in the *rasm* of the Qurʾān (see [Quranic Orthography — The Rasm al-Uthmānī](../topics/quranic-orthography.md)), whenever a word ends in a **fatḥah** (especially **tanwīn fatḥ**) and the reading **stops** there (وَقْف), an **extra alif** is typically written after it.
 
 !!! note "Why the Extra Alif Appears"
     This silent alif is **not pronounced** during continuous recitation (وَصْل) — it only "activates" when the reciter pauses on the word, telling them to **elongate with an alif sound** at the stop. By contrast, words ending in **kasrah** or **ḍammah** do **not** receive this extra alif, because there is no need to elongate with an alif when stopping on those vowels — *"if you stop here, you will just say [the word as-is]; there is no need for the extra [alif]."*
@@ -352,7 +352,7 @@ The class worked through the derivation of **كِيدُو(نِ)** step by step f
 
 > **فَيَكِيدُوا لَكَ كَيْدًا**
 
-Here **كَادَ** does **not** take its object directly (as it can — see §11.2, *"كَادَهُ"* is permissible) — instead, a **لَام** comes between the verb and its object. The teacher explained this as **تَضمِين** (see [[tadmeen]]):
+Here **كَادَ** does **not** take its object directly (as it can — see §11.2, *"كَادَهُ"* is permissible) — instead, a **لَام** comes between the verb and its object. The teacher explained this as **تَضمِين** (see [التَّضمِين — Double-Meaning Verbs](../topics/tadmeen.md)):
 
 !!! important "How the Lām Enriches the Meaning"
     By bringing in the لَام, the verb **كَادَ** is *"fortified"* — sort of loaded — with the implied meaning of **كَايَدَ** (to conspire/connive against). The single word **يَكِيدُوا لَكَ** now carries a **richer, doubled meaning**: *"they will plot — and conspire, and connive — against you."* Compare:
@@ -414,7 +414,7 @@ Here **عَدُوٌّ** (singular in form) refers to multiple idols — and noti
 
 ### 12.5 إِنسَان — One Word for All
 
-The āyah closes with **لِلْإِنسَانِ** — **إِنسَان** (human being), a word that covers both genders and both numbers (singular and plural, masculine and feminine) with a **single form** — an instance of **التَّغلِيب** (covering an entire genus with one word; see [[taghlib]]). It does, however, also have its own dedicated plural: **أَنَاسِيّ**.
+The āyah closes with **لِلْإِنسَانِ** — **إِنسَان** (human being), a word that covers both genders and both numbers (singular and plural, masculine and feminine) with a **single form** — an instance of **التَّغلِيب** (covering an entire genus with one word; see [التَّغلِيب — Grammatical Coverage (Dominant Form)](../topics/taghlib.md)). It does, however, also have its own dedicated plural: **أَنَاسِيّ**.
 
 ---
 

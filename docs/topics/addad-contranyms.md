@@ -15,7 +15,7 @@ Some Arabic words carry **two flatly opposite meanings** within the same usage �
 ## Distinguishing From Preposition-Dependent Shifts
 
 !!! note "Not the Same as تَابَ"
-    [[verb-taba]] (**تَابَ**) changes sense depending on its preposition — *turning towards Allah* (repentance) vs. *Allah turning in mercy upon someone* — but these are related, not opposite, meanings, and the preposition tells you which is meant. **الأَضدَاد** is a stranger phenomenon: the *same* word, in what looks like the *same* construction, can mean one thing or its outright opposite, resolved only by context.
+    [تَابَ — To Repent/Return; Preposition Rules and Intensive Forms](verb-taba.md) (**تَابَ**) changes sense depending on its preposition — *turning towards Allah* (repentance) vs. *Allah turning in mercy upon someone* — but these are related, not opposite, meanings, and the preposition tells you which is meant. **الأَضدَاد** is a stranger phenomenon: the *same* word, in what looks like the *same* construction, can mean one thing or its outright opposite, resolved only by context.
 
 ---
 
@@ -27,9 +27,9 @@ A teacher raised this as a forward-looking research task for the study group rat
 
 ## Session References
 
-- Surah Yusuf Session 7: Introduced as homework while discussing how the same diminutive pattern can serve opposite purposes (endearment vs. insult, see [[tasgheer]]); no Quranic examples resolved yet.
+- Surah Yusuf Session 7: Introduced as homework while discussing how the same diminutive pattern can serve opposite purposes (endearment vs. insult, see [التَّصغِير — Diminutives in Arabic](tasgheer.md)); no Quranic examples resolved yet.
 
 ## Related Pages
 
-- [[verb-taba]]
-- [[tasgheer]]
+- [تَابَ — To Repent/Return; Preposition Rules and Intensive Forms](verb-taba.md)
+- [التَّصغِير — Diminutives in Arabic](tasgheer.md)

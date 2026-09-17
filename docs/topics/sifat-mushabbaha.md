@@ -141,7 +141,7 @@ Asked what kind of word it is, the class confirmed it is **not** an **اِسْم
 !!! note "A Phrase, Not a Sentence"
     A small but useful aside from the same discussion: **صَاحِبُ الحِكْمَة** is **not a جُمْلَة**. It is a **مُضَاف + مُضَاف إِلَيْه** construction — a phrase. Arabic definitions are frequently given in this form, and reading them as sentences leads to confusion.
 
-Note that **فَعِيل** can serve as both a ṣifah mushabbahah and a **صِيغَة مُبَالَغَة**; **عَلِيم** and **حَكِيم** were treated under both headings in this session. See [[sighat-al-mubalaghah]].
+Note that **فَعِيل** can serve as both a ṣifah mushabbahah and a **صِيغَة مُبَالَغَة**; **عَلِيم** and **حَكِيم** were treated under both headings in this session. See [صِيغَةُ المُبَالَغَة — Intensive Active Participle](sighat-al-mubalaghah.md).
 
 ---
 

@@ -32,7 +32,7 @@ tags:
 | **غُرْفَة** (room) | **غُرَف** |
 | **ظُلْمَة** (darkness) | **ظُلَم** |
 
-See [[fuala-pattern]].
+See [فُعلة Pattern — One Instance of an Action](fuala-pattern.md).
 
 ---
 
@@ -47,7 +47,7 @@ See [[fuala-pattern]].
 
     So the brothers' grievance has an internal logic: *we* are ten, grown, strong and productive; Yūsuf and his brother are two small children. On a purely material accounting, our father should love **us** more.
 
-    Two qualifications were stressed in class: this materialistic mindset has been present in **every** age — *"we are seeing the height of materialism now"* — and it emphatically does **not** describe Yaʿqūb عليه السلام. It describes the brothers' assumptions, which is exactly what leads them to call him **فِي ضَلَالٍ مُبِينٍ** (see [[root-dalla]]).
+    Two qualifications were stressed in class: this materialistic mindset has been present in **every** age — *"we are seeing the height of materialism now"* — and it emphatically does **not** describe Yaʿqūb عليه السلام. It describes the brothers' assumptions, which is exactly what leads them to call him **فِي ضَلَالٍ مُبِينٍ** (see [Root ض-ل-ل (Ḍalla) — Straying and Not Returning](root-dalla.md)).
 
 ---
 

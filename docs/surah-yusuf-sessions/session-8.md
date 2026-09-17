@@ -386,7 +386,7 @@ The problem is that **هُ** in its manṣūb and majrūr forms is **مُتَّ�
 **حَكِيم** is glossed in Arabic as **صَاحِبُ الحِكْمَة** — *the possessor of wisdom*.
 
 !!! note "Not an Ism Fāʿil"
-    The teacher asked what kind of word **حَكِيم** is and confirmed it is **not** an **اِسْم فَاعِل** — it is a **صِفَة مُشَبَّهَة** (see [[sifat-mushabbaha]]), the pattern that denotes a **settled, permanent** quality rather than an act being performed.
+    The teacher asked what kind of word **حَكِيم** is and confirmed it is **not** an **اِسْم فَاعِل** — it is a **صِفَة مُشَبَّهَة** (see [الصِّفَة المُشَبَّهَة بِاسمِ الفاعِل — The Adjective Resembling the Active Participle](../topics/sifat-mushabbaha.md)), the pattern that denotes a **settled, permanent** quality rather than an act being performed.
 
 Note also that **صَاحِبُ الحِكْمَة** is not a **جُمْلَة** — it is a **مُضَاف + مُضَاف إِلَيْه** construction, a phrase, not a sentence.
 
@@ -419,7 +419,7 @@ Here is the subtlety that takes getting used to: although **كَذَٰلِكَ**
     >
     > *"Your Lord will choose you with a choosing like that choosing."*
 
-    **كَذَٰلِكَ** stands in for **اِجْتِبَاءً مِثْلَ ذَٰلِكَ** — which is why it is a **نَائِب عَن المَفْعُول المُطْلَق**: the maṣdar itself is dropped and its describer takes its place. (See [[mafool-mutlaq]] for the wider family of deputising constructions.)
+    **كَذَٰلِكَ** stands in for **اِجْتِبَاءً مِثْلَ ذَٰلِكَ** — which is why it is a **نَائِب عَن المَفْعُول المُطْلَق**: the maṣdar itself is dropped and its describer takes its place. (See [Mafʿūl Muṭlaq — Absolute Object](../topics/mafool-mutlaq.md) for the wider family of deputising constructions.)
 
 ### 14.3 What Is ذَٰلِكَ Pointing To?
 

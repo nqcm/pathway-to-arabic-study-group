@@ -135,8 +135,18 @@ Of the five patterns, these three occur very commonly — in the Quran generally
 
 ---
 
+### From Surah Yusuf Session 10 — The ـَان Ending and الحَيَوَان
+
+!!! info "Intensity in ـَان"
+    Words ending in **ـَان** carry extravagance: **جَوْعَان** (*dying of hunger*), **غَضْبَان** (*so angry — seeing red*), **الرَّحْمَٰن** (mercy like a bottomless ocean with huge waves).
+
+    **الحَيَوَان** in **وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ** (al-ʿAnkabūt 64) captures the **intensity of life** — the Hereafter is alive, active, throbbing, lasting forever. This dunyā is like an estate agent's scale model of a building: however close the resemblance, it is not the real thing.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 10: ـَان intensity (جَوْعَان، غَضْبَان، الرَّحْمَٰن) applied to الحَيَوَان in al-ʿAnkabūt 64; عَبَّاس as a mubālaghah name for the lion.
 - Surah Yusuf Session 8: Revision of the five patterns on **عَلِيمٌ حَكِيم**; why **فَعَّال** became the pattern of professions (**حَلَّاق**, **خَبَّاز**); **شَكُور** meaning graciousness when attributed to Allah; **وَهَّاب** vs. **وَدُود**.
 - Surah An-Noor Session 4: Full introduction — five qiyāsī patterns with examples; samāʿī patterns; Allah's names; application to **دَبَّاب** and **دَبَّابَة** (tank); qiyāsī vs. samāʿī distinction.
 - Selections from the Glorious Quran Session 1: al-Raḥmān vs. al-Raḥīm in Bismillāh; time-independent adjectives and why رَاحِم is not used for Allāh; faʿlān pattern for momentary excess.

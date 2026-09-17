@@ -22,7 +22,7 @@ tags:
 | **ضَلَالَة** | Also a maṣdar |
 | **الضَّالّ / الضَّالِّين** | Ism fāʿil, and its sound masculine plural |
 
-**ضَلَّ** is a **مُضَاعَف** (doubled/geminate) verb — see [[mudaaf-doubled-verbs]].
+**ضَلَّ** is a **مُضَاعَف** (doubled/geminate) verb — see [المُضَاعَف — Doubled (Geminate) Verbs](mudaaf-doubled-verbs.md).
 
 ---
 
@@ -42,7 +42,7 @@ tags:
     | Manṣūb | **يَاء** |
     | Majrūr | **يَاء** |
 
-    **الضَّالِّينَ** is **مَجرُور** as a **مَعطُوف** following **المَغْضُوبِ عَلَيْهِمْ**, and its sign of jarr is the **يَاء**. See [[jama-muzakar-salim]].
+    **الضَّالِّينَ** is **مَجرُور** as a **مَعطُوف** following **المَغْضُوبِ عَلَيْهِمْ**, and its sign of jarr is the **يَاء**. See [جمع المذكر السالم — Sound Masculine Plural](jama-muzakar-salim.md).
 
 !!! example "سُورَة يُوسُف — إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ"
     > **إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ** (12:8)
@@ -56,7 +56,7 @@ tags:
 
     What they meant was that he was **straying from the sensible course** — moving away from what logic, as they saw it, dictated: favouring **two** young children over **ten** grown, strong sons who were materially far more valuable to him. In their assessment, *"he is not thinking correctly."*
 
-    **مُبِين** completes the accusation: *clearly* so, in their eyes. See [[mubeen]] and [[usba]].
+    **مُبِين** completes the accusation: *clearly* so, in their eyes. See [Mubīn — Clear / Clarifying](mubeen.md) and [عُصْبَة — A Band of Strong Men](usba.md).
 
 !!! info "Attribution"
     Dr. V. Abdur Raheem is here paraphrasing this understanding from an earlier tafsīr rather than originating it.

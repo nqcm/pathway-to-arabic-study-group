@@ -37,8 +37,8 @@ tags:
 
 Both participles illustrate a phonetic pair that is easy to confuse:
 
-- **مُجْتَبٍ** — the ism fāʿil, an **اِسْم مَنقُوص**: the final yāʾ is dropped and its tanwīn transfers back onto a kasrah, giving the double kasrah. See [[ism-manqus]].
-- **مُجْتَبًى / المُجْتَبَى** — the ism mafʿūl, an **اِسْم مَقصُور** ending in **أَلِف مَقصُورَة**. See [[ism-maqsur]].
+- **مُجْتَبٍ** — the ism fāʿil, an **اِسْم مَنقُوص**: the final yāʾ is dropped and its tanwīn transfers back onto a kasrah, giving the double kasrah. See [الاسم المنقوص — The Deficient Noun](ism-manqus.md).
+- **مُجْتَبًى / المُجْتَبَى** — the ism mafʿūl, an **اِسْم مَقصُور** ending in **أَلِف مَقصُورَة**. See [الاسم المقصور — The Maqṣūr Noun](ism-maqsur.md).
 
 The same pairing holds for **مُصْطَفٍ** / **المُصْطَفَى**.
 
@@ -50,13 +50,13 @@ The same pairing holds for **مُصْطَفٍ** / **المُصْطَفَى**.
 
 Here the grammatical roles are: **يَجْتَبِي** the verb, **رَبُّكَ** the **فَاعِل** (the One who chooses), and **كَ** the **مَفْعُول** (the one chosen). Allah is **المُجْتَبِي**; Yūsuf عليه السلام is **المُجْتَبَى**.
 
-The context matters: what Yaʿqūb عليه السلام means by **كَذَٰلِكَ** is *"just as Allah chose you for that dream — a dream itself pointing toward a lofty station — so too will He choose you for great matters,"* i.e. for prophethood. See [[mafool-mutlaq]] for the grammar of **كَذَٰلِكَ** here.
+The context matters: what Yaʿqūb عليه السلام means by **كَذَٰلِكَ** is *"just as Allah chose you for that dream — a dream itself pointing toward a lofty station — so too will He choose you for great matters,"* i.e. for prophethood. See [Mafʿūl Muṭlaq — Absolute Object](mafool-mutlaq.md) for the grammar of **كَذَٰلِكَ** here.
 
 ---
 
 ## Related
 
-The theme of *asking* Allah to choose belongs to the same root-family of meaning, though from a different root — see [[istikhara]].
+The theme of *asking* Allah to choose belongs to the same root-family of meaning, though from a different root — see [اِسْتِخَارَة — Seeking Goodness from Allah](istikhara.md).
 
 ---
 

@@ -51,7 +51,7 @@ The teacher contrasted this with a *different*, far more common situation: an ad
 ### 1.2 عَدُوّ Is *Not* the Same Phenomenon
 
 !!! important "The Crucial Difference"
-    In **النَّازِعَات** / **العَادِيَات**, everyone still *recognises* that a mawsuf has been dropped — the construction is consciously read as "sifa standing in for a missing noun." With **عَدُوّ**, by contrast, the word has been used so often *as if* it were a noun that speakers no longer mentally track any missing mawsuf at all — **عَدُوّ** has fully *become* a noun (see [[aduww-enemy]]). The mechanism (an adjective filling a noun's role) is shared; the *degree of lexicalisation* is not.
+    In **النَّازِعَات** / **العَادِيَات**, everyone still *recognises* that a mawsuf has been dropped — the construction is consciously read as "sifa standing in for a missing noun." With **عَدُوّ**, by contrast, the word has been used so often *as if* it were a noun that speakers no longer mentally track any missing mawsuf at all — **عَدُوّ** has fully *become* a noun (see [عَدُوّ — Enemy (From Adjective to Pure Noun)](../topics/aduww-enemy.md)). The mechanism (an adjective filling a noun's role) is shared; the *degree of lexicalisation* is not.
 
 ---
 
@@ -67,7 +67,7 @@ The teacher contrasted this with a *different*, far more common situation: an ad
 
 ### 2.2 الاِستِثنَاء المُنقَطِع — A Disconnected Exception
 
-This is the **اِستِثنَاء مُنقَطِع** case in the taxonomy of [[istisna]]: the **مُستَثنَى مِنه** is mentioned, but the **مُستَثنَى** is of a **different kind** entirely. The reference example from the chart is:
+This is the **اِستِثنَاء مُنقَطِع** case in the taxonomy of [الاستثناء — Exception in Arabic](../topics/istisna.md): the **مُستَثنَى مِنه** is mentioned, but the **مُستَثنَى** is of a **different kind** entirely. The reference example from the chart is:
 
 > **وَصَلَ الضُّيُوفُ إلَّا أَمتِعَتَهُم** — *"The guests arrived except their luggage"* — the luggage was never part of the "guests."
 
@@ -96,7 +96,7 @@ This is the **اِستِثنَاء مُنقَطِع** case in the taxonomy of [[
 A quick revision question: which kind of **ال** is in **الإِنسَان**?
 
 !!! important "ال الجِنسِيَّة — Does Not Make Definite"
-    Out of all the categories of [[types-of-al]], only **ال العَهدِيَّة** (referential al) makes a noun definite — by pointing to something *already known*, *physically present*, or *contextually clear*. **الإِنسَان** here is none of these: Allah is not speaking of one particular human, but of **humanity as a whole** — this is **ال الجِنسِيَّة** (genus al), naming the entire category. The same logic applies to **العَبَّاس / الحُسَين**-type names used generically, and was first introduced via the Light Verse in [Session 3](session-3.md).
+    Out of all the categories of [Types of ال (Al)](../topics/types-of-al.md), only **ال العَهدِيَّة** (referential al) makes a noun definite — by pointing to something *already known*, *physically present*, or *contextually clear*. **الإِنسَان** here is none of these: Allah is not speaking of one particular human, but of **humanity as a whole** — this is **ال الجِنسِيَّة** (genus al), naming the entire category. The same logic applies to **العَبَّاس / الحُسَين**-type names used generically, and was first introduced via the Light Verse in [Session 3](session-3.md).
 
 **الإِنسَان** itself is a word for the whole genus — used for both genders, singular or plural — though it does also have its own dedicated plural, **أَنَاسِيّ**, which can be used when a specific plural is needed.
 
@@ -106,7 +106,7 @@ A quick revision question: which kind of **ال** is in **الإِنسَان**?
 
 > **عَدُوٌّ مُّبِينٌ**
 
-Picking up the root **ب-ي-ن** already introduced for [[mubeen]]:
+Picking up the root **ب-ي-ن** already introduced for [Mubīn — Clear / Clarifying](../topics/mubeen.md):
 
 ### 4.1 لَازِم vs. مُتَعَدٍّ
 
@@ -156,7 +156,7 @@ The teacher worked out the meaning — *worthless, insignificant, contemptible* 
 - **مَهِين** itself looks like a **فَعِيل** pattern — closer to an intensive adjective than a Form IV passive participle.
 
 !!! question "Left as Homework"
-    The teacher was unable to recall the exact morphological derivation on the spot and explicitly set this as **homework** for the group: *"I want to see what pattern it is… I'm not doing it now. Just remind me in the group in case I forget, or you can do it if you want to."* This remains an open thread (see [[root-hawana]]).
+    The teacher was unable to recall the exact morphological derivation on the spot and explicitly set this as **homework** for the group: *"I want to see what pattern it is… I'm not doing it now. Just remind me in the group in case I forget, or you can do it if you want to."* This remains an open thread (see [Root هـ-و-ن (Hawuna) — Insignificance and Humiliation](../topics/root-hawana.md)).
 
 ---
 
@@ -168,14 +168,14 @@ Returning to the very opening of Āyah 5 (deferred from [Session 6](session-6.md
 
 ### 6.1 بُنَيَّ Is the Diminutive (تَصغِير) of اِبْن
 
-**بُنَيَّ** is built on the diminutive pattern — see [[tasgheer]] — and used here **لِلتَّحَبُّب** (for endearment), not to indicate smallness or contempt.
+**بُنَيَّ** is built on the diminutive pattern — see [التَّصغِير — Diminutives in Arabic](../topics/tasgheer.md) — and used here **لِلتَّحَبُّب** (for endearment), not to indicate smallness or contempt.
 
 ### 6.2 Two Yāʾs, One Root Debate
 
 A student noticed **بُنَيَّ** contains *two* **يَاء**s and asked about the root letters of **اِبْن**.
 
 !!! note "One Opinion — Root ب-ن-و"
-    One opinion holds the root letters of **اِبْن** are **ب-ن-و** (compare [[walad-vs-ibn]] — **اِبْن** traditionally derives from **بَنَى**, "to build": the son is the father's "building"). On this view:
+    One opinion holds the root letters of **اِبْن** are **ب-ن-و** (compare [وَلَد vs. ابن — Biological Offspring vs. Relational "Son"](../topics/walad-vs-ibn.md) — **اِبْن** traditionally derives from **بَنَى**, "to build": the son is the father's "building"). On this view:
 
     - The pattern of **اِبْن** is **فِعل** — **فَاء** = ب, **عَين** = ن, **لَام** = the wāw.
     - The wāw of the root is normally **dropped** at the end of **اِبْن** — and to compensate for its loss, a **هَمزَة** is added at the front (**اِ-بْن**), a pattern already seen elsewhere when a weak letter drops out and another letter compensates for it.
@@ -197,13 +197,13 @@ Because **بُنَيَّ** here is simultaneously (a) a munādā (called with **
 | 5 | *(a fifth, rarer, variant)* | — |
 
 !!! note "Why Not All Five Apply to Every Word"
-    The teacher cautioned that for a word like **بُنَيّ**, going beyond three of these forms risks piling up too many **يَاء**s and **أَلِف**s at once — *"I have never come across [going further] in بُنَيا; I stand subject to correction."* This is the same five-form family already documented (using **رَبِّ**) in [[munada-nida]] and [[tasgheer]] — Sūrat Yūsuf simply supplies a fresh, more morphologically intricate example.
+    The teacher cautioned that for a word like **بُنَيّ**, going beyond three of these forms risks piling up too many **يَاء**s and **أَلِف**s at once — *"I have never come across [going further] in بُنَيا; I stand subject to correction."* This is the same five-form family already documented (using **رَبِّ**) in [المُنَادَى — The One Being Called (Rules of Nidāʾ)](../topics/munada-nida.md) and [التَّصغِير — Diminutives in Arabic](../topics/tasgheer.md) — Sūrat Yūsuf simply supplies a fresh, more morphologically intricate example.
 
 ---
 
 ## 7. Three Reasons for التَّصغِير, and a Homework on Contranyms
 
-While discussing **بُنَيَّ**, the teacher reviewed why an ism is diminutivised at all — see the fuller treatment in [[tasgheer]] — citing **مِنْهَا** ("from among these reasons," signalling the list is *not* exhaustive):
+While discussing **بُنَيَّ**, the teacher reviewed why an ism is diminutivised at all — see the fuller treatment in [التَّصغِير — Diminutives in Arabic](../topics/tasgheer.md) — citing **مِنْهَا** ("from among these reasons," signalling the list is *not* exhaustive):
 
 1. **Physical smallness** — the thing itself is small (e.g. a small mountain, a booklet)
 2. **Insult** — diminutising a person's name to belittle them (rude; *"this is not something we should ever use in front of anyone"*)
@@ -214,16 +214,16 @@ While discussing **بُنَيَّ**, the teacher reviewed why an ism is diminuti
 
 ### 7.1 Homework: Words With Two Opposite Meanings
 
-This led to a broader observation, illustrated first by a word already studied — [[verb-taba]] (**تَابَ**), whose meaning flips depending on its preposition (*turning towards Allah* vs. *Allah turning in mercy upon someone*). But the teacher pointed to something stranger still: certain Arabic words carry **two flatly opposite meanings within the very same usage**, with only context to disambiguate — not merely "different shades" but **direct opposites**.
+This led to a broader observation, illustrated first by a word already studied — [تَابَ — To Repent/Return; Preposition Rules and Intensive Forms](../topics/verb-taba.md) (**تَابَ**), whose meaning flips depending on its preposition (*turning towards Allah* vs. *Allah turning in mercy upon someone*). But the teacher pointed to something stranger still: certain Arabic words carry **two flatly opposite meanings within the very same usage**, with only context to disambiguate — not merely "different shades" but **direct opposites**.
 
 !!! question "Homework for the Group"
-    *"Let's note down another homework, that we are going to find out some of those words from the Quran and discuss them in the group, inshāʾAllāh."* (See [[addad-contranyms]].)
+    *"Let's note down another homework, that we are going to find out some of those words from the Quran and discuss them in the group, inshāʾAllāh."* (See [الأَضدَاد — Words With Two Opposite Meanings](../topics/addad-contranyms.md).)
 
 ---
 
 ## 8. فَاء السَّبَبِيَّة — Revisiting the Rules
 
-Returning to exercises on [[faa-sababiyya]], the teacher reviewed and extended the rule with fresh examples.
+Returning to exercises on [فَاء السَّبَبِيَّة — The Causal Fāʾ](../topics/faa-sababiyya.md), the teacher reviewed and extended the rule with fresh examples.
 
 ### 8.1 لَا تُؤَخِّر، فَتَفُوتَك الصَّلاة
 
@@ -239,7 +239,7 @@ Structurally: what comes **before** the **فَاء السَّبَبِيَّة** 
 A reminder, tightening the definition of **طَلَب** for the purposes of فَاء السَّبَبِيَّة: it must be an **explicit, literal** request/command (**طَلَب صَرِيح**) — not merely something *understood* to carry that force.
 
 !!! example "اسم الفِعل Has the Force of a Command — But Isn't One"
-    Words like **آمِين** (a noun with the force of "Allah, accept!") and **أُفّ** (an exclamation with the force of "I'm exasperated," from Sūrat al-Isrāʾ 23, already studied) and **صَهْ** (*"hush!"* — be silent) carry **the meaning** of a command, but are grammatically **اسم**, not **فِعل** — see [[ism-al-fil]]. Because the *command itself* is only implied rather than spoken as an explicit verb-form, words after such expressions cannot trigger فَاء السَّبَبِيَّة's manṣūb effect.
+    Words like **آمِين** (a noun with the force of "Allah, accept!") and **أُفّ** (an exclamation with the force of "I'm exasperated," from Sūrat al-Isrāʾ 23, already studied) and **صَهْ** (*"hush!"* — be silent) carry **the meaning** of a command, but are grammatically **اسم**, not **فِعل** — see [اسم الفِعل — Noun with the Force of a Verb](../topics/ism-al-fil.md). Because the *command itself* is only implied rather than spoken as an explicit verb-form, words after such expressions cannot trigger فَاء السَّبَبِيَّة's manṣūb effect.
 
 !!! example "An Indicative Sentence That *Functions* as a Command"
     > **تُؤمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَموَالِكُم وَأَنفُسِكُم** (al-Ṣaff 61:11)
@@ -249,7 +249,7 @@ A reminder, tightening the definition of **طَلَب** for the purposes of فَ
 
 ### 8.3 The Hidden أَن — Reconfirmed
 
-After **فَاء السَّبَبِيَّة**, there is *always* a hidden **أَن** making the following muḍāriʿ manṣūb — and this أَن is **compulsorily** hidden; it is never written or spoken explicitly. This matches the rule already on record in [[faa-sababiyya]].
+After **فَاء السَّبَبِيَّة**, there is *always* a hidden **أَن** making the following muḍāriʿ manṣūb — and this أَن is **compulsorily** hidden; it is never written or spoken explicitly. This matches the rule already on record in [فَاء السَّبَبِيَّة — The Causal Fāʾ](../topics/faa-sababiyya.md).
 
 ### 8.4 Two Negation Examples
 
@@ -260,9 +260,9 @@ Structurally identical to the already-documented **مَا أَسَأتُ إِل�
 > **لَا يُقضَى عَلَيهِم فَيَمُوتُوا وَلَا يُخَفَّفُ عَنهُم مِّن عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ** (Sūrat Fāṭir 35:36)
 > *"It is not decreed for them that they should die, nor is the punishment ever lightened for them. Thus do We recompense every disbelieving-ingrate."*
 
-This is the exact Quranic example already on record in [[faa-sababiyya]]. Working through it again:
+This is the exact Quranic example already on record in [فَاء السَّبَبِيَّة — The Causal Fāʾ](../topics/faa-sababiyya.md). Working through it again:
 
-- **نَارُ جَهَنَّمَ** — **جَهَنَّمَ** is a feminine proper name (see [[mamnu-min-alsarf]]): no tanwīn, and a **fatḥah** stands in for the expected kasrah as muḍāf ilayh (majrūr).
+- **نَارُ جَهَنَّمَ** — **جَهَنَّمَ** is a feminine proper name (see [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](../topics/mamnu-min-alsarf.md)): no tanwīn, and a **fatḥah** stands in for the expected kasrah as muḍāf ilayh (majrūr).
 - **فَيَمُوتُوا** — manṣūb (the plural نُون is dropped, the tell-tale sign) — "it is not decreed for them, with the result that they would die." Their suffering in the Fire will not even grant them the relief of death.
 - **كَفُور** — note this word is **broader** than "disbeliever": it means *every ungrateful person*. The teacher cautioned against the comfortable assumption that āyāt about **كُفر** never apply to believers — **كَفُور**, in particular, is most often used for *ingratitude*, a fault no one is immune to.
 
@@ -273,7 +273,7 @@ This is the exact Quranic example already on record in [[faa-sababiyya]]. Workin
 
 ## 9. The Five Types of طَلَب — Worked Through Again
 
-Revisiting the five-part taxonomy in [[faa-sababiyya]] with a fresh batch of examples:
+Revisiting the five-part taxonomy in [فَاء السَّبَبِيَّة — The Causal Fāʾ](../topics/faa-sababiyya.md) with a fresh batch of examples:
 
 | # | Type | Example (paraphrased from the exercise) | Gloss |
 |---|---|---|---|
@@ -292,19 +292,19 @@ A sixth nuance: the same kind of particle can be used **either** to *encourage* 
 > **وَلَولَا أَخَّرتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ** (al-Munāfiqūn 63:10) — a dying person's regret: *"If only You had reprieved me for a little while, then I would have given charity!"*
 
 !!! note "Not the Counterfactual لَوْلَا"
-    This use of **لَولَا** is a **طَلَب** particle (closer to a wish/regret), not the counterfactual **لَوْلَا** (mubtadaʾ + omitted khabar) already documented in [[lola]]. The shared spelling masks two distinct grammatical functions.
+    This use of **لَولَا** is a **طَلَب** particle (closer to a wish/regret), not the counterfactual **لَوْلَا** (mubtadaʾ + omitted khabar) already documented in [لَوْلَا — Counterfactual "But For"](../topics/lola.md). The shared spelling masks two distinct grammatical functions.
 
 ### 9.2 A Final, Pleading Example
 
 > *"Won't you come closer to us? If you were to come close, you would see for yourself what they told you."*
 
-The teacher's gloss: *"a person who sees with his own eyes is not like the one who has just heard it"* — the request (إِنَّمَا، أَلَا-type request/ʿarḏ) is followed by the implied benefit of compliance — the fifth type, **عَرض** (invitation/request), already on record in [[faa-sababiyya]].
+The teacher's gloss: *"a person who sees with his own eyes is not like the one who has just heard it"* — the request (إِنَّمَا، أَلَا-type request/ʿarḏ) is followed by the implied benefit of compliance — the fifth type, **عَرض** (invitation/request), already on record in [فَاء السَّبَبِيَّة — The Causal Fāʾ](../topics/faa-sababiyya.md).
 
 ---
 
 ## 10. المُضَاعَف — Completing the Examples in the Mudāriʿ Majzūm
 
-Continuing the [[mudaaf-doubled-verbs]] discussion from earlier sessions, the teacher worked through how doubled (geminate) verbs behave in the **مَجزُوم**: either (a) keep the **idghām** and give the merged letter a **fataḥah** to avoid two sukūns colliding, or (b) **break** the idghām and revert to the unmerged original form.
+Continuing the [المُضَاعَف — Doubled (Geminate) Verbs](../topics/mudaaf-doubled-verbs.md) discussion from earlier sessions, the teacher worked through how doubled (geminate) verbs behave in the **مَجزُوم**: either (a) keep the **idghām** and give the merged letter a **fataḥah** to avoid two sukūns colliding, or (b) **break** the idghām and revert to the unmerged original form.
 
 !!! note "Which Form Is More Common?"
     The teacher added a usage note beyond the original rule: while both options are grammatically correct, breaking the idghām and returning to the **default/original** form of the doubled verb is, in practice, the **more common** usage.
@@ -408,7 +408,7 @@ A side note connecting **حَلَّ** to fiqh: when a marriage has not been cons
     5. Diminutive forms (تَصغِير) serve at least three purposes — physical smallness, insult, and affection — and the *same* word/pattern can serve opposite social purposes; grammar alone cannot tell you which is intended without knowing actual usage.
     6. **فَاء السَّبَبِيَّة** requires the preceding طَلَب to be **صَرِيح** (explicit) — an اسم الفِعل (آمِين، أُفّ، صَهْ) or an indicative sentence that merely *functions* as a command is not enough, even when its pragmatic force is unmistakable.
     7. The hidden **أَن** after فَاء السَّبَبِيَّة is always compulsorily hidden — across every one of the five طَلَب types (أَمر، نَهي، اِستِفهَام، تَمَنٍّ، عَرض) and after negation.
-    8. The same particle family (هَلَّا/لَولَا) can pivot between **تَحضِيض** (encouraging future action) and regret over a missed past action — distinct from the counterfactual **لَوْلَا** of [[lola]] despite identical spelling.
+    8. The same particle family (هَلَّا/لَولَا) can pivot between **تَحضِيض** (encouraging future action) and regret over a missed past action — distinct from the counterfactual **لَوْلَا** of [لَوْلَا — Counterfactual "But For"](../topics/lola.md) despite identical spelling.
     9. Doubled (geminate) verbs in the jussive offer a genuine choice between keeping the idghām (with a compensating fataḥah) and breaking it back to the original form — both valid, though breaking it is, in practice, more common in usage. Mūsā's duʿāʾ in Ṭāhā supplies several worked examples in sequence.
     10. **حَلَّ** is a root with an unusually wide semantic range — untying, dissolving, releasing, and even (metaphorically) Allah's wrath "settling" upon someone — all traceable to the same core sense of something being "let loose."
 

@@ -42,7 +42,7 @@ This is precisely why the term covers so much: the **speech** of the Prophet ﷺ
 The plural of **حَدِيث** is **أَحَادِيث**.
 
 !!! note "No Rule Governs It"
-    Normally a given noun pattern takes a predictable broken plural. **أَحَادِيث** is **سَمَاعِي** — *heard*, learned from usage rather than derived by rule. There is no pattern that dictates why **حَدِيث** should pluralise this way. It is simply what the Arabs said; language evolved organically first, and rules were extracted afterwards. (See the qiyāsī/samāʿī distinction in [[sighat-al-mubalaghah]].)
+    Normally a given noun pattern takes a predictable broken plural. **أَحَادِيث** is **سَمَاعِي** — *heard*, learned from usage rather than derived by rule. There is no pattern that dictates why **حَدِيث** should pluralise this way. It is simply what the Arabs said; language evolved organically first, and rules were extracted afterwards. (See the qiyāsī/samāʿī distinction in [صِيغَةُ المُبَالَغَة — Intensive Active Participle](sighat-al-mubalaghah.md).)
 
 ---
 
@@ -66,7 +66,7 @@ And in Sūrat Yūsuf:
 
 > **وَيُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ** (12:6)
 
-For what **تَأْوِيل الأَحَادِيث** means here, see [[tawil]].
+For what **تَأْوِيل الأَحَادِيث** means here, see [تَأْوِيل — Interpretation as "Returning"](tawil.md).
 
 ---
 

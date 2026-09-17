@@ -61,9 +61,9 @@ The lām al-fāriqah and lām al-ibtidāʾ are functionally the same lam appeari
 
 ## Related Pages
 
-- [[in-mukhaffafah]] — the particle this lam accompanies
-- [[lam-muzaalaqa]] — the skidding lam (a related species of lam al-ibtidāʾ)
-- [[lam-taqwiyah]] — the strengthening lam
+- [إِنْ المُخَفَّفَة — The Lightened Form of Inna](in-mukhaffafah.md) — the particle this lam accompanies
+- [لَامُ المُزَعلَقَة — The Skidding Lam of Emphasis](lam-muzaalaqa.md) — the skidding lam (a related species of lam al-ibtidāʾ)
+- [لَام التَّقوِيَة — The Lam of Strengthening](lam-taqwiyah.md) — the strengthening lam
 
 ## Session References
 

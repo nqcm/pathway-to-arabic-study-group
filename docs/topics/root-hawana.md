@@ -20,7 +20,7 @@ tags:
 **مَهِين** is translated *worthless / contemptible / insignificant*. The puzzle: if it came from Form IV **أَهَانَ**, the expected ism mafʿūl pattern would be **مُهَان** ("one who has been humiliated") — not **مَهِين**. The surface form **مَهِين** instead looks like a **فَعِيل** pattern, the kind of intensive adjective seen in words like **عَظِيم**, **كَرِيم** — describing an inherent quality rather than the result of someone else's action.
 
 !!! question "Left as Homework"
-    A teacher, working through this live, could not recall the precise morphological derivation and explicitly set it as homework for the group to research — *"I want to see what pattern it is, and for some reason I can't recall it... I'm not doing it now."* No resolution has yet been recorded. (See [[mubeen]] for the parallel root-study of بَيَّن/أَبَان/مُبِين discussed in the same passage.)
+    A teacher, working through this live, could not recall the precise morphological derivation and explicitly set it as homework for the group to research — *"I want to see what pattern it is, and for some reason I can't recall it... I'm not doing it now."* No resolution has yet been recorded. (See [Mubīn — Clear / Clarifying](mubeen.md) for the parallel root-study of بَيَّن/أَبَان/مُبِين discussed in the same passage.)
 
 ---
 
@@ -30,4 +30,4 @@ tags:
 
 ## Related Pages
 
-- [[mubeen]]
+- [Mubīn — Clear / Clarifying](mubeen.md)

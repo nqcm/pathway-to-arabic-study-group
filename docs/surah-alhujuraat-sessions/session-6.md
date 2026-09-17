@@ -136,7 +136,7 @@ The classic parallel: when the āyah changing the Qiblah arrived while some Comp
 | Plural 1 | **حُجُرَات** | (most used form — with ḍamma on both) |
 | Plural 2 | **حُجَرَات** | (with fataḥ on second letter) |
 
-Root ح-ج-ر: to deny access. A ḥujra is a place where general access is denied — hence "private chamber." See [Root ḥajara](root-hajara.md).
+Root ح-ج-ر: to deny access. A ḥujra is a place where general access is denied — hence "private chamber." See [Root ḥajara](../topics/root-hajara.md).
 
 ### 3.2 عَقَلَ — Root ع-ق-ل
 
@@ -253,7 +253,7 @@ In these five forms, the **nūn at the end is the sign of rafʿ** — it is NOT 
 | Majzūm | **يَذهَبُوا** | **يَذهَبَا** | **تَذهَبِي** |
 
 !!! note "Alif Al-Fāriqah"
-    When the nūn drops from **يَذهَبُونَ** → **يَذهَبُوا**, an **alif al-fāriqah** (distinguishing alif) is added after the wāw to show that this wāw is the wāw al-jamāʿah, not a root letter. See [Alif al-Fāriqah](alif-al-fariqah.md).
+    When the nūn drops from **يَذهَبُونَ** → **يَذهَبُوا**, an **alif al-fāriqah** (distinguishing alif) is added after the wāw to show that this wāw is the wāw al-jamāʿah, not a root letter. See [Alif al-Fāriqah](../topics/alif-al-fariqah.md).
 
 !!! note "Manṣūb and Majzūm Look Identical"
     For the Five Verbs, the manṣūb and majzūm forms look the same (nūn dropped). To distinguish them, look at the particle **before** the verb: an/lan/li = manṣūb; lam/lammā/lā nāhiya = majzūm.

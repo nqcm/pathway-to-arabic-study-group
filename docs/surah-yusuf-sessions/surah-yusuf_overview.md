@@ -12,7 +12,7 @@ The central message: imān gives a person an unshakeable inner foundation. Yusuf
 
 ## Context of Revelation
 
-Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-huzn](aam-al-huzn.md). It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: [session-1.md](session-1.md))
+Revealed in Makkah during **'Ām al-Ḥuzn** — the Year of Grief. See [aam-al-huzn](../topics/aam-al-huzn.md). It was revealed alongside Surah Hud and Surah Yunus as a thematic trio: Surah Hud and Yunus state the principle of prophetic suffering and divine rescue; Surah Yusuf is the detailed, chronological case study of those same principles. (source: [session-1.md](session-1.md))
 
 ### Why Revealed at This Time
 
@@ -50,16 +50,16 @@ The Prophet ﷺ embodied both personalities: the proactive leader and the deeply
 
 ## Opening Letters
 
-Sūrah Yūsuf opens with the [muqattaat](muqattaat.md) **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [types-of-al](types-of-al.md). (source: [session-3.md](session-3.md))
+Sūrah Yūsuf opens with the [muqattaat](../topics/muqattaat.md) **الر** (Alif-Lām-Rā). The ال in _al-Kitāb_ of Āyah 1 is ال العهدية الذهنية — a mental/contextual reference to the Quran understood without prior mention. See [types-of-al](../topics/types-of-al.md). (source: [session-3.md](session-3.md))
 
 ## Related pages
 
-- [aam-al-huzn](aam-al-huzn.md)
-- [asbab-al-nuzul](asbab-al-nuzul.md)
-- [qiraat](qiraat.md)
-- [arabic-grammar-methodology](arabic-grammar-methodology.md)
-- [types-of-al](types-of-al.md)
-- [muqattaat](muqattaat.md)
+- [aam-al-huzn](../topics/aam-al-huzn.md)
+- [asbab-al-nuzul](../topics/asbab-al-nuzul.md)
+- [qiraat](../topics/qiraat.md)
+- [arabic-grammar-methodology](../topics/arabic-grammar-methodology.md)
+- [types-of-al](../topics/types-of-al.md)
+- [muqattaat](../topics/muqattaat.md)
 - [surah-yusuf-session1](session-1.md)
 - [surah-yusuf-session2](session-2.md)
 - [surah-yusuf-session3](session-3.md)

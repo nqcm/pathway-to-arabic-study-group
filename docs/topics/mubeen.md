@@ -1,6 +1,6 @@
 # Mubīn — Clear / Clarifying
 
-**Summary**: Ism fāʿil and ism mafʿūl of أَبَانَ (Form IV) that look identical on the surface due to the ajwaf root — context determines which meaning is intended. (source: [session-2.md](session-2.md))
+**Summary**: Ism fāʿil and ism mafʿūl of أَبَانَ (Form IV) that look identical on the surface due to the ajwaf root — context determines which meaning is intended. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ---
 
@@ -16,13 +16,13 @@ Root: **ب-ي-ن** — note the yāʾ turns into an alif in the māḍī (weak l
 | Maṣdar | بَيَان | the process/act of clarifying |
 | Ism fāʿil / mafʿūl | مُبِين | clarifying / clarified |
 
-Note on بَيَان: the wāw/yāʾ of the root + tāʾ of Form VIII merge, producing بَيَان rather than the expected *اِبتيان*. (source: [session-2.md](session-2.md))
+Note on بَيَان: the wāw/yāʾ of the root + tāʾ of Form VIII merge, producing بَيَان rather than the expected *اِبتيان*. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ---
 
 ## Why Ism Fāʿil and Ism Mafʿūl Look Identical
 
-Form IV ism fāʿil pattern: **مُفْعِل**; ism mafʿūl pattern: **مُفْعَل**. For أَبَانَ (an ajwaf/hollow verb), both surface forms converge through different phonological paths: (source: [session-2.md](session-2.md))
+Form IV ism fāʿil pattern: **مُفْعِل**; ism mafʿūl pattern: **مُفْعَل**. For أَبَانَ (an ajwaf/hollow verb), both surface forms converge through different phonological paths: (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ### Ism Fāʿil
 *مُبَيِّن* → kasra and yāʾ are phonetically incompatible → shift → **مُبِين**
@@ -60,7 +60,7 @@ Beyond Form I **بَانَ** and Form IV **أَبَانَ**, the root also has a
 
 > *"…or am I better than this one who is **مَهِين**, and can hardly **يَكَادُ يُبِينُ** [express himself]?"* (al-Zukhruf 43:52)
 
-Here the closing نُون of the full muḍāriʿ form is dropped/hidden after **لَا يَكَادُ**, with the object understood from context: Mūsā can barely clarify *his ideas* even though no explicit object is stated. **مَهِين** in the same āyah opened an unresolved morphological question — see [[root-hawana]].
+Here the closing نُون of the full muḍāriʿ form is dropped/hidden after **لَا يَكَادُ**, with the object understood from context: Mūsā can barely clarify *his ideas* even though no explicit object is stated. **مَهِين** in the same āyah opened an unresolved morphological question — see [Root هـ-و-ن (Hawuna) — Insignificance and Humiliation](root-hawana.md).
 
 ---
 
@@ -68,8 +68,8 @@ Here the closing نُون of the full muḍāriʿ form is dropped/hidden after *
 
 - [ayah](ayah.md)
 - [arabic-grammar-methodology](arabic-grammar-methodology.md)
-- [surah-yusuf-session2](surah-yusuf-session2.md)
-- [[root-hawana]]
+- [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md)
+- [Root هـ-و-ن (Hawuna) — Insignificance and Humiliation](root-hawana.md)
 
 ## Session References
 

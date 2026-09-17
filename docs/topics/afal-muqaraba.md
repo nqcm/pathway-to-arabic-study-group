@@ -43,7 +43,7 @@ These verbs express that someone **hopes** something will happen.
     > **عَسَى أَن يَكُونُوا خَيرًا مِّنهُم** (Al-Ḥujurāt 49:11)
     > *"Perhaps they are better than them."*
 
-See [[asaa-verb]] for full treatment of ʿasā.
+See [عَسَى — Hope and Fear; Nāqiṣ and Tāmm](asaa-verb.md) for full treatment of ʿasā.
 
 ---
 
@@ -76,7 +76,7 @@ Both classifications appear in different grammar books; knowing both prevents co
 
 ## Relationship to Nawāsikh
 
-These verbs are one of the three categories of [[nawasikh]] — agents that enter upon a jumla ismiyyah and alter the mubtadaʾ/khabar relationship.
+These verbs are one of the three categories of [النَّواسِخ — The Abrogating Agents](nawasikh.md) — agents that enter upon a jumla ismiyyah and alter the mubtadaʾ/khabar relationship.
 
 ---
 

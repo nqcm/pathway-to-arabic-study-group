@@ -197,7 +197,7 @@ Session reference: Surah Yusuf Session 5.
 
 ## From Surah Yusuf Session 7 — يَا بُنَيَّ: Munādā + Muḍāf to يَاء المُتَكَلِّم
 
-**بُنَيَّ** (the diminutive of اِبْن, see [[tasgheer]]) is simultaneously a munādā (called with يَا) **and** a muḍāf to **يَاء المُتَكَلِّم** ("my"). For this combination, the grammarians record several permissible final forms — the teacher cited the classical reference, a couplet from the **أَلْفِيَّة (Alfiyyah)** of Ibn Mālik:
+**بُنَيَّ** (the diminutive of اِبْن, see [التَّصغِير — Diminutives in Arabic](tasgheer.md)) is simultaneously a munādā (called with يَا) **and** a muḍāf to **يَاء المُتَكَلِّم** ("my"). For this combination, the grammarians record several permissible final forms — the teacher cited the classical reference, a couplet from the **أَلْفِيَّة (Alfiyyah)** of Ibn Mālik:
 
 | # | Form | What Happens |
 |---|---|---|
@@ -207,18 +207,27 @@ Session reference: Surah Yusuf Session 5.
 | 4 | **بُنَيَّا** | يَاء dropped; compensated with alif |
 
 !!! note "Not Every Word Takes All Five Forms"
-    For a word like **بُنَيّ**, going beyond these forms risks piling up too many يَاءs and أَلِفs at once — *"I have never come across [a further form] in بُنَيا; I stand subject to correction."* This is the same five-form family already documented above (§ "From Session 14") using **رَبِّ**, and in [[tasgheer]] — Sūrat Yūsuf supplies a fresh, more morphologically intricate test case because بُنَيّ is *also* a diminutive.
+    For a word like **بُنَيّ**, going beyond these forms risks piling up too many يَاءs and أَلِفs at once — *"I have never come across [a further form] in بُنَيا; I stand subject to correction."* This is the same five-form family already documented above (§ "From Session 14") using **رَبِّ**, and in [التَّصغِير — Diminutives in Arabic](tasgheer.md) — Sūrat Yūsuf supplies a fresh, more morphologically intricate test case because بُنَيّ is *also* a diminutive.
 
 ---
+
+## From Surah Yusuf Session 10 — Munādā in ʿAṭf al-Bayān Edge Cases
+
+!!! important "يَا Before ال Requires أَيُّهَا"
+    **يَا الإِنسَانُ** is wrong; it must be **يَا أَيُّهَا الإِنسَانُ**. So in **يَا بِلَالُ العَبَّاس**, **العَبَّاس** cannot be a badal (a badal would imply a repeated **يَا**, giving the ungrammatical **يَا العَبَّاس**) — it is **عَطْف البَيَان**.
+
+!!! note "Single Name vs. Muḍāf"
+    A single-word name after **يَا** drops its tanwīn but is **not** manṣūb (**بِلَالٌ → يَا بِلَالُ**, **يَا نَوْفَلُ**); only a **muḍāf** munādā is manṣūb (**يَا أَخَوَيْنَا**, **يَا عَبْدَ شَمْسٍ**). In Abū Ṭālib's **أَيَا أَخَوَيْنَا عَبْدَ شَمْسٍ وَنَوْفَلًا**, the manṣūb **نَوْفَلًا** shows it is blindly following **أَخَوَيْنَا** as ʿaṭf al-bayān. The **nidāʾ** counts as an ʿāmil just as a fiʿl or **إِنَّ** does. See [عَطْف البَيَان](atf-bayan.md).
 
 ## Related Pages
 
 - [Mudāf Iḍāfah](mudaf-idafah.md)
 - [Surah Al-Hujuraat Session 2](../surah-alhujuraat-sessions/session-2.md)
-- [[tasgheer]]
+- [التَّصغِير — Diminutives in Arabic](tasgheer.md)
 
 ## Session References
 
+- Surah Yusuf Session 10: يَا before ال requires أَيُّهَا; single name vs. muḍāf munādā as the deciding test between badal and ʿaṭf al-bayān (يَا بِلَالُ العَبَّاس، أَيَا أَخَوَيْنَا عَبْدَ شَمْسٍ وَنَوْفَلًا).
 - Session 2/3: Four rules of munādā introduced; يَا أَيُّهَا construction analyzed.
 - Session 14: Five constructions for يَاء المُتَكَلِّم after يَا النِّدَاء; kasra as the clue for dropped yāʾ.
 - Surah Yusuf Session 5: يَا أَبَتِ — yāʾ → tāʾ substitution; condition of nidāʾ only; Quranic example.

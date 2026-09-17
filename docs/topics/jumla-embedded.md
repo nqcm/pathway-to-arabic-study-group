@@ -84,6 +84,19 @@ These are stated as: *"jūmlah lā maḥalla lahā min al-iʿrāb"*
 
 ---
 
+## From Surah Yusuf Session 11 — Nested vs. High-Level Sentences
+
+!!! important "Finding a Nested Sentence's مَحَلّ"
+    - A **high-level** sentence starts the speech and is nested in nothing — **no** position of iʿrāb.
+    - A **nested** sentence must be analysed: *if it were replaced by a single word, what would that word's iʿrāb be?* In **مُحَمَّدٌ ذَهَبَ**, **ذَهَبَ** is **فِي مَحَلِّ رَفعٍ خَبَر**.
+
+!!! example "مُلْكٍ لَّا يَبْلَىٰ (Ṭāhā 120)"
+    **لَا يَبْلَىٰ** is a sentence following the **indefinite** **مُلْكٍ**, so it is a **نَعت** — applying the rule: after a nakirah, a jumlah is usually a naʿt; after a maʿrifah, usually a ḥāl.
+
+!!! info "Can a Sentence Be عَطْف البَيَان?"
+    Some grammarians say yes (e.g. **قَالَ يَا آدَمُ** explaining **فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ**), which makes the sentence **nested**; most say no, treating it as high-level. See [عَطْف البَيَان](atf-bayan.md).
+
 ## Session References
 
+- Surah Yusuf Session 11: High-level vs. nested sentences and finding the maḥall; مُلْكٍ لَا يَبْلَىٰ as naʿt; whether a sentence can be ʿaṭf al-bayān.
 - Selections from the Glorious Quran Session 4: Full explanation with examples; naʿt/ḥāl rule derived from the principle that sentences are always nakira; the ism mawṣūl bridge; application to Āyah 7 of al-Fātiḥah.

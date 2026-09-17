@@ -59,6 +59,22 @@ Without **هُم**: **أُولَٰئِكَ الرَّاشِدُون** could be r
 
 ---
 
+### From Surah Yusuf Session 10 — ذَٰلِكَ الكِتَابُ and لَهِيَ الْحَيَوَانُ
+
+!!! example "Two Readings of ذَٰلِكَ الْكِتَابُ"
+    In **ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ**, the teacher noted that the phrase **has** been translated both ways: *"That is the Book; there is no doubt in it"* (khabar) and *"That Book — there is no doubt in it"* (badal). Saying **ذَٰلِكَ هُوَ الكِتَابُ** would pin the first reading.
+
+    Her caveat: this is not to say the Quran is ambiguous — Arabic may deliberately leave a structure open **when both meanings are meant**; where one meaning is to be fixed, a faṣl is used, and the Quran has many examples.
+
+!!! important "The Lām Moves Onto the Ḍamīr al-Faṣl"
+    When **ضَمِير الفَصل** comes between the ism and khabar of **إِنَّ**, the **lām al-muzaḥlaqah** attaches to the pronoun:
+
+    > **وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ** (al-ʿAnkabūt 64)
+
+    **الدَّارَ** — ism of إِنَّ; **لَهِيَ** — lām + ḍamīr al-faṣl; **الْحَيَوَانُ** — khabar. See [Lām al-Muzaḥlaqah](lam-muzaalaqa.md).
+
+---
+
 ## Related pages
 
 - [Innama](innama.md)
@@ -67,5 +83,6 @@ Without **هُم**: **أُولَٰئِكَ الرَّاشِدُون** could be r
 
 ## Session References
 
+- Surah Yusuf Session 10: ذَٰلِكَ الْكِتَابُ read both as khabar and as badal; lām al-muzaḥlaqah on the ḍamīr al-faṣl in لَهِيَ الْحَيَوَانُ.
 - Surah Al-Hujuraat Session 16: Core concept introduced.
 - Surah Al-Hujuraat Session 10: Applied to Āyah 7 (أُولَٰئِكَ هُمُ الرَّاشِدُون); conditions requiring ḍamīr al-faṣl.

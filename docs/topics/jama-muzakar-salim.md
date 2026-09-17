@@ -74,7 +74,7 @@ A footnote in the tafsīr of Sūrah Yūsuf laid out the conditions more rigorous
 - Must be the **name of a man** — a human male, never an object or a female (e.g. **زَيْد → زَيْدُونَ**).
 - Names ending in **ة** (e.g. **طَلْحَة**) are disputed:
 
-!!! note "Baṣrī vs. Kūfī Disagreement — see [[arabic-grammar-schools]]"
+!!! note "Baṣrī vs. Kūfī Disagreement — see [The Basri and Kufi Schools of Arabic Grammar](arabic-grammar-schools.md)"
     - **Baṣrī school**: not permissible to form a جمع مذكر سالم from such names at all.
     - **Kūfī school**: permissible — but the **ة is dropped first**, giving **طَلْحُونَ** (not طَلْحَتُونَ).
 
@@ -96,7 +96,7 @@ A footnote in the tafsīr of Sūrah Yūsuf laid out the conditions more rigorous
 
 ### هُمْ and جمع المذكر السالم Are Reserved for the Sentient
 
-Beyond morphology, there is a *semantic* restriction worth noting: both **جمع المذكر السالم** and the masculine plural pronoun **هُمْ** are characteristically reserved for **عُقَلَاء** — sentient, rational beings (jinn, angels, humans). When the Qurʾān uses them for inanimate things — e.g. **رَأَيْتُهُمْ لِي سَاجِدِينَ** (Yūsuf 12:4), where **هُمْ** and **سَاجِدِينَ** refer to the stars, sun and moon — it is *raising their status*, attributing to them an act ordinarily only performed by rational beings. This is **not** poetic personification (which has its own distinct grammatical rules in Arabic and is, by nature, imaginative) — the Qurʾān is describing something real. See [[broken-plural-pronoun]] and [[taghlib]] for related pronoun-agreement phenomena.
+Beyond morphology, there is a *semantic* restriction worth noting: both **جمع المذكر السالم** and the masculine plural pronoun **هُمْ** are characteristically reserved for **عُقَلَاء** — sentient, rational beings (jinn, angels, humans). When the Qurʾān uses them for inanimate things — e.g. **رَأَيْتُهُمْ لِي سَاجِدِينَ** (Yūsuf 12:4), where **هُمْ** and **سَاجِدِينَ** refer to the stars, sun and moon — it is *raising their status*, attributing to them an act ordinarily only performed by rational beings. This is **not** poetic personification (which has its own distinct grammatical rules in Arabic and is, by nature, imaginative) — the Qurʾān is describing something real. See [Broken Plural + Feminine Singular Pronoun](broken-plural-pronoun.md) and [التَّغلِيب — Grammatical Coverage (Dominant Form)](taghlib.md) for related pronoun-agreement phenomena.
 
 ---
 

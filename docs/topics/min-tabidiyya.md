@@ -20,7 +20,7 @@ tags:
 | **كُلِ الطَّعَامَ** — *eat the food* (all of it) | **كُلْ مِنْهُ** — *eat from it* (some of it) |
 
 !!! note "Not the Same as مِن الزَّائِدَة"
-    The partitive مِن genuinely **changes the meaning**; it cannot be removed without loss. That distinguishes it from **مِن الزَّائِدَة**, which is syntactically removable and adds emphasis rather than quantity. See [[min-ziyada]].
+    The partitive مِن genuinely **changes the meaning**; it cannot be removed without loss. That distinguishes it from **مِن الزَّائِدَة**, which is syntactically removable and adds emphasis rather than quantity. See [مِن الزِّيَادَة — The Extra مِن](min-ziyada.md).
 
 ---
 
@@ -41,7 +41,7 @@ tags:
 !!! example "وَيُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ (Yūsuf 12:6)"
     > **وَيُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ**
 
-    *"…and He will teach you* **from** *the interpretation of narrations"* — a portion of that knowledge, not the whole of it. See [[tawil]].
+    *"…and He will teach you* **from** *the interpretation of narrations"* — a portion of that knowledge, not the whole of it. See [تَأْوِيل — Interpretation as "Returning"](tawil.md).
 
 ---
 

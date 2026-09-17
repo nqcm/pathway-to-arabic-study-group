@@ -66,7 +66,7 @@ Every **جَمْع مُنْتَهَى الجُمُوع** is **مَمْنُوع �
 
 > **فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ** — *"So I swear by the setting places of the stars."*
 
-For the full diptote rule and the second Alfiyyah couplet that states these two escapes, see [[mamnu-min-alsarf]].
+For the full diptote rule and the second Alfiyyah couplet that states these two escapes, see [ممنوع من الصرف — Diptotes (Non-Fully Declinable Nouns)](mamnu-min-alsarf.md).
 
 ---
 

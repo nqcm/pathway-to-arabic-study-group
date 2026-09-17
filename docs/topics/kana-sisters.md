@@ -109,7 +109,7 @@ The khabar of **لَيسَ** may optionally take a **بَاء زَائِدَة**
 
 ## Role as Nawāsikh
 
-The kāna sisters are one of the three categories of [[nawasikh]] — agents that enter upon a jumla ismiyyah and abrogate the original mubtadaʾ/khabar relationship. The other two categories are [[afal-muqaraba]] (Kāda and sisters) and [[zanna-sisters]] (Ẓanna and sisters). All three change the iʿrāb and add a dimension of meaning; the kāna sisters add a temporal or stative dimension while leaving the ism marfūʿ.
+The kāna sisters are one of the three categories of [النَّواسِخ — The Abrogating Agents](nawasikh.md) — agents that enter upon a jumla ismiyyah and abrogate the original mubtadaʾ/khabar relationship. The other two categories are [أَفعَال المُقَارَبَة والرَّجَاء والشُّروع — Verbs of Proximity, Hope, and Inception](afal-muqaraba.md) (Kāda and sisters) and [ظَنَّ وأخواتها — Ẓanna and Verbs with Two Mafʿūl](zanna-sisters.md) (Ẓanna and sisters). All three change the iʿrāb and add a dimension of meaning; the kāna sisters add a temporal or stative dimension while leaving the ism marfūʿ.
 
 ## From Surah Yusuf Session 9 — Two Reminders
 
@@ -128,18 +128,18 @@ Analysing **لَّقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِ
 | **فِي يُوسُفَ وَإِخْوَتِهِ** | **جَارّ وَمَجرُور** standing as the **خَبَر كَانَ المُقَدَّم** |
 | **لِلسَّائِلِينَ** | Left open — a second khabar, or a **مُتَعَلِّق** functioning as ṣifah for **آيَات** |
 
-The teacher chose to leave the last element as *"khabar one and khabar two"* for ease of parsing, and undertook to check how other grammarians have parsed it. See [[khabar-mukadam]] and [[mutaaliq-attachment]].
+The teacher chose to leave the last element as *"khabar one and khabar two"* for ease of parsing, and undertook to check how other grammarians have parsed it. See [الخَبَر المُقَدَّم — Fronted Predicate](khabar-mukadam.md) and [المُتَعَلِّق — Prepositional Phrase Attachment](mutaaliq-attachment.md).
 
 ### مُتَصَرِّف vs. جَامِد
 
 !!! note "A نَحو Distinction, Not a صَرف One"
     Grammarians say the **فِعل مَاضٍ** is always **مَبنِي** — a morphological statement. Syntactically there is a further division: some past-tense verbs are **جَامِد** (frozen), having **no muḍāriʿ and no amr**. **لَيْسَ** and **عَسَى** are the classic cases.
 
-    **كَانَ** is **مُتَصَرِّف**: **كَانَ / يَكُونُ / كُنْ** runs through the tenses and the imperative. This matters syntactically — the rule requiring **لَـ + قَدْ** in a **جَوَاب القَسَم** applies only to a **مُتَصَرِّف** past verb, so it applies to **كَانَ** but not to **لَيْسَ** or **عَسَى**. See [[jawab-al-qasam]].
+    **كَانَ** is **مُتَصَرِّف**: **كَانَ / يَكُونُ / كُنْ** runs through the tenses and the imperative. This matters syntactically — the rule requiring **لَـ + قَدْ** in a **جَوَاب القَسَم** applies only to a **مُتَصَرِّف** past verb, so it applies to **كَانَ** but not to **لَيْسَ** or **عَسَى**. See [Jawāb al-Qasam (جواب القسم)](jawab-al-qasam.md).
 
 ### Feminine Agreement
 
-The rules for making **كَانَ** feminine to agree with its **اِسْم** are **exactly the same** as those for a verb and its **فَاعِل** — which is why **كَانَ**, not **كَانَتْ**, stands before the feminine plural **آيَاتٌ** in Āyah 7. See [[ta-tanith]].
+The rules for making **كَانَ** feminine to agree with its **اِسْم** are **exactly the same** as those for a verb and its **فَاعِل** — which is why **كَانَ**, not **كَانَتْ**, stands before the feminine plural **آيَاتٌ** in Āyah 7. See [تَاء التَّأنِيث — The Feminine Marker on Verbs](ta-tanith.md).
 
 ---
 

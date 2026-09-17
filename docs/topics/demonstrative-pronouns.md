@@ -5,7 +5,7 @@
 
 ## Structure of تِلْكَ
 
-**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: [session-2.md](session-2.md))
+**تِلْكَ** (that — feminine, distant) is composed of three parts: (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 | Part | Element | Function |
 |---|---|---|
@@ -22,11 +22,11 @@
 | تِلْكُمْ | addressing a group |
 | تِيكَ | without lām al-buʿd (shorter distance) |
 
-*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: [session-2.md](session-2.md))
+*Example from hadith al-ifk:* **تِيكُمْ** — teacher addressing a group, referring to a feminine subject. Found in Ṣaḥīḥ al-Bukhāri. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 ## Resolving the Two Sukūns in تِلْكَ
 
-When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: [session-2.md](session-2.md))
+When lām al-buʿd enters upon تِيكَ, we get *تِيْلْكَ* — two adjacent sukūns (yāʾ with sukūn + lām with sukūn). Rule: when yāʾ with sukūn is adjacent to another sukūn, drop the yāʾ → **تِلْكَ**. (source: [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md))
 
 When lām does not enter, **تِيكَ** remains as is.
 
@@ -66,10 +66,27 @@ The masculine form was taken apart the same way as **تِلْكَ**:
 !!! important "Plural كَاف ≠ Plural Referent"
     Only **one** thing is being pointed at in that āyah. **ذَٰلِكَ** becoming **ذَٰلِكُمْ** means the **people addressed** are now more than one — not that the referent has become plural. Pointing at several things requires **أُولَٰئِكَ**.
 
-For the use of **كَذَٰلِكَ** as a deputy for the absolute object, see [[mafool-mutlaq]].
+For the use of **كَذَٰلِكَ** as a deputy for the absolute object, see [Mafʿūl Muṭlaq — Absolute Object](mafool-mutlaq.md).
+
+## From Surah Yusuf Session 11 — تِلْكُمُ for a Nearby Jannah
+
+> **وَنُودُوا أَن تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ** (al-Aʿrāf 43)
+
+!!! question "Why the Far Demonstrative?"
+    The people addressed are **already in Jannah** — so why **تِلْكُمُ** and not **هَٰذِهِ**?
+
+!!! important "Distance of Place → Height of Status"
+    The far demonstrative shows **respect** and the **grand status** of Jannah — as one keeps a respectful distance from a very honourable person. **مَكَان** is *place*; **مَكَانَة** is *status*: distance of **place** can point to a **status** that is far above. Some likewise read **ذَٰلِكَ الْكِتَابُ** as expressing respect for the Quran.
+
+!!! tip "The Lesson"
+    Jannah is so grand that no one enters it by deeds alone — even a lifetime in sajdah could not earn it. It is **inherited** through Allah's mercy.
 
 ## Related pages
 
 - [Mafool Mutlaq](mafool-mutlaq.md)
 - [Arabic Grammar Methodology](arabic-grammar-methodology.md)
-- [Surah Yusuf Session 2](surah-yusuf-session2.md)
+- [Surah Yusuf Session 2](../surah-yusuf-sessions/session-2.md)
+
+## Session References
+
+- Surah Yusuf Session 11: تِلْكُمُ الْجَنَّةُ (al-Aʿrāf 43) — the far demonstrative for honour; مَكَان vs مَكَانَة.

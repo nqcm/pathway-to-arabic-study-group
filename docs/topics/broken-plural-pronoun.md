@@ -59,7 +59,7 @@ Sūrah Yūsuf 12:4 presents an intriguing reversal of the expectation set out ab
 > **رَأَيْتُهُمْ لِي سَاجِدِينَ**
 > *"…I saw them prostrating to me."*
 
-The pronoun refers to the eleven **كَوَاكِب**, the sun, and the moon — all **inanimate**. Based on the rule above, we would expect the singular feminine: *رَأَيتُهَا سَاجِدَةً لِي*. Instead, Allah uses **هُمْ** (the masculine plural pronoun reserved for sentient/rational beings — see [[jama-muzakar-salim]]) and **سَاجِدِينَ** (a جمع المذكر السالم, likewise reserved for the sentient).
+The pronoun refers to the eleven **كَوَاكِب**, the sun, and the moon — all **inanimate**. Based on the rule above, we would expect the singular feminine: *رَأَيتُهَا سَاجِدَةً لِي*. Instead, Allah uses **هُمْ** (the masculine plural pronoun reserved for sentient/rational beings — see [جمع المذكر السالم — Sound Masculine Plural](jama-muzakar-salim.md)) and **سَاجِدِينَ** (a جمع المذكر السالم, likewise reserved for the sentient).
 
 !!! important "Raising Their Status — Not Personification"
     The teacher explained this as Allah *"raising the status"* of these celestial bodies — describing them as performing **سُجُود**, an act ordinarily only performed by conscious, rational beings. This is **not** poetic personification (تَشخِيص), which has its own separate grammatical rules in Arabic and is by nature *imaginative*. What the Qurʾān describes here is *real*. A close parallel: the speech of the ant in Sūrat al-Naml (**قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ...**) — again real, conscious, human-like behaviour attributed to a non-human creature, reported as fact rather than imagined by a poet. *"Personification is imaginary; this is real."*

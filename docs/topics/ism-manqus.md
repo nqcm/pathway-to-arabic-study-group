@@ -91,7 +91,12 @@ The three yāʾ-returning conditions were restated with the standard example **�
 
 ---
 
+## From Surah Yusuf Session 11 — أَرَاضٍ
+
+**أَرْض** (feminine) has two plurals: **أَرَضُون** (lands in the broad sense — worlds, countries) and **أَرَاضٍ** (mostly agricultural land, acres). **أَرَاضٍ** behaves like a manqūṣ noun such as **وَادٍ**: the **يَاء** is hidden in **أَرَاضٍ** and **returns** with **ال** (**الأَرَاضِي**) or in iḍāfah. That yāʾ is not a root letter — *"it is just how it is done."* And the tanwīn of **أَرَاضٍ** does not mean it is majrūr; it may be marfūʿ.
+
 ## Session References
 
+- Surah Yusuf Session 11: أَرْض and its plurals أَرَضُون / أَرَاضٍ; the yāʾ of أَرَاضٍ returning in الأَرَاضِي.
 - Surah Al-Hujuraat Session 11: Detailed explanation of ismul manqūṣ; three cases when yāʾ returns; contrasted with ismul maqṣūr; example with بَاغٍ / البَاغِي.
 - Surah Yusuf Session 8: **مُجْتَبٍ** (ism fāʿil of اِجْتَبَى) worked through; the tanwīn-transfer mechanism; warning that a double kasrah does not mean majrūr; the reminder that iʿrāb exists only within a sentence.

@@ -77,7 +77,7 @@ Classical grammarians describe this as:
 
 ## Role as Nawāsikh (Af'āl al-Qulūb)
 
-The ẓanna sisters are one of the three categories of [[nawasikh]]. They are the most drastic nawāsikh: they are **tāmm** verbs (unlike the nāqiṣ kāna sisters) and they make **both** the original mubtadaʾ and khabar into mafʿūl bih (both manṣūb). They are also called **أَفعَال القُلُوب** (verbs of the heart) because they express inner perception, assumption, or conviction rather than external action.
+The ẓanna sisters are one of the three categories of [النَّواسِخ — The Abrogating Agents](nawasikh.md). They are the most drastic nawāsikh: they are **tāmm** verbs (unlike the nāqiṣ kāna sisters) and they make **both** the original mubtadaʾ and khabar into mafʿūl bih (both manṣūb). They are also called **أَفعَال القُلُوب** (verbs of the heart) because they express inner perception, assumption, or conviction rather than external action.
 
 ## Session References
 

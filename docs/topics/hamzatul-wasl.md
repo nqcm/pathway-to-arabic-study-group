@@ -111,7 +111,7 @@ The imperative of **سَأَلَ** is **اِسْأَلُوا**, opening with a *
     > **وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ ۚ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ** (al-Naḥl)
 
 !!! note "A Separate Phenomenon in the Same Verb"
-    Do not confuse this with the **سَلْ** form, which arises from a different route entirely — **تَسْهِيل الهَمزَة** (easing the hamzah into an alif) producing **سَالَ / يَسَالُ**, whose imperative loses its alif to the meeting of two sukūns. See [[verb-saala]] and [[phonetic-harmony]].
+    Do not confuse this with the **سَلْ** form, which arises from a different route entirely — **تَسْهِيل الهَمزَة** (easing the hamzah into an alif) producing **سَالَ / يَسَالُ**, whose imperative loses its alif to the meeting of two sukūns. See [سَأَلَ — Three Constructions of Asking](verb-saala.md) and [Phonetic Harmony — Assimilation, Dissimilation, and Iltiqāʾ al-Sākinayn](phonetic-harmony.md).
 
 ---
 
