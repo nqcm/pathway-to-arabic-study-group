@@ -96,7 +96,20 @@ The lām after a verb such as **سَمَحَ لَهُ** is an ordinary prepositi
 
 ---
 
+## From Surah Yusuf Session 13 — لَام المِلك and شِبه المِلك
+
+The chart of the lāms puts the jārrah lām at **over 30 meanings**; the commoner ones are taught, since the rest are rare or literary. See [A Map of the Lāms](lam-types.md).
+
+!!! summary "The Fundamental Difference"
+    | Lām | Meaning | Example |
+    |---|---|---|
+    | **لَام المِلك** | Something **truly belongs** to whoever the lām comes on | **لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ**; **هَذَا القَلَمُ لِي** |
+    | **شِبه المِلك** | A **right** to it, or it is **specifically for their use** | **الإِصْطَبْلُ لِلْبَقَرِ** — the stable is not owned by the cows |
+
+**شِبه المِلك** is also called **لَام الاِستِحقَاق** (ح-ق-ق: having a right, as a wife has a right over her husband's money) and **لَام الاِختِصَاص** (خ-ص-ص: specification). A place at an airport reserved for disabled people does not belong to them; it is set aside for their use.
+
 ## Session References
 
+- Surah Yusuf Session 13: Over 30 meanings; لَام المِلك vs شِبه المِلك, with the names اِستِحقَاق and اِختِصَاص.
 - Surah Yusuf Session 12: The ḥarf jarr label is independent of meaning; ordinary lām vs lām al-taqwiyah; a series on the meanings of the lām announced.
 - At the Well of Madyan Session 3: Full presentation of the six meanings with Quranic examples; applied to the dua in Āyah 24.

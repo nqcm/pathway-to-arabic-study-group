@@ -174,6 +174,16 @@ See: [lain-combination](lain-combination.md)
 
 ---
 
+## From Surah Yusuf Session 13 — The Muḍāriʿ Jawāb Is Compulsory
+
+The book states Case 3 firmly: a jawāb that is a **jumlah fiʿliyyah**, begins with a **muḍāriʿ**, and is **affirmative** must be emphasised with **lām + nūn**: *"notice it's compulsory, it's not optional."* A footnote adds **قَدْ يُكْتَفَى**: **sometimes** one of the two may suffice.
+
+The form of this jawāb is itself evidence of an oath: in **لَنَكُونَنَّ مِنَ الْخَاسِرِينَ** (al-Aʿrāf 23) neither oath nor lām is present, but the lām and nūn give it away. See [لَئِن](lain-combination.md).
+
+**لَام الجَوَاب** is a non-working lām on the chart in [A Map of the Lāms](lam-types.md).
+
+---
+
 ## Related pages
 
 - [Oaths in the Quran — Introduction](qasam-introduction.md)

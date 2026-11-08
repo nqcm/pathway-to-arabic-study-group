@@ -133,8 +133,17 @@ Both refer to the same concept: a general factual statement that may have except
 
 ---
 
+## From Surah Yusuf Session 13 — ال in الذِّئْب and بَيَان المَاهِيَّة
+
+The **ال** in **الذِّئْب** (Yūsuf 13) is **ال الجِنسِيَّة**. The book explains it as capturing the **مَاهِيَّة** of the thing, its essential nature: the attributes of the whole genus and not any individual. *Apples are tastier than grapes* speaks of apples in general and their taste.
+
+This is **one function** of al-jinsiyyah; not every al-jinsiyyah serves it.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: الذِّئْب as al-jinsiyyah; bayān al-māhiyyah as one of its functions.
 - Surah Yusuf Session 3: Foundational introduction; dhikriyah example from the Light Verse; contextual Al in al-Baqarah.
 - Surah Al-Hujuraat Session 16: Al-siyāqiyyah example from الأعراب in Āyah 14.
 - Selections from the Glorious Quran Session 2: Etymology of Al; sun/moon letters; Al-ismiyah; examples from Sūrat Yūsuf (wolf) and al-Nisāʾ (man created weak); the Al in الحمد as istighrāqiyah.

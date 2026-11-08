@@ -59,6 +59,20 @@ The lām al-fāriqah and lām al-ibtidāʾ are functionally the same lam appeari
 
 ---
 
+## From Surah Yusuf Session 13 — Placed on the Chart
+
+The lām al-fāriqah is on the chart of **non-working** lāms: take it away and the iʿrāb does not change. See [A Map of the Lāms](lam-types.md).
+
+| Particle | Āyah | Meaning |
+|---|---|---|
+| **إِن** of negation | **إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ** (Hūd 88) | *I do not wish except correction* |
+| Emphatic **إِنْ** | **وَإِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ** (Yūsuf 3) | *Indeed, before this you were one of the heedless* |
+
+!!! question "Does the إِن of Negation Only Come with إِلَّا?"
+    *That is a very common pattern, but it's not necessary.* The **إِن** of negation can come without **إِلَّا**, which is why the confusion can arise.
+
+---
+
 ## Related Pages
 
 - [إِنْ المُخَفَّفَة — The Lightened Form of Inna](in-mukhaffafah.md) — the particle this lam accompanies
@@ -67,4 +81,5 @@ The lām al-fāriqah and lām al-ibtidāʾ are functionally the same lam appeari
 
 ## Session References
 
+- Surah Yusuf Session 13: On the chart as a non-working lām; Hūd 88 vs Yūsuf 3; negative إِن does not always need إِلَّا.
 - Surah Yusuf Session 5: لَام الفَارِقَة introduced and explained; contrast with إِن النَّافِيَة; four Quranic examples.

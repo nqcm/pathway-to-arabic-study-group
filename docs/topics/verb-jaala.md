@@ -82,6 +82,14 @@ tags:
 
 ---
 
+## From Surah Yusuf Session 13 — Two Uses in One Lesson
+
+- **To make into something else** (Meaning 1): the book's *when we turn this sentence into a jawāb*; **جَعَلْتُ بَيْتِي مَدْرَسَةً**.
+- **To put**: **أَن يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ** (Yūsuf 15). The teacher treated this as one of the four meanings without naming which. Taking one mafʿūl and a place, it fits the single-object pattern of Meaning 4.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: *to make into* in the book's wording; *to put* in Yūsuf 15.
 - Surah Al-Hujuraat Session 15: Full four-meaning treatment of جَعَلَ; applied to Āyah 13 (وَجَعَلنَاكُم شُعُوبًا = Meaning 1).

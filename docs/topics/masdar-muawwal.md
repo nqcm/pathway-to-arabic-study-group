@@ -79,8 +79,25 @@ Here **أَن تَشهَد** is the مصدر مؤوَّل, functioning as the **
 
 ---
 
+## From Surah Yusuf Session 13 — Fāʿil and Mafʿūl in One Āyah
+
+Yūsuf 13 has one maṣdar muʾawwal in each role:
+
+| Phrase | Role | With a true maṣdar |
+|---|---|---|
+| **إِنِّي لَيَحْزُنُنِي أَن تَذْهَبُوا بِهِ** | **فَاعِل** — what is making him sad? | **يَحْزُنُنِي ذَهَابُكُمْ بِهِ** |
+| **وَأَخَافُ أَن يَأْكُلَهُ الذِّئْبُ** | **مَفعُول بِهِ** — the fāʿil is already *I fear* | **أَكْلَ الذِّئْبِ إِيَّاهُ** |
+
+!!! tip "A Skill Worth Having"
+    Being able to change a verb into a maṣdar and back helps you understand any āyah or line of poetry on the fly. For what happens to the fāʿil, see [The Maṣdar's Muḍāf](masdar-mudaf.md).
+
+Also in Āyah 15: **وَأَجْمَعُوا أَن يَجْعَلُوهُ**, as the mafʿūl of [أَجْمَعَ](verb-ajmaa.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: The box model again; fāʿil and mafʿūl bih in Yūsuf 13; converting to a true maṣdar.
 - From Esfahaan to Madinah Session 2: introduced — أَنْ construction, box analogy, relationship to إيَّا
 - From Esfahaan to Madinah Session 5: مصدر مؤوَّل as مفعول مطلق context
 - From Esfahaan to Madinah Session 6: أَنَّ construction; both types compared

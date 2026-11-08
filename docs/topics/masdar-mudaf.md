@@ -81,7 +81,22 @@ A maṣdar with its own mafʿūl bih has three options, all permissible:
 
 ---
 
+## From Surah Yusuf Session 13 — What Happens to the Fāʿil
+
+Converting **أَنْ + muḍāriʿ** to a true maṣdar, the **fāʿil usually becomes the muḍāf ilayh**: *I see you* → *my seeing you*.
+
+| With أَنْ | True maṣdar | Note |
+|---|---|---|
+| **أَنْ أَرَاكَ مَرِيضًا** | **رُؤْيَتِي إِيَّاكَ مَرِيضًا** | **كَ** cannot stand alone, so [إِيَّا](iyyaa-pronouns.md) comes in |
+| **أَنْ أَكْسَلَ** | **كَسَلِي** | Intransitive: no mafʿūl to carry over |
+| **أَنْ أُسَافِرَ** | **سَفَرِي** | |
+| **أَنْ يَأْكُلَهُ الذِّئْبُ** | **أَكْلَ الذِّئْبِ إِيَّاهُ** | **الذِّئْب**, the fāʿil, is now muḍāf ilayh |
+| **أَنْ نَمْرَضَ** | **المَرَض** or **مَرَضَنَا** | The fāʿil may be left unstated or kept |
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: The fāʿil becomes the muḍāf ilayh when أَنْ + muḍāriʿ is converted; the book's examples.
 - Surah Yusuf Session 12: The maṣdar's own mafʿūl — with lām, direct (**رَحْمَتِ رَبِّكَ عَبْدَهُ**), or through **إِيَّا**.
 - Surah Al-Hujuraat Session 3: Fāʿil vs mafʿūl bih as muḍāf ilayh of maṣdar — introduced through the example of **جَهْرُ بَعْضِكُم** in Āyah 2, with auxiliary examples (dhahābu Ḥāmidin, khalqu al-samāwāt, qatlu Bilālin).

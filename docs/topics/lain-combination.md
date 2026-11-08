@@ -106,8 +106,36 @@ The conditional particle **مَن (man)** + kasam behaves identically to la-in:
 
 ---
 
+## From Surah Yusuf Session 13 — The Book's Series and Yūsuf 14
+
+> **قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَّخَاسِرُونَ** (Yūsuf 14)
+
+**لَئِنْ** gives the oath-marking lām and the **إِنْ** of condition. The jawāb has **إِنَّ + lām** and no **فَ**, so it is the jawāb of the **qasam**. Had it been the sharṭ's, it would have had **فَ** and no emphasis.
+
+!!! summary "The Book's Series (predicate lost in the session captions)"
+    | Case | Skeleton |
+    |---|---|
+    | Sharṭ alone | **إِنْ لَمْ تَفْعَلْ فَأَنْتَ …** |
+    | Qasam alone | **وَاللَّهِ إِنَّكَ لَـ…** |
+    | Sharṭ first | **إِنْ لَمْ تَفْعَلْ وَاللَّهِ فَأَنْتَ …** |
+    | Qasam first | **وَاللَّهِ إِنْ لَمْ تَفْعَلْ إِنَّكَ لَـ…** |
+    | Shorthand | **لَئِنْ لَمْ تَفْعَلْ إِنَّكَ لَـ…** |
+    | Lām dropped | **إِنْ لَمْ تَفْعَلْ إِنَّكَ لَـ…** |
+
+### The Lām Dropped Along with the Oath
+
+> **وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ** (al-Aʿrāf 23)
+
+A normal sharṭ would give **نَكُنْ**, majzūm. The lām and nūn of **لَنَكُونَنَّ** are reserved for the jawāb of an oath, so they show that an oath, and its lām, have been dropped.
+
+!!! important "The Book's Rule"
+    When sharṭ and qasam come together, omit the jawāb of whichever is delayed, **لُزُومًا** (compulsorily).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: Yūsuf 14 analysed; the book's series of six skeletons; al-Aʿrāf 23 with the lām dropped too; omission is لُزُومًا.
 - Oaths in Quran Session 3: La-in fully introduced with 15+ Quranic examples
 - See also: [Jawab al-Qasam](jawab-al-qasam.md) — full rules for the response to an oath
 - See also: [Huruf al-Qasam](huruf-al-qasam.md) — the three particles of oath

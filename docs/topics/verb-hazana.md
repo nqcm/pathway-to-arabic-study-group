@@ -31,6 +31,12 @@ The root ح-ز-ن has two Form I verbs, and the bāb decides whether you are sad
 
 > **الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ** (Fāṭir 34)
 
+## From Surah Yusuf Session 13 — Finding the Fāʿil
+
+A student asked whether **يَحْزُنُنِي** could have a hidden **هُوَ** as its fāʿil. Because **حَزَنَ** is transitive, *something* is making him sad. Remove **أَن تَذْهَبُوا بِهِ** and the sentence is incomplete, since it does not say what. So the [maṣdar muʾawwal](masdar-muawwal.md) is the fāʿil, and the **ـِي** is the mafʿūl.
+
+
 ## Session References
 
+- Surah Yusuf Session 13: Why the maṣdar muʾawwal, not a hidden pronoun, is the fāʿil of يَحْزُنُنِي.
 - Surah Yusuf Session 12: The two bābs of ح-ز-ن with Quranic examples; the book *Lā Taḥzan*.

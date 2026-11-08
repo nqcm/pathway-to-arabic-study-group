@@ -101,8 +101,15 @@ The two scholarly views above were restated in the same discussion, with the tea
 
 ---
 
+## From Surah Yusuf Session 13 — Converting to a Maṣdar
+
+When a verb with a pronoun object is converted to a maṣdar whose muḍāf ilayh is the former fāʿil, the object pronoun cannot come on its own, so **إِيَّا** comes in: **أَنْ أَرَاكَ** → **رُؤْيَتِي إِيَّاكَ**; **أَن يَأْكُلَهُ الذِّئْبُ** → **أَكْلَ الذِّئْبِ إِيَّاهُ**. With an ordinary noun, it follows normally.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: إِيَّا for the object pronoun when converting أَنْ + muḍāriʿ to a maṣdar (رُؤْيَتِي إِيَّاكَ، أَكْلَ الذِّئْبِ إِيَّاهُ).
 - Surah Yusuf Session 12: **زِيَارَتِي إِيَّاهُ** as an alternative to lām al-taqwiyah after a maṣdar.
 - Surah Yusuf Session 8: The pronoun-stacking rule — same-person vs. different-person attached pronouns — as the structural reason إيّا exists; **أَعْطَيْتُكَهُ**; restatement of the two views on what إيّا is.
 - Selections from the Glorious Quran Session 3: Full introduction of إيّا; two scholarly opinions; application to إيّاكَ نَعبُدُ; fronting the mafʿūl bih for exclusive emphasis vs the rule that fāʿil cannot precede the verb.

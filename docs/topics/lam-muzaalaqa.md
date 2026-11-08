@@ -120,8 +120,15 @@ In **وَإِنَّا لَهُ لَحَافِظُونَ** two different lāms si
 
 This double emphasis is usually reserved for when **somebody is denying the fact**, which makes the brothers' vehemence telling: either hiding their own guilt, or sensing that Yaʿqūb عليه السلام did not trust them.
 
+## From Surah Yusuf Session 13 — لَيَحْزُنُنِي
+
+In **إِنِّي لَيَحْزُنُنِي** (Yūsuf 13) the lām comes with **إِنَّ** and attaches itself to what comes later, here the khabar. If the khabar comes first, it attaches to the ism. **يَحْزُنُ** stays in its normal default state: the lām has no effect on iʿrāb. See [A Map of the Lāms](lam-types.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: لَيَحْزُنُنِي; on the chart as a non-working lām.
 - Surah Yusuf Session 12: **لَحَافِظُونَ** distinguished from lām al-taqwiyah in **لَهُ**; heavy emphasis as a response to denial.
 - Surah Yusuf Session 10: The book's rule and vocabulary (اِنْتَقَلَ، زُحْلِقَتْ، حِينَئِذٍ); lām al-ibtidāʾ in the ḥadīth لَغَدْوَةٌ; delayed-ism and ḍamīr al-faṣl examples (لَعِبْرَةً، لَهِيَ الْحَيَوَانُ); Ibn Mālik's وَبَعْدَ ذَاتِ الكَسْرِ — only after إِنَّ, never أَنَّ; four levels of emphasis and balāghah.
 - Surah Yusuf Session 9: **لَفِي** as muzaḥlaqah and **لَيُوسُفُ** as لَام الاِبتِدَاء in Āyah 8; why misreading the latter as a preposition changes who is being addressed.
