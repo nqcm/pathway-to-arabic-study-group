@@ -6,7 +6,7 @@ tags:
   - surah-alnoor
   - tafseer
   - weak-verbs
-  - lam-muzaalaqa
+  - lam-muzahlaqa
   - ism-masdar
   - morphology
 ---
@@ -27,7 +27,7 @@ The main topics covered in this session are:
 - Grammar: **Maqṣūr nouns** — latent (muqaddar) iʿrāb on alif-ending words
 - Grammar: **ʿIbra / Iʿtibār** and the **ism al-maṣdar** concept
 - Grammar: **Ūlū / Dhū** — "possessor of," declining like jamʿ muzakkar sālim
-- Grammar: **Lām al-Muzaʿlaqa** (skidding lam) — three levels of emphasis with Inna
+- Grammar: **Lām al-Muzaḥlaqah** (skidding lam) — three levels of emphasis with Inna
 
 ---
 
@@ -187,7 +187,7 @@ For Form VIII verbs, the ism al-maṣdar follows the pattern **فِعلَة** (*
 
 ---
 
-## 8. Lām al-Muzaʿlaqa — The Skidding Lam
+## 8. Lām al-Muzaḥlaqah — The Skidding Lam
 
 ### Three Levels of Emphasis
 
@@ -195,19 +195,19 @@ For Form VIII verbs, the ism al-maṣdar follows the pattern **فِعلَة** (*
 |---|---|---|
 | 0 | **بِلَالٌ مَرِيضٌ** | Plain statement — no emphasis |
 | 1 | **إِنَّ بِلَالًا مَرِيضٌ** | Inna adds moderate emphasis |
-| 2 | **إِنَّ بِلَالًا لَمَرِيضٌ** | Inna + lam al-muzaʿlaqa = strongest emphasis |
+| 2 | **إِنَّ بِلَالًا لَمَرِيضٌ** | Inna + lam al-muzaḥlaqah = strongest emphasis |
 
 ### The "Skidding" Lam
 
-**لام المزعلقة** (lam al-muzaʿlaqa / "skidding lam") is named because it begins as **lam al-ibtidā'** (the lam that would stand at the beginning of the sentence for emphasis), but when **inna** occupies the beginning, the lam is "pushed" (skids) down to the **khabar**:
+**لام المزحلقة** (lam al-muzaḥlaqah / "skidding lam") is named because it begins as **lam al-ibtidā'** (the lam that would stand at the beginning of the sentence for emphasis), but when **inna** occupies the beginning, the lam is "pushed" (skids) down to the **khabar**:
 
-!!! important "Where Does Lam Al-Muzaʿlaqa Attach?"
+!!! important "Where Does Lam Al-Muzaḥlaqah Attach?"
     It always attaches to the **element coming later** in the sentence. This is typically the khabar, but not always:
     - If the khabar comes first (muqaddam), the lam attaches to the **ism of inna**
     - If a ḍamīr al-faṣl is present, the lam attaches to the **ḍamīr al-faṣl**
     - If neither is present, it goes to the khabar
     
-    **Rule of thumb**: lam al-muzaʿlaqa attaches to whatever comes *after* the ism of inna.
+    **Rule of thumb**: lam al-muzaḥlaqah attaches to whatever comes *after* the ism of inna.
 
 ---
 
@@ -254,7 +254,7 @@ They take tanwīn and take kasra in the majrūr — unlike four-letter+ feminine
     5. **Kāda**: ism is marfūʿ; khabar is always a muḍāriʿ verbal sentence.
     6. Maqṣūr nouns have fully muqaddar (latent) iʿrāb on the alif — state: "muqaddar, prevented by the alif."
     7. **Ism al-maṣdar** = shorter form; can mean both the action AND its result/product.
-    8. **Lam al-muzaʿlaqa** always attaches to what comes later after the ism of inna.
+    8. **Lam al-muzaḥlaqah** always attaches to what comes later after the ism of inna.
     9. Three-letter feminine names (e.g. هِنْد) are triptotes; longer feminine names are diptotes.
 
 ---

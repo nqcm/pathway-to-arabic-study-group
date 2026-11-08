@@ -96,7 +96,16 @@ These are stated as: *"jūmlah lā maḥalla lahā min al-iʿrāb"*
 !!! info "Can a Sentence Be عَطْف البَيَان?"
     Some grammarians say yes (e.g. **قَالَ يَا آدَمُ** explaining **فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ**), which makes the sentence **nested**; most say no, treating it as high-level. See [عَطْف البَيَان](atf-bayan.md).
 
+---
+
+## From Surah Yusuf Session 12 — Ask for the Iʿrāb of Every Jumlah
+
+The book's phrase **عَامِل ضَعُفَ عَنِ العَمَلِ** gave practice: **ضَعُفَ عَنِ العَمَلِ** follows the indefinite **عَامِل**, so it is a **naʿt**. A sentence starting the speech is a **جُملَة اِستِئنَافِيَّة**, **لَا مَحَلَّ لَهَا مِنَ الإِعرَاب**.
+
+*"Start asking: what is this jumlah doing here?"* The teacher now wants students to look for the hidden iʿrāb of every jumlah and shibh jumlah.
+
 ## Session References
 
+- Surah Yusuf Session 12: **ضَعُفَ عَنِ العَمَلِ** as naʿt; jumlah istiʾnāfiyyah; asking for the iʿrāb of every nested jumlah.
 - Surah Yusuf Session 11: High-level vs. nested sentences and finding the maḥall; مُلْكٍ لَا يَبْلَىٰ as naʿt; whether a sentence can be ʿaṭf al-bayān.
 - Selections from the Glorious Quran Session 4: Full explanation with examples; naʿt/ḥāl rule derived from the principle that sentences are always nakira; the ism mawṣūl bridge; application to Āyah 7 of al-Fātiḥah.

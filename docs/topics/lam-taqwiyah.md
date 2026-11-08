@@ -57,11 +57,37 @@ The lam in this function:
 |---|---|---|
 | **لَام التَّقوِيَة** | Strengthens a derivative's connection to its mafʿūl | **قَول رَسُولٍ** → **لِقَولِ رَسُولٍ** |
 | **لَام الاِبتِدَاء** | Emphasis at the start of a predicate | **إِنِّي لَأُحِبُّ الخَيرَ** |
-| **لَام المُزَعلَقَة** | Emphasis (skidding lam after إنَّ) | **إِنِّي لَمَرِيضٌ** |
+| **لَام المُزَحلَقَة** | Emphasis (skidding lam after إنَّ) | **إِنِّي لَمَرِيضٌ** |
 | **لَام التَّعلِيل** | Purpose: "in order to" | **لِيَعبُدُوا اللهَ** |
+
+---
+
+## From Surah Yusuf Session 12 — The Two Reasons and the Two Tests
+
+**تَقْوِيَة** is the maṣdar of Form II **قَوَّى** (from **قَوِيَ**, *to be strong*): the lām strengthens a **weak عَامِل**, the word exerting the effect on its **مَعمُول**. An ʿāmil is weak for one of **two reasons**:
+
+| Reason | Meaning | Example |
+|---|---|---|
+| **تَأَخُّر العَامِل عَن مَعمُولِهِ** | The ʿāmil comes **after** its maʿmūl | **لِلرُّؤْيَا تَعْبُرُونَ** (Yūsuf 43); **لِرَبِّهِمْ يَرْهَبُونَ** (al-Aʿrāf 154) |
+| **كَون العَامِل فَرْعًا فِي العَمَل** | The ʿāmil is a **derived word**, not a verb | **وَإِنَّا لَهُ لَحَافِظُونَ** (al-Ḥijr 9) |
+
+!!! example "Two Reasons Gathered — لَهُ لَحَافِظُونَ"
+    **حَافِظُون** is an ism fāʿil, not a verb, **and** the **هُ** comes before it. In the same phrase, **لَهُ** is lām al-taqwiyah while the lām of **لَحَافِظُونَ** is the [muzaḥlaqah](lam-muzaalaqa.md).
+
+!!! important "Always Optional, as Taught Here"
+    The teacher stressed that this lām is **totally optional**, so the sentence stands without it. **Verbs and derivatives alike can take the mafʿūl directly**: **عَبْدَهُ** after the maṣdar **رَحْمَة** (Maryam 2), and **رُسُلَهُ** after the ism fāʿil **مُخْلِف** (Ibrāhīm 47). This is firmer than the "often required" guidance in the table above.
+
+!!! important "Telling It Apart from an Ordinary Lām"
+    Ask whether **either condition** is met. In **سَمَحَ لَهُ** the verb is in normal order and is not a derivative, and **سَمَحَ** cannot take a direct object, so that lām is an ordinary preposition. If the lām cannot be omitted, it is not lām al-taqwiyah.
+
+!!! example "Analysing the Noun After It"
+    **بَدَأَتْ دِرَاسَتِي لِلْعُلُومِ الإِسْلَامِيَّةِ** — **العُلُوم** is the mafʿūl bih of the maṣdar: **مَجرُور لَفْظًا، مَنصُوب مَحَلًّا**. Without the lām: **دِرَاسَتِي العُلُومَ**. With a pronoun: **زِيَارَتِي لَهُ** or **زِيَارَتِي إِيَّاهُ**.
+
+The difference in nuance between the sentence with the lām and without it belongs to **البَلَاغَة**. In grammar, both are correct. *Zāʾid* is said grammatically, never semantically.
 
 ---
 
 ## Session References
 
-- Selections from the Glorious Quran Session 15: Full introduction with examples from Sūrat Āl ʿImrān vocabulary; comparison with lam muzālaqa; the two scenarios (derivative word taking mafʿūl; fronted mafʿūl bih).
+- Surah Yusuf Session 12: Full treatment — the ʿāmil and maʿmūl; the two reasons for weakness; always optional; the two-condition test against ordinary prepositional lāms; examples from Yūsuf 43, al-Aʿrāf 154, al-Ḥijr 9; iʿrāb as majrūr lafẓan, manṣūb maḥallan.
+- Selections from the Glorious Quran Session 15: Full introduction with examples from Sūrat Āl ʿImrān vocabulary; comparison with lam muzaḥlaqah; the two scenarios (derivative word taking mafʿūl; fronted mafʿūl bih).

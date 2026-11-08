@@ -98,7 +98,14 @@ Compare Form X, which adds the meaning of **seeking**: **اِسْتَغْفَر�
 
 ---
 
+## From Surah Yusuf Session 12 — One Root, Two Bābs
+
+**حَزِنَ / يَحْزَنُ** (bāb **سَمِعَ**) is intransitive: *to be sad*. **حَزَنَ / يَحْزُنُ** (bāb **نَصَرَ**) is transitive: *to make sad*. Naming the bāb is more reliable than *"relying on the printing or misprinting of the tashkīl marks."* See [حَزِنَ / حَزَنَ](verb-hazana.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **حَزِنَ / يَحْزَنُ** vs **حَزَنَ / يَحْزُنُ** — the bāb changing the meaning and transitivity.
 - Surah Yusuf Session 8: **عَلِمَ / عَلَّمَ / تَعَلَّمَ** and **تَمَّ / أَتَمَّ** worked out from Form I; the Arabic definition of teaching as **جَعَلَهُ يَتَعَلَّمُهُ**; Form X as *seeking*.
 - Surah Al-Hujuraat Session 5: Introduction to all six families; special semantic property of فَعُلَ/يَفعُلُ; ism fāʿil as فَعِيل; application to عَظِيم in Āyah 3.

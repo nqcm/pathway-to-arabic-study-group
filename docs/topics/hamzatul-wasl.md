@@ -115,7 +115,14 @@ The imperative of **سَأَلَ** is **اِسْأَلُوا**, opening with a *
 
 ---
 
+## From Surah Yusuf Session 12 — Why Form IV Has No Waṣl Hamzah
+
+The Form IV hamzah is dropped in the muḍāriʿ (**يُؤَرْسِلُ → يُرْسِلُ**) but stays in the **māḍī, amr, and maṣdar**. The amr is formed from the **original** muḍāriʿ **تُؤَرْسِلُ**: drop the prefix and give the last letter a sukūn, and you get **أَرْسِلْ**. Since it begins with a vowelled hamzah and not a sukūn, no hamzat al-waṣl is needed.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **أَرْسِلْ** built from the original **تُؤَرْسِلُ**; why the Form IV imperative needs no waṣl hamzah.
 - Surah Yusuf Session 9: **وَاسْأَلُوا** and **فَاسْأَلُوا** as instances of the waṣl hamzah dropping after a preceding particle; distinguished from the **سَلْ** form.
 - Selections from the Glorious Quran Session 1: Full explanation with Bismillāh as the anchor example; the ten samāʿī nouns; qiyāsī occurrence in verb forms; the special writing rule for Bismillāh.

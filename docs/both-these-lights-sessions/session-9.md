@@ -6,7 +6,7 @@ tags:
   - both-these-lights
   - mutaaliq
   - min-ziyada
-  - lam-muzaalaqah
+  - lam-muzahlaqa
   - jawab-qasam
   - vocabulary
 ---
@@ -21,7 +21,7 @@ The main topics covered in this session are:
 
 - Grammar: **مُتَعَلِّق** — Rule 3: attachment to a *hidden* khabar (كَوْن عَامّ)
 - Grammar: **مِن الزِّيَادَة** (extra **مِن**) — two conditions; grammatical vs. semantic perspective
-- Grammar: **لَام المُزَعلَقَة** — the skidding lām; five positions it can occupy
+- Grammar: **لَام المُزَحلَقَة** — the skidding lām; five positions it can occupy
 - Grammar: **جَوَاب القَسَم** — rules for emphasis with affirmative vs. negative jawāb
 - Vocabulary: **ابتَلَّ** (to become wet), **مِشكَاة** (niche/lamp recess), **زَرَمَ** (to claim with doubt)
 
@@ -83,9 +83,9 @@ The noun after the extra **مِن** is grammatically majrūr (because **مِن**
 
 ---
 
-## 3. لَام المُزَعلَقَة — The Skidding Lām
+## 3. لَام المُزَحلَقَة — The Skidding Lām
 
-**لَام المُزَعلَقَة** (the skidding/slipping lām) is the lām that "slides" to a later position in the sentence when it cannot land on the first available word.
+**لَام المُزَحلَقَة** (the skidding/slipping lām) is the lām that "slides" to a later position in the sentence when it cannot land on the first available word.
 
 ### 3.1 Why It Slips
 
@@ -102,7 +102,7 @@ The lām slides to *whatever comes first* after the ism — it does not wait. Wh
 
 ### 3.2 The Lām with إِنَّ (with kasra) — Not with أَنَّ (with fatḥa)
 
-**لَام المُزَعلَقَة** only enters upon sentences with **إِنَّ** (the kasra form). It does not come with **أَنَّ** (fatḥa form). It also enters upon the ism or khabar depending on position.
+**لَام المُزَحلَقَة** only enters upon sentences with **إِنَّ** (the kasra form). It does not come with **أَنَّ** (fatḥa form). It also enters upon the ism or khabar depending on position.
 
 ---
 
@@ -149,7 +149,7 @@ When taking an oath (**قَسَم**), the jawāb (response clause) has emphatic 
 !!! tip "Summary of Lessons"
     1. Every شِبهُ الجُملَة is attached to something — when there is no visible verb or wasf, assume a hidden **كَوْن عَامّ** (general verb of existence/presence).
     2. Extra **مِن** (زائدة) requires: (a) negation/prohibition/هَل before it and (b) an indefinite noun after it. It is grammatically extra but semantically emphatic.
-    3. **لَام المُزَعلَقَة** slides to the first available word after the ism of **إِنَّ**; it cannot sit at the very start because **إِنَّ** occupies that emphasis slot.
+    3. **لَام المُزَحلَقَة** slides to the first available word after the ism of **إِنَّ**; it cannot sit at the very start because **إِنَّ** occupies that emphasis slot.
     4. Negative jawāb al-qasam takes no emphasis. Affirmative takes لَام (for mādī + قَد; for muḍāriʿ present + optional نُون التوكيد).
 
 ---

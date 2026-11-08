@@ -133,6 +133,13 @@ The forms with **nūn al-niswah** (يَذهَبنَ، تَذهَبنَ) are **ma
 
 ---
 
+## From Surah Yusuf Session 12 — Jazm in Reply to a Command
+
+When a **طَلَب** comes first, the muḍāriʿ after it is **majzūm**. In **أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ** (Yūsuf 12), **يَرْتَعْ** is majzūm in reply to **أَرْسِلْهُ**, and **يَلْعَبْ** follows it. Compare [فَاء السَّبَبِيَّة](faa-sababiyya.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **يَرْتَعْ وَيَلْعَبْ** — the muḍāriʿ majzūm in reply to a command.
 - Surah Al-Hujuraat Session 6: Full recap of three moods; mabni māḍī and amr; naṣb and jazm particles; الأفعال الخمسة and nūn al-rafʿ; nūn al-niswah; ḥattā Kūfī vs Baṣrī.

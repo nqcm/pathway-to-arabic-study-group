@@ -88,6 +88,15 @@ Context is the primary guide. Key questions:
 
 ---
 
+## From Surah Yusuf Session 12 — One Label, Many Functions
+
+**Ḥarf jarr** is a label of grammar, not of meaning. The lām has many functions (the teacher recalled *"either 30 or 13"*), including **تَقْوِيَة**, where it cannot be translated as *for*. Whatever the meaning, it is still a ḥarf jarr because it still makes its noun majrūr. See [لَام التَّقوِيَة](lam-taqwiyah.md).
+
+The lām after a verb such as **سَمَحَ لَهُ** is an ordinary preposition. The class plans to take up the different meanings a few at a time.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: The ḥarf jarr label is independent of meaning; ordinary lām vs lām al-taqwiyah; a series on the meanings of the lām announced.
 - At the Well of Madyan Session 3: Full presentation of the six meanings with Quranic examples; applied to the dua in Āyah 24.

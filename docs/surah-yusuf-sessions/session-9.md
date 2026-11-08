@@ -573,7 +573,7 @@ After **إِلَىٰ** it is **مَجرُور**, hence **أَبِينَا**. And
 ### 13.1 لَفِي — the Slippery Lām
 
 !!! note "إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ"
-    The **لَام** in **لَفِي** is the **لَام المُزَحلَقَة** — the *"slippery lām."* It belongs at the head of the sentence with **إِنَّ**, but is **pushed forward** onto the khabar. See [لَامُ المُزَعلَقَة — The Skidding Lam of Emphasis](../topics/lam-muzaalaqa.md).
+    The **لَام** in **لَفِي** is the **لَام المُزَحلَقَة** — the *"slippery lām."* It belongs at the head of the sentence with **إِنَّ**, but is **pushed forward** onto the khabar. See [لَامُ المُزَحلَقَة — The Skidding Lam of Emphasis](../topics/lam-muzaalaqa.md).
 
 ### 13.2 The Verb ضَلَّ
 

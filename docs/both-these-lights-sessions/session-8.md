@@ -154,4 +154,4 @@ Key grammatical notes:
 
 ---
 
-*Next session: مُتَعَلِّق with the hidden khabar; مِن الزيادة (extra min) — two conditions; لَام المُزَعلَقة and the rules of jawāb al-qasam.*
+*Next session: مُتَعَلِّق with the hidden khabar; مِن الزيادة (extra min) — two conditions; لَام المُزَحلَقة and the rules of jawāb al-qasam.*

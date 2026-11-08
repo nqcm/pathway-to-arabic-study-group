@@ -50,7 +50,7 @@ Yes — in principle, it is considered compulsory whenever **إِنْ المُخ
 
 | Lam type | Where it appears | Function |
 |---|---|---|
-| **لَام الاِبتِدَاء** | Starts a nominal sentence or a predicate | Emphasis; sometimes called لَام المُزَعلَقَة in its skidding position |
+| **لَام الاِبتِدَاء** | Starts a nominal sentence or a predicate | Emphasis; sometimes called لَام المُزَحلَقَة in its skidding position |
 | **لَام الفَارِقَة** | After إِنْ المُخَفَّفَة | Distinguishes from إِن النَّافِيَة |
 | **لَام التَّوكِيد** | General emphatic contexts | Strengthening |
 | **لَام القَسَم** | After oaths | Response to the oath |
@@ -62,7 +62,7 @@ The lām al-fāriqah and lām al-ibtidāʾ are functionally the same lam appeari
 ## Related Pages
 
 - [إِنْ المُخَفَّفَة — The Lightened Form of Inna](in-mukhaffafah.md) — the particle this lam accompanies
-- [لَامُ المُزَعلَقَة — The Skidding Lam of Emphasis](lam-muzaalaqa.md) — the skidding lam (a related species of lam al-ibtidāʾ)
+- [لَامُ المُزَحلَقَة — The Skidding Lam of Emphasis](lam-muzaalaqa.md) — the skidding lam (a related species of lam al-ibtidāʾ)
 - [لَام التَّقوِيَة — The Lam of Strengthening](lam-taqwiyah.md) — the strengthening lam
 
 ## Session References

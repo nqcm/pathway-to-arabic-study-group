@@ -41,4 +41,5 @@ tags:
 
 ## Session References
 
+- Surah Yusuf Session 12: Homework in Āyah 12 on a pair of words the book glosses with each other (most likely these two; the captions lost the words).
 - Surah Yusuf Session 10: **لَهْو vs لَعِب** in al-ʿAnkabūt 64; **الحَيَوَان** and the architect's-model analogy.

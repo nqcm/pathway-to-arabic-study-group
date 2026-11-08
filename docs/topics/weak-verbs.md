@@ -134,8 +134,15 @@ The **mītā / mayyit** ism fāʿil follows the same weak-letter pattern — see
 
 ---
 
+## Ajwaf Verbs in the Passive — يُصَاغُ
+
+The passive muḍāriʿ gives a ḍammah to the prefix and a fatḥah to the second radical (**يَكْتُبُ → يُكْتَبُ**). If the second radical is a weak letter, it becomes an alif: **يَصُوغُ → يُصَاغُ** (the likely verb in the book's sentence; the captions lost it). The same root gives **صِيغَة**, a form or pattern, as in [صِيغَة المُبَالَغَة](sighat-al-mubalaghah.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: Ajwaf in the passive muḍāriʿ — **يُصَاغُ** and **صِيغَة**.
 - Surah Al-Hujuraat Session 2: Introduction to three types of weak verbs; nāqiṣ verb explained via the example **يَدْعُو** (d-ʿ-w); connection to alif al-fāriqah.
 - Surah Al-Hujuraat Session 4: Miṯāl wāwī — wāw-to-tāʾ transformation in base-form derivatives (تَقوَى، تُرَاث، تُخمَة); derivation of تَقِيّ from وَقَى.
 - Surah Al-Hujuraat Session 12: Ajwaf ism fāʿil — wāw/yāʾ converts to hamza; plural reversion pattern; demonstrated with قَائِم → قَوم.
