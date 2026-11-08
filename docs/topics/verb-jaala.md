@@ -89,7 +89,21 @@ tags:
 
 ---
 
+## From Surah Yusuf Session 14 — More Examples
+
+| Meaning | Example | Notes |
+|---|---|---|
+| **To make into** (Meaning 1) | **وَجَعَلَ أَهْلَهَا شِيَعًا** (al-Qaṣaṣ 4) | **أَهْلَهَا** is number one, **شِيَعًا** number two |
+| **To assume** (Meaning 2) | **أَجَعَلْتَنِي مِثْلَكَ؟**; **وَجَعَلُوا الْمَلَائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَٰنِ إِنَاثًا** (al-Zukhruf 19) | **الَّذِينَ** is a naʿt of **الْمَلَائِكَةَ** |
+| **To create** (Meaning 4) | **وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ** (al-Anʿām 1) | One mafʿūl: **النُّورَ** is maʿṭūf, not number two |
+| **To begin** (Meaning 3) | **جَعَلَ الأُسْتَاذُ يَشْرَحُ الدَّرْسَ** | The khabar must be a muḍāriʿ sentence |
+
+**الظُّلُمَاتِ** is manṣūb with a kasrah, as a sound feminine plural. Note the plural: the ways away from Allah are many, but the light is one.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: All four meanings illustrated from the book and the Quran.
 - Surah Yusuf Session 13: *to make into* in the book's wording; *to put* in Yūsuf 15.
 - Surah Al-Hujuraat Session 15: Full four-meaning treatment of جَعَلَ; applied to Āyah 13 (وَجَعَلنَاكُم شُعُوبًا = Meaning 1).

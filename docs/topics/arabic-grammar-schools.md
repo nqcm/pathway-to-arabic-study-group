@@ -52,6 +52,15 @@ Around the 600s AH, **Ibn Mālik** compiled the famous grammar poem **al-Alfiyya
 
 ---
 
+## A Worked Disagreement — The Jawāb of لَمَّا
+
+*From Surah Yusuf Session 14.* **A madhhab in grammar** means a school of thought, as in fiqh, and not a religion.
+
+In **فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا … وَأَوْحَيْنَا إِلَيْهِ** (Yūsuf 15), the **Baṣrīs** say the jawāb is omitted, while the **Kūfīs** find it in the text, with an extra [**وَاو الاِقتِحَام**](waw-iqham.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: The two schools on the jawāb of لَمَّا in Āyah 15.
 - Selected Ayaat of Surah al-Israa Session 3: Schools introduced in context of explaining حُرُوف الخَفض vs. حُرُوف الجَرّ while analyzing خَفَضَ in Ayah 24.

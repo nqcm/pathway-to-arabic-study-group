@@ -108,8 +108,20 @@ The chart of the lāms puts the jārrah lām at **over 30 meanings**; the common
 
 **شِبه المِلك** is also called **لَام الاِستِحقَاق** (ح-ق-ق: having a right, as a wife has a right over her husband's money) and **لَام الاِختِصَاص** (خ-ص-ص: specification). A place at an airport reserved for disabled people does not belong to them; it is set aside for their use.
 
+---
+
+## From Surah Yusuf Session 14 — Reason, Boundary, and Oath
+
+- **لَام التَّعلِيل** is the same lām with nouns and with verbs. With a verb, a hidden **أَنْ** does the naṣb.
+- **The boundary** can be of time or of place. In **كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى** (al-Raʿd 2), it marks the **limit of the time** after which the running stops. The same idea can be expressed with *until* (most likely **إِلَى**, as in Luqmān 29).
+- **The lām of oath**: **لِلَّهِ** can mean *by Allah*, not *for Allah*. It is **not common**, and the teacher said it is not found in the Quran in this way. See [Ḥurūf al-Qasam](huruf-al-qasam.md).
+
+!!! important "Grammatically One, Meaning-Wise Many"
+    All have the same grammatical rule and make the noun majrūr. Past the beginner's level, you start unpacking the different meanings within the one ḥarf.
+
 ## Session References
 
+- Surah Yusuf Session 14: لَام التَّعلِيل with nouns; the boundary lām; the lām of oath.
 - Surah Yusuf Session 13: Over 30 meanings; لَام المِلك vs شِبه المِلك, with the names اِستِحقَاق and اِختِصَاص.
 - Surah Yusuf Session 12: The ḥarf jarr label is independent of meaning; ordinary lām vs lām al-taqwiyah; a series on the meanings of the lām announced.
 - At the Well of Madyan Session 3: Full presentation of the six meanings with Quranic examples; applied to the dua in Āyah 24.

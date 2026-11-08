@@ -75,7 +75,21 @@ This confirms that **كَافِر** retains its meaning of *ungrateful person* a
 
 ---
 
+## From Surah Yusuf Session 14
+
+The farmers of **al-Ḥadīd 20**:
+
+> **كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ**
+
+**كَفُور** (**فَعُول**) is an intensive form, as in **كُلُّ خَتَّارٍ كَفُورٍ** (Luqmān 32).
+
+!!! note "Villages Called Kafr"
+    A student who had been to Jordan noted villages named **كَفْر** + a name, which had puzzled them. The original sense of burying seed in the land explains it: probably *farmland*.
+
+---
+
 ## Related Pages
 
 - [Vocabulary Learning Strategy](arabic-grammar-methodology.md)
 - [Surah Al-Hujuraat Session 2](../surah-alhujuraat-sessions/session-2.md)
+- [Surah Yusuf Session 14](../surah-yusuf-sessions/session-14.md)

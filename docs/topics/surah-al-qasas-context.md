@@ -93,6 +93,15 @@ As a late Makkan Surah, it has distinctive stylistic features:
 
 ---
 
+## The Angle of the Story
+
+*From Surah Yusuf Session 14.* Whenever a story is repeated in the Quran, it has a different flavour. The opening here, **نَتْلُو عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ** (āyah 3), announces the story of **Mūsā and Firʿawn**: told not as Mūsā's personal growth, but from the perspective of the **resistance to tyranny** and of the whole community.
+
+Firʿawn's method is **divide and rule**: **وَجَعَلَ أَهْلَهَا شِيَعًا** (āyah 4). And the revolution begins with a mother: **وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ** (āyah 7), *"a lot of revolutions do start in the mothers' cradles."*
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: The sūrah's angle on the story; divide and rule; the story starts with a mother.
 - At the Well of Madyan Session 1: Full introduction — name, context, five promises, two arrogant powers, four women; type of story (qaṣaṣ vs. anbāʾ al-rusul); names of surahs (tawqīfī vs. ijtihādī).

@@ -29,7 +29,7 @@ The single letter **لَام** appears across the whole chart of [particles](hur
 
 | Lām | Effect | Notes |
 |---|---|---|
-| [**لَام الجَار**](lam-al-jar-meanings.md) | The noun is majrūr | Over **30 meanings**, including [تَقْوِيَة](lam-taqwiyah.md), مِلك, and شِبه المِلك |
+| [**لَام الجَار**](lam-al-jar-meanings.md) | The noun is majrūr | Over **30 meanings**, including [تَقْوِيَة](lam-taqwiyah.md), مِلك, شِبه المِلك, تَعلِيل, the boundary, and the oath |
 | [**لَام الأَمْر**](lam-al-amr.md) | The muḍāriʿ is majzūm | **لِيَكْتُبْ** — *he should write* |
 | [**لَام الجُحُود**](lam-juhud.md), **لَام التَّعلِيل** | Listed by some as giving naṣb | Disputed: a hidden **أَنْ** does the naṣb |
 
@@ -38,4 +38,5 @@ The single letter **لَام** appears across the whole chart of [particles](hur
 
 ## Session References
 
+- Surah Yusuf Session 14: More meanings of the jārr lām; classically only جَازِمَة and جَارَّة are working lāms.
 - Surah Yusuf Session 13: The teacher's chart of the lāms, working and non-working; why the naṣb category is disputed.

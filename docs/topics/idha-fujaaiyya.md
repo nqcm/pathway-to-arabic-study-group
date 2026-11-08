@@ -43,6 +43,19 @@ The surprise: from a handful of dry dust, billions of diverse, scattered human b
 
 ---
 
+## In the Jawāb of لَمَّا
+
+*From Surah Yusuf Session 14.* A jumlah ismiyyah can be the jawāb of [**لَمَّا**](lamma.md) if it is attached to this **إِذَا**:
+
+> **فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ** (al-ʿAnkabūt 65)
+>
+> *"But when He delivers them to land, at once they associate others with Him."*
+
+An everyday example of the meaning: *I opened the door and lo and behold, there was a man there.*
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: As the attachment of a nominal jawāb of لَمَّا; al-ʿAnkabūt 65.
 - Selections from the Glorious Quran Session 20: إِذَا الفُجَائِيَّة introduced in the context of Sūrat al-Rūm 30:20; distinguished from temporal إِذَا; shows astonishment at dust→human transformation.
