@@ -95,7 +95,14 @@ The two scholarly views above were restated in the same discussion, with the tea
 
 ---
 
+## From Surah Yusuf Session 12 — After a Maṣdar
+
+**زِيَارَتِي إِيَّاهُ** — *my visiting him*. **هُ** is the mafʿūl bih of the maṣdar, but **زِيَارَتِي** already has an attached pronoun, so the second comes through **إِيَّا**. Alternatively, use [lām al-taqwiyah](lam-taqwiyah.md): **زِيَارَتِي لَهُ**.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **زِيَارَتِي إِيَّاهُ** as an alternative to lām al-taqwiyah after a maṣdar.
 - Surah Yusuf Session 8: The pronoun-stacking rule — same-person vs. different-person attached pronouns — as the structural reason إيّا exists; **أَعْطَيْتُكَهُ**; restatement of the two views on what إيّا is.
 - Selections from the Glorious Quran Session 3: Full introduction of إيّا; two scholarly opinions; application to إيّاكَ نَعبُدُ; fronting the mafʿūl bih for exclusive emphasis vs the rule that fāʿil cannot precede the verb.

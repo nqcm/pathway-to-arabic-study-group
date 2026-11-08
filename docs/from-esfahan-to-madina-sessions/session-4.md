@@ -176,7 +176,7 @@ If the jawāb is **affirmative**, it must be emphasised. Three tools are availab
 | **إِنَّ** alone | Without lam | وَاللهِ إِنِّي صَادِقٌ |
 | **لَام** alone (at start) | لَلَّذِي... | وَاللهِ لَأَقُولَنَّ... (see below) |
 
-**Note on the solitary lam:** When the **لام** comes without **إِنَّ**, it returns to its original position (beginning of the jawāb). It is then called **لَامُ الابتداء**. When **إِنَّ** is present, it "pushes" the lam to the end of the subject (lam al-muzaalaqa).
+**Note on the solitary lam:** When the **لام** comes without **إِنَّ**, it returns to its original position (beginning of the jawāb). It is then called **لَامُ الابتداء**. When **إِنَّ** is present, it "pushes" the lam to the end of the subject (lam al-muzaḥlaqah).
 
 ### 6.3 Verbal Jawāb Starting with a Māḍī
 

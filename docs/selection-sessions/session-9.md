@@ -74,10 +74,10 @@ Arabic has a layered system for adding emphasis to a statement:
 | **None** | Plain sentence: **أَنَا مَرِيضٌ** | No emphasis needed |
 | **First degree** | إنَّ: **إِنِّي مَرِيضٌ** | Listener doubts or the speaker wants mild emphasis |
 | **Also first** | Lam ibtidāʾiyyah: **لَأَنَا مَرِيضٌ** | Same level, different tool |
-| **Second degree (highest)** | إنَّ + Lam (muzālaqa): **إِنِّي لَمَرِيضٌ** | Listener denies/disbelieves; maximum emphasis needed |
+| **Second degree (highest)** | إنَّ + Lam (muzaḥlaqah): **إِنِّي لَمَرِيضٌ** | Listener denies/disbelieves; maximum emphasis needed |
 
 !!! important "إنَّ + Lam — The Highest Emphasis"
-    When both **إنَّ** and **لَام** are used together, the lam is pushed later into the sentence (it cannot start the sentence when إنَّ is already there). This displaced lam is called **لام المُزعلَقَة** (the skidding lam).
+    When both **إنَّ** and **لَام** are used together, the lam is pushed later into the sentence (it cannot start the sentence when إنَّ is already there). This displaced lam is called **لام المُزحلَقَة** (the skidding lam).
 
     You cannot place the lam **before** إنَّ when they are both present:
     - ✅ **إِنِّي لَمَرِيضٌ** (lam in the predicate)
@@ -172,7 +172,7 @@ Multiple **khabar** follow in sequence — describing Allāh's attributes one af
 
 !!! tip "Summary of Lessons"
     1. Ismu ishārah contains an implied pointer (mushīr) and therefore carries the force of a verb — allowing ḥāl to follow.
-    2. Three levels of emphasis: plain → إنَّ → إنَّ + lam muzālaqa (highest).
+    2. Three levels of emphasis: plain → إنَّ → إنَّ + lam muzaḥlaqah (highest).
     3. **رَسُول** = the messenger (name); **مُرسَل** = ism mafʿūl (one who was sent); **رِسَالَة** = message/mission.
     4. **آيَة** = a sign (not a verse); its divisions are from waḥy.
     5. **سُورَة** = the wall around a city — a group of related āyāt protected together.

@@ -144,8 +144,15 @@ Of the five patterns, these three occur very commonly — in the Quran generally
 
 ---
 
+## From Surah Yusuf Session 12 — The King and the Gift
+
+**شَكُور** was revisited on **إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ** (Fāṭir 34). Think of a king or president given a gift not up to their standard, who is still kind enough to accept it and thank you. You would not call them *grateful*; you would call them **gracious**. So it is with **شَكُور** said of Allah.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **شَكُور** of Allah as gracious, illustrated by a king accepting an inadequate gift (Fāṭir 34).
 - Surah Yusuf Session 10: ـَان intensity (جَوْعَان، غَضْبَان، الرَّحْمَٰن) applied to الحَيَوَان in al-ʿAnkabūt 64; عَبَّاس as a mubālaghah name for the lion.
 - Surah Yusuf Session 8: Revision of the five patterns on **عَلِيمٌ حَكِيم**; why **فَعَّال** became the pattern of professions (**حَلَّاق**, **خَبَّاز**); **شَكُور** meaning graciousness when attributed to Allah; **وَهَّاب** vs. **وَدُود**.
 - Surah An-Noor Session 4: Full introduction — five qiyāsī patterns with examples; samāʿī patterns; Allah's names; application to **دَبَّاب** and **دَبَّابَة** (tank); qiyāsī vs. samāʿī distinction.

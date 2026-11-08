@@ -69,6 +69,19 @@ Just as verbs take mafʿūl bihs, **maṣdars can also take their own mafʿūl b
 
 ---
 
+## From Surah Yusuf Session 12 — The Maṣdar's Own Mafʿūl
+
+A maṣdar with its own mafʿūl bih has three options, all permissible:
+
+| Construction | Example |
+|---|---|
+| With [lām al-taqwiyah](lam-taqwiyah.md) | **دِرَاسَتِي لِلْعُلُومِ** — **العُلُوم** is majrūr in wording, manṣūb in position |
+| Direct | **زِيَارَتِي مُحَمَّدًا**; **ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا** (Maryam 2) |
+| With a pronoun, via **إِيَّا** | **زِيَارَتِي إِيَّاهُ** — the maṣdar already carries an attached pronoun |
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: The maṣdar's own mafʿūl — with lām, direct (**رَحْمَتِ رَبِّكَ عَبْدَهُ**), or through **إِيَّا**.
 - Surah Al-Hujuraat Session 3: Fāʿil vs mafʿūl bih as muḍāf ilayh of maṣdar — introduced through the example of **جَهْرُ بَعْضِكُم** in Āyah 2, with auxiliary examples (dhahābu Ḥāmidin, khalqu al-samāwāt, qatlu Bilālin).

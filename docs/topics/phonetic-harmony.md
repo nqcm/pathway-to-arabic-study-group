@@ -99,8 +99,15 @@ Keeping the original hamzah instead gives **يَسْأَلُ → اِسْأَل�
 
 ---
 
+## Wāw with Kasrah — مُخْوِف → مُخِيف
+
+Form IV of **خَافَ** gives the ism fāʿil **مُفْعِل**: **مُخْوِف**. But **wāw and kasrah are not compatible** in Arabic, so *"some shifting and sliding of things happens"* and it becomes **مُخِيف**. See [خَوْف](khawf.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **مُخْوِف → مُخِيف** — wāw and kasrah are incompatible.
 - Surah Yusuf Session 9: **تَسْهِيل الهَمزَة** in **سَأَلَ / سَالَ**; the two-sukūn resolution producing **سَلْ**; how a phonetic change propagates into derived forms.
 
 ---

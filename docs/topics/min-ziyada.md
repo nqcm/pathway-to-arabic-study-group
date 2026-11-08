@@ -59,6 +59,13 @@ The terminology "extra" (**زائدة**) is purely grammatical — it never mean
 
 ---
 
+## From Surah Yusuf Session 12 — The Definition of Zāʾid
+
+**هَلْ مِن مَّزِيدٍ** served as the model for what **زَائِد** means: you can remove the word and the sentence is still grammatically sound (**هَلْ مَزِيدٌ**), but that does not make the two sentences 100% the same in meaning. The same analysis, **majrūr in wording** and otherwise **in position**, applies to [lām al-taqwiyah](lam-taqwiyah.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 12: **هَلْ مِن مَّزِيدٍ** as the model for zāʾid — extra grammatically, never semantically.
 - Both These Lights Session 9: Full treatment — two conditions, three grammatical positions, Quranic examples.

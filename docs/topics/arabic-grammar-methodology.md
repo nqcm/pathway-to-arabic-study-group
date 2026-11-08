@@ -107,6 +107,19 @@ This is also why Quran memorization focuses increasingly on **revision** rather 
 
 ---
 
+## From Surah Yusuf Session 12 — Respectful Terminology and Comprehension
+
+!!! important "Adjusting Terms for Allah"
+    When Allah's name is involved, we adjust our terminology. In a duʿāʾ we do not say **فِعل أَمر**, because we cannot command Allah; we say **فِعل دُعَاء**. Similarly, **اللَّهَ** in **فَلَا تَحْسَبَنَّ اللَّهَ** is manṣūb, but it feels disrespectful to label it a plain mafʿūl bih.
+
+!!! info "Knowing Every Word Is Not Enough"
+    Even when you know the meaning of every word in a paragraph, the construction may still not make sense. The remedy is to read, reread, and ask around. This is true for teachers as well.
+
+!!! tip "Check Before Saying It About the Quran"
+    Faced with an uncertain lām in Hūd 103, the teacher held back: *"Let me check, because it's Quran, so I don't want to make any mistakes."*
+
+---
+
 ## Related pages
 
 - [Mudaf-Idafah](mudaf-idafah.md)

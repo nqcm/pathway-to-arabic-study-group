@@ -1,15 +1,15 @@
 ---
-title: لَامُ المُزَعلَقَة — The Skidding Lam of Emphasis
+title: لَامُ المُزَحلَقَة — The Skidding Lam of Emphasis
 tags:
   - arabic-grammar
   - surah-alnoor
 ---
 
-# لَامُ المُزَعلَقَة — The Skidding Lam
+# لَامُ المُزَحلَقَة — The Skidding Lam
 
-**Lām al-muzaʿlaqa** (لام المزعلقة) — also called **lam al-faraqa** — is the lam of emphasis used together with **إِنَّ** to produce the highest level of emphasis in Arabic.
+**Lām al-muzaḥlaqah** (لام المزحلقة) — also called **lam al-faraqa** — is the lam of emphasis used together with **إِنَّ** to produce the highest level of emphasis in Arabic.
 
-The name "muzaʿlaqa" (skidding) comes from the image that the lam *slips/skids* from the beginning of the sentence (where **lam al-ibtidāʾ** would normally stand) to a later position because **إِنَّ** has taken the front.
+The name "muzaḥlaqah" (skidding) comes from the image that the lam *slips/skids* from the beginning of the sentence (where **lam al-ibtidāʾ** would normally stand) to a later position because **إِنَّ** has taken the front.
 
 ---
 
@@ -19,7 +19,7 @@ The name "muzaʿlaqa" (skidding) comes from the image that the lam *slips/skids*
 |---|---|---|
 | 0. Plain | **بِلَالٌ مَرِيضٌ** | No emphasis |
 | 1. Moderate | **إِنَّ بِلَالًا مَرِيضٌ** | Inna alone |
-| 2. Maximum | **إِنَّ بِلَالًا لَمَرِيضٌ** | Inna + lam al-muzaʿlaqa |
+| 2. Maximum | **إِنَّ بِلَالًا لَمَرِيضٌ** | Inna + lam al-muzaḥlaqah |
 
 ---
 
@@ -34,14 +34,14 @@ The lam **always attaches to whatever element comes after the ism of inna**:
 | Ḍamīr al-faṣl is present | Ḍamīr al-faṣl | **إِنَّهُ لَهُوَ الغَنِيُّ** |
 
 !!! important "Key Rule"
-    Lam al-muzaʿlaqa attaches to the **element that comes later** after the ism. It cannot go before the ism of inna.
+    Lam al-muzaḥlaqah attaches to the **element that comes later** after the ism. It cannot go before the ism of inna.
 
 ---
 
 ## Examples from the Quran
 
 > **إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ** — Indeed Allah is free of need from the worlds.  
-> Inna + lam al-muzaʿlaqa on khabar **غَنِيٌّ**.
+> Inna + lam al-muzaḥlaqah on khabar **غَنِيٌّ**.
 
 > **إِنَّهُ لَهُوَ الْغَنِيُّ الْحَمِيدُ** — Indeed it is He who is the Free of need, the Praiseworthy.  
 > Lam attaches to **ḍamīr al-faṣl هُوَ**, not directly to the khabar.
@@ -112,8 +112,17 @@ When the lām stands at the beginning it is **لَام الاِبتِدَاء**,
 !!! tip "Grammar vs. Balāghah"
     Grammatically, **إِنِّي مُجْتَهِدٌ** and **إِنِّي لَمُجْتَهِدٌ** are both correct and equal. Which to use — how much emphasis, for whom, in what context — is the domain of **البَلَاغَة**. Using maximum emphasis where nobody has disputed you is not considered good Arabic.
 
+---
+
+## From Surah Yusuf Session 12 — Beside Lām al-Taqwiyah
+
+In **وَإِنَّا لَهُ لَحَافِظُونَ** two different lāms sit side by side: **لَهُ** is [lām al-taqwiyah](lam-taqwiyah.md), and **لَحَافِظُونَ** is the muzaḥlaqah. The muzaḥlaqah exists **because of إِنَّ**: **حَامِدٌ مَرِيضٌ → لَحَامِدٌ مَرِيضٌ → إِنَّ حَامِدًا مَرِيضٌ → إِنَّ حَامِدًا لَمَرِيضٌ**.
+
+This double emphasis is usually reserved for when **somebody is denying the fact**, which makes the brothers' vehemence telling: either hiding their own guilt, or sensing that Yaʿqūb عليه السلام did not trust them.
+
 ## Session References
 
+- Surah Yusuf Session 12: **لَحَافِظُونَ** distinguished from lām al-taqwiyah in **لَهُ**; heavy emphasis as a response to denial.
 - Surah Yusuf Session 10: The book's rule and vocabulary (اِنْتَقَلَ، زُحْلِقَتْ، حِينَئِذٍ); lām al-ibtidāʾ in the ḥadīth لَغَدْوَةٌ; delayed-ism and ḍamīr al-faṣl examples (لَعِبْرَةً، لَهِيَ الْحَيَوَانُ); Ibn Mālik's وَبَعْدَ ذَاتِ الكَسْرِ — only after إِنَّ, never أَنَّ; four levels of emphasis and balāghah.
 - Surah Yusuf Session 9: **لَفِي** as muzaḥlaqah and **لَيُوسُفُ** as لَام الاِبتِدَاء in Āyah 8; why misreading the latter as a preposition changes who is being addressed.
-- Surah An-Noor Session 5: Three levels of emphasis; the name "muzaʿlaqa" explained; rules for where the lam attaches; examples including khabar-first and ḍamīr al-faṣl scenarios.
+- Surah An-Noor Session 5: Three levels of emphasis; the name "muzaḥlaqah" explained; rules for where the lam attaches; examples including khabar-first and ḍamīr al-faṣl scenarios.

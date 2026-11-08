@@ -73,7 +73,7 @@ Some verbs/derivatives cannot sustain their mafʿūl bih being placed before the
 !!! example "Quranic Examples"
     > **اللَّهُ أَعلَمُ بِمَن ضَلَّ** — بِـ here is lam taqwiyah-like; the ism tafḍīl أَعلَم taking its mafʿūl via بِـ
     
-    > **إِنَّ اللهَ لَسَمِيعٌ عَلِيم** — the lam at the start of the khabar is lam muzālaqa (emphasis), not taqwiyah; similar function, different name
+    > **إِنَّ اللهَ لَسَمِيعٌ عَلِيم** — the lam at the start of the khabar is lam muzaḥlaqah (emphasis), not taqwiyah; similar function, different name
 
 ---
 
