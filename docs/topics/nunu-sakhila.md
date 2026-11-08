@@ -91,7 +91,27 @@ When the word ends in nunu sakhila (tanwin-like) and you stop at the end of a re
 
 ---
 
+## From Surah Yusuf Session 14 — The Three Conditions Again
+
+The book states the conditions for **lām + nūn** on a muḍāriʿ in the jawāb of an oath this way:
+
+1. **مُستَقبَل**: the meaning is future.
+2. **مُثبَت**: the sentence is affirmative.
+3. **مُتَّصِل**: the verb is directly connected to the lām.
+
+**The nūn decides the tense:**
+
+| Sentence | Meaning |
+|---|---|
+| **وَاللَّهِ لَأَسْكُنَنَّ المَدِينَةَ المُنَوَّرَةَ** | I **will** live in Madīnah |
+| **وَاللَّهِ لَأَسْكُنُ المَدِينَةَ المُنَوَّرَةَ** | I **do** live in Madīnah |
+
+**لَتُنَبِّئَنَّهُم** (Yūsuf 15) meets all three, and there the lām and nūn are themselves the evidence of an implied oath.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: The three conditions; the nūn as the marker of future meaning; لَتُنَبِّئَنَّهُم.
 - Oaths in Quran Session 2: Nunu sakhila introduced in context of jawab al-qasam rules
 - Oaths in Quran Session 3: Nunu sakhila applied extensively in la-in examples

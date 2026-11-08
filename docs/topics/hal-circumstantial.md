@@ -107,8 +107,13 @@ The jāmid ḥāl in this role is called **مُمَهِّد** (mumahhid) — fro
     - **بَشَرًا** = ḥāl, jāmid (a human — not a derived pattern), the mumahhid
     - **سَوِيًّا** = the sifah; the real message is "a sound/healthy man," not merely "a human"
 
+## Wāw al-Ḥāl and the Open Gates
+
+*From Surah Yusuf Session 14.* In **حَتَّىٰ إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا** (al-Zumar 73), the Baṣrīs read **وَ** as wāw al-ḥāl: Jannah's gates **already stand open** when its people arrive, unlike those of the Fire in 71, which has no wāw. The Kūfīs read the wāw as extra. See [وَاو الاِقتِحَام](waw-iqham.md).
+
 ## Session References
 
+- Surah Yusuf Session 14: Wāw al-ḥāl in al-Zumar 73.
 - Surah Al-Hujuraat Session 4: Definition of ḥāl and ṣāḥib al-ḥāl; wāw al-ḥāl; application to 49:2.
 - Both These Lights Session 10: Introduction to حَال سَبَبِي in the context of نَعت سَبَبِي; the Quraysh envoys' gifts returned to them.
 - Both These Lights Session 11: Full treatment — rules, examples, Quranic ḥāl sababī in Sūrat Ṣād and al-Zumar.

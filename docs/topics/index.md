@@ -131,6 +131,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Verb Dakhala — Preposition Rules](verb-dakhala.md)
 - [جَعَلَ — Four Meanings](verb-jaala.md)
 - [الأفعال المعتلة — Weak Verbs](weak-verbs.md)
+- [وَاو الاِقتِحَام — The Intrusive Wāw](waw-iqham.md)
 - [الواو المَعِيَّة — Wāw al-Maʿiyyah](waw-maiyya.md)
 - [يَاء النِّسبَة — The Relationship Yaʾ](ya-nisbah.md)
 
@@ -187,6 +188,7 @@ Welcome to the topics knowledge base for the study group. This page collects all
 - [Root ع-ق-ل (ʿAqala) — Intellect and Restraint](root-aqala.md)
 - [Root ب-غ-ي (Baghā) — To Wrong or To Seek](root-baga.md)
 - [Root ب-ل-ي / ب-ل-و (Balā) — Wearing Out and Testing](root-bala.md)
+- [Root ب-ر-ر (Barra) — Firm Land and Goodness](root-barra.md)
 - [Root ب-ش-ر (Bashara) — Skin and Humanity](root-bashar.md)
 - [Root ض-ل-ل (Ḍalla) — Straying and Not Returning](root-dalla.md)
 - [Root ح-د-ث (Ḥadatha) — Event, Newness, and Speech](root-hadatha.md)

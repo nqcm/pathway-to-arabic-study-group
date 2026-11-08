@@ -82,4 +82,5 @@ These verbs are one of the three categories of [النَّواسِخ — The Abr
 
 ## Session References
 
+- Surah Yusuf Session 14: جَعَلَ as a verb of inception; its khabar must be a muḍāriʿ sentence (see [جَعَلَ](verb-jaala.md)).
 - Surah Yusuf Session 4: Introduced as the second category of nawāsikh; distinguished from kāna sisters and af'āl al-qulūb; kāda example with proximity meaning.

@@ -81,6 +81,24 @@ Ta can only be used with the name of **Allah** or His attributes (e.g., **Rabb a
 
 ---
 
+## Other Ways of Swearing
+
+*From Surah Yusuf Session 14.*
+
+**The lām:** **لِلَّهِ** can mean *by Allah*, not *for Allah*. It is not very common.
+
+**رَبُّنَا يَعْلَمُ** stands **in the place of an oath**, because an oath is bringing Allah as a witness to the truth of your statement:
+
+> **قَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ** (Yā-Sīn 16)
+
+The jawāb has **إِنَّ + lām**, whereas two āyāt earlier the plain statement **إِنَّا إِلَيْكُم مُّرْسَلُونَ** (14) has no lām.
+
+!!! important "A Graver Statement"
+    According to **Ḥanafī** jurists, a false oath is a huge sin but not kufr, while saying *Allah knows* about something untrue is technically **kufr**. Other scholars reject this. The teacher's point was not to label anyone, but to be really careful with the phrase.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 14: The lām of oath; رَبُّنَا يَعْلَمُ as an oath and the gravity of saying it falsely.
 - Oaths in Quran Session 2: Full treatment of all three particles with examples and rules

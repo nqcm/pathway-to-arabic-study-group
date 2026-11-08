@@ -184,6 +184,20 @@ The form of this jawāb is itself evidence of an oath: in **لَنَكُونَن
 
 ---
 
+## From Surah Yusuf Session 14 — The Conditions in Full
+
+A muḍāriʿ jawāb takes **lām + nūn** compulsorily when it is **future**, **affirmative**, and **directly connected** to the lām. When a condition fails:
+
+| Failing condition | Result | Example |
+|---|---|---|
+| Negated | No emphasis, no lām | **وَاللَّهِ لَا أَنْسَى مُسَاعَدَتَكَ لَنَا أَبَدًا** |
+| Present meaning | Lām only | **وَاللَّهِ لَأُحِبُّكَ** |
+| Separated from the lām | Lām only | **وَاللَّهِ لَبِمَكَّةَ أَسْكُنُ العَامَ القَادِمَ**; **وَاللَّهِ لَسَوْفَ أُسَاعِدُ الفُقَرَاءَ** |
+
+The separator can be anything. **Lām and nūn together** are evidence of an implied oath: **لَتُنَبِّئَنَّهُم** (Yūsuf 15). A nominal jawāb shows the same: see **رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ** in [Ḥurūf al-Qasam](huruf-al-qasam.md).
+
+---
+
 ## Related pages
 
 - [Oaths in the Quran — Introduction](qasam-introduction.md)
