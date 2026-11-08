@@ -87,7 +87,14 @@ The difference in nuance between the sentence with the lām and without it belon
 
 ---
 
+## From Surah Yusuf Session 13 — Still a Ḥarf Jarr
+
+A student was unsure whether lām al-taqwiyah is still a ḥarf jarr. It is: there is one **لَام الجَارَّة**, and within it 30-plus meanings. Lām al-taqwiyah is one of its functions. See [A Map of the Lāms](lam-types.md) and [لَام الجَار](lam-al-jar-meanings.md).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: Recap of the two reasons; confirmed as one function of the jārr lām.
 - Surah Yusuf Session 12: Full treatment — the ʿāmil and maʿmūl; the two reasons for weakness; always optional; the two-condition test against ordinary prepositional lāms; examples from Yūsuf 43, al-Aʿrāf 154, al-Ḥijr 9; iʿrāb as majrūr lafẓan, manṣūb maḥallan.
 - Selections from the Glorious Quran Session 15: Full introduction with examples from Sūrat Āl ʿImrān vocabulary; comparison with lam muzaḥlaqah; the two scenarios (derivative word taking mafʿūl; fronted mafʿūl bih).

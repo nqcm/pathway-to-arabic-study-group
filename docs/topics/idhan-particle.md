@@ -42,7 +42,16 @@ Modern textbooks often list **إِذَن** among the nawāṣib (Kūfan simplifi
 
 ---
 
+## From Surah Yusuf Session 13 — إِذًا Before a Noun
+
+The book calls it a **حَرف جَوَاب وَجَزَاء**: it shows the *recompense* of something. It is **عَامِلَة** only when it enters upon a muḍāriʿ, under its conditions. Upon anything else it is **مُهْمَلَة**.
+
+> **إِنَّا إِذًا لَّخَاسِرُونَ** (Yūsuf 14) — **إِذًا** enters upon a noun, so it has no effect.
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: حَرف جَوَاب وَجَزَاء; no effect before a noun in Yūsuf 14.
 - Both These Lights Session 4: Introduction to **إِذَن** and its three conditions.
 - Both These Lights Sessions 5–6: Worked examples of each condition failing; Basra/Kufa debate.

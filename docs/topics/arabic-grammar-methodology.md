@@ -120,6 +120,21 @@ This is also why Quran memorization focuses increasingly on **revision** rather 
 
 ---
 
+## From Surah Yusuf Session 13 — Overviews, and Exercises as Debate
+
+!!! tip "Zoom Out"
+    Step back every now and then to see the whole chart: *"it's a good practice to do these high-level overviews because we do tend to forget."* See [A Map of the Lāms](lam-types.md).
+
+!!! important "Mark Each Other's Work First"
+    After doing an exercise, before checking the key, **share and mark each other's work**. Point out mistakes with reasons, and defend your answer if you think an objection is not valid. Only then check the key. *"None of our classes can teach you as much as when you go and discuss this."*
+
+!!! tip "Sometimes a Fāʿil Occurs Way Down the Lane"
+    Ask who is doing the act. If nothing nearby fits, ask whether the context allows a hidden fāʿil; if not, keep looking further along the sentence.
+
+*Source: Surah Yusuf Session 13*
+
+---
+
 ## Related pages
 
 - [Mudaf-Idafah](mudaf-idafah.md)

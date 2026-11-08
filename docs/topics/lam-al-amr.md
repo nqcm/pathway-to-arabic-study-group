@@ -51,7 +51,16 @@ This is a phonological convenience, not a grammatical change.
 
 ---
 
+## From Surah Yusuf Session 13 — On the Chart
+
+This is the **jāzimah** lām on the chart of [working lāms](lam-types.md): **لِيَكْتُبْ** — *he should write*.
+
+> **فَاكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْلِ** (al-Baqarah 282) — *write it down, and let a scribe write it down between you in justice.*
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: The jāzimah lām on the chart; وَلْيَكْتُب from the āyah of debt.
 - Both These Lights Session 4: Introduction to لَام الأمر and the sukūn rule.
 - Both These Lights Session 5: Quranic examples; **لَبَّيك** as a response to Ibrāhīm's call from Sūrat al-Ḥajj.

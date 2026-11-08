@@ -71,6 +71,17 @@ A Prophet is *the one who brings momentous news from Allāh* — the etymology p
 
 ---
 
+## From Surah Yusuf Session 13 — نَبَّأَ in Yūsuf 15
+
+> **لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ** (Yūsuf 15)
+
+**نَبَّأَ** (Form II) is *to inform*. Remove the lām and nūn of emphasis and you have **تُنَبِّئُهُمْ**. Allah told Yūsuf عليه السلام of this while he was in the well: a momentous matter indeed.
+
+The hamzah of **نَبِيء** is kept in the qirāʾah of **Nāfiʿ**, in both of its transmissions, **Warsh** and **Qālūn** (Qālūn has two exceptions, in al-Aḥzāb 50 and 53, when reading on without a pause).
+
+---
+
 ## Session References
 
+- Surah Yusuf Session 13: نَبَّأَ in Yūsuf 15; نَبِيء in the qirāʾah of Nāfiʿ (Warsh and Qālūn).
 - Surah Al-Hujuraat Session 3: naba vs khabar distinction introduced; etymology of nabī from naba'; Warsh vs Ḥafṣ qirāʾāt variant noted.

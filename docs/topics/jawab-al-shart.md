@@ -57,6 +57,12 @@ Key point: when فَاء is added to the jawāb, **the muḍāriʿ verb after it
 
 ---
 
+### From Surah Yusuf Session 13 — Meeting a Qasam
+
+When a sharṭ and a qasam come together, the jawāb belongs to **whichever comes first**, and the later one's jawāb is compulsorily omitted. A jawāb that has **فَ** and no emphasis belongs to the sharṭ; one with no **فَ** and with emphasis belongs to the oath. See [لَئِن](lain-combination.md).
+
+---
+
 ## Related pages
 
 - [Conditional Sentences — Full Overview](conditional-sentences.md)
@@ -67,5 +73,6 @@ Key point: when فَاء is added to the jawāb, **the muḍāriʿ verb after it
 
 ## Session References
 
+- Surah Yusuf Session 13: How the jawāb is decided when sharṭ and qasam meet.
 - Surah Al-Hujuraat Session 16: Core rule — jawāb cannot precede shart; maḥdhūf jawāb analysis.
 - Surah Al-Hujuraat Session 7: Fāʾ al-jawāb conditions; effect of fāʾ on verb mood.

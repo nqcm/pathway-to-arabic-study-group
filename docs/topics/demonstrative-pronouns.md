@@ -81,6 +81,11 @@ For the use of **كَذَٰلِكَ** as a deputy for the absolute object, see [
 !!! tip "The Lesson"
     Jannah is so grand that no one enters it by deeds alone — even a lifetime in sajdah could not earn it. It is **inherited** through Allah's mercy.
 
+## From Surah Yusuf Session 13 — On the Chart of Lāms
+
+**لَام البُعْد** is on the chart of non-working lāms: a tree down the lane is **ذَاكَ**, a star is **ذَٰلِكَ**. See [A Map of the Lāms](lam-types.md).
+
+
 ## Related pages
 
 - [Mafool Mutlaq](mafool-mutlaq.md)
@@ -89,4 +94,5 @@ For the use of **كَذَٰلِكَ** as a deputy for the absolute object, see [
 
 ## Session References
 
+- Surah Yusuf Session 13: لَام البُعْد placed among the non-working lāms.
 - Surah Yusuf Session 11: تِلْكُمُ الْجَنَّةُ (al-Aʿrāf 43) — the far demonstrative for honour; مَكَان vs مَكَانَة.
